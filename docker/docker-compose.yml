@@ -1,0 +1,273 @@
+# docker/docker-compose.yml
+
+version: "3.9"
+
+services:
+
+  # =====================================================
+  # LocalMind Backend API
+  # =====================================================
+
+  backend:
+
+    container_name: localmind-backend
+
+    build:
+      context: ..
+      dockerfile: docker/backend.Dockerfile
+
+    restart: unless-stopped
+
+    ports:
+      - "5000:5000"
+
+    environment:
+
+      NODE_ENV: production
+
+      PORT: 5000
+
+      OLLAMA_BASE_URL: http://ollama:11434
+
+      GEMMA_MODEL: gemma4
+
+      VECTOR_DB_PATH: /app/vector-db
+
+      SQLITE_DB_PATH: /app/database/localmind.db
+
+      JWT_SECRET: localmind_super_secret_key
+
+    volumes:
+
+      - ../backend:/app
+
+      - backend_node_modules:/app/node_modules
+
+      - knowledge_data:/app/knowledge
+
+      - uploads_data:/app/uploads
+
+      - vector_data:/app/vector-db
+
+      - sqlite_data:/app/database
+
+    depends_on:
+
+      - ollama
+
+      - redis
+
+    networks:
+
+      - localmind-network
+
+
+  # =====================================================
+  # LocalMind Frontend
+  # =====================================================
+
+  frontend:
+
+    container_name: localmind-frontend
+
+    build:
+      context: ..
+      dockerfile: docker/frontend.Dockerfile
+
+    restart: unless-stopped
+
+    ports:
+      - "3000:3000"
+
+    environment:
+
+      NEXT_PUBLIC_BACKEND_URL: http://localhost:5000
+
+      NEXT_PUBLIC_SOCKET_URL: http://localhost:5000
+
+    volumes:
+
+      - ../frontend:/app
+
+      - frontend_node_modules:/app/node_modules
+
+      - frontend_next:/app/.next
+
+    depends_on:
+
+      - backend
+
+    networks:
+
+      - localmind-network
+
+
+  # =====================================================
+  # Ollama + Gemma 4 Runtime
+  # =====================================================
+
+  ollama:
+
+    container_name: localmind-ollama
+
+    image: ollama/ollama:latest
+
+    restart: unless-stopped
+
+    ports:
+      - "11434:11434"
+
+    volumes:
+
+      - ollama_data:/root/.ollama
+
+    environment:
+
+      OLLAMA_KEEP_ALIVE: 24h
+
+    networks:
+
+      - localmind-network
+
+    deploy:
+
+      resources:
+
+        reservations:
+
+          devices:
+
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+
+
+  # =====================================================
+  # Redis (Realtime + Cache)
+  # =====================================================
+
+  redis:
+
+    container_name: localmind-redis
+
+    image: redis:7-alpine
+
+    restart: unless-stopped
+
+    ports:
+      - "6379:6379"
+
+    command:
+      [
+        "redis-server",
+        "--appendonly",
+        "yes"
+      ]
+
+    volumes:
+
+      - redis_data:/data
+
+    networks:
+
+      - localmind-network
+
+
+  # =====================================================
+  # ChromaDB Vector Database
+  # =====================================================
+
+  chromadb:
+
+    container_name: localmind-chromadb
+
+    image: chromadb/chroma:latest
+
+    restart: unless-stopped
+
+    ports:
+      - "8000:8000"
+
+    environment:
+
+      IS_PERSISTENT: "TRUE"
+
+      ANONYMIZED_TELEMETRY: "FALSE"
+
+    volumes:
+
+      - chroma_data:/chroma/chroma
+
+    networks:
+
+      - localmind-network
+
+
+  # =====================================================
+  # Optional: Jupyter AI Research Environment
+  # =====================================================
+
+  jupyter:
+
+    container_name: localmind-jupyter
+
+    image: jupyter/pytorch-notebook:latest
+
+    restart: unless-stopped
+
+    ports:
+      - "8888:8888"
+
+    environment:
+
+      JUPYTER_ENABLE_LAB: "yes"
+
+    volumes:
+
+      - ../ai:/home/jovyan/work
+
+    networks:
+
+      - localmind-network
+
+    command: >
+      start-notebook.sh
+      --NotebookApp.token='localmind'
+
+
+# =========================================================
+# Networks
+# =========================================================
+
+networks:
+
+  localmind-network:
+
+    driver: bridge
+
+
+# =========================================================
+# Persistent Volumes
+# =========================================================
+
+volumes:
+
+  backend_node_modules:
+
+  frontend_node_modules:
+
+  frontend_next:
+
+  knowledge_data:
+
+  uploads_data:
+
+  vector_data:
+
+  sqlite_data:
+
+  redis_data:
+
+  chroma_data:
+
+  ollama_data:
