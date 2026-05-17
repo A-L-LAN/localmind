@@ -1,0 +1,120 @@
+[
+{
+  "instruction": "Explain Newton's First Law for a Form 2 student.",
+  "input": "",
+  "output": "Newton's First Law states that an object will remain at rest or continue moving in a straight line unless acted upon by an external force. For example, when a bus suddenly stops, passengers move forward because their bodies were in motion."
+},
+
+
+{
+  "instruction": "Teach photosynthesis to a Form 1 student.",
+  "input": "",
+  "output": "Photosynthesis is the process where green plants make food using sunlight, water, and carbon dioxide..."
+},
+
+  {
+    "instruction": "Explain quadratic equations for Form 2 students.",
+    "input": "",
+    "output": "A quadratic equation is an equation with x²..."
+  },
+
+  {
+    "instruction": "Generate 3 KCSE Biology questions on respiration.",
+    "input": "",
+    "output": "1. Define respiration...\nAnswer: ..."
+  },
+
+  {
+    "instruction": "Translate this science explanation to Swahili.",
+    "input": "Photosynthesis helps plants make food.",
+    "output": "Usanisinuru husaidia mimea kutengeneza chakula."
+  },
+  {
+    "instruction": "Explain quadratic equations for Form 2 students.",
+    "input": "",
+    "output": "A quadratic equation is an equation with x²..."
+  },
+
+  {
+    "instruction": "Generate 3 KCSE Biology questions on respiration.",
+    "input": "",
+    "output": "1. Define respiration...\nAnswer: ..."
+  },
+
+  {
+    "instruction": "Translate this science explanation to Swahili.",
+    "input": "Photosynthesis helps plants make food.",
+    "output": "Usanisinuru husaidia mimea kutengeneza chakula."
+  },
+
+  {
+  "instruction": "Teach algebra to a Form 1 student",
+  "output": "Algebra uses letters and symbols..."
+},
+{
+  "instruction": "Generate KCSE chemistry questions on acids",
+  "output": "1. Define an acid..."
+},
+{
+  "instruction": "Solve 2x + 3 = 11",
+  "output": "Step 1: subtract 3..."
+},
+{
+  "instruction": "Student failed a quiz",
+  "output": "Don't worry. Mistakes help us learn..."
+},
+{
+  "instruction": "Teach photosynthesis using Swahili and English",
+  "output": "Photosynthesis (usanisinuru) is..."
+},
+{
+    "instruction": "Explain algebra to a Form 1 student.",
+    "input": "",
+    "output": "Algebra is a branch of mathematics that uses letters and symbols to represent numbers. For example, x + 2 = 5 means we find the value of x. To solve it, subtract 2 from both sides. x = 3."
+  },
+  {
+    "instruction": "Teach photosynthesis to a Form 1 student using simple English.",
+    "input": "",
+    "output": "Photosynthesis is the process where green plants make food using sunlight, water, and carbon dioxide. Plants use chlorophyll found in leaves to trap sunlight. Example: maize plants make food through photosynthesis."
+  },
+  {
+    "instruction": "Generate 3 KCSE mathematics quiz questions about quadratic equations.",
+    "input": "",
+    "output": "1. Solve x² - 5x + 6 = 0. Answer: x = 2 or x = 3. Explanation: Factorize into (x-2)(x-3)=0.\n2. What is the degree of a quadratic equation? Answer: 2.\n3. Expand (x+2)(x+3). Answer: x² + 5x + 6."
+  },
+  {
+    "instruction": "Mark this biology answer using KCSE marking style.",
+    "input": "Student Answer: Photosynthesis is when plants breathe.",
+    "output": "Score: 1/5. Feedback: The student confuses photosynthesis with respiration. Photosynthesis is the process where plants manufacture food using sunlight, water, and carbon dioxide."
+  },
+  {
+    "instruction": "Explain Newton's First Law to a Form 2 student.",
+    "input": "",
+    "output": "Newton's First Law states that an object remains at rest or moves in a straight line unless acted upon by an external force. Example: When a moving bus stops suddenly, passengers move forward due to inertia."
+  },
+  {
+    "instruction": "Translate this educational explanation into Swahili.",
+    "input": "Plants make food through photosynthesis.",
+    "output": "Mimea hutengeneza chakula kupitia usanisinuru."
+  },
+  {
+    "instruction": "Encourage a student who failed a mathematics quiz.",
+    "input": "Student scored 30%",
+    "output": "Do not give up. Mathematics becomes easier with practice. Let's identify the difficult areas and improve step by step. Mistakes help us learn."
+  },
+  {
+    "instruction": "Create a KCSE chemistry revision question on acids and bases.",
+    "input": "",
+    "output": "Question: Define an acid and give one example. Answer: An acid is a substance that produces hydrogen ions in solution. Example: Hydrochloric acid."
+  },
+  {
+    "instruction": "Teach computer studies to a beginner student.",
+    "input": "What is a computer?",
+    "output": "A computer is an electronic device that receives data, processes it, and gives useful information. Example: A laptop used for studying or browsing the internet."
+  },
+  {
+    "instruction": "Create a personalized study plan for a Form 4 student weak in Mathematics and Chemistry.",
+    "input": "Performance: 45%",
+    "output": "Monday: Mathematics algebra practice for 1 hour. Tuesday: Chemistry acids and bases revision. Wednesday: Attempt past papers. Thursday: Review mistakes. Friday: Timed revision test. Weekend: Full KCSE revision session."
+  }
+]
