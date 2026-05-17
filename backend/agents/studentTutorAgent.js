@@ -1,31 +1,47 @@
 // backend/agents/studentTutorAgent.js
 
 const {
+
     educationalTutor,
     generateQuiz,
-    generateEmbedding
+    generateEmbedding,
+    explainHomework
+
 } = require("../services/gemmaService");
 
-const retrievalAgent = require("./retrievalAgent");
+const retrievalAgent =
+    require("./retrievalAgent");
 
 
 // ======================================================
-// Detect Student Learning Level
+// LEARNING LEVEL DETECTION
 // ======================================================
 
-function detectLearningLevel(studentProfile = {}) {
+function detectLearningLevel(
+    studentProfile = {}
+) {
 
     const {
+
         grade = "",
         performance = 50,
         age = 12
+
     } = studentProfile;
 
-    if (performance < 40) {
+    if (
+        performance < 40 ||
+        age <= 10
+    ) {
+
         return "beginner";
     }
 
-    if (performance >= 40 && performance < 75) {
+    if (
+        performance >= 40 &&
+        performance < 75
+    ) {
+
         return "intermediate";
     }
 
@@ -34,18 +50,23 @@ function detectLearningLevel(studentProfile = {}) {
 
 
 // ======================================================
-// Generate Personalized Prompt Context
+// BUILD EDUCATIONAL CONTEXT
 // ======================================================
 
 function buildLearningContext({
+
     studentName,
     subject,
     topic,
     language,
     studentProfile
+
 }) {
 
-    const level = detectLearningLevel(studentProfile);
+    const level =
+        detectLearningLevel(
+            studentProfile
+        );
 
     return `
 Student Name:
@@ -61,89 +82,155 @@ Preferred Language:
 ${language}
 
 Student Profile:
-- Grade: ${studentProfile.grade || "Unknown"}
-- Age: ${studentProfile.age || "Unknown"}
-- Average Performance: ${studentProfile.performance || 50}
-- Learning Level: ${level}
+- Grade:
+${studentProfile.grade || "Unknown"}
 
-Teaching Instructions:
-- Explain concepts clearly
-- Use practical examples
+- Age:
+${studentProfile.age || "Unknown"}
+
+- Performance:
+${studentProfile.performance || 50}
+
+- Learning Level:
+${level}
+
+Teaching Style:
+- Explain patiently
+- Step-by-step teaching
+- Use examples
+- Use simple English
+- Use Swahili when useful
+- Encourage confidence
 - Encourage curiosity
-- Use supportive language
-- Adapt to student's level
+- Relate concepts to real life
 `;
 }
 
 
 // ======================================================
-// Explain Topic
+// EXPLAIN TOPIC
 // ======================================================
 
 async function explainTopic({
+
     question,
     studentProfile = {},
     subject = "General",
     topic = "",
     language = "English"
+
 }) {
 
     try {
 
+        const level =
+            detectLearningLevel(
+                studentProfile
+            );
+
+        // ---------------------------------
+        // Retrieve Educational Notes
+        // ---------------------------------
+
         const contextData =
-            await retrievalAgent.retrieveEducationalContext({
-                topic: topic || question,
-                subject
+            await retrievalAgent
+                .retrieveEducationalContext({
+
+                    topic:
+                        topic ||
+                        question,
+
+                    subject
+                });
+
+        // ---------------------------------
+        // Build Personalized Context
+        // ---------------------------------
+
+        const learningContext =
+            buildLearningContext({
+
+                studentName:
+                    studentProfile.name ||
+                    "Student",
+
+                subject,
+
+                topic:
+                    topic ||
+                    question,
+
+                language,
+
+                studentProfile
             });
 
-        const learningContext = buildLearningContext({
-            studentName: studentProfile.name || "Student",
-            subject,
-            topic: topic || question,
-            language,
-            studentProfile
-        });
+        // ---------------------------------
+        // Tutor Request
+        // ---------------------------------
 
-        const response = await educationalTutor({
+        const response =
+            await educationalTutor({
 
-            question,
+                question,
 
-            studentLevel:
-                detectLearningLevel(studentProfile),
+                studentLevel:
+                    level,
 
-            language,
+                language,
 
-            context: `
+                context: `
 ${learningContext}
 
 Retrieved Notes:
-${contextData.notes}
+${contextData.notes || ""}
 
-Past Examples:
-${contextData.examples}
+Examples:
+${contextData.examples || ""}
+
+Teaching Rules:
+1. Explain clearly
+2. Teach step-by-step
+3. Avoid difficult words
+4. Use examples
+5. Give recap
+6. Give mini exercise
 `
-        });
+            });
 
         return {
+
             success: true,
-            tutor_response: response.response,
-            retrieved_sources: contextData.sources || []
+
+            tutor_response:
+                response.response,
+
+            learning_level:
+                level,
+
+            retrieved_sources:
+                contextData.sources || []
         };
 
     } catch (error) {
 
-        console.error("❌ explainTopic Error:", error);
+        console.error(
+            "❌ explainTopic Error:",
+            error
+        );
 
         return {
+
             success: false,
-            error: error.message
+            error:
+                error.message
         };
     }
 }
 
 
 // ======================================================
-// Adaptive Teaching Loop
+// ADAPTIVE LEARNING SESSION
 // ======================================================
 
 async function adaptiveLearningSession({
@@ -158,77 +245,102 @@ async function adaptiveLearningSession({
 
     try {
 
-        // --------------------------------------------
-        // Initial Explanation
-        // --------------------------------------------
+        // ---------------------------------
+        // STEP 1: Explain Topic
+        // ---------------------------------
 
         const explanation =
             await explainTopic({
+
                 question,
                 studentProfile,
                 topic,
                 subject
             });
 
-        // --------------------------------------------
-        // Quiz Generation
-        // --------------------------------------------
+        // ---------------------------------
+        // STEP 2: Generate Quiz
+        // ---------------------------------
 
         const quiz =
             await generateQuiz({
-                topic: topic || question,
+
+                topic:
+                    topic ||
+                    question,
+
                 difficulty:
-                    detectLearningLevel(studentProfile),
+                    detectLearningLevel(
+                        studentProfile
+                    ),
+
                 questions: 3
             });
 
-        // --------------------------------------------
-        // Weakness Detection
-        // --------------------------------------------
+        // ---------------------------------
+        // STEP 3: Evaluate Student
+        // ---------------------------------
 
-        let feedback = "";
+        let evaluation =
+            null;
 
         if (studentAnswer) {
 
-            feedback = `
+            evaluation =
+                await educationalTutor({
+
+                    question: `
+Question:
+${question}
+
 Student Answer:
 ${studentAnswer}
 
 Evaluate:
-- Correctness
-- Misconceptions
-- Weak areas
-- Improvement suggestions
-`;
+
+1. Correctness
+2. Misconceptions
+3. Weak areas
+4. Improvement suggestions
+5. Encouragement
+`,
+
+                    studentLevel:
+                        detectLearningLevel(
+                            studentProfile
+                        ),
+
+                    language:
+                        "English",
+
+                    context:
+                        explanation
+                            .tutor_response
+                });
         }
-
-        const evaluation =
-            await educationalTutor({
-
-                question: feedback ||
-
-                    "Provide encouragement and study tips.",
-
-                studentLevel:
-                    detectLearningLevel(studentProfile),
-
-                language: "English",
-
-                context: explanation.tutor_response
-            });
 
         return {
 
             success: true,
 
             explanation:
-                explanation.tutor_response,
+                explanation
+                    .tutor_response,
 
             quiz:
                 quiz.response,
 
             evaluation:
-                evaluation.response
+                evaluation
+                    ?.response ||
+
+                "Keep practicing! You're doing great.",
+
+            encouragement:
+                generateEncouragement({
+
+                    improvement: true
+                })
         };
 
     } catch (error) {
@@ -239,15 +351,17 @@ Evaluate:
         );
 
         return {
+
             success: false,
-            error: error.message
+            error:
+                error.message
         };
     }
 }
 
 
 // ======================================================
-// Detect Student Struggles
+// STUDENT STRUGGLE DETECTOR
 // ======================================================
 
 async function detectStudentStruggles({
@@ -259,40 +373,47 @@ async function detectStudentStruggles({
 
     try {
 
-        const joinedMessages =
-            studentMessages.join("\n");
-
-        const analysisPrompt = `
-Analyze this student's learning behavior.
-
-Messages:
-${joinedMessages}
-
-Identify:
-- confusion level
-- frustration signs
-- weak concepts
-- confidence level
-- recommended intervention
-`;
+        const messages =
+            studentMessages.join(
+                "\n"
+            );
 
         const analysis =
             await educationalTutor({
 
-                question: analysisPrompt,
+                question: `
+Analyze this student.
+
+Messages:
+${messages}
+
+Identify:
+
+1. Confusion level
+2. Frustration signs
+3. Weak concepts
+4. Confidence level
+5. Recommended intervention
+`,
 
                 studentLevel:
-                    detectLearningLevel(studentProfile),
+                    detectLearningLevel(
+                        studentProfile
+                    ),
 
-                language: "English",
+                language:
+                    "English",
 
                 context:
                     "Educational psychology analysis"
             });
 
         return {
+
             success: true,
-            analysis: analysis.response
+
+            analysis:
+                analysis.response
         };
 
     } catch (error) {
@@ -303,15 +424,17 @@ Identify:
         );
 
         return {
+
             success: false,
-            error: error.message
+            error:
+                error.message
         };
     }
 }
 
 
 // ======================================================
-// Personalized Study Plan Generator
+// STUDY PLAN GENERATOR
 // ======================================================
 
 async function generateStudyPlan({
@@ -324,43 +447,55 @@ async function generateStudyPlan({
 
     try {
 
-        const prompt = `
+        const response =
+            await educationalTutor({
+
+                question: `
 Create a personalized study plan.
 
 Student:
-${JSON.stringify(studentProfile, null, 2)}
+${JSON.stringify(
+    studentProfile,
+    null,
+    2
+)}
 
 Weak Topics:
-${weakTopics.join(", ")}
+${weakTopics.join(
+    ", "
+)}
 
 Subject:
 ${subject}
 
 Requirements:
-- daily schedule
+
+- daily study schedule
 - revision strategy
 - quizzes
-- practice exercises
+- exercises
 - motivation tips
-`;
-
-        const plan =
-            await educationalTutor({
-
-                question: prompt,
+- exam preparation
+`,
 
                 studentLevel:
-                    detectLearningLevel(studentProfile),
+                    detectLearningLevel(
+                        studentProfile
+                    ),
 
-                language: "English",
+                language:
+                    "English",
 
                 context:
-                    "Adaptive educational planning"
+                    "Adaptive learning planning"
             });
 
         return {
+
             success: true,
-            study_plan: plan.response
+
+            study_plan:
+                response.response
         };
 
     } catch (error) {
@@ -371,15 +506,17 @@ Requirements:
         );
 
         return {
+
             success: false,
-            error: error.message
+            error:
+                error.message
         };
     }
 }
 
 
 // ======================================================
-// Learning Memory Embeddings
+// LEARNING MEMORY
 // ======================================================
 
 async function createLearningMemory({
@@ -394,6 +531,7 @@ async function createLearningMemory({
 
         const embedding =
             await generateEmbedding(
+
                 `${topic}\n${notes}`
             );
 
@@ -402,10 +540,13 @@ async function createLearningMemory({
             success: true,
 
             memory: {
+
                 studentId,
                 topic,
                 notes,
-                embedding: embedding.embedding
+
+                embedding:
+                    embedding.embedding
             }
         };
 
@@ -417,15 +558,17 @@ async function createLearningMemory({
         );
 
         return {
+
             success: false,
-            error: error.message
+            error:
+                error.message
         };
     }
 }
 
 
 // ======================================================
-// Homework Tutor
+// HOMEWORK ASSISTANT
 // ======================================================
 
 async function assistHomework({
@@ -438,17 +581,10 @@ async function assistHomework({
 
     try {
 
-        const explanation =
-            await explainTopic({
+        const response =
+            await explainHomework({
 
                 question:
-                    homeworkQuestion,
-
-                studentProfile,
-
-                subject,
-
-                topic:
                     homeworkQuestion
             });
 
@@ -457,7 +593,7 @@ async function assistHomework({
             success: true,
 
             assistance:
-                explanation.tutor_response
+                response.response
         };
 
     } catch (error) {
@@ -468,15 +604,17 @@ async function assistHomework({
         );
 
         return {
+
             success: false,
-            error: error.message
+            error:
+                error.message
         };
     }
 }
 
 
 // ======================================================
-// Gamified Encouragement System
+// ENCOURAGEMENT ENGINE
 // ======================================================
 
 function generateEncouragement({
@@ -488,25 +626,45 @@ function generateEncouragement({
 
     if (score >= 90) {
 
-        return "🌟 Outstanding work! You are mastering this topic brilliantly!";
+        return `
+🌟 Outstanding work!
+You are mastering
+this topic brilliantly!
+`;
     }
 
     if (score >= 70) {
 
-        return "👏 Great job! Keep practicing and you’ll become even stronger!";
+        return `
+👏 Great job!
+
+Keep practicing and
+you'll become even
+stronger!
+`;
     }
 
     if (improvement) {
 
-        return "🚀 Huge improvement! Keep going — learning takes persistence!";
+        return `
+🚀 Huge improvement!
+
+Keep going —
+learning takes persistence!
+`;
     }
 
-    return "💡 Don't give up! Every mistake is part of learning.";
+    return `
+💡 Don't give up!
+
+Every mistake is
+part of learning.
+`;
 }
 
 
 // ======================================================
-// Exports
+// EXPORTS
 // ======================================================
 
 module.exports = {
