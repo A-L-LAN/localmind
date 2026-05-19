@@ -116,5 +116,15 @@
     "instruction": "Create a personalized study plan for a Form 4 student weak in Mathematics and Chemistry.",
     "input": "Performance: 45%",
     "output": "Monday: Mathematics algebra practice for 1 hour. Tuesday: Chemistry acids and bases revision. Wednesday: Attempt past papers. Thursday: Review mistakes. Friday: Timed revision test. Weekend: Full KCSE revision session."
+  },
+  {
+    "instruction": "Explain quadratic equations",
+    "input": "For a Grade 8 student",
+    "output": "A quadratic equation is an equation where the highest power is 2..."
+  },
+  {
+    "instruction": "Explain photosynthesis",
+    "input": "Beginner level",
+    "output": "Photosynthesis is how plants make food using sunlight..."
   }
 ]
