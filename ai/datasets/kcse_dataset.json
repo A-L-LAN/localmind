@@ -1,34 +1,10 @@
 [
 {
-  "instruction": "Explain Newton's First Law for a Form 2 student.",
-  "input": "",
-  "output": "Newton's First Law states that an object will remain at rest or continue moving in a straight line unless acted upon by an external force. For example, when a bus suddenly stops, passengers move forward because their bodies were in motion."
-},
-
-
-{
   "instruction": "Teach photosynthesis to a Form 1 student.",
   "input": "",
   "output": "Photosynthesis is the process where green plants make food using sunlight, water, and carbon dioxide..."
 },
 
-  {
-    "instruction": "Explain quadratic equations for Form 2 students.",
-    "input": "",
-    "output": "A quadratic equation is an equation with x²..."
-  },
-
-  {
-    "instruction": "Generate 3 KCSE Biology questions on respiration.",
-    "input": "",
-    "output": "1. Define respiration...\nAnswer: ..."
-  },
-
-  {
-    "instruction": "Translate this science explanation to Swahili.",
-    "input": "Photosynthesis helps plants make food.",
-    "output": "Usanisinuru husaidia mimea kutengeneza chakula."
-  },
   {
     "instruction": "Explain quadratic equations for Form 2 students.",
     "input": "",
@@ -87,11 +63,7 @@
     "input": "Student Answer: Photosynthesis is when plants breathe.",
     "output": "Score: 1/5. Feedback: The student confuses photosynthesis with respiration. Photosynthesis is the process where plants manufacture food using sunlight, water, and carbon dioxide."
   },
-  {
-    "instruction": "Explain Newton's First Law to a Form 2 student.",
-    "input": "",
-    "output": "Newton's First Law states that an object remains at rest or moves in a straight line unless acted upon by an external force. Example: When a moving bus stops suddenly, passengers move forward due to inertia."
-  },
+
   {
     "instruction": "Translate this educational explanation into Swahili.",
     "input": "Plants make food through photosynthesis.",
@@ -107,11 +79,7 @@
     "input": "",
     "output": "Question: Define an acid and give one example. Answer: An acid is a substance that produces hydrogen ions in solution. Example: Hydrochloric acid."
   },
-  {
-    "instruction": "Teach computer studies to a beginner student.",
-    "input": "What is a computer?",
-    "output": "A computer is an electronic device that receives data, processes it, and gives useful information. Example: A laptop used for studying or browsing the internet."
-  },
+
   {
     "instruction": "Create a personalized study plan for a Form 4 student weak in Mathematics and Chemistry.",
     "input": "Performance: 45%",
