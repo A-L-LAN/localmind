@@ -157,13 +157,30 @@ Because it runs locally, LocalMind enables:
 ✅ KCSE curriculum fine-tuning
 
 Traditional AI vs LocalMind + Gemma 4
-Capability	Cloud AI	Traditional LLMs	LocalMind + Gemma 4
-Works Offline	❌	⚠️ Limited	✅
-Local Inference	❌	⚠️ Heavy	✅
-Privacy-First	❌	⚠️	✅
-Affordable for Schools	❌	❌	✅
-Curriculum Fine-Tuning	⚠️	⚠️	✅
-Edge Deployment	❌	⚠️	✅
+Capability
+Cloud AI
+Works Offline	❌
+Local Inference	❌
+Privacy-First	❌
+Affordable for Schools	❌
+Curriculum Fine-Tuning	⚠️
+Edge Deployment	❌
+
+Traditional LLMs
+Works Offline	⚠️ 
+Local Inference	⚠️ 
+Privacy-First	⚠️	
+Affordable for Schools ❌	
+Curriculum Fine-Tuning	⚠️
+Edge Deployment	⚠️
+
+LocalMind + Gemma 4
+Works Offline		✅
+Local Inference		✅
+Privacy-First		✅
+Affordable for Schools	✅
+Curriculum Fine-Tuning		✅
+Edge Deployment		✅
 
 With cloud AI:
 
