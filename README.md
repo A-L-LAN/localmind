@@ -158,7 +158,7 @@ Because it runs locally, LocalMind enables:
 
 **Traditional AI vs LocalMind + Gemma 4**
 **Capability**
-Cloud AI
+**Cloud AI**
 Works Offline	❌
 Local Inference	❌
 Privacy-First	❌
@@ -166,7 +166,7 @@ Affordable for Schools	❌
 Curriculum Fine-Tuning	⚠️
 Edge Deployment	❌
 
-Traditional LLMs
+**Traditional LLMs**
 Works Offline	⚠️ 
 Local Inference	⚠️ 
 Privacy-First	⚠️	
@@ -174,7 +174,7 @@ Affordable for Schools ❌
 Curriculum Fine-Tuning	⚠️
 Edge Deployment	⚠️
 
-LocalMind + Gemma 4
+**LocalMind + Gemma 4**
 Works Offline		✅
 Local Inference		✅
 Privacy-First		✅
@@ -184,19 +184,19 @@ Edge Deployment		✅
 
 With cloud AI:
 
-Schools rent intelligence.
+**Schools rent intelligence.**
 
 With Gemma 4:
 
-Schools own intelligence.
+**Schools own intelligence.**
 
 🧩 What LocalMind Does
 
-LocalMind is not just an AI chatbot.
+LocalMind is **not just an AI chatbot.**
 
-It is a multi-agent educational ecosystem powered by Gemma 4.
+It is a **multi-agent educational ecosystem powered by Gemma 4.**
 
-👩‍🎓 Student Tutor Agent
+**👩‍🎓 Student Tutor Agent**
 
 A personalized AI tutor for every learner.
 
@@ -220,11 +220,11 @@ Gemma 4:
 → Detects misconceptions
 → Adapts teaching style
 
-📝 Assessment Intelligence Agent
+**📝 Assessment Intelligence Agent**
 
 LocalMind continuously evaluates learning:
 
-Teach → Assess → Detect Gaps → Adapt → Retest
+**Teach → Assess → Detect Gaps → Adapt → Retest**
 
 Gemma 4 identifies:
 
@@ -233,9 +233,9 @@ Misconceptions
 Learning pace
 Knowledge mastery
 
-Creating a feedback-driven learning system instead of static teaching.
+Creating a **feedback-driven learning system** instead of static teaching.
 
-👩‍🏫 Teacher Copilot Agent
+**👩‍🏫 Teacher Copilot Agent**
 
 Helping teachers manage large classrooms efficiently.
 
@@ -248,16 +248,17 @@ Teachers receive:
 
 Example:
 
-40% of students struggle with fractions
+**40% of students struggle with fractions**
 
 Suggested interventions:
 
 Revise denominator concepts
 Group struggling learners
 Assign beginner exercises
-🖼️ Multimodal Learning
 
-Powered by Gemma 4 multimodal intelligence.
+**🖼️ Multimodal Learning**
+
+Powered by **Gemma 4 multimodal intelligence.**
 
 Students can:
 
@@ -273,7 +274,7 @@ Gemma 4 can:
 ✅ Explain visually
 ✅ Generate follow-up exercises
 
-⚡ Built on the Full Gemma 4 Ecosystem
+**⚡ Built on the Full Gemma 4 Ecosystem**
 
 LocalMind showcases far more than an LLM.
 
