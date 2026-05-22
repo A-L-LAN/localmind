@@ -278,16 +278,17 @@ Gemma 4 can:
 
 LocalMind showcases far more than an LLM.
 
-It demonstrates the power of the entire Gemma 4 ecosystem.
+It demonstrates the power of the **entire Gemma 4 ecosystem.**
 
-Technology	Role in LocalMind
-Gemma 4	Core educational reasoning
-Ollama	Local-first offline tutoring
-llama.cpp	Runs on low-resource school hardware
-Unsloth	Fine-tuned educational Gemma models
-LiteRT (AI Edge)	Efficient mobile/on-device inference
-Cactus-inspired routing	Intelligent model orchestration
-🦙 Ollama + Gemma 4
+**Technology	Role in LocalMind**
+**Gemma 4**	Core educational reasoning
+**Ollama**	Local-first offline tutoring
+**llama.cpp**	Runs on low-resource school hardware
+**Unsloth**	Fine-tuned educational Gemma models
+**LiteRT (AI Edge)**	Efficient mobile/on-device inference
+**Cactus-inspired routing**	Intelligent model orchestration
+
+**🦙 Ollama + Gemma 4**
 
 Enables:
 
@@ -298,7 +299,7 @@ Enables:
 
 No internet. No cloud dependency.
 
-⚡ llama.cpp + Gemma 4
+**⚡ llama.cpp + Gemma 4**
 
 Optimized for low-resource environments.
 
@@ -308,7 +309,7 @@ Runs on:
 🍓 Raspberry Pi
 🏫 School computer labs
 
-Making frontier AI possible in underserved classrooms.
+Making **frontier AI possible in underserved classrooms.**
 
 🎯 Unsloth + Gemma 4
 
@@ -321,9 +322,9 @@ Fine-tuned for:
 
 Creating:
 
-An AI tutor built for real classrooms.
+**An AI tutor built for real classrooms.**
 
-📱 LiteRT + Gemma 4
+**📱 LiteRT + Gemma 4**
 
 Efficient on-device educational AI.
 
@@ -333,7 +334,7 @@ Supports:
 🏫 School tablets
 🌍 Offline mobile education
 
-🌵 Cactus-Inspired Routing
+**🌵 Cactus-Inspired Routing**
 
 Smart educational model orchestration.
 
@@ -351,9 +352,9 @@ Result:
 ✅ Lower hardware requirements
 ✅ Battery-efficient learning
 
-🌍 Built for Kenya. Designed for the World.
+**🌍 Built for Kenya. Designed for the World.**
 
-Starting with KCSE curriculum alignment, LocalMind is built for global adaptation.
+Starting with **KCSE curriculum alignment**, LocalMind is built for global adaptation.
 
 Possible localization:
 
@@ -367,9 +368,9 @@ Only the curriculum changes.
 
 The intelligence remains powered by:
 
-Gemma 4
+**Gemma 4**
 
-🤝 Potential Partnerships
+**🤝 Potential Partnerships**
 
 LocalMind can integrate with:
 
@@ -386,7 +387,7 @@ Impact areas:
 🏫 Public schools
 📚 Low-resource classrooms
 
-🎯 UN Sustainable Development Goals
+**🎯 UN Sustainable Development Goals**
 
 LocalMind contributes to:
 
