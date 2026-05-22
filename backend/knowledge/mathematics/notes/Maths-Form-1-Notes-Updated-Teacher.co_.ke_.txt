@@ -1,0 +1,5814 @@
+	
+
+
+
+
+
+
+CHAPTER ONE
+
+MATHEMATICS NOTES
+FORM 1
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Identify, read and write natural numbers in symbols and words;
+b.) Round off numbers to the nearest tens, hundreds, thousands, millions and billions;
+c.) Classify natural numbers as even, odd or prime;
+d.) Solve word problems involving natural numbers.
+Content
+a.) Place values of numbers
+b.) Rounding off numbers to the nearest tens, hundreds, thousands, millions and billions
+c.) Odd numbers
+d.) Even numbers
+e.) Prime numbers
+f.) Word problems involving natural numbers
+Introduction Place value
+A digit have a different value in a number because of its position in a number. The position of a digit in a
+number is called its place value.
+
+Total value
+This is the product of the digit and its place value.
+
+Example
+umberHundred
+MillionsTen
+MillionsMillionsHundred
+ThousandsTen
+ThousandsThousandsHundredTensones45,678,901345678901
+	
+69,301,85476930185402,350,409902350409
+A place value chart can be used to identify both place value and total value of a digit in a number. The place value chart is also used in writing numbers in words.
+
+Example
+* Three hundred and forty five million, six hundred and seventy eight thousand, nine hundred and one.
+* Seven hundred and sixty nine million, Three hundred and one thousand, eight hundred and fifty four.
+
+
+Billions
+A billion is one thousands million, written as 1, 000, 000,000.There are ten places in a billion.
+
+Example
+What is the place value and total value of the digits below?
+a.) 47,397,263,402 (place value 7 and 8).
+b.) 389,410 ,000,245 ( place 3 and 9)
+
+Solution
+a.) The place value for 6 is ten thousands. Its total value is 60,000.
+b.) The place value of 3 is hundred billions. Its total value is 300,000,000,000.
+
+Rounding off
+When rounding off to the nearest ten, the ones digit determines the ten i.e. if the ones digit is 1, 2, 3, or 4 the nearest ten is the ten number being considered. If the ones digit is 5 or more the nearest ten is the next ten or rounded up.
+Thus 641 to the nearest ten is 640, 3189 to the nearest is 3190.
+When rounding off to the nearest 100, then the last two digits or numbers end with 1 to 49 round off downwards. Number ending with 50 to 99 are rounded up.
+Thus 641 to the nearest hundred is 600, 3189 is 3200.
+
+Example
+Rounding off each of the following numbers to the nearest number indicated in the bracket:
+a.) 473,678 ( 100)
+b.) 524,239 (1000)
+c.) 2,499 (10)
+
+
+
+Solution
+a.) 473,678 is 473,700 to the nearest 100.
+b.) 524,239 is 524,000 to the nearest 1000
+c.) 2,499 is 2500 to the nearest 10.
+
+Operations on whole Numbers Addition
+Example
+Find out:
+a.) 98 + 6734 + 348
+b.) 6349 + 259 +7954
+
+Solution
+Arrange the numbers in vertical forms 98
+6734
++ 348
+  7180
+6349
+259
++ 79542
+
+	86150
+Subtracting Example
+Find: 73469 - 8971
+
+Solution
+73469
+-	8971
+  64498
+
+Multiplication
+The product is the result of two or more numbers.
+
+
+Work out: 469 x 63
+
+Solution
+469
+  X 63
+1407 ?469 x 3 = 1407
++ 28140?469 x 60 = 28140
+
+29547
+
+Division
+When a number is divided by the result is called the quotient. The number being divided is the divided and the number dividing is the divisor.
+Example
+Find: 6493 ÷ 14
+Solution
+We get 463 and 11 is the remainder
+Note:
+6493 = (463 x 14) + 11
+In general, dividend = quotient x division + remainder.
+
+
+
+
+
+Divisionquotient of divided by
+Equalequal to result is is
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Word problem
+In working the word problems, the information given must be read and understood well before attempting the question.
+The problem should be broken down into steps and identify each other operations required.
+
+Example
+Otego had 3469 bags of maize, each weighing 90 kg. He sold 2654 of them.
+a.) How many kilogram of maize was he left with?
+b.) If he added 468 more bags of maize, how many bags did he end up with?
+
+Solution
+a.) One bag weighs 90 kg.
+3469 bags weigh 3469 x 90 = 312,210 kg
+2654 bags weigh 2654 x 90 = 238,860 kg
+
+
+
+
+Amount of maize left	= 312,210 - 238,860
+= 73,350 kg.
+b.) Number of bags = 815 + 468
+=1283
+
+Even Number
+A number which can be divided by 2 without a remainder E.g. 0,2,4,6 0 or 8 3600, 7800, 806, 78346
+Odd Number
+Any number that when divided by 2 gives a remainder. E.g. 471,123, 1197,7129.The numbers ends with the following digits 1, 3, 5,7 or 9.
+
+Prime Number
+A prime number is a number that has only two factors one and the number itself. For example, 2, 3, 5, 7, 11, 13, 17 and 19.
+Note:
+i.) 1 is not a prime number.
+ii.) 2 is the only even number which is a prime number.
+End of topic
+
+
+Past KCSE Questions on the topic
+1.) Write 27707807 in words
+2.) All prime numbers less than ten are arranged in descending order to form a number
+a.) Write down the number formed
+b.) What is the total value of the second digit?
+c.) Write the number formed in words.
+
+
+CHAPTER
+
+
+
+
+
+
+
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Express composite numbers in factor form;
+b.) Express composite numbers as product of prime factors;
+c.) Express factors in power form.
+Content
+a.) Factors of composite numbers.
+b.) Prime factors.
+c.) Factors in power form d.)
+Introduction
+Definition
+A factor is a number that divides another number without a remainder.
+
+NumberFactors121,2,3,4,6,12161,2,4,8,16391 ,3,13,39
+A natural number with only two factors, one and itself is a prime number. Or any number that only can be divided by 1 and itself. Prime numbers have exactly 2 different factors.
+
+
+
+
+
+
+
+
+
+Prime Numbers up to 100.
+
+2357111317192329
+
+
+
+
+
+
+Composite numbers
+                                                                              Any number that has more factors than just itself and 1.They can be said to be natural number other than 1 which are not prime numbers.They can be expressed as a product of two or more prime factors.
+9 = 3 x 3
+12 = 2 x 2 x 3
+105 = 3 x 5 x 7
+The same number can be repeated several times in some situations. 32 = 2 x 2 x 2 x 2 x 2 = 25
+72 =2 x 2 x 2 x 3 x 3 = 23x 32
+To express a number in terms of prime factors ,it is best to take the numbers from the smallest and divide by each of them as many times as possible before going to the next.
+
+Example
+Express the following numbers in terms of their prime factors
+a.) 300
+b.) 196
+
+Solution
+a.)
+
+23002150375525551300 = 2 x 2 x 3 x 5 x 5
+= 22x 3 x 52
+b.)
+
+
+
+	 
+
+196 = 2 x 2 x 7 x 7
+= 22 x 72
+
+Exceptions
+The numbers 1 and 0 are neither prime nor composite. 1 cannot be prime or composite because it only has one factor, itself. 0 is neither a prime nor a composite number because it has infinite factors. All other numbers, whether prime or composite, have a set number of factors. 0 does not follow the rules.
+End of topic
+
+
+
+Past KCSE Questions on the topic
+1.) Express the numbers 1470 and 7056, each as a product of its prime factors.
+Hence evaluate:	14702
+
+Leaving the answer in prime factor form
+2.) All prime numbers less than ten are arranged in descending order to form a number
+(a) Write down the number formed
+(b) What is the total value of the second digit?
+
+
+
+
+
+CHAPTER THREE
+
+
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+The learner should be able to test the divisibility of numbers by 2, 3, 4, 5, 6, 8, 9, 10 and 11.
+48
+Content
+Divisibility test of numbers by 2, 3, 4, 5, 6, 8, 9, 10 and 11
+Introduction
+Divisibility test makes computation on numbers easier. The following is a table for divisibility test.
+
+Divisibility TestsExampleA number is divisible by 2 if the last digit is 0, 2, 4, 6 or 8.168 is divisible by 2 since the last digit is 8.A number is divisible by 3 if the sum of the digits is divisible by 3.168 is divisible by 3 since the sum of the digits is 15 (1+6+8=15), and 15 is
+divisible by 3.A number is divisible by 4 if the number formed by the last two digits is divisible by 4.316 is divisible by 4 since 16 is
+divisible by 4.A number is divisible by 5 if the last digit is either 0 or 5.195 is divisible by 5 since the last digit is 5.A number is divisible by 6 if it is divisible by 2 AND it is divisible by 3.168 is divisible by 6 since it is divisible by 2 AND it is divisible by 3.A number is divisible by 8 if the number formed by the last three digits is divisible by 8.7,120 is divisible by 8 since 120 is
+divisible by 8.A number is divisible by 9 if the sum of the digits is divisible by 9.549 is divisible by 9 since the sum of the digits is 18 (5+4+9=18), and 18 is
+divisible by 9.
+
+
+
+
+
+A number is divisible by 10 if the last digit is 0.1,470 is divisible by 10 since the last digit is 0.A number is divisible by 11 if the sum of its digits in the odd positons like 1st ,3rd ,5th ,7th
+Positions, and the sum of its digits in the even position like 2nd , 4th ,6th ,8th positions are equal or differ by 11,or by a multiple of 118,260,439 sum of 8 +6 +4 +9 =27:
+2 + 0 +3 = 5 ;
+27 - 5 = 22 which is a multiple of 11
+
+
+
+
+End of topic
+
+
+
+Past KCSE Questions on the topic CHAPTER FOUR
+
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Find the GCD/HCF of a set of numbers.
+b.) Apply GCD to real life situations.
+Content
+a.) GCD of a set of numbers
+b.) Application of GCD/HCF to real life situations
+
+
+Introduction
+A Greatest Common Divisor is the largest number that is a factor of two or more numbers.
+When looking for the Greatest Common Factor, you are only looking for the COMMON factors contained in
+
+
+
+
+both numbers. To find the G.C.D of two or more numbers, you first list the factors of the given numbers, identify common factors and state the greatest among them.
+The G.C.D can also be obtained by first expressing each number as a product of its prime factors. The factors which are common are determined and their product obtained.
+
+Example
+Find the Greatest Common Factor/GCD for 36 and 54 is 18.
+
+Solution
+The prime factorization for 36 is 2 x 2 x 3 x 3.
+The prime factorization for 54 is 2 x 3 x 3 x 3.
+They both have in common the factors 2, 3, 3 and their product is 18. That is why the greatest common factor for 36 and 54 is 18.
+Example
+Find the G.C.D of 72, 96, and 300
+
+Solution
+729630023648150218247536825
+End of topic
+
+
+Past KCSE Questions on the topic
+
+1.) Find the greatest common divisor of the term. 144x3y2 and 81xy4
+b) Hence factorize completely this expression 144x3y2-81xy4	(2 marks)
+
+
+
+2.) The GCD of two numbers is 7and their LCM is 140. if one of the numbers is 20, find the other number
+
+
+
+3.) The LCM of three numbers is 7920 and their GCD is 12. Two of the numbers are 48 and 264. Using factor notation find the third number if one of its factors is 9
+
+
+CHAPTER FIVE
+
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) List multiples of numbers.
+b.) Find the L CM of a set of numbers.
+c.) Apply knowledge of L CM in real life situations.
+Content
+a.) Multiples of a number
+b.) L CM of a set of numbers
+c.) Application of L CM in real life situations.
+
+
+Introduction Definition
+LCM or LCF is the smallest multiple that two or more numbers divide into evenly i.e. without a remainder. A multiple of a number is the product of the original number with another number.
+Some multiples of 4 are 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56 ...
+Some multiples of 7 are 7, 14, 21, 28, 35, 42, 49, 56 ...
+A Common Multiple is a number that is divisible by two or more numbers. Some common multiples of 4 and 7 are 28, 56, 84, and 112.
+When looking for the Least Common Multiple, you are looking for the smallest multiple that they both divide into evenly. The least common multiple of 4 and 7 is 28.
+
+Example
+Find the L.C.M of 8, 12, 18 and 20.(using tables)
+
+
+Solution
+
+
+
+	
+
+
+
+The L.C.M is the product of all the divisions used. Therefore, L.C.M. of 8, 12, 18 and 20 = 2 x 2 x 2 x 3 x 3 x5
+= 23 x 32x 5
+= 360
+
+Note;
+Unlike the G.C.D tables, if the divisor /factor does not divide a number exactly, then the number is retained, e.g., 2 does not divide 9 exactly, therefore 9 is retained .The last row must have all values 1.
+
+
+End of topic
+
+
+Past KCSE Questions on the topic
+4.) Find the L.C.M of x2 + x, x2 - 1 and x2 - x .
+5.) Find the least number of sweets that can be packed into polythene bags which contain either 9 or 15 or 20 or 24 sweets with none left over.
+6.) A number n is such that when it is divided by 27, 30, or 45, the remainder is always 3. Find the smallest value of n.
+7.) A piece of land is to be divided into 20 acres or 24 acres or 28 acres for farming and Leave 7 acres for grazing. Determine the smallest size of such land.
+8.) When a certain number x is divided by 30, 45 or 54, there is always a remainder of 21. Find the least value of the number x .
+
+
+
+
+A number m is such that when it is divided by 30, 36, and 45, the remainder is always 7. Find the smallest possible value of m.
+
+
+CHAPTER SIX
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Define integers
+b.) Identify integers on a number line
+c.) Perform the four basic operations on integers using the number line.
+d.) Work out combined operations on integers in the correct order
+e.) Apply knowledge of integers to real life situations.
+Content
+a.) Integers
+b.) The number line
+c.) Operation on integers
+d.) Order of operations
+e.) Application to real life situations
+
+
+Introduction
+The Number Line
+Integers are whole numbers, negative whole numbers and zero. Integers are always represented on the number line at equal intervals which are equal to one unit.
+
+Operations on Integers Addition of Integers
+Addition of integers can be represented on a number line .For example, to add
++3 to 0 , we begin at 0 and move 3 units to the right as shown below in red to get +3, Also to add + 4 to +3 we move 4 units to the right as shown in blue to get +7.
+
+
+
+
+
+
+
+To add -3 to zero we move 3 units to the left as shown in red below to get -3 while to add -2 to -3 we move 2 steps to the left as shown in blue to get -5.
+
+
+Note;
+* When adding positive numbers we move to the right.
+* When dealing with negative we move to the left.
+
+Subtraction of integers.
+
+Example
+(+7) - (0) = (+7)
+To subtract +7 from 0 ,we find a number n which when added to get 0 we get +7 and in this case n = +7 as shown above in red.
+
+Example
+(+2) - (+7) = (-5)
+Start at +7 and move to +2. 5 steps will be made towards the left. The answer is therefore -5.
+
+Example
+-3 - (+6) = -9
+
+
+|	|
+-4 -3 -2 -1	0	1	2	3 4 5	6	7 8	9 10
+We start at +6 and moves to -3. 9 steps to the left, the answer is -9.
+
+Note:
+* In general positives signs can be ignored when writing positive numbers i.e. +2 can be written as 2 but negative signs cannot be ignored when writing negative numbers -4 can only be written s -4.
+4 - (+3) = 4 -3
+= 1
+-3- (+6) =3 - 6
+
+
+
+= -3
+* Positive integers are also referred to as natural numbers. The result of subtracting the negative of a number is the same as adding that number.
+2 - (- 4) = 2 + 4
+= 6
+(-5) - (- 1) = -5 + 2
+= -3
+* In mathematics it is assumed that that the number with no sign before it has appositive sign.
+
+Multiplication
+In general
+i.) ( a negative number ) x ( appositive number ) = ( a negative number)
+ii.) (a positive number ) x ( a negative number ) = ( a negative number)
+iii.) ( a negative number ) x ( a negative number ) = ( a positive number)
+
+Examples
+-6 x 5 = -30
+7 x -4 = - 28
+-3 x -3 = 9
+-2 x -9 = 18
+
+Division
+Division is the inverse of multiplication. In general
+i.) (a positive number ) ÷ ( a positive number ) = ( a positive number)
+ii.) (a positive number ) ÷ ( a negative number ) = ( a negative number)
+iii.) ( a negative number ) ÷ ( a negative number ) = ( a positive number)
+   iv.) ( a negative number ) ÷ ( appositive number ) = ( a negative number) Note;
+For multiplication and division of integer:
+* Two like signs gives positive sign.
+* Two unlike signs gives negative sign
+* Multiplication by zero is always zero and division by zero is always zero.
+
+
+
+
+
+
+
+
+Order of operations
+BODMAS is always used to show as the order of operations. B - Bracket first.
+O - Of is second.
+D - Division is third.
+M - Multiplication is fourth. A - Addition is fifth.
+S - Subtraction is considered last.
+
+Example
+6 x 3 - 4 ÷ 2 + 5 + (2-1) =
+
+Solution
+Use BODMAS
+(2 - 1) = 1 we solve brackets first
+(4÷ 2) = 2 we then solve division
+(6 x 3) = 18 next is multiplication Bring them together
+18 - 2 +5 +1 = 22 we solve addition first and lastly subtraction
+18 + 6 - 2 = 22
+End of topic
+
+
+
+Past KCSE Questions on the topic
+1.) The sum of two numbers exceeds their product by one. Their difference is equal to their product less five.
+Find the two numbers.	(3mks)
+
+2.)	3x - 1 > -4
+2x + 1= 7
+3.)	Evaluate	-12 ÷ (-3) x 4 - (-15)
+-5 x 6 ÷ 2 + (-5)
+4.) Without using a calculator/mathematical tables, evaluate leaving your answer as a simple fraction
+
+
+
+
+
+(-4)(-2) + (-12) ? (+3)	+	-20 + (+4) + -6)
+-9 - (15)	46- (8+2)-3
+
+
+
+5.)	Evaluate -8 ? 2 + 12 x 9 - 4 x 6
+56 ?7 x 2
+
+
+6.) Evaluate without using mathematical tables or the calculator
+1.9 x 0.032
+20 x 0.0038
+
+
+CHAPTER SEVEN
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Identify proper and improper fractions and mixed number.
+b.) Convert mixed numbers to improper fractions and vice versa.
+c.) Compare fractions;
+d.) Perform the four basic operations on fractions.
+e.) Carry out combined operations on fractions in the correct order.
+f.) Apply the knowledge of fractions to real life situations.
+Content
+a.) Fractions
+b.) Proper, improper fractions and mixed numbers.
+c.) Conversion of improper fractions to mixed numbers and vice versa.
+d.) Comparing fractions.
+e.) Operations on fractions.
+f.) Order of operations on fractions
+g.) Word problems involving fractions in real life situations.
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+A fraction is written in the form
+
+
+
+a where a and b are numbers and b is not equal to 0.The upper number is
+b
+
+called the numerator and the lower number is the denominator.
+ a?numerator b?denominator
+
+Proper fraction
+In proper fraction the numerator is smaller than the denominator. E.g.
+
+
+
+
+Improper fraction
+
+2 , 1
+3	4
+
+The numerator is bigger than or equal to denominator. E.g.
+7 ,15 ,9
+
+
+Mixed fraction
+
+3	6	2
+
+An improper fraction written as the sum of an integer and a proper fraction. For example
+7 = 2 + 1
+3	3
+= 21
+3
+
+Changing a Mixed Number to an Improper Fraction
+
+
+
+Mixed number - 4	(contains a whole number and a fraction)
+       Improper fraction - (numerator is larger than denominator) Step 1 - Multiply the denominator and the whole number
+Step 2 - Add this answer to the numerator; this becomes the new numerator Step 3 - Carry the original denominator over
+
+Example
+3   =	3 × 8 + 1 = 25
+
+=
+
+Example
+4	 =	4 × 9 + 4 = 40
+
+=
+Changing an Improper Fraction to a Mixed Number
+
+Step 1- Divide the numerator by the denominator
+Step 2- The answer from step 1 becomes the whole number Step 3- The remainder becomes the new numerator
+Step 4- The original denominator carries over
+
+
+
+
+
+
+
+
+Example
+=	47 ÷ 5	or
+
+
+
+5	= 5	=	9 
+ 2
+
+Example
+ =	2	=	2	= 4 1/2
+
+
+Comparing Fractions
+When comparing fractions, they are first converted into their equivalent forms using the same denominator.
+
+Equivalent Fractions
+To get the equivalent fractions, we multiply or divide the numerator and denominator of a given fraction by the same number. When the fraction has no factor in common other than 1, the fraction is said to be in its simplest form.
+
+Example
+Arrange the following fractions in ascending order (from the smallest to the biggest): 1/2 1 /4 5/6 2/3
+
+Step 1: Change all the fractions to the same denominator.
+
+Step 2: In this case we will use 12 because 2, 4, 6, and3 all go into i.e. We get 12 by finding the L.C.M of the denominators. To get the equivalent fractions divide the denominator by the L.C.M and then multiply both the numerator and denominator by the answer,
+For 1/2 we divide 12 ÷ 2 = 6, then multiply both the numerator and denominator by 6 as shown below.
+
+
+1 x 61x35 x22 x42 x64 x36 x23 x4
+Step3: The fractions will now be:
+6/12	3/12	10/12	8/12
+
+
+isabokemicah@gmail.com
+Step 4: Now put your fractions in order (smallest to biggest.)
+
+
+3/12	6/12	8/12	10/12
+
+Step 5: Change back, keeping them in order.
+1/4 1/2 2/3 5/6
+You can also use percentages to compare fractions as shown below.
+
+Example
+Arrange the following in descending order (from the biggest) 5/12 7 /3 11/5 9 /4
+Solution
+5  X 100 = 41.67%
+12
+
+7 X 100 = 233.3%
+3
+
+11 X 100 = 220%
+5
+9 X 100 = 225%
+4
+7/3, 9/4, 11/5, 5/12
+
+
+Operation on Fractions
+Addition and Subtraction
+The numerators of fractions whose denominators are equal can be added or subtracted directly.
+
+Example
+2/7 + 3/7 = 5/7
+6/8 - 5/8 = 1/8
+When adding or subtracting numbers with different denominators like: 5/4 + 3 /6=?
+2/5 - 2/7 =?
+
+
+Example
+ +  =	Common denominator is 8 because both 2 and 8 will go into 8
++	= 4+7
+8
+ Which simplifies to 1
+
+Example
+4 -  =	Common denominator is 20 because both 4 and 5 will go into 20
+
+
+4  =	4
+-   =	
+
+
+4
+
+
+
+Or
+12-5	7
+4	-	= 4	=4
+20	20
+Mixed numbers can be added or subtracted easily by first expressing them as improper fractions.
+
+
+isabokemicah@gmail.com
+Examples
+52 + 14
+3	5
+
+Solution
+52 + 14 = 5 + 2 + 1 + 4
+
+3	5	3	5
+
+
+= (5+1) + 2 + 4
+
+3	5
+
+
+= 6 + 10+12
+15
+
+
+
+= 6 + 22
+15
+
+
+
+
+Example
+
+= 6 + 1 7
+15
+
+= 7 7
+15
+
+Evaluate
+
+-2 + -1
+
+3	5
+
+Solution
+
+
+
+-2 + -1 = -16-3 = -19
+
+
+Multiplying Simple Fractions
+Step 1- Multiply the numerators Step 2- Multiply the denominators
+
+3	5	24	24
+
+Step 3- Reduce the answer to lowest terms by dividing by common divisors
+
+
+Example
+ ×  =  which reduces to 
+Multiplying Mixed Numbers
+
+
+isabokemicah@gmail.com
+Step 1- Convert the mixed numbers to improper fractions first Step 2- Multiply the numerators
+Step 3- Multiply the denominators
+Step 4- Reduce the answer to lowest terms
+
+Example
+2 × 1 =  ×  = 
+Which then reduces to 3
+Note:
+When opposing numerators and denominators are divisible by a common number, you may reduce the numerator and denominator before multiplying. In the above example, after converting the mixed numbers to improper fractions, you will see that the 3 in the numerator and the opposing 3 in the denominator could have been reduced by dividing both numbers by 3, resulting in the following reduced fraction:
+
+
+×	=  = 3
+Dividing Simple Fractions
+Step 1- Change division sign to multiplication
+Step 2- Change the fraction following the multiplication sign to its reciprocal (rotate the fraction around so the old denominator is the new numerator and the old numerator is the new denominator)
+Step 3- Multiply the numerators Step 4- Multiply the denominators
+Step 5- simplify the answer to lowest terms
+
+Example
+ ÷  =	becomes	 ×   which when solved is 
+
+Dividing Mixed Numbers
+Step 1 - Convert the mixed number or numbers to improper fraction. Step 2 - Change the division sign to multiplication.
+Step 3- Change the fraction following the multiplication sign to its reciprocal (flip the fraction around so the old denominator is the new numerator and the old numerator is the new denominator)
+Step 4- Multiply the numerators.
+
+
+isabokemicah@gmail.com
+Step 5- Multiply the denominators.
+Step 6- Simplify the answer to lowest form.
+
+
+Example
+3 ÷ 2 =	becomes	 ÷  becomes	 ×  =
+
+Which when solved is	×	=  which simplifies to 1
+Order of operations on Fractions
+The same rules that apply on integers are the same for fractions BODMAS
+Example
+15 ÷ 1 of 12 = 15 ÷ (1 x 12)(we start with of then division)
+4	4
+= 15 ÷ 3
+= 5
+
+Example
+1 + 1 x {3+ (1-1)} =
+
+
+Solution
+1/3 - 1/4 = 4-1 =
+12
+
+
+1 (we start with bracket)
+12
+
+{
+1 + 1 x11 = 1 + 11(We then work out the multiplication)
+6	2  48	6	48
+
+1 + 11 = 19(Addition comes last here)
+6	48	48
+
+
+
+
+Example
+1 +1
+
+isabokemicah@gmail.com
+
+	2	3	
+Evaluate
+1	2 1
+of (	-	)
+7	5 6
+
+
+
+Solution
+
+
+We first work out this first
+
+
+1 +1
+	2	3	
+
+1	2 1
+of (	-	)
+7	5 6
+1 + 1 = 3+2 = 5
+2	3	6	6
+1 of(2-1) = 1 x 7 = 1
+
+
+
+1 +1
+
+5×30 = 25
+6
+
+Therefore	+ 1/2 = 25 + 1/2
+1	2 1
+of (	-	)
+7	5 6
+= 25 1/2
+
+
+
+Note:
+Operations on fractions are performed in the following order.
+* Perform the operation enclosed within the bracket first.
+* If (of) appears, perform that operation before any other.
+
+
+
+
+Example
+Evaluate: 1{3+1(7-3)	1	}=
+
+isabokemicah@gmail.com
+
+2 5
+
+Solution
+=
+
+4 3 7
+
+of 1	÷5
+2
+
+
+1{3+1(40)	1	}
+
+= 1{3 1 40  3	}
+
+=1(3+10
+
+
+3
+x	÷5
+
+2 5 4 21  2
+
+2 5  21	2
+= 1(3+ 5 )
+=1(21+5) = 1 x26 = 13
+
+Example
+Two pipes A and B can fill an empty tank in 3hrs and 5hrs respectively. Pipe C can empty the tank in 4hrs. If the three pipes A, B and C are opened at the same time find how long it will take for the tank to be full.
+Solution
+1/3 +1/5 -1/4 = 20+12-15
+60
+= 17/60
+17/60=1hr
+1= 1 x 60/17
+60/17 = 3.5294118
+= 3.529 hrs.
+End of topic
+
+
+
+Past KCSE Questions on the topic
+
+1. Evaluate without using a calculator.
+
+
+2. A two digit number is such that the sum of the ones and the tens digit is ten. If the digits are reversed, the new number formed exceeds the original number by 54.
+Find the number.
+3. Evaluate 
+4. Convert the recurring decimal linto fraction
+5. Simplify without using tables or calculator
+6. Evaluate without using tables or calculators
+
+7. Mr. Saidi keeps turkeys and chickens. The number of turkeys exceeds the number of chickens by 6. During an outbreak of a disease, 1/4 of the chicken and 1/3 of the turkeys died. If he lost total of 30 birds, how many birds did he have altogether?
+9. Work out 
+10. Evaluate	-4 of (-4 + -5 ?15) + -3 - 4 ?2)
+
+84 ? -7 + 3 - -5
+11. Write the recurring decimal 0.Can as Fraction
+
+12. Evaluate	without using a calculator.
+
+
+
+Without using tables or calculators evaluate.
+
+Without using tables or calculator, evaluate the following.
+-8 + (-13) x 3 - (-5)
+-1 + (-6) ÷ 2 x 2
+15. Express   as a single fraction
+16. Simplify	1/2 of	31/2 + 11/2 (21/2 - 2/3)
+3/4 of 21/2 ? 1/2
+
+
+17. Evaluate:
+2/5? 1/2 of 4/ - 11/10
+1/8 - 1/6 of 3/8
+18. Without using a calculator or table, work out the following leaving the answer as a mixed number in its simplest form:-
+3/4 + 12/7 ÷ 3/7 of 21/3 (9/7-3/8) x 2/3
+
+
+19. Work out the following, giving the answer as a mixed number in its simplest form.
+2/5? 1/2 of 4/9 - 1 1/10
+1/8 - 1/16 x 3/8
+
+20. Evaluate;
+
+3/8 of 73/5 - 1/3 11/4 + 31/3 x 22/5
+
+
+
+23. Without using a calculator, evaluate:
+
+14/5 of 25/18?12/3 x 24
+21/3 - 1/4 of 12 ?5/3	leaving the answer as a fraction in its simplest form
+
+24. There was a fund-raising in Matisse high school. One seventh of the money that was raised was used to construct a teacher's house and two thirds of the remaining money was used to construct classrooms. If shs.300, 000 remained, how much money was raised
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER EIGHT
+
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Convert fractions into decimals and vice versa
+b.) Identify recurring decimals
+c.) Convert recurring decimals into fractions
+d.) Round off a decimal number to the required number of decimal places
+e.) Write numbers in standard form
+f.) Perform the four basic operations on decimals
+g.) Carry our operations in the correct order
+h.) Apply the knowledge of decimals to real life situations.
+Content
+a.) Fractions and decimals
+b.) Recurring decimals
+c.) Recurring decimals and fractions
+d.) Decimal places
+e.) Standard form
+
+f.) Operations on decimals
+g.) Order of operations
+h.) Real life problems involving decimals.
+
+
+Introduction
+A fraction whose denominator can be written as the power of 10 is called a decimal fraction or a decimal. E.g. 1/10, 1/100, 50/1000.
+A decimal is always written as follows 1/10 is written as 0.1 while 5/100 is written as 0.05.The dot is called the decimal point.
+Numbers after the decimal points are read as single digits e.g. 5.875 is read as five point eight seven five. A decimal fraction such 8.3 means 8 + 3/10.A decimal fraction which represents the sum of a whole number and a proper fraction is called a mixed fraction.
+
+
+
+
+
+
+
+
+
+
+Place value chart
+
+
+
+Ten thousandsThousand sHundredsTensOnesDecimal PointTenthsHundredth sThousandt hsTen Thousandt hsHundred Thousandt hs10,000
+1,000100101..1.01.001.0001.00001
+
+Decimal to Fractions
+To convert a number from fraction form to decimal form, simply divide the numerator (the top number) by the denominator (the bottom number) of the fraction.
+
+Example:
+5/8
+
+
+
+8	? Add as many zeros as needed.
+
+48
+20
+16
+40
+40
+0
+
+Converting a decimal to a fraction
+To change a decimal to a fraction, determine the place value of the last number in the decimal. This becomes the denominator. The decimal number becomes the numerator. Then reduce your answer.
+
+Example:
+
+.625 - the 5 is in the thousandths column, therefore,
+
+
+.625 =  = reduces to 
+
+Note:
+Your denominator will have the same number of zeros as there are decimal digits in the decimal number you started with - .625 has three decimal digits so the denominator will have three zero.
+
+Recurring Decimals
+These are decimal fractions in which a digit or a group of digits repeat continuously without ending.
+1 = 0.333333
+3
+
+5 = 0.454545454
+11
+We cannot write all the numbers, we therefore place a dot above a digit that is recurring. If more than one digit recurs in a pattern, we place a dot above the first and the last digit in the pattern.
+
+
+E.g.
+
+0.3333	s written as 0. 3
+
+
+0.4545	s written as 0. 4 5
+
+0.324324	s written as 0.32 4
+Any division whose divisor has prime factors other than 2 or 5 forms a recurring decimal or non-terminating decimal.
+
+Example
+Express each as a fraction
+
+a.) 0. 6
+
+b.) 0.7 3
+
+
+c.) 0. 1 5
+
+Solution
+a.) Let r = 0.66666	( I )
+10r = 6.6666	(II)
+Subtracting I from II 9r = 6
+
+
+
+
+b.) Let r = 0.73333	(I)
+10 r=7.3333333	(II)
+100r = 73.33333	(III)
+Subtracting (II) from (III)
+
+
+90r = 66
+
+
+
+
+
+c.) Let r = 0.151515	( I)
+100r = 15.1515	(II)
+99r= 15
+
+
+
+
+
+
+
+r =  6
+9
+
+= 2
+3
+
+
+
+
+
+
+
+
+
+
+
+r =  66
+90
+
+= 11
+15
+
+
+isabokemicah@gmail.com
+r =  15
+99
+
+= 5
+33
+
+
+Decimal places
+When the process of carrying out division goes over and over again without ending we may round off the digits to any number of required digits to the right of decimal points which are called decimal places.
+
+Example
+Round 2.832 to the nearest hundredth.
+
+Solution
+
+Step 1 - Determine the place to which the number is to be rounded is.
+
+
+2.832
+
+
+Step 2 - If the digit to the right of the number to be rounded is less than 5, replace it and all the digits to the right of it by zeros. If the digit to the right of the underlined number is 5 or higher, increase the underlined number by 1 and replace all numbers to the right by zeros. If the zeros are decimal digits, you may eliminate them.
+
+
+
+
+Example
+
+2.832 = 2.830 = 2.83
+
+Round 43.5648 to the nearest thousandth.
+
+Solution
+
+
+
+
+Example
+
+43.5648 = 43.5650 = 43.565
+
+Round 5,897,000 to the nearest hundred thousand.
+
+Solution
+5,897,000	= 5,900,000
+
+Standard Form
+A number is said to be in standard form if it is expressed in form A X 10n, Where 1 < A <10 and n is an integer.
+
+
+
+
+Example
+
+isabokemicah@gmail.com
+
+Write the following numbers in standard form.
+a.) 36	b.) 576 c.) 0.052
+
+Solution
+a.) 36/10 x 10 = 3.6 x 101
+b.) 576/100 x 100 = 5.76 x 102
+c.) 0.052 = 0.052 x 100/100
+
+
+
+
+
+
+
+5.2× 1
+100
+
+5.2×( 1 )2
+100
+5.2× 10-2
+Operation on Decimals Addition and Subtraction
+The key point with addition and subtraction is to line up the decimal points!
+
+Example
+2.64 + 11.2 =	2.64
+ +11.20? in this case, it helps to write 11.2 as 11.20 13.84
+Example14.73 - 12.155 =14.730 ? again adding this 0 helps-	12.1552.575Example127.5 + 0.127 =327.500+	0.127327.627
+
+
+Multiplication
+When multiplying decimals, do the sum as if the decimal points were not there, and then calculate how many numbers were to the right of the decimal point in both the original numbers - next, place the decimal point in your answer so that there are this number of digits to the right of your decimal point?
+
+
+isabokemicah@gmail.com
+
+
+Example
+2.1 x 1.2.
+Calculate 21 x 12 = 252. There is one number to the right of the decimal in each of the original numbers, making a total of two. We therefore place our decimal so that there are two digits to the right of the decimal point in our answer.
+Hence 2.1 x 1.2 =2.52.
+Always look at your answer to see if it is sensible. 2 x 1 = 2, so our answer should be close to 2 rather than 20 or 0.2 which could be the answers obtained by putting the decimal in the wrong place.
+
+
+Example
+1.4 x 6
+Calculate 14 x 6 = 84. There is one digit to the right of the decimal in our original numbers so our answer is 8.4 Check 1 x 6 = 6 so our answer should be closer to 6 than 60 or 0.6
+Division
+When dividing decimals, the first step is to write your numbers as a fraction. Note that the symbol / is used to denote division in these notes.
+Hence 2.14 / 1.2 = 2.14
+1.2
+Next, move the decimal point to the right until both numbers are no longer decimals. Do this the same number of places on the top and bottom, putting in zeros as required.
+
+
+Hence 2.14
+1.2
+
+becomes 214
+120
+
+This can then be calculated as a normal division.
+Always check your answer from the original to make sure that things haven't gone wrong along the way. You would expect 2.14/1.2 to be somewhere between 1 and 2. In fact, the answer is 1.78.
+
+
+If this method seems strange, try using a calculator to calculate 2.14/1.2, 21.4/12, 214/120 and 2140 / 1200. The answer should always be the same.
+
+
+Example
+4.36 / 0.14 = 4.36 = 436 = 31.14
+1.14	14
+
+
+isabokemicah@gmail.com
+Example
+27.93 / 1.2 = 27.93 = 2793 = 23.28
+1.2	120
+
+
+Rounding Up
+
+Some decimal numbers go on forever! To simplify their use, we decide on a cutoff point and "round" them up or down.
+If we want to round 2.734216 to two decimal places, we look at the number in the third place after the decimal, in this case, 4. If the number is 0, 1, 2, 3 or 4, we leave the last figure before the cut off as it is. If the number is 5, 6, 7, 8 or 9 we "round up" the last figure before the cut off by one. 2.734216 therefore becomes 2.73 when rounded to 2 decimal places.
+
+
+
+If we are rounding to 2 decimal places, we leave 2 numbers to the right of the decimal.
+If we are rounding to 2 significant figures, we leave two numbers, whether they are decimals or not.
+
+Example
+
+243.7684 = 243.77 (2 decimal places)
+= 240 (2 significant figures)
+
+
+1973.285 = 1973.29 (2 decimal places)
+= 2000 (2 significant figures)
+2.4689 = 2.47 (2 decimal places)
+= 2.5 (2 significant figures)
+0.99879 = 1.00 (2 decimal places)
+= 1.0 (2 significant figures)
+
+Order of operation
+The same rules on operations is always the same even for decimals.
+
+Examples
+Evaluate
+0.02 + 3.5 x 2.6 - 0.1 (6.2 -3.4)
+
+
+
+
+Solution
+
+isabokemicah@gmail.com
+
+0.02 + 3.5 x 2.6 - 0.1 x 2.8 = 0.02 + 0.91 -0.28
+= 8.84
+End of topic
+
+Past KCSE Questions on the topic
+
+1.) Without using logarithm tables or a calculator evaluate.
+
+384.16 x 0.0625
+96.04
+
+
+2.) Evaluate without using mathematical table
+
+1000
+
+
+3.) Express the numbers 1470 and 7056, each as a product of its prime factors.
+Hence evaluate:	14702
+7056
+Leaving the answer in prime factor form
+4.) Without using mathematical tables or calculators, evaluate
+
+
+5.) Evaluate without using mathematical tables or the calculator
+
+
+
+
+
+CHAPTER NINE
+
+
+0.0625x 2.56
+0.25 x 0.08
+
+
+
+
+
+isabokemicah@gmail.com
+
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) Find squares of numbers by multiplication
+b.) Find squares from tables
+c.) Find square root by factor method
+d.) Find square root from tables.
+Content
+a.) Squares by multiplication
+b.) Squares from tables
+c.) Square roots by factorization
+d.) Square roots from tables.
+
+
+Introduction
+Squares
+The square of a number is simply the umber multiplied by itself once. For example the square of 15 is 225.That is 15 x 15 = 225.
+Square from tables
+The squares of numbers can be read directly from table of squares. This tables give only approximate values of the squares to 4 figures. The squares of numbers from 1.000 to 9.999 can be read directly from the tables.
+The use of tables is illustrated below
+
+Example
+Find the square of:
+a.) 4.25
+b.) 42.5
+c.) 0.425
+
+
+Tables
+
+a.) To read the square of 4.25, look for 4.2 down the column headed x. Move to the right along this row, up to where it intersects with the column headed 5.The number in this position is the square of 4.25
+So 4.252 = 18.06 to 4 figures
+
+
+isabokemicah@gmail.com
+
+b.) The square of 4.25 lies between 402 and 502
+42.52= (4.25 x 101)2
+= 4.252 x 102
+= 18.06 x 100
+= 1806
+
+between 1600 and 2500.
+
+
+
+c.) 0.4252= (4.25 x
+
+1 )2
+10
+
+
+= 4.252 x( 1 )
+10
+=18.06 x 1/100
+= 0.1806
+
+
+The square tables have extra columns labeled 1 to 9 to the right of the thick line. The numbers under these columns are called mean differences. To find 3.162, read 3.16 to get 9.986.Then read the number in the position where the row containing 9.986 intersects with the differences column headed 2.The difference is 13 and this should be added to the last digits of 9.986
+9.986
++	13
+9.999
+56.129 has 5 significant figures and in order to use 4 figures tables, we must first round it off to four figures.
+56.129 = 56.13 to 4 figures
+56.132 = (5.613 x 101)2
+= 31.50 x 102
+= 3150
+
+
+Square Roots
+Square roots are the opposite of squares. For example 5 x 5 = 25, we say that 5 is a square root of 25.
+Any positive number has two square roots, one positive and the other negative .The symbol for the square root of a number isv.
+A number whose square root is an integer is called a perfect square. For example 1, 4,9,25 and 36 are perfect squares.
+
+Square roots by Factorization.
+The square root of a number can also be obtained using factorization method.
+
+
+
+
+Example
+
+isabokemicah@gmail.com
+
+Find the square root of 81 by factorization method.
+
+Solution
+v81 =	(Find the prime factor of 81)
+= (3x3) (3 x 3) (Group the prime factors into two identical numbers)
+= 3 x 3	(Out of the two identical prime factors, choose one and find their product)
+= 9
+
+Note:
+Pair the prime factors into two identical numbers. For every pair, pick only one number then obtain the product.
+
+Example
+Find v1764 by factorization.
+
+Solution
+
+
+
+
+
+Example
+Find v441 by factorization
+
+Solution
+
+= 3 x 7
+=21
+
+
+= 2 x 3 x 7
+= 42
+
+=
+
+
+
+
+
+
+
+
+
+v441 =
+
+
+
+Square Root from tables
+Square roots of numbers from 1.0 to 99.99 are given in the tables and can be read directly.
+
+Examples
+Use tables to find the square root of:
+a.) 1.86	b.) 42.57 c.) 359	d.) 0.8236
+
+Solution
+a.) To read the square root of 1.86, look for 1.8 in the column headed x, move to the right along this row to where it intersects with the column headed 6.The number in this position is the square root of
+1.86.Thus	=1.364 to 4 figures.
+b.) 42.57Look for 42 in the column headed x and move along the row containing 42 to where it intersects
+
+the difference column along this row is 6.The difference is added to 6.519 as shown below: 6.519
+
+
+
+Thus, 42.57 = 6.525 to 4 figures.
+For any number outside this range, it is necessary to first express it as the product of a number in this range and an even power of 10.
+c.) 359 = 3.59 x 102
+
+=
+= 1.895 x 10
+= 18.95 (four figures)
+( 1 )2
+d.) 0.8236 = 82.36 x
+10
+
+=
+
+
+
+
+
+End of topic
+
+= (9.072 + 0.004) x 1
+10
+= 0.9076 (4 figures)
+
+
+
+
+
+Past KCSE Questions on the topic
+1.) Evaluate without using tables or calculators
+
+2.) Evaluate using reciprocals, square and square root tables only.
+
+
+
+
+3.) Using a calculator, evaluate
+
+
+(Show your working at each stage)
+
+
+4.) Use tables of reciprocals and square roots to evaluate
+
+5.) Use tables to find;
+a) I) 4.9782
+ii) The reciprocal of 31.65
+b) Hence evaluate to 4.S.F the value of 4.9782 - 1/31.65
+6.) Use tables of squares, square roots and reciprocals to evaluate correct to 4 S.
+
+
+7. Without using mathematical tables or calculator, evaluate: 153 x 1.8 	giving your answer in standard form		0.68 x 0.32
+
+
+
+
+CHAPTER TEN
+ALGEBRAIC EXPRESSION
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) Use letters to represent numbers
+b.) Write statements in algebraic form
+c.) Simplify algebraic expressions
+d.) Factorize an algebraic expressions by grouping
+e.) Remove brackets from algebraic expressions
+f.) Evaluate algebraic expressions by substituting numerical values
+g.) Apply algebra in real life situations.
+
+
+isabokemicah@gmail.com
+Content
+a.) Letters for numbers
+b.) Algebraic fractions
+c.) Simplification of algebraic expressions
+d.) Factorization by grouping
+e.) Removal of brackets
+f.) Substitution and evaluation
+g.) Problem solving in real life situations.
+
+
+Introduction
+An algebraic expression is a mathematical expression that consists of variables, numbers and operations. The value of this expression can change Clarify the definitions and have students take notes on their graphic organizer.
+Note:
+o Algebraic Expression-contains at least one variable, one number and one operation. An example of an algebraic expression is n + 9.
+o Variable-a letter that is used in place of a number. Sometimes, the variable will be given a value. This value will replace the variable in order to solve the equation. Other times, the variable is not assigned a value and the student is to solve the equation to determine the value of the variable.
+o Constant-a number that stands by itself. The 9 in our previous vocabulary is an example of a constant.
+o Coefficient-a number in front of and attached to a variable. For example, in the expression 5x + 3, the 5 is the coefficient.
+o Term-each part of an expression that is separated by an operation. For instance, in our earlier example n + 9, the terms are n and 7.
+Examples
+Write each phrase as an algebraic expression. Nine increased by a number r ?	9 + r Fourteen decreased by a number x ? 14 - x Six less than a number t ? t - 6
+The product of 5 and a number n ? 5 X n or 5n
+Thirty-two divided by a number y	31 ÷ x  or	31
+x
+Example
+An electrician charges sh 450 per hour and spends sh 200 a day on gasoline. Write an algebraic expression to represent his earnings for one day.
+Solution:	Let x represent the number of hours the electrician works in one day. The electrician's earnings can
+
+
+isabokemicah@gmail.com
+be represented by the following algebraic expression:
+Solution
+450x - 200
+Simplification of Algebraic Expressions Note:
+Basic steps to follow when simplify an algebraic expression:
+* Remove parentheses by multiplying factors.
+* Use exponent rules to remove parentheses in terms with exponents.
+* Combine like terms by adding coefficients.
+* Combine the constants.
+Like and unlike terms
+Like terms have the same variable /letters raised to the same power i.e. 3 b + 2b = 5b or a + 5a = 6a and they
+can be simplified further into 5b and 6a respectively(a2 and 3a2 are also like terms).While unlike terms have
+different variables i.e. 3b + 2 c or 4b + 2x and they cannot be simplified further.
+Example
+3a +12b +4a -2b = 7a + 10b	( collect the lick terms ) 2x - 5y + 3x - 7y + 3w = 5x - 12y + 3w
+Example
+Simplify: 2x - 6y - 4x + 5z - y
+Solution
+2x - 6y - 4x + 5z -y = 2x - 4x - 6y -y + 5z
+= (2x - 4x) - (6y + y) + 5z
+= - 2x - 7y + 5z
+
+Note:
+
+
+-6y - y = -( 6y + y)
+
+
+
+
+Example
+Simplify: 1 a - 1 b + 1a
+2	3	4
+Solution
+The L.C.M of 2, 3 and 4 is 12.
+
+
+
+
+Therefore 1	1
+
+
+
+1	6a-4 b+3a
+
+isabokemicah@gmail.com
+
+2	3	4	12
+
+
+= 6a+3a-4b 12
+
+= 9a-4 b
+12
+
+
+
+
+Example
+Simplify: a+b -
+2
+
+
+2a-b 3
+
+Solution
+
+
+a+b - 2a-b = 3(a + b)-2(2a-b)
+
+2	3	6
+
+
+
+
+
+
+
+
+Example
+5x² - 2x² = 3x²
+
+4a²bc - 2a²bc = 2a²bc
+
+3a+3b-4a+2b 6
+3a -4a+3b+2b
+6
+
+= -a+5b 6
+
+
+a²b - 2b3c + 3a²b +b3c = 4a²b - b3c
+
+Note:
+Capital letter and small letters are not like terms.
+Brackets
+Brackets serve the same purpose as they do in arithmetic.
+Example
+Remove the brackets and simplify:
+a.) 3 ( a + b ) - 2(a - b)
+b.) 1/3a + 3 (5a + b - c )
+c.) 2b + 3 (3 - 2 (a - 5)
+Solution
+a.) 3 ( a + b ) - 2(a - b) = 3a + 3b - 2a + 2b
+
+
+isabokemicah@gmail.com
+= 3a - 2a + 3b + 2b
+= a + 5b
+b.) 1/3a + 3 (5a + b - c ) = 1/3a + 15 a + 3b - 3c
+
+= 15  a + 3b - 3c
+3
+c.) 2b + a { 3 - 2 (a - 5 )} = 2b + a {3 - 2a + 10}
+=2b + 3a - 2a2 + 10a
+= 2b + 3a + 10 a - 2a2
+= 2b + 13a - 2a2
+The process of remaining the brackets is called expansion while the reverse process of inserting the brackets is called factorization.
+Example
+Factorize the following:
+a.) 3m + 3n = 3 (m + n )	( the common term is 3 so we put it outside the bracket)
+b.) ar3 + ar4 + ar5
+c.) 4x2y + 20x4y2 - 36x3y
+Solution
+
+
+
+b.)
+
+
+c.)
+
+
+ar3 + ar4 + ar5(ar3 is common)
+
+
+4x2y + 20x4y2 - 36x3y 4x2y(Is common)
+= 4x2y( 1 + 5x2y - 9x
+
+
+ar3(1+r+r2)
+
+Factorization by grouping
+When the terms of an expression which do not have a common factor are taken pairwise, a common factor can be found. This method is known as factorization by grouping.
+
+
+Example
+Factorize:
+a.) 3ab + 2b + 3ca + 2c
+b.) ab + bx - a - x
+
+
+
+
+Solution
+
+isabokemicah@gmail.com
+
+a.) 3ab + 2b + 3ca + 2c = b ( 3a + 2 ) + c (3a +2 )
+= (3a + 2) (b + c)
+
+
+b.) ab + bx - a - x = b ( a + x ) - 1 ( a + x)
+= (a + x) (b - 1)
+
+
+Algebraic fractions
+In algebra, fractions can be added and subtracted by finding the L.C.M of the denominators.
+Examples
+Express each of the following as a single fraction:
+
+
+a.)
+
+x-1 + x+2 + x
+
+
+b.)
+
+2
+
+a+b - b
+
+4	5
+b-a a
+
+
+c.) 
+
+	1	 + 	3	 +  5
+
+3(a+b)
+Solution
+
+8(a+b)
+
+12a
+
+a.) x-1 + x+2 + x =10 ( x-1 )+5 ( x+2 )+4x
+
+
+(10x -10 + 5x + 10 + 4x)
+
+2	4	5
+=19 x
+20
+
+12a
+
+
+
+
+
+b.) a+b -
+
+b-a = b( a+ b )-a ( b-a )
+
+b	a	ab
+a2+b2 ab
+
+
+
+
+c.) 	1	 + 	3	 +  5
+
+(find the L.C.M. of 3 , 8 and 12 which is 24 , )
+
+3(a+b)	8(a+b)	12a
+(find the L.C.M. of a and ( a+b) is a( a+b) )
+(The L.C.M. of 3 ( a+b) , 8 (a+b )and 12 is 24a ( a+b ) )
+
+
+isabokemicah@gmail.com
+
+
+	1			3		 5
+
+8a+9a+10a+10b
+
+3(a+b) + 8(a+b) + 12a =
+= 27a+10b
+24a( a+b)
+
+24a (a+b)
+
+Simplification by factorization
+Factorization is used to simplify expressions
+Examples
+Simplify p2 - 2pq + q2
+
+2p2 -3pq + q2
+
+Solution
+Numerator is solved first.
+p2 - Pq - pq + q2
+
+
+
+Then solve the denominator 2p2-2pq - pq - q2
+(2p-q) (p-q)
+(p-q)2
+=
+(2p-q)(p-q)
+
+
+
+
+
+
+
+
+
+ p-q 2p-q
+
+
+
+
+
+
+p( p-q) - q(p + q)
+(p-q)2
+
+(p-q)2 = (p-q)(p-q) hence it cancel with the denominator
+
+
+Example
+Simplify
+
+
+
+Solution
+Num. (4m - 3n) (4m + 3n)
+Den. 4m2 - 4mn + 3mn - 3n2 (4m + 3n) (m - n)
+(4m - 3n) (4m + 3n)
+(4m + 3n) (m - n)
+
+
+isabokemicah@gmail.com
+
+
+4m - 3n
+m - n
+Example
+Simplify the expression.
+
+Solution
+Numerator 18x (y - r) Denominator 9x (r - y)
+Therefore 18x (y - r)
+9x ( r-y)
+
+= (y - r)
+( r-y)
+
+
+
+
+Example
+Simplify
+
+Solution
+
+
+
+=
+
+
+12x2+ax-6a2
+
+9x2 -4a2
+
+
+
+
+Example
+Simplify the expression completely.
+ay-ax bx-by
+
+
+
+
+Solution
+a(y-x)
+b(x-y)
+
+
+
+= a(y-x)
+-b(x-y)
+
+isabokemicah@gmail.com
+
+
+= a = -a
+-b	b
+
+Note:
+x - y = -(y-x)
+Substitution
+This is the process of giving variables specific values in an expression
+Example
+2	2
+Evaluate the expression	if x =2 and y = 1
+y+2
+
+Solution
+
+
+
+x2+y2 y+2
+
+
+
+22+12
+=	=
+1+2
+
+
+
+4 +1
+3
+
+
+
+
+= 5 = 12
+3	3
+
+
+
+
+End of topic
+
+
+
+
+
+Past KCSE Questions on the topic
+1. Given that y =	2x - z
+x + 3z	express x in terms of y and z
+2. Simplify the expression
+x - 1	- 2x + 1
+x	3x
+Hence solve the equation
+x - 1	-	2x + 1 = 2
+x	3x	3
+3. Factorize a2 - b2
+Hence find the exact value of 25572 - 25472
+4. Simplify	p2 - 2pq + q2
+
+
+
+
+P3 - pq2 + p2 q -q3
+
+isabokemicah@gmail.com
+
+5. Given that y = 2x - z, express x in terms of y and z.
+   Four farmers took their goats to a market. Mohammed had two more goats as Koech had 3 times as many goats as Mohammed, whereas Odupoy had 10 goats less than both Mohammed and Koech.
+(i) Write a simplified algebraic expression with one variable, representing the total number of goats.
+(ii) Three butchers bought all the goats and shared them equally. If each butcher got 17 goats, how many did odupoy sell to the butchers?
+6. Solve the equation 1 =5 -7
+4x	6x
+7. Simplify
+ a 	+	 b
+2(a+ b)	2(a-b)
+
+
+8. Three years ago, Juma was three times as old. As Ali in two years time, the sum of their ages will be
+62. Determine their ages
+
+
+
+
+
+
+CHAPTER ELEVEN
+RATES, RATIO, PROPORTION AND PERCENTAGE
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Define rates
+b.) Solve problems involving rates
+c.) Define ratio
+d.) Compare two or more quantities using ratios
+e.) Change quantities in a given ratio
+f.) Compare two or more ratios
+g.) Represent and interpret proportional parts
+h.) Recognize direct and inverse proportions
+i.) Solve problems involving direct and inverse proportions
+j.) Convert fractions and decimals to percentages and vice-versa
+
+
+isabokemicah@gmail.com
+k.) Calculate percentage change in a given quantity
+l.) Apply rates, ratios, percentages to real life situations and proportion.
+Content
+a.) Rates
+b.) Solving problems involving rates
+c.) Ratio
+d.) Comparing quantities using ratio
+e.) Increase and decrease in a given ratio
+f.) Comparing ratios
+g.) Proportion: direct and inverse
+h.) Solve problems on direct and inverse proportions
+i.) Fractions and decimals as percentages
+j.) Percentage increase and decrease
+k.) Application of rates, ratios, percentages and proportion to real life situations.
+
+
+Introduction
+Rates
+A rate is a measure of quantity, and comparing one quantity with another of different kind.
+Example
+If a car takes two hours to travel a distance of 160 km. then we will say that it is travelling at an average rate of 80 km per hour. If two kilograms of maize meal is sold for sh. 38.00, then we say that maize meal is selling at the rate of sh.19.00 per kilogram.
+Example
+What is the rate of consumption per day if twelve bags of beans are consumed in 120 days?
+Solution.
+Rate of consumption = number of bags/number of days
+12
+=
+120
+=1/10 bags per day
+
+
+Example
+A laborer's wage is sh.240 per eight hours working day. What is the rate of payment per hour?
+
+
+
+
+Solution
+
+isabokemicah@gmail.com
+
+Rate = amount of money paid/number of hours
+240
+=
+8
+=sh.30 per hour
+
+
+
+
+
+
+Ratio
+A ratio is a way of comparing two similar quantities. For example, if alias is 10 years old and his brother basher is 14 years old. Then alias age is 10/14 of Bashir's age, and their ages are said to be in the ratio of 10 to 14. Written, 10:14.
+Alias age: Bashir's age =10:14 Bashir's age: alias age =14:10
+In stating a ratio, the units must be the same. If on a map 2cm rep 5km on the actual ground, then the ratio of map distance to map distance is 2cm: 5x1 00 000cm, which is 2:500 000.
+A ratio is expressed in its simplest form in the same way as a fraction,
+E.g. 10/14 = 5/7, hence 10:14= 5:7. Similarly, 2:500 000 = 1: 250 000,
+A proportion is a comparison of two or more ratios. If, example, a, b and c are three numbers such that a: b: c=2:3:5, then a, b, c are said to be proportional to 2, 3, 5 and the relationship should be interpreted to mean a/2
+= b/3=c/5.
+Similarly, we can say that a: b =2:3, b: c=3:5 a: c=2:5 Example 3
+If a: b = 3: 4 and b: c = 5: 7 find a: c Solution
+a: b =3 : 4	(i)
+b: c=5 : 7	(ii)
+Consider the right hand side;
+Multiply (i) by 5 and (ii) by 4 to get, a: b=15: 20 and b: c=20: 28 Thus, a: b: c = 15: 20: 28 and a: c=15: 28
+
+
+isabokemicah@gmail.com
+Increase and decrease in a given ratio
+To increase or decrease a quantity in a given ratio, we express the ratio as a fraction and multiply it by the quantity.
+Example
+Increase 20 in the ratio 4: 5
+Solution
+New value =5/4x20
+=5x5
+=25
+Example
+Decrease 45 in the ratio 7:9
+Solution
+New value	=7/9 x45
+=7x5
+=35
+Example
+The price of a pen is adjusted in the ratio 6:5. If the original price was sh.50. What is the new price?
+Solution
+New price: old price = 6:5 New price /old price = 6/5
+New price	= 6/5x50
+= sh. 60
+Note:
+When a ratio expresses a change in a quantity an increase or decrease	, it is usually put in the form of new value: old value
+
+
+
+Comparing ratios
+In order to compare ratios, they have to be expressed as fractions first, ie., a:b = a/b . the resultant fraction can then be compared.
+Example
+Which ratio is greater, 2: 3 or 4: 5? Solution 2:3 = 2/3, 4:5 = 4/5
+2/3 = 10/15, 4/5 = 12/15 = 4/5 > 2/3
+
+
+isabokemicah@gmail.com
+Thus, 4: 5 > 2: 3
+Distributing a quantity in a given ratio
+If a quantity is to be divided in the ratio a: b: c, the fraction of the quantity represented by:
+	a	
+
+(i) A will be
+
+a+b+c
+	a	
+
+(ii) B will be
+
+
+(iii) C will be
+
+Example
+
+a+b+c
+	a	 a+b+c
+
+A 72-hactare farm is to be shared among three sons in the ratio 2:3:4. What will be the sizes in hectares of the three shares?
+Solution
+Total number of parts is 2+3+4= 9 The she shares are: 2/9 x72ha =16ha
+3/9 x 72ha= 24ha 4/9 x72ha = 36ha
+
+Direct and inverse proportion Direct proportion
+The table below shows the cost of various numbers of cups at sh. 20 per cup.
+
+No. of cups12345Cost (sh.)20406080100
+The ratio of the numbers of cups in the fourth column to the number of cups in the second column is 4:2=2:1. The ratio of the corresponding costs is 80:40=2:1. By considering the ratio of costs in any two columns and the corresponding ratio and the number of cups, you should notice that they are always the same.
+If two quantities are such that when the one increases (decreases) in particular ratio, the other one also increases (decreases) in the ratio,
+Example
+A car travels 40km on 5 litres of petrol. How far does it travel on 12 litres of petrol?
+Solution
+Petrol is increased in the ratio 12: 5
+
+
+isabokemicah@gmail.com
+Distance= 40x 12/5 km
+
+
+Example
+A train takes 3 hours to travel between two stations at an average speed of 40km per hour. A t what average speed would it need to travel to cover the same distance in 2hours?
+Solution
+Time is decreased in the ratio 2:3 Speed must be increased in the ratio 3:2 average speed is 40 x 3/2 km = 60 km/h
+
+
+Example
+Ten men working six hours a day take 12 days to complete a job. How long will it take eight men working 12 hours a day to complete the same job?
+Solution
+Number of men decreases in the ratio 8:10
+Therefore, the number of days taken increases in the ratio 10:8. Number of hours increased in the ratio 12:6.
+Therefore, number of days decreases in the ratio 6:12.
+
+
+10	6
+Number of days taken =12 x	x
+8	12
+
+
+Percentages
+
+=7 1/2 days
+
+A percentage (%) is a fraction whose denominator is 100. For example, 27% means 27/100.
+
+
+Converting fractions and decimals into percentages
+To write a decimal or fraction as a %: multiply by 100 .For example
+0.125 = 0.125 ? 100 = 12.5%
+
+2	2	2
+=	? 100  (i.e.	Of 100%) = 40%
+5	5	5
+2
+Or	= 2 ? 5 ? 100 = 40%
+5
+
+
+isabokemicah@gmail.com
+Example
+Change 2/5 into percentage.
+Solution
+2	 x
+=
+5	100
+2
+x =	x 100
+5
+= 40%
+Example
+Convert 0.67 into a percentage: solution
+67
+
+0.67 =
+
+100
+67
+
+As a percentage, 0.67=	x 100
+100
+=67%
+
+
+Percentage increase and decrease
+A quantity can be expressed as a percentage of another by first writing it as a fraction of the given quantity.
+
+
+Example
+A farmer harvested 250 bags of maize in a season. If he sold 200 bags, what percentage of his crops does this represent?
+Let x be the percentage sold.
+200
+
+Then, x/100 =
+
+250
+
+
+200
+So, x	= =	x 100
+250
+
+
+Example
+
+= 80%
+
+A man earning sh. 4 800 per month was given a 25% pay rise. What was his new salary?
+Solution
+New salary = 25/100 x 4800 + 4 800
+
+
+
+
+
+
+Example
+
+
+= 1 200 + 4 800
+= sh. 6 000
+
+isabokemicah@gmail.com
+
+A dress which was costing sh. 1 200 now goes for sh. 960. What is the percentage decrease?
+Solution
+Decrease in cost is 1 200- 960= sh. 240 Percentage decrease = 240/1 200 x 100
+= 20%
+Example
+The ratio of john's earnings to muse's earnings is 5:3. If john's earnings increase by 12%, his new figure becomes sh. 5 600. Find the corresponding percentage change in muse's earnings if the sum of their new earnings is sh.9 600
+
+
+Solution
+John's earnings before the increase is 100/112 x 5600 = sh. 5 000 John's earnings/muse's earnings = 5/3
+Musa's earnings before the increase = 3/5 x5000
+= sh. 3 000
+Musa's new earnings	=9 600 - 5 600
+=sh. 4 000
+Musa's change in earnings	=4 000-1 000
+=sh. 3 000
+Percentage change in muse's earnings = 1000/3000 x100
+=33 1 %
+3
+
+
+
+
+
+End of topic
+
+
+
+
+isabokemicah@gmail.com
+
+
+Past KCSE Questions on the topic
+1. Akinyi bought and beans from a wholesaler. She then mixed the maize and beans in the ratio 4:3 she bought the maize at Kshs 21 per kg and the beans 42 per kg. If she was to make a profit of 30%. What should be the selling price of 1 kg of the mixture?
+2. Water flows from a tap at the rate of 27 cm3 per second into a rectangular container of length 60 cm, breadth 30 cm and height 40 cm. If at 6.00 PM the container was half full, what will be the height of water at 6.04 pm?
+3. Two businessmen jointly bought a minibus which could ferry 25 paying passengers when full. The fare between two towns A and B was Kshs 80 per passenger for one way. The minibus made three round trips between the two towns daily. The cost of fuel was Kshs 1500 per day. The driver and the conductor were paid daily allowances of Kshs 200 and Kshs 150 respectively.
+A further Kshs 4000 per day was set aside for maintenance, insurance and loan repayment.
+(a) (i)	How much money was collected from the passengers that day?
+(ii)	How much was the net profit?
+(b) On another day, the minibus was 80% full on the average for the three round trips, how much did each businessman get if the day's profit was shared in the ratio 2:3?
+4. Wainaina has two dairy farms, A and B. Farm A produces milk with 3 1/4 percent fat and farm B produces milk with 4 1/4 percent fat.
+(a) Determine
+(i) The total mass of milk fat in 50 kg of milk from farm A and 30 kg of milk from farm B
+(ii) The percentage of fat in a mixture of 50kg of milk A and 30kg of milk from B
+(b) The range of values of mass of milk from farm B that must be used in a 50kg mixture so that the mixture may have at least 4 percent fat.
+5. In the year 2001, the price of a sofa set in a shop was Kshs 12,000
+(a) Calculate the amount of money received from the sales of 240 sofa sets that year.
+(b) (i)	In the year 2002 the price of each sofa set increased by 25% while
+the number of sets sold decreased by 10%. Calculate the percentage increase in the amount received from the sales
+(ii)	If the end of year 2002, the price of each sofa set changed in the ratio 16: 15, calculate the price of each sofa set in the year 2003.
+
+
+(c) The number of sofa sets sold in the year 2003 was P% less than the number sold in the year 2001.
+Calculate the value of P, given that the amounts received from sales if the two years were equal.
+6. A solution whose volume is 80 litres is made up of 40% of water and 60% of alcohol. When x litres of water is added, the percentage of alcohol drops to 40%.
+(a) Find the value of x
+(b) Thirty litres of water is added to the new solution. Calculate the percentage of alcohol in the
+
+
+isabokemicah@gmail.com
+resulting solution
+(c) If 5 litres of the solution in (b) above is added to 2 litres of the original solution, calculate in the simplest form, the ratio of water to that of alcohol in the resulting solution.
+7. Three business partners, Asha, Nangila and Cherop contributed Kshs 60,000, Kshs 85,000 and Kshs 105, 000 respectively. They agreed to put 25% of the profit back into business each year. They also agreed to put aside 40% of the remaining profit to cater for taxes and insurance. The rest of the profit would then be shared among the partners in the ratio of their contributions. At the end of the first year, the business realized a gross profit of Kshs 225, 000.
+(a) Calculate the amount of money Cherop received more than Asha at the end of the first year.
+(b) Nangila further invested Kshs 25,000 into the business at the beginning of the second year. Given that the gross profit at the end of the second year increased in the ratio 10:9, calculate Nangila's share of the profit at the end of the second year.
+
+
+8. Kipketer can cultivate a piece of land in 7 hrs while Wanjiku can do the same work in 5 hours. Find the time they would take to cultivate the piece of land when working together.
+
+9. Mogaka and Ondiso working together can do a piece of work in 6 days. Mogaka working alone, takes 5 days longer than Onduso. How many days does it take Onduso to do the work alone.
+
+10. A certain amount of money was shared among 3 children in the ratio 7:5:3 the largest share was Kshs
+91. Find the
+(a) Total amount of money
+(b) Difference in the money received as the largest share and the smallest share.
+
+
+
+CHAPTER TWELVE
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) State the units of measuring length
+b.) Convert units of length from one form to another
+c.) Express numbers to required number of significant figures
+d.) Find the perimeter of a plane figure and circumference of a circle.
+Content
+a.) Units of length (mm, cm, m, km)
+b.) Conversion of units of length from one form to another
+
+
+isabokemicah@gmail.com
+c.) Significant figures
+d.) Perimeter
+e.) Circumference (include length of arcs)
+
+
+Introduction
+Length is the distance between two points. The SI unit of length is metres. Conversion of units of length.
+
+
+1 kilometer (km) = 1000metres 1 hectometer (hm) =100metres 1 decameter (Dm) =10 metres 1 decimeter (dm) = 1/10 metres
+1 centimeter (cm) = 1/100 metres 1 millimeter (mm) = 1/1000 metres
+
+The following prefixes are often used when referring to length: Mega - 1 000 000
+Kilo - 1 000
+Hecto - 100
+Deca -10 Deci-1/10 Centi-1/100 Milli-1/1000
+Micro-1/1 000 000
+
+
+
+
+
+Significant figures
+The accuracy with which we state or write a measurement may depend on its relative size. It would be unrealistic to state the distance between towns A and B as 158.27 km. a more reasonable figure is 158 km.158.27km is the distance expressed to 5 significant figures and 158 km to 3 significant figures.
+
+
+
+
+Example
+
+isabokemicah@gmail.com
+
+Express each of the following numbers to 5, 4, 3, 2, and 1 significant figures:
+(a) 906 315
+
+(b) 0.08564
+
+(c) 40.0089
+
+(d) 156 000
+
+Solution
+
+
+number5 s.f.4s.f3s.f2s.f1 s.f.(a)906 315906 320906 300906 000910 000900 000(b)0.0856410.0856410.085640.08560.0850.09(c)40.008940.00940.0140.04040(d)156 000156 000156 000156 000160 000200 000
+The above example show how we would round off a measurement to a given number of significant figures Zero may not be a significant. For example:
+(i) 0.085  - zero is not significant therefore, 0.085 is a two- significant figure.
+
+(ii) 2.30 - zero is significant. Therefore 2.30 is a three-significant figure.
+
+(iii) 5 000 -zero may or may not be significant figure. Therefore, 5 000 to three significant figure is 5 00 (zero after 5 is significant). To one significant figure is 5 000. Zero after 5 is not significant.
+(iv) 31.805 Or 305 - zero is significant, therefore 31.805 is five significant figure. 305 is three significant figure.
+
+Perimeter
+The perimeter of a plane is the total length of its boundaries. Perimeter is a length and is therefore expressed in the same units as length.
+Square shapes
+5cm
+Its perimeter is 5+5+5+5= 2(5+5)
+=2(10)
+
+
+isabokemicah@gmail.com
+=20cm
+Hence	5x4 = 20
+
+
+So perimeter of a square = Sides x 4
+Rectangular shapes
+Figure12.2 is a rectangle of length 5cm and breadth 3cm.
+5cm
+
+
+3 cm
+
+
+
+Its perimeter is 5+3+5+3 =2(5+3)cm
+=2x8
+= 16cm
+Hence	perimeter of a rectangle	p=2(L+ W)
+
+
+Triangular shapes
+To find the perimeter of a triangle add all the three sides.
+
+
+
+
+a
+
+
+b
+Perimeter = (a + b + c) units, where a, b and c are the lengths of the sides of the triangle.
+
+
+The circle
+The circumference of a circle = 2 pr or pD
+Example
+(a) Find the circumference of a circle of a radius 7cm.
+
+(b) The circumference of a bicycle wheel is 140 cm. find its radius.
+
+Solution
+(a) C= pd
+
+
+isabokemicah@gmail.com
+=22/7 x 7
+=44 cm
+(b) C=pd
+
+=2pr
+=2x22/7xr
+=140 ÷44/7
+=22.27 cm
+Length of an arc
+An arc of a circle is part of its circumference. Figure 12.10 (a) shows two arcs AMB and ANB. Arc AMB, which is less than half the circumference of the circle, is called the minor arc, while arc ANB, which is greater half of the circumference is called the major arc. An arc which is half the circumference of the circle is called a semicircle.
+
+
+Example
+An arc of a circle subtends an angle 60 at the centre of the circle. Find the length of the arc if the radius of the circle is 42 cm. (p=22/7).
+Solution
+The length, l, of the arc is given by:
+L =?/360 x 2pr. T=60, r=42 cm
+Therefore, l =60/360 x2 x 22/7 x 42
+= 44 cm
+
+
+Example
+The length of an arc of a circle is 62.8 cm. find the radius of the circle if the arc subtends an angle 144 at the centre, (take p=3.142).
+
+Solution
+L =?/360 x 2pr = 62.8 and ?= 144
+
+
+Therefore,
+
+144x2 x 3.142 x r = 62.8
+360
+
+
+R= 62.8 x360x 2 x 3.142
+144
+=24.98 cm
+Example
+Find the angle subtended at the centre of a circle by an arc of length 11cm if the radius of the circle is 21cm.
+Solution
+L=?/360 x 2 xpr =11 cm and r =21m L=?/360 x2x22/7x 21=11
+Thus, ?=11x360x7 / 2x22x21
+= 300
+End of topic
+
+
+
+
+
+
+Past KCSE Questions on the topic
+1.)  Two coils which are made by winding copper wire of different gauges and length have the same mass. The first coil is made by winding 270 metres of wire with cross sectional diameter 2.8mm while the second coil is made by winding a certain length of wire with cross-sectional diameter 2.1mm. Find the length of wire in the second coil .
+2. The figure below represents a model of a hut with HG = GF = 10cm and FB = 6cm. The four slanting edges of the roof are each 12cm long.
+
+
+
+
+
+
+
+
+
+
+
+Calculate Length DF. Angle VHF
+The length of the projection of line VH on the plane EFGH. The height of the model hut.
+The length VH.
+The angle DF makes with the plane ABCD.
+3. A square floor is fitted with rectangular tiles of perimeters 220 cm. each row (tile length wise) carries 20 less tiles than each column (tiles breadth wise). If the length of the floor is 9.6 m.
+Calculate:
+a. The dimensions of the tiles
+b. The number of tiles needed
+c. The cost of fitting the tiles, if tiles are sold in dozens at sh. 1500 per dozen and the labour cost is sh. 3000
+CHAPTER THIRTEEN
+
+
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) State units of area
+b.) Convert units of area from one form to another
+c.) Calculate the area of a regular plane figure including circles
+d.) Estimate the area of irregular plane figures by counting squares
+e.) Calculate the surface area of cubes, cuboids and cylinders.
+Content
+a.) Units of area (cm2 , m2 , km2 , Ares, ha)
+b.) Conversion of units of area
+
+c.) Area of regular plane figures
+d.) Area of irregular plane shapes
+e.) Surface area of cubes, cuboids and cylinders
+Introduction Units of Areas
+The area of a plane shape is the amount of the surface enclosed within its boundaries. It is normally measured in square units. For example, a square of sides 5 cm has an area of
+5 x 5 = 25 cm
+A square of sides 1m has an area of 1m, while a square of side 1km has an area of 1km Conversion of units of area
+1 m² =1mx 1m
+= 100 cm x 100 cm
+= 10 000 cm²
+1 km ² = 1 km x 1 km
+= 1 000 m x 1 000 m
+=1 000 000 m²
+1 are	= 10 m x 10 m
+=100 m²
+1 hectare (ha) = 100 Ares
+=10 000 m²
+Area of a regular plane figures Areas of rectangle
+
+5cm
+
+
+3 cm
+
+
+
+
+Area, A =5x3 cm
+=15m2
+
+
+isabokemicah@gmail.com
+Hence, the area of the rectangle, A =L X W square units, where l is the length and b breadth.
+Area of a triangle
+
+
+H
+
+
+Area of a triangle
+A =1/2bh square units
+Area of parallelogram
+Area =1/2bh +1/2bh
+=bh square units
+Note:
+This formulae is also used for a rhombus
+
+
+
+Area of a trapezium
+The figure below shows a trapezium in which the parallel sides are a units and b units, long. The perpendicular distance between the two parallel sides is h units.
+Area of a triangle ABD =1/2 ah square units Area of triangle DBC = 1/2 bh square units
+Therefore area of trapezium ABCD =1/2 ah +1/2 bh
+= 1/2h (a + b) square units.
+Thus, the area of a trapezium is given by a half the sum of the length of parallel sides multiplied by the perpendicular distance between them.
+
+
+That is, area of trapezium =1( a+b )h
+2
+Area of a circle
+The area A of a circle of radius r is given by: A = pr2
+
+The area of a sector
+A sector is a region bounded by two radii and an arc.
+Suppose we want to find the area of the shaded part in the figure below
+
+
+
+
+The area of the whole circle is pr²
+The whole circle subtends 360?	at the centre. Therefore, 360?	corresponds to pr²
+1?	corresponds to 1/360 ?	x pr²
+60 ?	corresponds to 60 ?	/360?	x pr²
+Hence, the area of a sector subtending an angle ? at the centre of the circle is given by
+
+
+
+
+
+Example
+    
+ ?	 A = 3600
+
+x pr2
+
+Find the area of the sector of a circle of radius 3cm if the angle subtended at the centre is 140 ?	(take p=22/7)
+Solution
+Area A of a sector is given by
+?
+A =	0 x pr2
+360
+
+
+
+Here, r =3 cm and ? =1400
+
+
+Therefore, A=
+
+140
+3600
+
+x 22 x 3 x 3
+7
+
+
+Example
+
+= 11 cm²
+
+The area of a sector of a circle is 38.5 cm². Find the radius of the circle if the angle subtended at the centre is
+900 (Take p=22/7)
+
+Solution
+From the formula a = ?/360 x pr², we get 90/360 x 22/7 x r² = 38.5
+Therefore, r² = 38.5 x 360 x 7
+90 x 22
+
+
+Thus, r = 7
+Example
+The area of a circle radius 63 cm is 4158 cm². Calculate the angle subtended at the centre of the circle. (Take p
+=22/7)
+Using a =?/360 x pr²,
+T = 4158 x 7 x 360
+22 x 63 x 63
+=1200
+
+
+Surface area of solids
+Consider a cuboid ABCDEFGH shown in the figure below. If the cuboid is cut through a plane parallel to the ends, the cut surface has the same shape and size as the end faces. PQRS is a plane. The plane is called the cross-section of the cuboid
+
+
+A solid with uniform cross-section is called a prism. The following are some of the prisms. The following are some of the prisms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The surface area of a prism is given by the sum of the area of the surfaces.
+
+The figure below shows a cuboid of length l, breath b and height h. its area is given by; A=2lb+2bh+2hl
+=2(lb. + bh +hl)
+For a cube offside 2cm; A =2(3x2²)
+=24 cm²
+Example
+Find the surface area of a triangular prism shown below.
+
+
+Area of the triangular surfaces = 1/2 x5x12 x2cm²
+
+=60 cm²
+Area of the rectangular surfaces=20 x13 +5 x 20 +12 x20
+=260 + 100 + 240 = 600cm²
+Therefore, the total surface area= (60+600) cm²
+=660 cm²
+Cylinder
+A prism with a circular cross-section is called a cylinder, see the figure below.
+
+
+
+
+If you roll a piece of paper around the curved surface of a cylinder and open it out, you will get a rectangle whose breath is the circumference and length is the height of the cylinder. The ends are two circles. The surface area S of a cylinder with base and height h is therefore given by;
+S=2prh + 2pr²
+Example
+Find the surface area of a cylinder whose radius is 7.7 cm and height 12 cm. Solution
+S =2 p (7.7) x 12 + 2 p (7.7) cm²
+=2 p (7.7) x 12 + (7.7) cm²
+=2 x 7.7 p (12 + 7.7) cm²
+=2 x 7.7 x p (19.7) cm²
+=15.4p (19.7) cm²
+=953.48 cm²
+
+
+Area of irregular shapes
+The area of irregular shape cannot be found accurately, but it can be estimated. As follows;
+(i) Draw a grid of unit squares on the figure or copy the figure on such a grid, see the figure below
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) Count all the unit squares fully enclosed within the figure.
+
+(iii) Count all partially enclosed unit squares and divide the total by two, i.e.., treat each one of them as half of a unit square.
+(iv) The sum of the numbers in (ii) and (ii) gives an estimate of the areas of the figure.
+
+From the figure, the number of full squares is 9 Number of partial squares= 18
+Total number of squares = 9 + 18/2
+=18
+Approximate area = 18 sq. units.
+End of topic
+
+
+
+
+Past KCSE Questions on the topic
+1.) Calculate the area of the shaded region below, given that AC is an arc of a circle centre B. AB=BC=14cm CD=8cm and angle ABD = 750	(4 mks)
+
+
+A
+14 cm
+B	750
+14 cm
+Novels,Updated CPA,CIFA,KASNEB,ICT,CoCllege,High School &Primary Notes 0714497530
+8 cm
+B
+
+
+
+
+
+
+The scale of a map is 1:50000. A lake on the map is 6.16cm2. find the actual area of the lake in hactares.
+(3mks)
+
+3.) The figure below is a rhombus ABCD of sides 4cm. BD is an arc of circle centre C. Given that ?ABC = 1380. Find the area of shaded region.	(3mks)
+
+
+4.) The figure below sows the shape of Kamau's farm with dimensions shown in meters
+
+
+
+
+140
+
+
+100
+
+
+
+
+80m
+
+Find the area of Kamau's farm in hectares	(3mks)
+
+5.) In the figure below AB and AC are tangents to the circle centre O at B and C respectively, the angle AOC = 600
+
+
+Calculate
+(a) The length of AC
+
+
+6.) The figure below shows the floor of a hall. A part of this floor is in the shape of a rectangle of	length 20m and width 16m and the rest is a segment of a circle of radius 12m. Use the figure to	find:-
+
+
+
+(a) The size of angle COD(2mks)(b) The area of figure DABCO(4mks)(c) Area of sector ODC(2mks)(d) Area of the floor of the house.(2mks)7.) The circle below whose area is 18.05cm2 circumscribes a triangle ABC where AB = 6.3cm, BC = 5.7cm and AC = 4.8cm. Find the area of the shaded part
+
+
+8.) In the figure below, PQRS is a rectangle in which PS=10k cm and PQ = 6k cm. M and N are midpoints of QR and RS respectively
+
+
+
+
+
+
+
+a) Find the are of the shaded region	(4 marks)
+b) Given that the area of the triangle MNR = 30 cm2. find the dimensions of the rectangle (2 marks)
+c) Calculate the sizes of angles  and    giving your answer to 2 decimal places
+(4 marks)
+9.) The figure below shows two circles each of radius 10.5 cm with centres A and B. the circles touch each other at T
+
+
+
+Given that angle XAD =angle YBC = 1600 and lines XY, ATB and DC are parallel, calculate the area of:
+d) The minor sector AXTD	(2 marks)
+e) Figure AXYBCD	(6marks)
+f) The shaded region	(2 marks)
+
+
+
+10.) The floor of a room is in the shape of a rectangle 10.5 m long by 6 m wide. Square tiles of length 30 cm are to be fitted onto the floor.
+(a) Calculate the number of tiles needed for the floor.
+
+
+isabokemicah@gmail.com
+(b) A dealer wishes to buy enough tiles for fifteen such rooms. The tiles are packed in cartons each containing 20 tiles. The cost of each carton is Kshs. 800. Calculate
+(i) the total cost of the tiles.
+(ii) If in addition, the dealer spends Kshs. 2,000 and Kshs. 600 on transport and subsistence respectively, at what price should he sell each carton in order to make a profit of 12.5% (Give your answer to the nearest Kshs.)
+
+11.) The figure below is a circle of radius 5cm. Points A, B and C are the vertices of the triangle ABC in which ?ABC = 60o and ?ACB=50o which is in the circle. Calculate the area of ?ABC )
+B
+
+
+
+
+
+
+
+
+12.) Mr.Wanyama has a plot that is in a triangular form. The plot measures 170m, 190m
+and 210m, but the altitudes of the plot as well as the angles are not known. Find the area of the plot in hectares
+
+13.) Three sirens wail at intervals of thirty minutes, fifty minutes and thirty five minutes.
+If they wail together at 7.18a.m on Monday, what time and day will they next wail together?
+
+
+14.) A farmer decides to put two-thirds of his farm under crops. Of this, he put a quarter under maize and four-fifths of the remainder under beans. The rest is planted with carrots.
+If 0.9acres are under carrots, find the total area of the farm
+
+
+isabokemicah@gmail.com
+CHAPTER FOURTEEN
+
+
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) State units of volume
+b.) Convert units of volume from one form to another
+c.) Calculate volume of cubes, cuboids and cylinders
+d.) State units of capacity
+e.) Convert units of capacity from one form to another
+f.) Relate volume to capacity
+g.) Solve problems involving volume and capacity.
+Content
+a.) Units of volume
+b.) Conversion of units of volume
+c.) Volume of cubes, cuboids and cylinders
+d.) Units of capacity
+e.) Conversion of units of capacity
+f.) Relationship between volume and capacity
+g.) Solving problems involving volume and capacity
+
+
+Introduction
+
+Volume is the amount of space occupied by a solid object. The unit of volume is cubic units. A cube of edge 1 cm has a volume of 1 cm x 1 cm x 1 cm =1 cm³.
+Conversion of units of volume
+A cube of side 1 m has a volume of 1 m³ But 1 m = 100 cm
+1 m x 1 m x 1 m = 100 cm x 100 cm x 100 cm
+Thus, 1 m = (0.01 x 0.01 x 0.01) m³
+=0.000001m³
+=1 x 10¯6m³
+
+
+isabokemicah@gmail.com
+A cube side 1 cm has a volume of 1 cm³. But 1 cm=10mm
+1 cm x 1 cm x 1 cm = 10 mm x 10 mm x 10 mm Thus, 1 cm³= 1000mm³
+
+Volume of cubes, cuboids and cylinders Cube
+A cube is a solid having six plane square faces in which the angle between two adjacent faces is a right-angle.
+Volume of a cube= area of base x height
+=l ²x l
+=l³
+Cuboid
+A cuboid is a solid with six faces which are not necessarily square. Volume of a cuboid = length x width x height
+=a sq. units x h
+= ah cubic units.
+Cylinder
+This is a solid with a circular base.
+Volume of a cylinder = area of base x height
+=pr² x h
+=pr²h cubic units
+Example
+Find the volume of a cuboid of length 5 cm, breadth 3 cm and height 4 cm.
+Solution
+Area of its base = 5x4 cm² Volume	=5x4x3 cm³
+= 60 cm³
+Example
+Find the volume of a solid whose cross-section is a right- angled triangle of base 4 cm, height 5 cm and length 12 cm.
+Solution
+Area of cross-section =1/2 x4 x 5
+=10 cm²
+
+
+isabokemicah@gmail.com
+Therefore volume	=10 x 12
+=120 cm³
+Example
+Find the volume of a cylinder with radius 1.4 m and height 13 m.
+Solution
+Area of cross-section= 22/7 x 1.4 x 1.4
+=6.16 m²
+Volume = 6.16 x 13
+=80.08 m³
+In general, volume v of a cylinder of radius r and length l given by v=pr²l
+
+
+Capacity
+Capacity is the ability of a container to hold fluids. The SI unit of capacity is litre (l) Conversion of units to capacity
+1 centiliter (cl)=10 millilitre (ml) 1 decilitre dl = 10 centilitre (cl) 1 litre (l) =10 decilitres (dl)
+1 Decalitre (Dl) = 10 litres (l)
+1 hectolitre (Hl) =10 decalitre( Dl)
+1 kilolitre (kl) =10 hectolitres (Hl)
+1 kilolitre (kl)= 1000 litres (l)
+1 litre (l) =1000 millilitres (ml)
+Relationship between volume and capacity
+A cubed of an edge 10 cm holds 1 litre of liquid. 1 litre =10 cm x 10cm x 10cm
+     = 1 000 cm³ 1 m³ =106 cm³
+1 m³ =10³ litres.
+
+
+End of topic
+
+
+isabokemicah@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+Past KCSE Questions on the topic
+1. ) All the water is poured into a cylindrical container of circular radius 12cm. If the cylinder has height 45cm, calculate the surface area of the cylinder which is not in contact with water.
+2.) The British government hired two planes to airlift football fans to South Africa for the World cup tournament. Each plane took 10 1/2 hours to reach the destination.
+Boeng 747 has carrying capacity of 300 people and consumes fuel at 120 litres per minute. It makes 5 trips at full capacity. Boeng 740 has carrying capacity of 140 people and consumes fuel at 200 litres per minute. It makes 8 trips at full capacity. If the government sponsored the fans one way at the cost of 800 dollars per fan, calculate:
+(a) The total number of fans airlifted to South Africa.	(2mks)
+
+(b) The total cost of fuel used if one litre costs 0.3 dollars.	(4mks)
+
+(c) The total collection in dollars made by each plane.	(2mks)
+
+(d) The net profit made by each plane.	(2mks)
+
+3.) 	A rectangular water tank measures 2.6m by 4.8m at the base and has water to a height of 3.2m. Find the volume of water in litres that is in the tank
+4.) Three litres of water (density1g/cm3) is added to twelve litres of alcohol (density 0.8g/cm3.
+What is the density of the mixture?
+5.) 	A rectangular tank whose internal dimensions are 2.2m by 1.4m by 1.7m is three fifth full of milk.
+(a) Calculate the volume of milk in litres
+       (b) The milk is packed in small packets in the shape of a right pyramid with an equilateral base triangle of sides 10cm. The vertical height of each packet is 13.6cm. Full packets obtained are sold at shs.30 per packet. Calculate:
+(i) The volume in cm3 of each packet to the nearest whole number
+(ii) The number of full packets of milk
+
+
+isabokemicah@gmail.com
+(iii) The amount of money realized from the sale of milk
+6.) An 890kg culvert is made of a hollow cylindrical material with outer radius of 76cm and an inner radius of 64cm. It crosses a road of width 3m, determine the density of the material ssused in its construction in Kg/m3 correct to 1 decimal place.
+
+CHAPTER FIFTEEN
+
+
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) Define mass
+b.) State units of mass
+c.) Convert units of mass from one form to another
+d.) Define weight
+e.) State units of weight
+f.) Distinguish mass and weight
+g.) Relate volume, mass and density.
+Content
+a.) Mass and units of mass
+b.) Weight and units of weight
+c.) Density
+d.) Problem solving involving real life experiences on mass, volume, density and weight.
+
+
+Introduction
+Mass
+The mass of an object is the quantity of matter in it. Mass is constant quantity, wherever the object is, and matter is anything that occupies space. The three states of matter are solid, liquid and gas.
+The SI unit of mass is the kilogram. Other common units are tone, gram and milligram. The following table shows units of mass and their equivalent in kilograms.
+Weight
+The weight of an object on earth is the pull of the earth on it. The weight of any object varies from one place on the earth's surface to the other. This is because the closure the object is to the centre of the earth, the more the gravitational pull, hence the more its weight. For example, an object weighs more at sea level then on top of
+
+
+isabokemicah@gmail.com
+a mountain.
+Units of weight
+The SI unit of weight is newton. The pull of the earth, sun and the moon on an object is called the force of gravity due to the earth, sun and moon respectively. The force of gravity due to the earth on an object of mass 1kg is approximately equal to 9.8N. The strength of the earth's gravitational pull (symbol 'g') on an object on the surface of the earth is about 9.8N/Kg.
+Weight of an object = mass of an object x gravitation Weight N =mass kg x g N/kg
+
+Density
+The density of a substance is the mass of a unit cube of the substance. A body of mass (m)kg and volume (v) m³ has:
+(i) Density (d) = mass (m)/ density (d)
+
+(ii) Mass (m)= density (d) x volume (v)
+
+(iii) Volume (v) = mass (m) / density (d)
+
+Units of density
+The SI units of density is kg/m³. the other common unit is g/cm³ 1 g/cm³ = 1 000kg/m³
+Example
+Find the mass of an ice cube of side 6 cm, if the density of the ice is 0.92 g/ cm³.
+Solution
+Volume of cube = 6x6x6 = 216 cm³ Mass = density x volume
+=216 x 0.92
+=198.72 g
+Example
+Find the volume of cork of mass 48 g. given that density of cork is 0.24 g/cm³
+Solution
+Volume = mass/density
+=48/0.24
+=200cm³
+Example
+The density of iron is 7.9 g/cm³. what is this density in kg/m³ Solution
+
+
+isabokemicah@gmail.com
+1 g/cm³ = 1 000 kg/m³
+7.9 g/cm³ =7.9 x 1000/1
+= 7 900kg/m³
+Example
+A rectangular slab of glass measures 8 cm by 2 cm by 14 cm and has a mass of 610g. calculate the density of the glass in kg/m³
+Solution
+Volume of the slab = 8x 2x14
+                =224 cm³ Mass of the slab = 610 g Density	= 610/244
+= 2.5 x 1 000 kg = 25 000kg/m³
+End of topic
+
+
+
+
+Past KCSE Questions on the topic
+1.) A squared brass plate is 2mm thick and has a mass of 1.05kg. The density of brass is 8.4g/cm. Calculate the length of the plate in centimeters.	(3mks)
+2.) A sphere has a surface area 18cm2. Find its density if the sphere has a mass of 100g.(3mks)
+
+3.) Nyahururu Municipal Council is to construct a floor of an open wholesale market whose area is 800m2. The floor is to be covered with a slab of uniform thickness of 200mm. In order to make the slab, sand, cement and ballast are to be mixed such that their masses are in the ratio 3:2:3. The	mass of dry slab of volume 1m3 is 2000kg. Calculate
+(a) (i) The volume of the slab	(2mks)
+
+(ii) The mass of the dry slab.	(2mks)
+
+(iii) The mass of cement to be used.	(2mks)
+
+(b) If one bag of the cement is 50kg, find the number of bags to be purchased.	(1mk)
+
+
+isabokemicah@gmail.com
+(c) If a lorry carries 10 tonnes of ballast, calculate the number of lorries of ballast to be	purchased.
+(3mks)
+
+4.) A sphere has a surface area of 18.0cm2. Find its density if the sphere has a mass of 100 grammes.
+
+(3 mks)
+
+5.) A piece of metal has a volume of 20 cm3 and a mass of 300g. Calculate the density of the metal in kg/m3.
+6.) 2.5 litres of water density 1g/cm3 is added to 8 litres of alcohol density 0.8g/cm3. Calculate the density of the mixture
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER TEN
+
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) Convert units of time from one form to another
+b.) Relate the 12 hour and 24 hour clock systems
+c.) Read and interpret travel time-tables
+d.) Solve problems involving travel time tables.
+Content
+a.) Units of time
+b.) 12 hour and 24 hour clock systems
+c.) Travel time-tables
+d.) Problems involving travel time tables
+
+
+isabokemicah@gmail.com
+Introduction
+Units of time
+1 week = 7 days
+1 day = 24 hours
+1 hour = 60 minutes
+1 minutes = 60 seconds
+Example
+How many hours are there in one week?
+Solution
+1 week = 7 days
+1 day =24 hours
+1 week = (7 x24) hours
+=168 hours
+
+
+Example
+Covert 3h 45 min into minutes
+Solution
+1 h = 60 min
+
+3 h = (3x60) min
+
+3h 45min =((60x3) + 45) min
+
+=(180+45) min
+
+=225 min
+Example
+Express 4h 15 min in sec
+
+
+Solution
+1 hour = 60 min
+
+1 min= 60 sec
+4h 15 min=(4x60+15 ) min
+=240+15 min
+
+=255 min
+=255 x 60 sec
+=15 300 sec.
+The 12 and the 24 hour systems
+In the 12 hour system, time is counted from midnight. The time from midnight to midday is written as am . while that from midday to midnight is written as pm.
+In the 24 hour system, time is counted from midnight and expressed in hours.
+
+
+Travel time table
+Travel timetables shows the expected arrival and departure time for vehicles. Ships, aeroplanes, trains.
+Example
+The table below shows a timetable for a public service vehicle plying between two towns A and D via towns B and C.
+
+TownArrival timeDeparture timeA B C
+D
+10.40 P.M
+2.30 P.M
+4.00 P.M8.20 A.M
+11.00 A.M
+2.50 P.M
+(a) What time does the vehicle leave town A?
+
+(b) At what time does it arrive in town D?
+
+(c) How long does it take to travel from town A to D.
+
+(d) What time does the vehicle takes to travel from town C to D?
+
+Solution
+(a) 8.20 A.M
+
+(b) 4.00 P.M
+
+(c) Arrival time in town D was 4.00 p.m. it departure from town A was 8.20 a.m.
+
+Time taken= (12.00-8.20 +4 h)
+=3 h 40 min +4 h
+= 7 h 40 min
+(d) The vehicle arrived in town D at 4.00 p.m. it departed from town C at 2.50 p.m.
+
+Time taken = 4.00-2.50
+=1 h 10 min
+
+
+
+End of topic
+
+
+
+
+Past KCSE Questions on the topic
+1.) A van travelled from Kitale to Kisumu a distance of 160km. The average speed of the van for the first 100km was 40km/h and the remaining part of the journey its average speed was 30km/h. Calculate the average speed for the whole journey.	(3 mks)
+2.) A watch which looses a half-minute every hour was set to read the correct time at 0545h on Monday. Determine the time, in the 12 hour system, the watch will show on the following Friday at 1945h.
+
+
+
+
+
+3.) The timetable below shows the departure and arrival time for a bus plying between two towns M and R, 300km apart	0710982617
+
+
+
+TownArrivalDepartureM0830hN1000h1020hP1310h1340hQ1510h1520hR1600h
+(a) How long does the bus take to travel from town M to R?
+
+
+
+(b) What is the average speed for the whole journey?
+
+
+CHAPTER SEVENTEEN
+
+
+
+
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) solve linear equations in one unknown
+b.) solve simultaneous linear equations by substitution and elimination
+c.) Linear equations in one and two unknown.
+Content
+a.) Linear equations in one unknown
+b.) Simultaneous linear equations
+c.) Linear equations in one and two unknowns from given real life situations
+
+
+Introduction
+
+Linear equations are straight line equations involving one or two unknowns. In this chapter, we will deal with the formation and solving of such equations consider the following cases.
+Example
+Solve for the unknowns in each of the following equations 3x + 4 = 10
+x - 2 = 4
+3
+p+5= 5/4
+3
+Solution
+3x + 4 =10
+3x + 4 - 4 = 10 - 4 (to make x the subject subtract 4 on both sides) 3x = 6
+X = 2
+
+
+
+
+2 = 4
+
+
+2 + 2 = 4 + 2	(to make x the subject add 2 to both sides)
+
+x = 6
+3
+X = 18
+
+
+
+p+5= 5
+3	4
+
+3 x ( p+5) = 5 x 3
+3	4
+
+
+P+ 5 = 5 x3
+4
+
+
+4(p + 5) = 5 x4
+4
+4p + 20 = 15
+4p = -5
+P =-5
+4
+= - 1 1/4
+
+Solving an equation with fractions or decimals, there is an option of clearing the fractions or decimals in order to create a simpler equation involving whole numbers.
+1. To clear fractions, multiply both sides of the equation (distributing to all terms) by the LCD of all the fractions.
+2. To clear decimals, multiply both sides of the equation (distributing to all terms) by the lowest power of 10 that will make all decimals whole numbers.
+
+
+isabokemicah@gmail.com
+Steps for Solving a Linear Equation in One Variable:
+1. Simplify both sides of the equation.
+2. Use the addition or subtraction properties of equality to collect the variable terms on one side of the equation and the constant terms on the other.
+3. Use the multiplication or division properties of equality to make the coefficient of the variable term equal to 1.
+4. Check your answer by substituting your solution into the original equation.
+Note:
+All other linear equations which have only one solution are called conditional.
+
+
+
+Example
+Solve for the unknown in each in of the following equations
+
+
+a.) x+1 -
+2
+
+x-1 = 1/8
+3
+
+
+b.) 3y - 14 y-3=y-1
+2	5	4
+c.) 1 - y - 2 (y-3) = 0
+2	2
+Solution
+a.) (x+1)x24 - (x-1)x24 = 1/8 x 24 ( multiply both sides by the L.C.M of 2 ,3 and 8)
+
+
+12(x+1)-8 (x - 2) = 3
+12x + 12- 8x - 16 =3
+
+
+4x = -25
+
+
+
+
+4x + 28 = 3
+
+
+x = - 61
+4
+
+b.) 3yx 20 - (14 y-3)x 20 =(y-1)x20(multiply both sides by the L.C.M of 2 5 and 4)
+30y- 4 (14y -3) = 5 (y - 4)
+-26 + 12 = 5y -20
+31 y = 32
+
+
+isabokemicah@gmail.com
+
+y = 32 = 1 1
+
+
+
+c.) 
+
+(1 x 2) - (y x 2)- 2 (y-3)x 2 = 0 x 2
+
+31	31
+
+2	2
+2 - y - 2(y-3) = 0
+
+
+2 - y - 2y + 6 = 0
+8 - 3y = 0
+
+
+3y = 8 = 22
+3	3
+
+
+
+
+
+
+Problems leading to Linear equations
+Equations are very useful in solving problems. The basic technique is to determine what quantity it is that we are trying to find and make that the unknown. We then translate the problem into an equation and solve it. You should always try to minimize the number of unknowns. For example, if we are told that a piece of rope 8 metres long is cut in two and one piece is x metres, then we can write the remaining piece as (8 - x) metres, rather than introducing a second unknown.
+
+
+Word problems
+Equations arise in everyday life. For example Mary bought a number of oranges from Anita's kiosk. She then went to Marks kiosk and bought the same number of oranges. Mark them gave her three more oranges. The oranges from the two kiosks were wrapped in different paper bags. On reaching her house, she found that a quarter of the first Lot oranges and a fifth of the second were bad. If in total six oranges were bad, find how many oranges she bought from Anita's kiosk.
+Solution
+Let the number of oranges bought at Anita's kiosk be x.
+Then, the number of oranges obtained from Marks kiosk will be x +3.
+Number of Bad oranges from Marks kiosk wasx+3.
+5
+
+
+Total number of Bad oranges is equal to = x +
+4
+
+x+3 5
+
+Thus, = x + x+3 = 6
+4	5
+
+
+isabokemicah@gmail.com
+Multiply each term of the equation by 20 (L.C.M of 4 and 5) to get rid of the denominator.
+=20 x x + 20(x+3) = 6 x 20
+5x + 4 (x + 3) = 120
+5x + 4x + 12 =120 (Removing brackets) Subtracting 12 from both sides.
+9x =108
+X = 12
+Thus, the number of oranges bought from Anita's kiosk was 12.
+Note:
+If any operation is performed on one side of an equation,it must also be performed on the other side.
+Example
+
+Solve for x in the equation: x+3 -
+2
+
+x-4 = 4
+3
+
+Solution
+Eliminate the fractions by multiplying each term by 6 (L.C.M, of 2 and 3 ).
+6x (x+3) - 6( x-4) = 4x6
+2	3
+3(x + 3) - 2 (x - 4) = 24
+3x + 9 - 2x + 8 = 24(note the change in sigh when the bracket are removed)
+x + 17 = 24
+x = 7
+Linear Equations in Two Unknowns
+Many problems involve finding values of two or more unknowns. These are often linked via a number of linear equations. For example, if I tell you that the sum of two numbers is 89 and their difference is 33, we can let the larger number be x and the smaller one y and write the given information as a pair of equations:
+x + y = 89 (1)
+x - Y = 33. (2)
+These are called simultaneous equations since we seek values of x and y that makes both equations true simultaneously. In this case, if we add the equations we obtain 2x = 122, so x = 61. We can then substitute this value back into either equation, say the first, then 61 + y = 89 giving y = 28.
+Example
+The cost of two skirts and three blouses is sh 600.If the cost of one skirt and two blouses of the same quality sh 350,find the cost of each item.
+
+
+
+
+Solution
+
+isabokemicah@gmail.com
+
+Let the cost of one skirt be x shillings and that of one blouse be y shillings. The cost of two skirts and three blouses is 2x + 3y shillings.
+The cost of one skirt and two blouses is x + 2y shillings. So, 2x + 3y = 600	(I)
+X + 2y = 350	(II)
+Multiplying equation (II) by 2 to get equation (III). 2x + 4y = 700	(III).
+2x + 3y = 600	(I)
+Subtracting equation (I) from (II), y = 100. From equation (II),
+X + 2y = 350 but y = 100 X + 200 = 350
+X = 150
+Thus the cost of one skirt is 150 shillings and that of a blouse is 100 shillings.
+In solving the problem above, we reduced the equations from two unknowns to a single unknown in y by eliminating. This is the elimination method of solving simultaneous equations.
+Examples
+a.) a + b = 7
+
+
+
+b.) 3a + 5b = 20
+
+
+c.) 3x + 4y = 18
+
+
+Solutions
+a.)
+
+
+
+Adding I to II 2a = 12 ?a = 6
+Subtracting II from I ; 2b = 2
+
+a - b = 5
+
+
+6a - 5b = 12
+
+
+5x + 6y = 28
+
+
+
+a + b = 7	(i)
+a - b = 5	(ii)
+
+
+isabokemicah@gmail.com
+
+
+
+b.) 3a + 5b = 20	(i)
+
+b = 1
+
+
+6a - 5b = 12	(ii)
+
+To eliminate b , we simply add the two equations.
+9a = 32
+
+a = 32
+9
+Find the value of b
+
+
+
+c.) 3x + 4y = 18	(i)
+
+
+
+5x + 6y = 28	(ii)
+
+
+Here it is not easy to know the obvious unknown to be eliminated
+To eliminate (I) by 5 and (II) by 3 to get (III) and (IV) respectively and subtracting (IV) from (III);
+d.) 15x + 20y = 90	(iii)
+
+15x + 18y = 84	(iv)
+2y = 6
+Therefore y = 3 Substituting y = 3 in (I); 3x + 12 = 18
+Therefore x =2
+Note that the L.C.M of 3 and 5 is 15. To eliminate y;
+Multiplying (I) by 3, (II) by 2 to get (V) and (VI) and Subtracting (V) from (VI);
+9x + 12y = 54	(v)
+10x + 12y = 56	(vi)
+Subtracting x = 2 in (ii); 10 + 6y = 28
+6y = 18
+Therefore y = 3.
+Note;
+* It is advisable to study the equation and decide which variable is easier to eliminate.
+
+* It is necessary to check your solution by substituting into the original equations.
+
+
+
+Solution by substitution
+
+
+Taking equation (II) alone;
+
+
+Subtracting 2y from both sides;
+
+
+Substituting this value of x in equation(i); 2(350 - 2y) + 3y = 600
+700 - 4y + 3y = 600 Y = 100
+Substituting this value of y in equation(iii);
+
+
+2x + 3y = 600	(i)
+x + 2y = 350	(ii)
+
+
+x + 2y = 350
+
+
+x = 350 - 2y	(iii)
+
+
+
+
+
+
+
+
+x = 350 - 2y
+= 350 - 200
+x = 150
+
+
+
+This method of solving simultaneous equations is called the substitution method
+
+End of topic
+
+
+
+
+Past KCSE Questions on the topic
+1. A cloth dealer sold 3 shirts and 2 trousers for Kshs 840 and 4 shirts and 5 trousers for Kshs 1680 find the cost of 1 shirt and the cost of 1 trouser
+2. Solve the simultaneous equations 2x - y = 3
+x2 - xy = -4
+
+3. The cost of 5 skirts and blouses is Kshs 1750. Mueni bought three of the skirts and one of the blouses for Kshs 850. Find the cost of each item.
+4. Akinyi bought three cups and four spoons for Kshs 324. Wanjiru bought five cups and Fatuma bought two spoons of the same type as those bought by Akinyi, Wanjiku paid Kshs 228 more than Fatuma. Find the price of each cup and each spoon.
+5. Mary has 21 coins whose total value is Kshs. 72. There are twice as many five shillings coins as there are ten shilling coins. The rest one shillings coins. Find the number of ten shillings coins that Mary has.	( 4 mks)
+6. The mass of 6 similar art books and 4 similar biology books is 7.2 kg. The mass of 2 such art books and 3 such biology books is 3.4 kg. Find the mass of one art book and the mass of one biology book
+7. Karani bought 4 pencils and 6 biros - pens for Kshs 66 and Tachora bought 2 pencils and 5 biro pens for Kshs 51.
+(a) Find the price of each item
+(b) Musoma spent Kshs. 228 to buy the same type of pencils and biro - pens if the number of biro pens he bought were 4 more than the number of pencils, find the number of pencils bought.
+8. Solve the simultaneous equations below 2x - 3y = 5
+-x + 2y = -3
+9. The length of a room is 4 metres longer than its width. Find the length of the room if its area is 32m2
+10. Hadija and Kagendo bought the same types of pens and exercise books from the same types of pens and exercise books from the same shop. Hadija bought 2 pens and 3 exercise books for Kshs
+78. Kagendo bought 3 pens and 4 exercise books for Kshs 108. Calculate the cost of each item
+11. In fourteen years time, a mother will be twice as old as her son. Four years ago, the sum of their ages was 30 years. Find how old the mother was, when the son was born.
+12. Three years ago Juma was three times as old as Ali. In two years time the sum of their ages will be
+62. Determine their ages.
+13. Two pairs of trousers and three shirts costs a total of Kshs 390. Five such pairs of trousers and two shirts cost a total of Kshs 810. Find the price of a pair of trousers and a shirt.
+14. 	A shopkeeper sells two- types of pangas type x and type y. Twelve x pangas and five type y pangas cost Kshs 1260, while nine type x pangas and fifteen type y pangas cost 1620. Mugala bought eighteen type y pangas. How much did he pay for them?
+
+
+CHAPTER EIGHTEEN
+
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) State the currencies of different countries
+b.) Convert currency from one form into another given the exchange rates
+c.) Calculate profit and loss
+d.) Express profit and loss as percentages
+
+e.) Calculate discount and commission
+f.) Express discount and commission as percentage.
+Content
+a.) Currency
+b.) Current currency exchange rates
+c.) Currency conversion
+d.) Profit and loss
+e.) Percentage profit and loss
+f.) Discounts and commissions
+g.) Percentage discounts and commissions
+
+
+Introduction
+In commercial arithmetic we deal with calculations involving business transaction. The medium of any business transactions is usually called the currency. The Kenya currency consist of a basic unit called a shilling.100 cents are equivalent to one Kenyan shillings, while a Kenyan pound is equivalent to twenty Kenya shillings.
+Currency Exchange Rates
+The Kenyan currency cannot be used for business transactions in other countries. To facilitate international trade, many currencies have been given different values relative to another. These are known as exchange rates.
+The table below shows the exchange rates of major international currencies at the close of business on a certain day in the year 2015.The buying and selling column represents the rates at which banks buy and sell these currencies.
+
+
+Note
+The rates are not always fixed and they keep on charging. When changing the Kenyan currency to foreign currency, the bank sells to you. Therefore, we use the selling column rate. Conversely when changing foreign currency to Kenyan Currency, the bank buys from you, so we use the buying column rate.
+
+CurrencyBuyingSellingDOLLAR102.1472102.3324STG POUND154.0278154.3617EURO109.6072109.8522SA RAND7.33327.3486KES / USHS33.078533.2363KES / TSHS20.912321.0481
+
+isabokemicah@gmail.com
+
+KES / RWF7.23137.3423AE DIRHAM27.807327.8653CAN $77.601877.7661JAPNESE YEN84.023484.1964SAUDI RIYAL27.228427.2959CHINESE YUAN16.077816.1082AUSTRALIAN $71.860672.0420ExampleConvert each of the following currencies to its stated equivalent
+a.) Us $305 to Ksh
+b.) 530 Dirham to euro
+
+
+
+Solution
+   a.) The bank buys Us 1 at Ksh	102.1472 Therefore US $ 305 = Ksh (102.1472 x 305)
+= Ksh 31,154.896
+                 = Ksh 31,154.00 (To the nearest shillings) The bank buys 1 Dirham at Ksh 27.8073
+Therefore 530 Dirham = Ksh (21.8073 x 530)
+                  = Ksh 11, 557.00 (To the nearest shillings) The bank sells 1 Euro at 109.8522
+Therefore 530 Dirham = 11, 557/109.8522
+= 105.170 Euros
+Example
+During a certain month, the exchange rates in a bank were as follows;
+
+Buying (Ksh.)Selling (Ksh.)1 US $91.6591.801 Euro103.75103.93
+
+isabokemicah@gmail.com
+A tourist left Kenya to the United States with Ksh.1 000,000.On the airport he exchanged all the money to dollars and spent 190 dollars on air ticket. While in US he spent 4500 dollars for upkeep and proceeded to Europe. While in Europe he spent a total of 2000 Euros. How many Euros did he remain with?   (3marks)
+Solution
+Profit and Loss
+The difference between the cost price and the selling price is either profit or loss. If the selling price is greater than the cost price, the difference is a profit and if the selling price is less than the total cost price, the difference is a loss.
+Note
+Selling price - cost price = profit
+Percentage profit =   Profit	 x 100
+Cost price
+Cost price - selling price = loss
+
+Percentage loss =   Profit	
+Cost price
+
+
+x 100
+
+Example
+Ollie bought a cow at sh 18000 and sold it at sh 21000.What percentage profit did he make?
+Solution
+Selling price = sh 21000 Cost price = sh 18000 Profit = sh (21000 -18, 000)
+= sh 3000
+
+
+
+Percentage profit =
+
+= 16 2 %
+3
+Example
+
+3000
+18000
+
+
+x 100
+
+Johnny bought a dress at 3500 and later sold it at sh.2800.what percentage loss did he incurs?
+
+
+
+
+Cost price = sh 3500 Selling price = sh 2800 Loss = sh (3500 - 2800)
+= Sh 700
+
+isabokemicah@gmail.com
+
+
+
+
+Percentage loss =
+
+700
+3500
+
+
+x 100 = 20%
+
+
+
+Discount
+A shopkeeper may decide to sell an article at reduced price. The difference between the marked price and the reduced price is referred to as the discount. The discount is usually expressed as a percentage of the actual price.
+Example
+The price of an article is marked at sh 120.A discount is allowed and the article sold at sh 96.Calculate the percentage discount.
+Solution
+Actual price = sh 120.00 Reduced price = sh 96.00 Discount = sh (120.00 - 96.00)
+=sh 24
+Percentage discount = 24/120 x 100
+= sh 20%
+Commission
+A commission is an agreed rate of payment, usually expressed as a percentage, to an agent for his services.
+Example
+Mr. Neasa, a salesman in a soap industry, sold 250 pieces of toilet soap at sh 45.00 and 215 packets of determining at sh 75.00 per packet. If he got a 5% commission on the sales, how much money did he get as commission?
+Solution
+Sales for the toilet soap was 250 x 45 = sh 11250 Sales for the detergent was 215 x 75 = sh 16125
+
+Commission =  5
+100
+
+( 11250+16125)
+
+
+
+ 5 100
+
+
+
+
+x 27375 = sh1368
+
+
+
+Example
+A salesman earns a basic salary of sh. 9,000 per month. In addition he is also paid a commission of 5% for sales above sh. 15,000. In a certain month he sold goods worth sh. 120,000 at a discount of 21/2%. Calculate his total earnings that month.	{3 marks}
+Solution
+sales sh.120,000
+
+
+net after discount97.5 ×120,000 = 17,000
+100
+
+
+sales above sh.15,000 = 117,000 - 15,000
+
+
+= kshs.102,000
+
+commisiion  5
+100
+
+
+×102,000 = 5,100
+
+
+
+totl earnings = 9,000 + 5,100
+= kshs 14,100
+
+
+End of topic
+
+
+
+
+Past KCSE Questions on the topic
+1. The cash prize of a television set is Kshs 25000. A customer paid a deposit of Kshs 3750. He repaid the amount owing in 24 equal monthly installments. If he was charged simple interest at the rate of 40% p.a how much was each installment?
+2. Mr Ngeny borrowed Kshs 560,000 from a bank to buy a piece of land. He was required to repay the loan with simple interest for a period of 48 months. The repayment amounted to Kshs 21,000 per month.
+Calculate
+(a) The interest paid to the bank
+
+(b) The rate per annum of the simple interest
+3. A car dealer charges 5% commission for selling a car. He received a commission of Kshs 17,500 for selling car. How much money did the owner receive from the sale of his car?
+4. A company saleslady sold goods worth Kshs 240,000 from this sale she earned a commission of Kshs 4,000
+(a) Calculate the rate of commission
+(b) If she sold good whose total marked price was Kshs 360,000 and allowed a discount of 2% calculate the amount of commission she received.
+5. A business woman bought two bags of maize at the same price per bag. She discovered that one bag was of high quality and the other of low quality. On the high quality bag she made a profit by selling at Kshs 1,040, whereas on the low quality bag she made a loss by selling at Kshs 880. If the profit was three times the loss, calculate the buying price per bag.
+6. A salesman gets a commission of 2. 4 % on sales up to Kshs 100,000. He gets an additional commission of 1.5% on sales above this. Calculate the commission he gets on sales worth Kshs 280,000.
+7. Three people Koris, Wangare and Hassan contributed money to start a business. Korir contributed a quarter of the total amount and Wangare two fifths of the remainder.
+Hassan's contribution was one and a half times that of Koris. They borrowed the rest of the money from the bank which was Kshs 60,000 less than Hassan's contribution. Find the total amount required to start the business.
+8. A Kenyan tourist left Germany for Kenya through Switzerland. While in Switzerland he bought a watch worth 52 deutsche Marks. Find the value of the watch in:
+(a) Swiss Francs.
+(b) Kenya Shillings
+Use the exchange rtes below:
+1 Swiss Franc = 1.28 Deutsche Marks. 1 Swiss Franc = 45.21 Kenya Shillings
+9. A salesman earns a basic salary of Kshs. 9000 per month
+In addition he is also paid a commission of 5% for sales above Kshs 15000
+In a certain month he sold goods worth Kshs. 120, 000 at a discount of 21/2 %. Calculate his total earnings that month
+10. In this question, mathematical table should not be used
+A Kenyan bank buys and sells foreign currencies as shown below
+Buying	Selling
+(In Kenya shillings)	In Kenya Shillings
+1 Hong Kong dollar	9.74	9.77
+1 South African rand	12.03	12.11
+A tourists arrived in Kenya with 105 000 Hong Kong dollars and changed the whole amount to Kenyan shillings. While in Kenya, she pent Kshs 403 897 and changed the balance to South African rand before leaving for South Africa. Calculate the amount, in South African rand that she received.
+
+
+isabokemicah@gmail.com
+11. A Kenyan businessman bought goods from Japan worth 2, 950 000 Japanese yen. On arrival in Kenya custom duty of 20% was charged on the value of the goods.
+If the exchange rates were as follows 1 US dollar = 118 Japanese Yen
+1 US dollar = 76 Kenya shillings Calculate the duty paid in Kenya shillings
+
+12. Two businessmen jointly bought a minibus which could ferry 25 paying passengers when full. The fare between two towns A and B was Kshs. 80 per passenger for one way. The minibus made three round trips between the two towns daily. The cost of fuel was Kshs 1500 per day. The driver and the conductor were paid daily allowances of Kshs 200 and Kshs 150 respectively.
+A further Kshs 4000 per day was set aside for maintenance.
+(a) One day the minibus was full on every trip.
+(i) How much money was collected from the passengers that day?
+(ii) How much was the net profit?
+(b) On another day, the minibus was 80% on the average for the three round
+trips. How much did each business get if the days profit was shared in the ratio 2:3?
+
+
+13. A traveler had sterling pounds 918 with which he bought Kenya shillings at the rate of Kshs 84 per sterling pound. He did not spend the money as intended. Later, he used the Kenyan shillings to buy sterling pound at the rate of Kshs. 85 per sterling pound. Calculate the amount of money in sterling pounds lost in the whole transaction.
+
+14. A commercial bank buys and sells Japanese Yen in Kenya shillings at the rates shown below Buying	0.5024
+Selling   0.5446
+A Japanese tourist at the end of his tour of Kenya was left with Kshs. 30000 which he converted to Japanese Yen through the commercial bank. How many Japanese Yen did he get?
+
+
+15. In the month of January, an insurance salesman earned Kshs. 6750 which was commission of 4.5% of the premiums paid to the company.
+(a) Calculate the premium paid to the company.
+(b) In February the rate of commission was reduced by 662/3% and the
+premiums reduced by 10% calculate the amount earned by the salesman in the month of February
+
+
+16. Akinyi, Bundi, Cura and Diba invested some money in a business in the ratio of 7:9:10:14 respectively. The business realized a profit of Kshs 46800. They shared 12% of the profit equally
+
+
+
+and the remainder in the ratio of their contributions. Calculate the total amount of money received by Diba.
+
+17. A telephone bill includes Kshs 4320 for a local calls Kshs 3260 for trank calls and rental charge Kshs 2080. A value added tax (V.A.T) is then charged at 15%, Find the total bill.
+18. During a certain period. The exchange rates were as follows 1 sterling pound = Kshs 102.0
+1 sterling pound = 1.7 us dollar 1 U.S dollar = Kshs 60.6
+A school management intended to import textbooks worth Kshs 500,000 from UK. It changed the money to sterling pounds. Later the management found out that the books the sterling pounds to dollars. Unfortunately a financial crisis arose and the money had to be converted to Kenya shillings. Calculate the total amount of money the management ended up with.
+
+
+19. A fruiterer bought 144 pineapples at Kshs 100 for every six pineapples. She sold some of them at Kshs 72 for every three and the rest at Kshs 60 for every two.
+If she made a 65% profit, calculate the number of pineapples sold at Kshs 72 for every three.
+
+
+CHAPTER TEN
+COORDINATES AND GRAPHS
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) Draw and label the complete Cartesian plane
+b.) Locate and plot points on the Cartesian plane
+c.) Choose and use appropriate scale for a given data
+d.) Make a table of values for a given linear relation
+e.) Use values to draw a linear graph
+f.) Solve simultaneous linear equations graphically
+g.) Draw, read and interpret graphs.
+Content
+a.) Cartesian plane
+b.) Cartesian co-ordinate
+c.) Points on the Cartesian plane
+d.) Choice of appropriate scale
+e.) Table of values for a given linear relation
+
+f.) Linear graphs
+g.) Graphical solutions of simultaneous linear equations
+h.) Interpretation of graphs.
+
+
+Introduction
+The position of a point in a plan is located using an ordered pair of numbers called co- ordinates and written in the form (x, y).The first number represents the distance along the x axis and is called the x co-ordinates. The second number represents distance along the y axis and it's called the y coordinates.
+The x and y coordinates intersects at (0, 0) a point called the origin. The system of locating points using two axes at right angles is called Cartesian plan system.
+To locate a point on the Cartesian plane, move along the x-axis to the number indicated by the x-coordinate and then along the y-axis to the number indicated by the y-coordinate. For example, to locate the point with coordinates (1, 2), move 1 unit to the right of the origin and then 2 units up
+The Cartesian plan
+
+
+
+Step 2 Draw a table and choose simple x values
+Step 3 Use the rule to find each y value and enter then in the table.
+E.g. when x = -2, y= 2 x -2 + 1 = -3.
+when x = -1 ,y= 2 x -1 + 1 = -1
+step 4 Draw a Cartesian plan and plot the points.
+Step 5 Join the points to form a straight line and label the graph
+
+The Graph of a straight line
+Consider the Linear equation y = 2x + 1.Some corresponding values of x and y are	given	in	the table below. If we plot the points we notice that they all lie in a straight line.
+Solution
+Step 1 write the rule y = 2x + 1
+
+
+
+Note:
+* Two points are sufficient to determine a straight line, but we use the third point as a check.
+* It is advisable to choose points which can be plotted easily.
+
+
+
+
+Graphing solutions of simultaneous linear equation
+The graphs of the form ax + by = c represents a straight line. When two linear equations are represented on the same Cartesian plan, their graphs may or may not intersect. For example, in solving the simultaneous equations x + 3y = 5 and 5x + 7y = 9 graphically, the graphs of the two equation are drawn.
+
+
+The two lines intersect at p (- 1, 2).The solution to the simultaneous equations is, therefore, x = - 1 and y = 2.
+
+
+General graphs
+Graphs are applied widely in science and many other fields. The graphs should theirfoe be drawn in a way that convey information easily and accurately. The most of important technique of drawing graphs is the choice of
+
+
+
+appropriate scale.
+A good scale is one which uses most of the graph page and enables us to plot points and read off values easily and accurately.
+Avoid scales which:
+* Give tiny graphs.
+   * Cannot accommodate all the data in the table. It is good practice to:
+* Label the axes clearly.
+* Give the title of the graph.
+
+
+End of topic
+
+
+
+
+Revision Questions on the topic
+1.) Copy and complete the table and hence draw the corresponding graph.
+Y= 4x + 3
+
+x-2-1012y
+2.) Draw the graph of the following:
+a.) Y + 2x =5
+b.) y/2 + 2x =5
+
+
+
+
+
+
+CHAPTER TWENTY
+
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) Name and identify types of angles
+b.) Solve problems involving angles on a straight line
+c.) Solve problems involving angles at a point
+d.) Solve problems involving angles on a transversal cutting parallel lines
+e.) State angle properties of polygons
+f.) Solve problems involving angle properties of polygons
+g.) Apply the knowledge of angle properties to real life situations.
+Content
+a.) Types of angles
+b.) Angles on a straight line
+c.) Angles at a point
+d.) Angles on a transversal (corresponding, alternate and allied angles)
+e.) Angle properties of polygons
+f.) Application to real life situations.
+
+
+Introduction
+A flat surface such as the top of a table is called a plane. The intersection of any two straight lines is a point.
+Representation of points and lines on a plane
+A point is represented on a plane by a mark labelled by a capital letter. Through any two given points on a plane, only one straight line can be drawn.
+
+
+The line passes through points A and B and hence can be labelled line AB.
+Types of Angles
+When two lines meet, they form an angle at a point. The point where the angle is formed is called the vertex of the angle. The symbol < is used to denote an angle.
+
+
+Acute angle.	Reflex angle.
+
+
+
+
+Obtuse angle	Right angle
+
+
+
+
+To obtain the size of a reflex angle which cannot be read directly from a protractor ,the corresponding acute or obtuse angle is subtracted from 3600.If any two angles X and Y are such that:
+i.) Angle X + angle Y =900, the angles are said to be complementary angles. Each angle is then said to be the complement of the other.
+ii.) Angle X + angle Y =1800, the angles are said to be supplementary angles. Each angle is then said to be the supplement of the other.
+
+
+In the figure below < POQ and < ROQ are a pair of complementary angles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the figure below <DOF and < FOE are a pair of supplementary angles.
+
+
+
+
+Angles on a straight line.
+The below shows a number of angles with a common vertex 0.AOE is a straight line.
+
+
+
+
+Two angles on either side of a straight line and having a common vertex are referred to as adjacent angles. In the figure above:
+< AOB is adjacent to <BOC
+< BOC is adjacent to <COD
+< COD is adjacent to <DOE
+Angles on a straight line add up to1800. Angles at a point
+Two intersecting straight lines form four angles having a common vertex. The angles which are on opposite
+sides of the vertex are called vertically opposite angles. Consider the following:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the figure above < COB and < AOC are adjacent angles on a straight line. We can now show that a = c as follows:
+a + b = 1800(Angles on a straight line) c + d = 1800(Angles on a straight line) So, a + b + c + d =1800+1800 =3600
+This shows that angles at a point add up to3600
+
+
+Angles on a transversal
+A transversal is a line that cuts across two parallel lines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the above figure PQ and ST are parallel lines and RU cuts through them.RU is a transversal. Name:
+i.) Corresponding angles are Angles b and e, c and h, a and f, d and g.
+ii.) Alternate angles a and c, f and h, b and d, e and g.
+iii.) Co-interior or allied angles are f and d, c and e.
+Angle properties of polygons
+A polygon is a plan figure bordered by three or ore straight lines
+Triangles
+ A triangle is a three sided plane figure. The sum of the three angles of a triangle add up to 1800.triangles are classified on the basis of either angles sides.
+i.) A triangle in which one of the angles is 900 is called a right angled triangle.
+ii.) A scalene triangle is one in which all the sides and angles are not equal.
+iii.) An isosceles triangle is one in which two sides are equal and the equal sides make equal angles with the third side.
+iv.) An equilateral triangle is one in which all the side are equal and all the angles are equal
+
+Exterior properties of a triangle
+
+
+
+
+
+Angle DAB = p + q.
+Similarly, Angle EBC = r + q and angle FCA = r + p. But p + q + r = 1800
+But p + q + r = 1800
+Therefore angle DAB + angle EBC + angle FCA = 2p +2q + 2r
+=2(p +q +r)
+= 2 x 1800
+= 3600
+In general the sum of all the exterior angles of a triangle is 3600.
+Quadrilaterals
+A quadrilateral is a four -sided plan figure. The interior angles of a quadrilateral add put are also classified in terms of sides and angles.
+
+
+
+
+PROPERTIES OF QUADRILATERALS
+Properties of Parallelograms
+In a parallelogram,
+1. The parallel sides are parallel by definition.
+2. The opposite sides are congruent.
+3. The opposite angles are congruent.
+4. The diagonals bisect each other.
+5. Any pair of consecutive angles are supplementary.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3600.Quadrilaterals
+
+
+isabokemicah@gmail.com
+Properties of Rectangles
+In a rectangle,
+1. All the properties of a parallelogram apply by definition.
+2. All angles are right angles.
+3. The diagonals are congruent.
+
+Properties of a kite
+1. Two disjoint pairs of consecutive sides are congruent by definition.
+2. The diagonals are perpendicular.
+3. One diagonal is the perpendicular bisector of the other.
+4. One of the diagonals bisects a pair of opposite angles.
+5. One pair of opposite angles are congruent.
+Properties of Rhombuses
+In a rhombus,
+1. Allthe properties of a parallelogram apply by definition.
+2. Two consecutive sides are congruent by definition.
+3. All sides are congruent.
+4. The diagonals bisect the angles.
+5. The diagonals are perpendicular bisectors of each other.
+6. The diagonals divide the rhombus into four congruent right triangles.
+Properties of Squares
+In a square,
+1. All the properties of a rectangle apply by definition.
+2. All the properties of a rhombus apply by definition.
+3. The diagonals form four isosceles right triangles.
+
+Properties of Isosceles Trapezoids
+In an isosceles trapezoid,
+1. The legs are congruent by definition.
+2. The bases are parallel by definition.
+3. The lower base angles are congruent.
+4. The upper base angles are congruent.
+5. The diagonals are congruent.
+6. Any lower base angle is supplementary to any upper base angle.
+
+Proving That a Quadrilateral is a Parallelogram
+Any one of the following methods might be used to prove that a quadrilateral is a parallelogram.
+1. If both pairs of opposite sides of a quadrilateral are parallel, then it is a parallelogram (definition).
+2. If both pairs of opposite sides of a quadrilateral are congruent, then it is a parallelogram.
+
+
+isabokemicah@gmail.com
+3. If one pair of opposite sides of a quadrilateral are both parallel and congruent, then it is a parallelogram.
+4. If the diagonals of a quadrilateral bisect each other, then the it is a parallelogram.
+5. If both pairs of opposite angles of a quadrilateral are congruent, then it is a parallelogram.
+
+Proving That a Quadrilateral is a Rectangle
+One can prove that a quadrilateral is a rectangle by first showing that it is a parallelogram and then using either of the following methods to complete the proof.
+1. If a parallelogram contains at least one right angle, then it is a rectangle (definition).
+2. If the diagonals of a parallelogram are congruent, then it is a rectangle.
+One can also show that a quadrilateral is a rectangle without first showing that it is a parallelogram.
+3. If all four angles of a quadrilateral are right angles, then it is a rectangle.
+
+Proving That a Quadrilateral is a Kite
+To prove that a quadrilateral is a kite, either of the following methods can be used.
+1. If two disjoint pairs of consecutive sides of a quadrilateral are congruent, then it is a kite (definition).
+2. If one of the diagonals of a quadrilateral is the perpendicular bisector of the other diagonal, then it is a kite.
+
+
+
+Proving That a Quadrilateral is a Rhombus
+To prove that a quadrilateral is a rhombus, one may show that it is a parallelogram and then apply either of the following methods.
+1. If a parallelogram contains a pair of consecutive sides that are congruent, then it is a rhombus (definition).
+   2. If either diagonal of a parallelogram bisects two angles of the parallelogram, then it is a rhombus. One can also prove that a quadrilateral is a rhombus without first showing that it is a parallelogram.
+3. If the diagonals of a quadrilateral are perpendicular bisectors of each other, then it is a rhombus.
+Proving That a Quadrilateral is a Square
+The following method can be used to prove that a quadrilateral is a square: If a quadrilateral is both a rectangle and a rhombus, then it is a square.
+
+Proving That a Trapezoid is an Isosceles Trapezoid
+Any one of the following methods can be used to prove that a trapezoid is isosceles.
+1. If the nonparallel sides of a trapezoid are congruent, then it is isosceles (definition).
+2. If the lower or upper base angles of a trapezoid are congruent, then it is isosceles.
+3. If the diagonals of a trapezoid are congruent, then it is isosceles.
+
+Note:
+* If a polygon has n sides, then the sum of interior angles (2n -4) right angles.
+
+
+isabokemicah@gmail.com
+* The sum of exterior angles of any polygon is3600.
+* A triangle is said to be regular if all its sides and all its interior angles are equal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+The figure below is a hexagon with interior angles g ,h ,I ,k and I and exterior angles a, b ,c ,d ,e ,and f.
+End of topic
+
+
+Past KCSE Questions on the topic
+In the figure below, lines AB and LM are parallel.
+
+
+
+
+
+Find the values of the angles marked x, y and z	(3 mks)
+
+
+
+
+CHAPTER ONE
+
+isabokemicah@gmail.com
+
+
+
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) Use a ruler and compasses only to:
+* construct a perpendicular bisector of a line
+* construct an angle bisector
+* construct a perpendicular to a line from a given a point
+* construct a perpendicular to a line through a given point on the line
+* construct angles whose values are multiples of 7 1/2 °
+* construct parallel lines
+* divide a line proportionally
+b.) Use a ruler and a set square to construct parallel lines, divide a line proportionally, and to construct perpendicular lines
+c.) Construct a regular polygon using ruler and compasses only, and ruler, compasses and protractor
+d.) Construct irregular polygons using a ruler, compasses and protractor.
+Content
+a.) Construction of lines and angles using a ruler and compasses only
+b.) Construction of perpendicular and parallel lines using a ruler and a set square only
+c.) Proportional division of a line
+d.) Construction of regular polygons (up to a hexagon)
+e.) Construction of irregular polygons (up to a hexagon).
+Introduction
+Construction Instruments
+The following minimum set of instruments is required in order to construct good quality drawings:
+o Two set squares.
+o A protractor.
+o A 15cm or 150 mm ruler
+o Compass
+o Protractor
+o Divider
+o An eraser/rubber
+o Two pencils - a 2H and an HB, together with some sharpening device - Razor blade or shaper.
+
+
+isabokemicah@gmail.com
+Construction of Perpendicular Lines Perpendicular lines
+The figure below shows PQ as a perpendicular bisector of a given line AB.
+
+
+
+To obtain the perpendicular bisector PQ
+* With A and B as centre, and using the same radius,draw arcs on either side of AB to intersect at P and Q.
+* Join P to Q.
+
+
+
+The figure below shows PE, a perpendicular from a point P to a given line AB.
+
+
+To construct a perpendicular line from a point
+* To drop a perpendicular line from point P to AB.
+
+* Set the compass point at P and strike an arc intersecting AB at C and D.
+
+* With C and D as centres and any radius larger than one-half of CD,
+
+
+isabokemicah@gmail.com
+* Strike arcs intersecting at E.
+
+* A line from P through E is perpendicular to AB.
+
+construct a perpendicular line from a point
+* Using P as centre and any convenient radius,draw arcs to intersect the lines at A and B.
+* Using A as centre and a radius whose measure is greater than AP,draw an arc above the line.
+* Using B as the centre and the same radius,draw an arc to interact the one in (ii) at point Q.
+* Using a ruler ,draw PQ.
+
+
+FIGUR 21.4
+Construction of perpendicular lines using a set square.
+Two edges of a set square are perpendicular. They can be used to draw perpendicular lines. When one of the edges is put along a line, a line drawn along the other one is perpendicular to the given line.
+To construct a perpendicular from a point p to a line
+* Place a ruler along the line.
+* Place one of the edges of a set square which form a right angle along the ruler.
+* Slide the set square along the ruler until the other edge reaches p.
+* Hold the set square firmly and draw the line through P to meet the line perpendicularly.
+
+
+
+
+Construction of Angles using a Ruler and a pair of compass only
+The basic angle from which all the others can be derived from is the 600,450 and 900
+
+
+
+Construction of an Angle of 600
+* Let A be the apex of the angle
+* With centre A draw an arc BC using a suitable radius.
+* With b as the centre draw another arc to intersect arc BC at D.
+
+
+isabokemicah@gmail.com
+* Draw a line AE through D. The angle EAC is 600
+Construction of an Angle of 900
+* Let A be the apex of the angle.
+* With centre A draw an arc BC of large radius.
+* Draw an arc on BC using a suitable radius and mark it D.
+
+* Using the same radius and point D as the centre draw an arc E.
+* BD and DE are of the same radius.
+* With centre D draw any arc F.
+* With centre E draw an arc equal in radius to DF.
+* Join AF with a straight line. Angle BAF is 900
+
+
+
+
+
+
+Construction of an Angle of 450
+Draw AB and AC at right angles 450 to each other.With centre A and with large radius ,draw an arc to cut AB at
+
+
+isabokemicah@gmail.com
+D and and AC at E.With centres E and D draw arcs of equal radius to intersect at Draw a straight line from A through Angle BAF is 450
+
+
+Construction of angles of multiple of 7
+
+1 300150..
+2
+
+The bisection of 600 angle produces 300 and the successive bisection of this angle produces 150 which is
+10
+
+bisected to produce 7
+2
+
+as shown below.
+
+* Draw AB and AC at 600 to each other as shown above.
+* With centre A, and a large radius, draw an arc to cut AB at E and AC at D.
+* With centres E and D draw arcs of equal radius to intersect at F.
+* Draw a line from A through F.
+* Angle CAF is 300 half600.
+
+To construct 150 71
+2
+* Draw AC and AF at 300 to each other as described above.
+* With centres G and D draw arcs of equal radius to intersect at H
+* Draw a line from A through H
+* Angle CAH is 150.
+
+
+
+
+
+isabokemicah@gmail.com
+* With centres J and D a further bisection can be made to give 71
+2
+
+Construction of parallel lines
+To construct a line through a given point and parallel to a given line, we may use a ruler and a pair of compass only, or a ruler and a set square.
+Using a ruler and a pair of compass only
+Parallelogram method
+The line EP parallel to AC is constructed as follows:
+
+
+* With X as the centre and radius PQ, draw an arc.
+* With Q as the centre and radius PX, draw another arc to cut the first arc at R.
+* Join X to R.
+Proportional Division of lines
+Lines can be proportionately divided into a given number of equal parts by use of parallel lines.
+
+
+
+isabokemicah@gmail.com
+To divide line AB
+* Divide line AB into ten equal parts.
+* Through b, draw a line CB of any convenient length at a suitable angle with AB.
+* Using a pair of compasses, mark off,along BC ,ten equal intervals as shown above.
+* Join C to A.By using a set square and a ruler, draw lines parallel to CA.
+* The line is therefore divided ten equal parts or intervals.
+
+
+
+Construction of Regular Polygons
+A polygon is regular if all its sides and angles are equal ,otherwise it is irregular.
+Note:
+For a polygon of n sides,the sum of interior angles is ( 2n -4 ) right angles.The size of each interior angle of the
+regular polygon is therefore equal to( 2n-4)900.
+n
+The sum of exterior angles of any polygon is 3600.Each exterior angle of a regular polygon is therefore equal
+0
+to	.
+n
+Construction of a regular Triangle
+
+Construction of a regular Quadrilateral
+
+
+
+
+
+
+Construction of a regular pentagon.
+
+
+To construct a regular pentagon ABCD of sides 4 cm.
+
+
+
+
+Each of the interior angles = (10-4) right angles =
+5
+* Draw a line AB = 4 cm long.
+* Draw angle ABC = 1080and BC =4 cm
+
+1080
+
+* Use the same method to locate points D and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note;
+Use the same procedure to construct other points.
+Construction of irregular polygons Construction of triangles
+To construct a triangle given the length of its sides
+* Draw a line and mark a point A on it.
+* On the line mark off with a pair of compass a point B,3 cm from A.
+* With B as the centre and radius 5 cm, draw an arc
+* With A as the centre and radius 7 cm,draw another arc to intersect the arc in (iii) at C.Join A to C and B to C.
+To construct a triangle, given the siz of two angles and length of one side.
+Construct a triangle ABC in which < BAC = 600, < ABC == 500 and BC = 4 cm.The sketch is shown below.
+* Draw a line and mark a point B on it.
+* Mark off a point C on the line, 4 cm from B.
+   * Using a protractor, measure an angle of = 500 and = 700 at B and C respectively. To construct a triangle given two sides and one angle.
+Given the lengths of two sides and the size of the included angle. Construct a triangle ABC, in which AB = 4 cm,BC =5 cm and < ABC =600.Draw a sketch as shown below.
+* Draw a line BC = 5 cm along
+* Measure an angle of = 600 at B and mark off a point A, 4 cm from B.
+* Join A to C.
+
+
+To construct a trapezium.
+The construction of a trapezium ABCD with AB = 8 cm ,BC = 5 cm ,CD = 4cm and angle ABC = 600 and AB = 8 cm
+
+* Draw a line AB = 8 cm.
+* Construct an Angle of = 600 at B.
+* Using B as the centre and radius of 5 cm, mark an arc to insect the line in (ii) at C.
+* Through C , draw a line parallel to AB
+* Using C as the centre and radius of 4 cm,Mark an arc to intersect the line in (iv) at D.
+* Join D to A to form the trapezium.
+End of topic
+
+
+Past KCSE Questions on the topic
+1. Using a ruler and a pair of compasses only,
+a) Construct a triangle ABC in which AB = 9cm, AC = 6cm and angle BAC = 371/20
+a) Drop a perpendicular from C to meet AB at D. Measure CD and hence find the area of the triangle ABC
+b) Point E divides BC in the ratio 2:3. Using a ruler and Set Square only, determine point E. Measure AE.
+2. 
+
+B
+
+
+
+
+
+
+
+
+
+On the diagram, construct a circle to touch line AB at X and passes through the point C.
+(3 mks)
+3. Using ruler and pair of compasses only for constructions in this question.
+(a) Construct triangle ABC such that AB=AC=5.4cm and angle ABC=300. Measure BC
+(4 mks)
+(b) On the diagram above, a point P is always on the same side of BC as A. Draw the locus of P such that angle BAC is twice angle BPC	(2 mks)
+(c) Drop a perpendicular from A to meet BC at D. Measure AD	(2 mks)
+
+(d) Determine the locus Q on the same side of BC as A such that the area of triangle
+BQC = 9.4cm2	(2 mks)
+4. (a) Without using a protractor or set square, construct a triangle ABC in which AB = 4cm,	BC = 6cm and ?ABC = 671/20. Take AB as the base.	(3mks)
+Measure AC.
+(b) Draw a triangle A1BC1 which is indirectly congruent to triangle ABC.	(3mks)
+
+5. Construct triangle ABC in which AB = 4.4 cm, BC = 6.4 cm and AC = 7.4 cm. Construct an escribed circle opposite angle ACB	(5 mks)
+(a) Measure the radius of the circle	(1 mk)
+(b) Measure the acute angle subtended at the centre of the circle by AB	(1 mk)
+(c) A point P moves such that it is always outside the circle but within triangle AOB, where O is the centre of the escribed circle. Show by shading the region within which P lies.
+(3 mks)
+6. (a) Using a ruler and a pair of compasses only, construct a parallelogram PQRS in which PQ = 8cm, QR
+= 6cm and PQR = 1500	(3 mks)
+(b) Drop a perpendicular from S to meet PQ at B. Measure SB and hence calculate the area of the parallelogram.	(5 mks)
+(c) Mark a point A on BS produced such that the area of triangle APQ is equal to three quarters the area of the parallelogram	(1 mk)
+(d) Determine the height of the triangle.	(1 mk)
+7. Using a ruler and a pair of compasses only, construct triangle ABC in which AB = 6cm, BC = 8cm and angle ABC = 45o. Drop a perpendicular from A to BC at M. Measure AM and AC
+(4mks)
+8. a) Using a ruler and a pair of compasses only to construct a trapezium ABCD
+such that ,	and     (5mks)
+b)From the point D drop a perpendicular to the line AB to meet the line at E. measure DE hence calculate the area of the trapezium	(5mks)
+9. Using a pair of compasses and ruler only;
+(a) Construct triangle ABC such that AB = 8cm, BC = 6cm and angle ABC = 300.(3 marks)
+(b) Measure the length of AC	(1 mark)
+(c) Draw a circle that touches the vertices A,B and C.	(2 marks)
+(d) Measure the radius of the circle	(1 mark)
+(e) Hence or otherwise, calculate the area of the circle outside the triangle.	(3 marks)
+10. Using a ruler and a pair of compasses only, construct the locus of a point P such that angle APB = 600 on the line AB = 5cm.	(4mks)
+
+
+
+
+
+
+
+
+
+A	B
+11. Using a set square, ruler and pair of compases divide the given line into 5 equal portions.(3mks)
+
+12. Using a ruler and a pair of compasses only, draw a parallelogram ABCD, such that angle DAB = 750.
+Length AB = 6.0cm and BC = 4.0cm from point D, drop a perpendicular to meet line AB at N
+a) Measure length DN
+b) Find the area of the parallelogram	(10 mks)
+
+
+13. Using a ruler and a pair of compasses only, draw a parallelogram ABCD in which AB = 6cm, BC = 4cm and angle BAD = 60o. By construction, determine the perpendicular distance betweenthe lines AB and CD
+
+14. Without using a protractor, draw a triangle ABC where ?CAB = 30o, AC = 3.5cm and AB = 6cm. measure BC
+
+15. (a) Using a ruler and a pair of compass only, construct a triangle ABC in which angle ABC =37.5o, BC =7cm and BA = 14cm
+(b) Drop a perpendicular from A to BC produced and measure its height
+(c) Use your height in (b) to find the area of the triangle ABC
+(d) Use construction to find the radius of an inscribed circle of triangle ABC
+
+16. In this question use a pair of compasses and a ruler only
+a) Construct triangle PQR such that PQ = 6 cm, QR = 8 cm and <PQR = 135°
+b) Construct the height of triangle PQR in (a) above, taking QR as the base
+
+17. On the line AC shown below, point B lies above the line such that ?BAC = 52.5o and] AB = 4.2cm.	(Use a ruler and a pair of compasses for this question)
+
+A	C
+(a) Construct ?BAC and mark point B
+(b) Drop a perpendicular from B to meet the line AC at point F . Measure BF
+
+
+
+
+CHAPTER TWENTY TW0
+
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) Interpret a given scale
+b.) Choose and use an appropriate scale
+c.) Draw suitable sketches from given information
+d.) State the bearing of one point from another
+e.) Locate a point using bearing and distance
+f.) Determine angles of elevation and depression
+g.) Solve problems involving bearings elevations and scale drawing
+h.) Apply scale drawing in simple surveying.
+Content
+a.) Types of scales
+b.) Choice of scales
+c.) Sketching from given information and scale drawing
+d.) Bearings
+e.) Bearings, distance and locating points
+f.) Angles of elevation and depression
+g.) Problems involving bearings, scale drawing, angles of elevation and depression
+h.) Simple surveying techniques.
+
+
+isabokemicah@gmail.com
+Introduction The scale
+The ratio of the distance on a map to the actual distance on the ground is called the scale of the map. The ratio
+can be in statement form e.g. 50 cm represents 50,000 cm or as a representative  fraction (R.F), 1: 5,000,000 is
+written as	1	.
+5,000,000
+Example
+The scale of a map is given in a statement as 1 cm represents 4 km. convert this to a representative fraction (R.F).
+Solution
+One cm represents 4 x 100,000 cm. 1 cm represents 400, 000
+Therefore, the ratio is 1: 400,000 and the R.F is 	1	
+400,000
+Example
+The scale of a map is given as 1:250,000.Write this as a statement.
+Solution
+1:250,000 means 1 cm on the map represents 250,000 cm on the ground. Therefore, 1 cm represents
+250,000 km.
+100,000
+I.e. 1 cm represents 2.5 km.
+Scale Diagram
+When during using scale, one should be careful in choosing the right scale, so that the drawing fits on the paper without much details being left.
+Bearing and Distances
+Direction is always found using a compass point.
+
+
+A compass has eight points as show above. The four main points of the compass are North, South, East, and West. The other points are secondary points and they include North East (NE), South East (SE), South West (SW) and North West (NW).Each angle formed at the centre of the compass is 450 the angle between N and E is900.
+
+
+
+Compass Bearing
+When the direction of a place from another is given in degrees and in terms of four main points of a compass.
+E.g. N450 W, then the direction is said to be given in compass bearing. Compass bearing is measured either clockwise or anticlockwise from North or south and the angle is acute.
+True bearing
+North East direction, written as N450 E can be given in three figures as 0450 measured clockwise from True North. This three- figure bearing is called the true bearing.
+The true bearings due north is given as 0000 .Due south East as 1350 and due North West as3150.
+Example
+From town P, a town Q is 60km away on a bearing South 80º east. A third town R is 100km from P on the bearing South 40º west. A cyclist travelling at 20km/h leaves P for Q. He stays at Q for one hour and then continues to R. He stays at R for 11/2 hrs. and then returns directly to P.
+(a) Calculate the distance of Q from R.
+
+P² = 100² + 60² - 2(100) (60) Cos 120
+P² = 13600 - 12000 Cos 120
+P² = 19600 P = 140km
+
+
+
+(b) Calculate the bearing of R from Q.
+
+
+	 M1 	 M1
+= 38.2°	A1
+Bearing 270 - 38.2 = 241.8	B1
+
+
+
+(c) What is the time taken for the whole round trip?
+
+Time from P to R
+
+B1 for all three
+Time from Q to R
+
+
+From R to P
+
+Taken travelling = 3 + 7 + 5	M1
+= 15hrs
+
+
+Example
+A port B is on a bearing 080o from a port A and a distance of 95 km. A Submarine is stationed at a port D, which is on a bearing of 200o from A, and a distance of 124 km from B. A ship leaves B and moves directly Southwards to an Island P, which is on a bearing of 140o from A. The Submarine at D on realizing that the ship was heading to the Island P, decides to head straight for the Island to intercept the ship. Using a scale of 1 cm to represent 10 km, make a scale drawing showing the relative positions of A, B, D and P.	{4 marks}
+
+
+
+Hence find:
+b) The distance from A to D.	{2 marks}
+4.6 ± 0.1 ×10 = 46 KM ± 1 KM
+c) The bearing o the Submarine from the ship when the ship was setting off from B.	{1 mark}
+
+240° ± 1° OR S 60 ° W ± 2°
+d) The bearing of the Island P from D.	{1 mark}
+122° ± OR S 58° E ± 1°
+
+e)The distance the Submarine had to cover to reach the IslandP127± 0.1 ×10 = 127 ± 1KM{2 marks}Angle of Elevation and Depression Angle of Elevation:
+The angle above the horizontal that an observer must look to see an	object that is higher than the observer. Example, a man looking at a bird.
+
+
+
+
+
+
+
+Angle of Depression:
+The angle below horizontal that an observer must look to see an	object
+that is lower than the observer. Example, a bird looking down at a	bug.
+
+
+
+
+
+
+Angles of depression and elevation can be measured using an instrument called clinometer
+To find the heights or the lengths we can use scale drawing.
+Simple survey methods
+This involves taking field measurements of the area so that a map of the area can be drawn to scale. Pieces of land are usually surveyed in order to:
+* Fix boundaries
+* For town planning
+* Road construction
+* Water supplies
+* Mineral development
+
+
+
+Areas of irregular shapes
+Areas of irregular shape can be found by subdividing them into convenient geometrical shapes e.g. triangles, rectangles or trapezia.
+Example
+The area in hectares of the field can be found by the help of a base line and offsets as shown.
+
+
+Fig 22.26
+XY is the base line 360 m.SM,RP and QN are the offsets.
+Taking X as the starting point of the survey,the information can be entred in a field book as follows.
+
+
+
+
+
+The sketch is as follows:
+Using a suitable scale.
+
+
+
+The area of the separate parts is found then combined. Area of:
+Triangle XPR is 1/2 x180 x 90 = 8100 m2 Triangle PRY is 1/2 x180 x 90 = 8100 m2 Triangle XSM is 1/2 x120 x 60 = 3600 m2 Triangle QNY is 1/2 x120 x 180 = 10800 m2 Trapezium SQNM = 1/2(QN + SM) x SQ m2
+1/2 (180 + 60) x 120 m2
+= 14400m2
+Total area = 8100 + 8100 + 3600 + 10800 + 14400 = 45000m2
+
+
+
+
+
+
+End of topic
+
+
+Past KCSE Questions on the topic
+1. A point B is on a bearing of 0800 from a port A and at a distance of 95 km. A submarine is stationed at a port D, which is on a bearing of 2000 from AM and a distance of 124 km from B.
+A ship leaves B and moves directly southwards to an island P, which is on a bearing of 140 from A. The submarine at D on realizing that the ship was heading fro the island P, decides to head straight for the island to intercept the ship
+Using a scale 0f 1 cm to represent 10 km, make a scale drawing showing the relative positions of A, B, D, P.
+Hence find
+(i) The distance from A to D
+(ii) The bearing of the submarine from the ship was setting off from B
+(iii) The bearing of the island P from D
+(iv) The distance the submarine had to cover to reach the island P
+2. Four towns R, T, K and G are such that T is 84 km directly to the north R, and K is on a bearing of 2950 from R at a distance of 60 km. G is on a bearing of 3400 from K and a distance of 30 km. Using a scale of 1 cm to represent 10 km, make an accurate scale drawing to show the relative positions of the town.
+Find
+
+(a) The distance and the bearing of T from K
+
+(b) The distance and the bearing G from T
+
+(c) The bearing of R from G
+
+3. Two aeroplanes, S and T leave airports A at the same time. S flies on a bearing of 060 at 750 km/h while T flies on a bearing of 2100 at 900km/h.
+
+(a) Using a suitable scale, draw a diagram to show the positions of the aeroplane after two hours.
+
+(b) Use your diagram to determine
+
+(i) The actual distance between the two aeroplanes
+
+(ii) The bearing of T from S
+
+(iii) The bearing of S from T
+
+
+
+A point A is directly below a window. Another point B is 15 m from A and at the same horizontal level. From B angle of elevation of the top of the bottom of the window is 300 and the angle of elevation of the top of the window is 350. Calculate the vertical distance.
+(a) From A to the bottom of the window
+(b) From the bottom to top of the window
+4. Find by calculation the sum of all the interior angles in the figure ABCDEFGHI below
+
+
+
+
+
+
+
+
+
+
+
+6. Shopping centers X, Y and Z are such that Y is 12 km south of X and Z is 15 km from X. Z is on a bearing of 3300 from Y. Find the bearing of Z from X.
+7. An electric pylon is 30m high. A point S on the top of the pylon is vertically above another point R on the ground. Points A and B are on the same horizontal ground as R. Point A due south of the pylon and the angle of elevation of S from A is 260. Point B is due west of the pylon and the angle of elevation of S from B is 320
+Find the
+(a) Distance from A and B
+(b) Bearing of B from A
+8. The figure below is a polygon in which AB = CD = FA = 12cm BC = EF = 4cm and BAF =- CDE = 1200. AD is a line of symmetry.
+
+
+
+
+
+
+
+
+
+Find the area of the polygon.
+The figure below shows a triangle ABC
+
+
+
+a) Using a ruler and a pair of compasses, determine a point D on the line BC such that BD:DC = 1:2.
+
+
+
+
+b) Find the area of triangle ABD, given that AB = AC.
+
+
+
+
+
+
+
+10. A boat at point x is 200 m to the south of point Y. The boat sails X to another
+point Z. Point Z is 200m on a bearing of 3100 from X, Y and Z are on the same horizontal plane.
+(a) Calculate the bearing and the distance of Z from Y
+(b) W is the point on the path of the boat nearest to Y.
+Calculate the distance WY
+(c) A vertical tower stands at point Y. The angle of point X from the top of the tower is 60 calculate the angle of elevation of the top of the tower from W.
+11. The figure below shows a quadrilateral ABCD in which AB = 8 cm, DC = 12 cm, ? BAD = 450, ? CBD = 900 and BCD = 300.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Find:
+(a) The length of BD
+(b) The size of the angle A D B
+12. In the figure below, ABCDE is a regular pentagon and ABF is an equilateral triangle
+
+
+
+
+
+Find the size of
+a) ? ADE
+b) ? AEF
+c) ? DAF
+13. In this question use a pair of compasses and a ruler only
+(a) construct triangle ABC such that AB = 6 cm, BC = 8cm and ?ABC 1350
+(2 marks)
+(b) Construct the height of triangle ABC in a) above taking BC as the base
+(1 mark)
+14. The size of an interior angle of a regular polygon is 3x0 while its exterior angle is (x- 20)0. Find the number of sides of the polygon
+
+
+
+Points L and M are equidistant from another point K. The bearing of L from K is 3300. The bearing of M from K is 2200.
+Calculate the bearing of M from L
+Four points B,C,Q and D lie on the same plane point B is the 42 km due south- west of town Q. Point C is 50 km on a bearing of 5600 from Q. Point D is equidistant from B, Q and C.
+(a) Using the scale 1 cm represents 10 km, construct a diagram showing the position of B, C, Q and D
+(b) Determine the
+(i) Distance between B and C
+(ii) Bearing D from B
+
+
+17. Two aeroplanes P and Q, leave an airport at the same time flies on a bearing of 2400 at 900km/hr while Q flies due East at 750 km/hr
+(a) Using a scale of 1v cm drawing to show the positions of the aeroplanes after 40 minutes.
+(b) Use the scale drawing to find the distance between the two aeroplane after 40 minutes
+(c) Determine the bearing of
+(i) P from Q ans 2540
+(ii) Q from P ans 740
+
+18. A port B is no a bearing of 080 from a port A and at a distance of 95 km. A submarine is stationed port D which is on a bearing of 2000 from A, and a distance of 124 km from B.
+A ship leaves B and moves directly southwards to an island P, which is on a bearing of 1400 from A. The submarine at D on realizing that the ship was heading for the island P decides to head straight for the island to intercept the ship.
+Using a scale of 1 cm to represent 10 km, make a scale drawing showing the relative position of A, B D and P.
+Hence find:
+(i) The distance from A and D
+(ii) The bearing of the submarine from the ship when the ship was setting off from B
+(iii) The baring of the island P from D
+(iv) The distance the submarine had to cover to reach the island
+
+19. Four towns R, T, K and G are such that T is 84 km directly to the north R and K is on a bearing of 2950 from R at a distance of 60 km. G is on a bearing of 3400 from K and a distance of 30 km. Using a scale of 1 cm to represent 10 km, make an acute scale drawing to show the relative positions of the towns.
+
+
+
+
+(a) The distance and bearing of T from K
+(b) The bearing of R from G
+
+
+In the figure below, ABCDE is a regular pentagon and M is the midpoint of AB. DM intersects EB at N. (T7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Find the size of
+(a) ? BAE
+(b) ? BED
+(c) ? BNM
+21. Use a ruler and compasses in this question. Draw a parallelogram ABCD in which AB = 8cm, BC = 6 cm and BAD = 75. By construction, determine the perpendicular distance between AB and CD.
+
+
+22. The interior angles of the hexagon are 2x0, 1/2 x0, x + 400, 1100, 1300 and 1600. Find the value of the smallest angle.
+
+
+23. The size of an interior angle of a regular polygon is 1560. Find the number of sides of the polygon.
+
+
+
+
+
+
+CHAPTER TWENTY THREE
+COMMON SOLIDS
+
+
+
+
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) Identify and sketch common solids
+b.) Identify vertices, edges and faces of common solids
+c.) State the geometric properties of common solids
+d.) Draw nets of solids accurately
+e.) Make models of solids from nets
+f.) Calculate surface area of solids from nets
+Content
+a.) Common solids (cubes, cuboids, pyramids, prisms, cones, spheres, cylinders etc)
+b.) Vertices, edges and faces of common solids.
+c.) Geometric properties of common solids.
+d.) Nets of solids.
+e.) Models of solids from nets.
+f.) Surface area of solids from nets (include cubes, cuboids, cones, pyramids prisms)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+A solid is an object which occupies space and has a definite or fixed shape. Solids are either regular or irregular.
+
+
+
+
+
+
+
+
+Note:
+* Intersections of faces are called edges.
+
+
+
+
+* The point where three or more edges meet is called a vertex.
+
+
+
+
+
+
+Sketching solids
+To draw a reasonable sketch of a solid on a plan paper,the following ideas are hepful:
+Use of isometric projections
+In this method the following points should be obtained:
+* Each edge should be drawn to the correct length.
+* All rectangular faces must be drawn as parallelograms.
+* Horizontal and vertical edges must be drawn accurately to scale.
+
+
+
+* The base edges are drawn at an angle 300with the horizontal lines.
+* Parallel lines are drawn parallel.
+Examples
+a.) Cube net
+b.) Cuboid net
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d.)	Pentagonal prism
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+f.) Cylinder net
+
+
+g.) Cone net
+
+
+
+
+
+
+
+
+
+
+	
+
+Cone net
+h.) Hexagonal prism
+i.) Tetrahedron
+
+
+	
+
+k.)	Dodecagon
+Example
+An ant moved from Y to X the midpoint of RS through P in the right pyramid below
+
+Y
+15cm
+
+
+P	S
+8cm	O *	X
+Q
+R
+Draw the net of the pyramid show	the path	e ant hence find the distance it moved.
+
+
+
+Solution
+
+
+
+
+Distance=15+
+
+
+Example
+
+
+
+=27.649cm
+
+Draw the net of the solid below.
+
+
+
+H	G
+J
+G	H	C	B	J	G
+
+
+
+
+F	E	H	A	I	F I
+E	F
+
+
+
+B1	Scale drawing
+
+
+
+B1	Correct labeling
+
+
+
+Correct measurement of GJ and FI
+
+H 1c	G
+E	F
+I
+D
+3cm
+A
+
+
+
+
+Solution
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+End of topic
+
+
+
+
+
+
+
+Past KCSE Questions on the topic
+1. The figure below shows a net of a prism whose cross - section is an equilateral triangle.
+
+,
+
+
+
+
+
+a) Sketch the prism
+b) State the number of planes of symmetry of the prism.
+2. The figure below represents a square based solid with a path marked on it.
+
+
+
+
+
+
+
+Sketch and label the net of the solid.
+3. The figure below represents below represents a prism of length 7 cm AB = AE = CD = 2 cm and BC - ED = 1 cm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Draw the net of the prism	( 3 marks)
+4. The diagram below represents a right pyramid on a square base of side 3 cm. The slant of the pyramid is 4 cm.
+
+
+
+(a) Draw a net of the pyramid	( 2 marks)
+(b) On the net drawn, measure the height of a triangular face from the top of the Pyramid	( 1 mark)
+5. (a)	Draw a regular pentagon of side 4 cm	( 1 mark)
+(b)	On the diagram drawn, construct a circle which touches all the sides of the pentagon
+( 2 marks)
+
+
+6. The figure below shows a solid regular tetrapack of sides 6 cm
+
+
+
+
+
+(a) Draw a net of the solid
+(b) Find the surface area of the solid
+
+
+7. The figure below shows a solid made by pasting two equal regular tetrahedral
+
+
+
+
+
+
+
+
+(a) Draw a net of the solid
+(b) If each face is an equilateral triangle of side 5cm, find the surface area of the solid.
+
+
+8(a) Sketch the net of the prism shown below
+
+
+
+
+
+
+(b) Find the surface area of the solid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5484 @@
+	
+MATHEMATICS NOTES
+FORM 2
+
+
+
+
+CHAPTER TWENTY FOUR
+
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a) Find the cube of a number by multiplication
+b) Find the cube root of a number by factor method
+c) Find cubes of numbers from mathematical tables
+d) Evaluate expressions involving cubes and cube roots
+e) Apply the knowledge of cubes and cube roots to real life situations
+
+
+Content
+a.) Cubes of numbers by multiplication.
+b.) Cube roots of numbers by factor method.
+c.) Cubes from mathematical tables.
+d.) Expressions involving cubes and cube roots
+e.) Application of cubes and cube roots
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction Cubes
+The cube of a number is simply a number multiplied by itself three times e.g. a× a × a=a3
+1 × 1 × 1 = 13;	8 = 2 × 2 × 2 = 23;	27 = 3 × 3 × 3 =33;
+Example 1
+What is the value of 63?
+63 =6 x6 x 6
+= 36 x 6
+=216
+Example 2
+Find the cube of 1.4
+=1.4 x 1.4 x 1.4
+=1.96 x 1.4
+=2.744
+Use of tables to find roots
+The cubes can be read directly from the tables just like squares and square root. Cube Roots using factor methods
+Cubes and cubes roots are opposite. The cube root of a number is the number that is multiplied by itself three times to get the given number
+
+Example
+The cube root of 64 is written as;
+?64 = 4	Because 4 x 4 x 4 =64
+?27 = 3	Because 3 x 3 x 3= 27
+
+
+Example
+Evaluate:?216
+
+
+
+
+
+
+
+
+Note;
+
+=?(2 x 2 x2 x 3 x3 x3 )
+=2x3
+=6
+
+After grouping them into pairs of three you chose one number from the pair and multiply
+Example
+Find:
+The volume of a cube is 1000 cm3 .What is the length of the cube Volume of the cube, v = l 3
+L 3=1000 L =?1000
+=10
+The length of the cube is therefore 10 cm
+End of topic
+
+
+
+
+
+
+
+
+
+
+CHAPTER TWENTY FIVE
+RECIPROCALS
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Find reciprocals of numbers by division
+b.) Find reciprocals of numbers from tables
+c.) Use reciprocals of numbers in computation.
+
+
+
+
+Content
+a.) Reciprocals of numbers by division
+b.) Reciprocals of numbers from tables
+c.) Computation using reciprocals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+The reciprocal of a number is simply the number put in fraction form and turned upside down e.g., the reciprocal of 2.
+Solution:
+Change 2 into fraction form which is 2 ,
+1
+Then turn it upside down and get	1
+2
+Note:
+When you multiply a number by its reciprocal you get 1,
+
+2 x 1 =1
+1	2
+
+
+
+
+
+Finding the reciprocal of decimals
+Finding the reciprocal of a decimal can be done in a number of ways.
+Change the decimal to a fraction first.
+Example.
+0.25 is 25/100 and is equivalent to the fraction 1/4. Therefore its reciprocal would be 4/1 or 4.
+
+
+Keep the decimal and form the fraction 1/??	Which can then be or converted to a decimal.
+Example
+0.75 The reciprocal is 1/0.75. Using a calculator, the decimal form can be found by performing the operation: 1 divided by 0.75. The decimal reciprocal in this case is a repeating decimal, 1.33333....
+After finding a reciprocal of a number, perform a quick check by multiplying your original number and the reciprocal to determine that the product.
+Reciprocal of Numbers from Tables.
+Reciprocal of numbers can be found using tables.
+
+
+Example
+Find the reciprocal of 2.456 using the reciprocal tables.
+Solution.
+Using reciprocal tables, the reciprocal of 2.456 is 0.4082 - 0.0010 = 0.4072
+Example
+Find the reciprocal of 45.8.
+Solution
+You first write 45.8 in standard form which is 4.58 x101.
+Then  1  = 	1	
+45.8	4.58 x101
+
+= 1
+10
+
+x  1 
+4.58
+
+
+= 1  x 0.2183
+10
+= 0.02183
+
+
+
+
+
+
+
+Example
+Find the reciprocal of 0.0236
+Solution
+Change 0.0236 in standard form which is 2.36 x 10-2
+
+	1	 =
+0.0236
+
+	1	
+2.36 x 10-2
+
+=	 1 10-2
+
+x  1 
+2.36
+
+
+
+
+Example
+Use reciprocal tables to solve the following:
+
+= 102 x 0.4237
+= 42.37
+
+
+
+Solution
+
+	1	 +
+0.0125
+
+ 1 
+12.5
+
+Multiply the numerators by the reciprocal of denominators, then add them 1(reciprocal 0.0125) + 1 (reciprocal 12.5)
+Using tables find the reciprocals,
+=	1(80) +1 (0.08)
+=	80.08
+
+Example
+
+
+Solution
+
+
+  4		-
+0.375
+
+
+  3	
+37.5
+
+=	4 (rec0.375) - 3(37.5)
+=	(4 x2.667) - (3x0.026667)
+=	10.59
+
+
+
+
+End of topic
+
+
+
+
+
+CHAPTER TWENTY SIX
+INDICES AND LOGARITHMS
+
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Define indices (powers)
+b.) State the laws of indices
+c.) Apply the laws of indices in calculations
+d.) Relate the powers of 10 to common logarithms
+e.) Use the tables of common logarithms and anti-logarithms in computation.
+
+Content
+a.) Indices (powers) and base
+b.) Laws of indices (including positive integers, negative integers and fractional indices)
+c.) Powers of 10 and common logarithms
+d.) Common logarithms:
+* characteristics
+* mantissa
+e.) Logarithm tables
+f.) Application of common logarithms in multiplication, division, powers and roots.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100 = 102
+2 is called the index and 10 is the base.
+Laws of indices
+For the laws to hold the base must be the same. Rule 1
+Any number, except zero whose index is 0 is always equal to 1
+Example
+
+
+
+
+Rule 2
+
+50 = 1
+100000000000000000=1
+
+To multiply an expression with the same base, copy the base and add the indices.
+
+
+Example
+
+am  + an
+
+= am+n
+
+52  +
+
+53=55
+= 3125
+
+Rule 3
+To divide an expression with the same base, copy the base and subtract the powers.
+
+am  ÷
+
+an = am-n
+
+
+
+
+Example
+
+
+95 ÷ 92 = 93
+
+
+
+Rule 4
+To raise an expression to the nth index, copy the base and multiply the indices
+amxn = amn
+
+
+
+
+Example
+(53) 2=
+53×2=56
+Rule 5
+When dealing with a negative power, you simply change the power to positive by changing it into a fraction with 1 s the numerator.
+a-m= 1
+am
+
+
+
+Example
+2-2= 1
+22
+
+= 1
+4
+Example
+Evaluate:
+a.) 23×2-3 = 2(3+-3)
+=20
+=1
+2 -2	1
+
+b.) ( ) 3
+
+
+=( 1 )
+4
+9
+=1÷ 4
+9
+
+=(	) 2
+2
+3
+
+9	1	2
+
+-2	3	9
+
+=1 ×	=2	or (  )  = (  ) squared =
+4	4	3	2	4
+
+
+
+
+Fractional indices
+Fractional indices are written in fraction form. In summary ifan = b. a is called the nth root of b written as n b.
+
+
+
+
+
+Example
+1	3
+273 =3 2716 4 = (4 16) = 23= 8
+=3
+
+
+- 1
+4 2 =
+
+42
+
+=
+
+
+
+LOGARITHM
+Logarithm is the power to which a fixed number (the base) must be raised to produce	a given
+
+number. In summary the expression
+
+am = n is written as log
+
+n =m.
+
+am = n is the index notation while log n = m is the logarithm notation.
+Examples
+
+Index notationLogarithm form22 =4log 4 = 2
+2192 = 3log 3 = 1
+9	2n
+b = mlog m =n
+b
+Reading logarithms from the tables is the same as reading squares square roots and reciprocals.
+We can read logarithms of numbers between 1 and 10 directly from the table. For numbers greater than 10 we proceed as follows:
+
+Express the number in standard form, A X logarithms.
+
+10n.Then n will be the whole number part of the
+
+Read the logarithm of A from the tables, which gives the decimal part of the logarithm. Then add it to n which is the power of 10 to form the positive part of the logarithm.
+Example
+Find the logarithm of: 379
+
+
+
+
+Solution
+379
+= 3.79 x 102
+Log 3.79 = 0.5786
+Therefore the logarithm of 379 is 2 + 0.5786= 2.5786
+The whole number part of the logarithm is called the characteristic and the decimal part is the mantissa.
+Logarithms of Positive Numbers less than 1 Example
+Log to base 10 of 0.034
+We proceed as follows:
+Express 0.034 in standard form, i.e., A X10n. Read the logarithm of A and add to n
+Thus 0.034 = 3.4 x 10-2
+Log 3.4 from the tables is 0.5315
+Hence 3.4 x 10-2 = 100.5315 × 10-2
+
+Using laws of indices add 0.5315 + -2 which is written as 2 .5315.
+It reads bar two point five three one five. The negative sign is written directly above two to show that it's only the characteristic is negative.
+
+
+
+Example
+Find the logarithm of: 0.00063
+Solution
+= 6.3 ×10-3 (Find the logarithm of	6.3)
+
+
+
+¯
+= 3 .7993
+
+
+
+
+
+
+
+= 100.7993 ×10-3
+= 10-3 + 0.7993
+
+ANTILOGARITHMS
+Finding antilogarithm is the reverse of finding the logarithms of a number. For example the logarithm of 1000 to base 10 is 3. So the antilogarithm of 3 is 1000.In algebraic notation, if
+
+
+
+¯
+X= 102. 3031
+
+
+
+= 10-2+0.3031
+
+= 10-2
+
+x 100.3031(Find the antilog, press shift and log then key in the number)
+= 10-2 x 2.01
+
+=  1
+100
+
+
+x2.01
+
+
+= 2.01
+100
+= 0.0201
+
+
+
+Example
+Use logarithm tables to evaluate:
+
+
+
+
+456 x 398
+271
+
+Number	Standard form	logarithm
+
+456	4.56 x
+
+102
+
+2.6590
+
+
+
+5.2589
+
+
+
+6.697 x102?	2.8259
+
+398	3.98 x 102
+
+
++
+271	2.71 x 102
+
+
+= 669.7
+
+2.5999
+
+
+
+2.4330	-
+
+To find the exact number find the antilog of 2.8259 by letting the characteristic part to be the power of ten then finding the antilog of 0.8259
+Example
+Operations involving bar
+
+135
+
+
+
+
+
+Solution
+
+
+Numberlogarithm415.22.61820.07612 .8814 +1.49961352.1303 -2.341 x 10-11 .36930.2341
+Example
+1
+= (9.45 x 10-1)2
+¯ 1 .9754 x 1
+= ( 10	2)
+
+
+
+Note;
+In order to divide
+
+
+
+1 .9754 by 2 , we write the logarithm in search away that the characteristic is
+
+exactly divisible by 2 .If we are looking for the nth root , we arrange the characteristic to be exactly divisible by n)
+¯
+1 .9754 = -1 + 0.9754
+= -2 + 1.9754
+Therefore, 1(¯1 .9754) = 1( - 2 + 1.9754)
+2	2
+= -1 + 0.9877
+
+	
+
+
+Find the antilog of characteristic.
+
+1 .9877 by writing the mantissa as power of 10 and then find the antilog of
+
+= 9.720 X 10-1
+
+
+Example
+
+= 0.9720
+
+
+
+
+
+ Number	logarithm
+
+
+2 .7910 x 1
+3
+
+¯
+= ( 3
+
++ 1.7910) ×1
+3
+
+
+
+3.954 x 10-1 = ¯ 1
+
+
+
+
+. 5970 (find the antilog)
+
+
+
+0.3954
+End of topic
+
+
+
+Past KCSE Questions on the cubes, cubes roots, Reciprocals indices and logarithms.
+1. Use logarithms to evaluate
+
+
+
+2. Find the value of x which satisfies the equation. 16x2 = 84x-3
+3. Use logarithms to evaluate	( 1934)2  x	v 0.00324
+436
+4. Use logarithms to evaluate
+55.9 ÷ (02621 x 0.01177) 1/5
+
+
+
+isabokemicah@gmail.com
+5. Simplify	2x x 52x? 2-x
+6. Use logarithms to evaluate (3.256 x 0.0536)1/3
+
+
+7. Solve for x in the equation 32(x-3) ÷8 (x-4) = 64 ÷2x
+8. Solve for x in the equations 812x x 27x = 729
+9x
+9. Use reciprocal and square tables to evaluate to 4 significant figures, the expression:
+1	+ 4 .3462
+24.56
+10. Use logarithm tables, to evaluate
+
+0.006
+
+
+11. Find the value of x in the following equation 49(x +1) + 7(2x) = 350
+
+
+12. Use logarithms to evaluate (0.07284)2
+3v0.06195
+13. Find the value of m in the following equation (1/27m x (81)-1 = 243
+14. Given that P = 3y express the equation 3(2y-1) + 2 x 3 (y-1) = 1 in terms of P hence or otherwise find the value of y in the equation 3 (2y - 1) + 2 x 3 (y-1) = 1
+
+15. Use logarithms to evaluate 55.9 ?(0.2621 x 0.01177)1/5
+16. Use logarithms to evaluate
+
+
+
+
+Log 5
+
+
+17. Use logarithms to evaluate
+
+
+isabokemicah@gmail.com
+3  1.23 x 0.0089
+79.54
+
+
+18. Solve for x in the equation X = 0.0056 1/2
+1.38 x 27.42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER
+
+
+
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Define gradient of a straight line
+b.) Determine the gradient of a straight line through known points
+c.) Determine the equation of a straight line using gradient and one known point
+d.) Express a straight line equation in the form y = mx + c
+
+
+isabokemicah@gmail.com
+e.) Interpret the equation y = mx + c
+f.) Find the x- and y- intercepts from an equation of a line
+g.) Draw the graph of a straight line using gradient and x- and y- intercepts
+h.) State the relationship of gradients of perpendicular lines
+i.) State the relationship of gradients of parallel lines
+j.) Apply the relationship of gradients of perpendicular and parallel lines to get equations of straight lines.
+Content
+a.) Gradient of a straight line
+b.) Equation of a straight line
+c.) The equation of a straight line of the form y = mx + c
+d.) The x and y intercepts of a line
+e.) The graph of a straight line
+f.) Perpendicular lines and their gradient
+g.) Parallel lines and their gradients
+h.) Equations of parallel and perpendicular lines.
+
+
+
+
+
+
+
+
+
+
+
+Gradient
+
+The steepness or slope of an area is called the gradient. Gradient is the change in y axis over the change in x axis.
+
+
+
+isabokemicah@gmail.com
+
+
+
+change in y co-ordinates
+
+y y
+=	2- 1
+
+change in x co-ordinates
+
+
+2- 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note:
+If an increase in the x co-ordinates also causes an increase in the y co-ordinates the gradient is positive.
+If an increase in the x co-ordinates causes a decrease in the value of the y co-ordinate, the gradient is negative.
+If, for an increase in the x co-ordinate, there is no change in the value of the y co-ordinate, the gradient is zero.
+For vertical line, the gradient is not defined.
+Example
+Find the gradient.
+
+
+
+Solution
+Gradient = change in y axis
+change in x axis
+
+
+
+= 1
+4
+
+
+
+
+= 4-3
+6-2
+
+
+isabokemicah@gmail.com
+Equation of a straight line.
+Given two points
+Example.
+Find the equation of the line through the points A (1, 3) and B (2, 8)
+Solution
+The gradient of the required line is 8-3 =5
+2-1
+Take any point p (x, y) on the line. Using... points P and A, the gradient is y-3
+x-1
+
+Therefore y-3 =5
+x-1
+Hence y = 5x - 2
+Given the gradient and one point on the line
+Example
+Determine the equation of a line with gradient 3, passing through the point (1, 5).
+Solution
+Let the line pass through a general point (x, y).The gradient of the line is y-5 =3
+x-1
+Hence the equation of the line is y =3x +2
+We can express linear equation in the form y = mx + c.
+
+
+Illustrations.
+For example 4x + 3 y = -8 is equivalent to y= -4 x - 8. In the linear equation below gradient is equal
+3	3
+to m while c is the y intercept.
+
+
+
+
+Using the above statement we can easily get the gradient.
+Example
+Find the gradient of the line whose equation is 3 y -6 x + 7 =0
+Solution
+Write the equation in the form of y = mx + c
+
+3y = 6x - 7
+y = 2x - 7
+3
+
+
+M= 2 and also gradient is 2.
+The y- intercept
+The y - intercept of a line is the value of y at the point where the line crosses the y axis. Which is C in the above figure. The x -intercept of a graph is that value of x where the graph crosses the x axis.
+To find the x intercept we must find the value of y when x = 0 because at every point on the y axis x = 0 .The same is true for y intercept.
+
+
+Example
+Find the y intercept y = 2x + 10 on putting y = o we have to solve this equation.
+2x + 10 = 0
+2x= -10
+X =- 5
+X intercept is equal to - 5.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Perpendicular lines
+If the products of the gradient of the two lines is equal to - 1, then the two lines are equal to each other.
+Example
+Find if the two lines are perpendicular
+
+
+
+
+y =		x +1y = -3x - 2 3
+
+
+
+Solution
+The gradients are
+M=1 and M = -3
+3
+The product is
+
+
+
+
+
+
+1 ×-3 = - 1
+3
+
+The answer is -1 hence they are perpendicular.
+Example
+Y = 2x + 7 Y = -2x + 5
+The products are	2 × - 2 = - 4 hence the two lines are not perpendicular.
+
+
+
+Parallel lines
+Parallel lines have the same gradients e.g.
+
+
+
+
+y = 2x + 7 y = 2x - 9
+
+Both lines have the same gradient which is 2 hence they are parallel
+End of topic
+
+
+
+Past KCSE Questions on the topic
+1. The coordinates of the points P and Q are (1, -2) and (4, 10) respectively.
+A point T divides the line PQ in the ratio 2: 1
+(a) Determine the coordinates of T
+(b) (i)	Find the gradient of a line perpendicular to PQ
+
+(ii) Hence determine the equation of the line perpendicular PQ and passing through T
+(iii) If the line meets the y- axis at R, calculate the distance TR, to three significant figures
+2. A line L1 passes though point (1, 2) and has a gradient of 5. Another line L2, is perpendicular to L1 and meets it at a point where x = 4. Find the equation for L2 in the form of y = mx + c
+3. P (5, -4) and Q (-1, 2) are points on a straight line. Find the equation of the perpendicular bisector of PQ: giving the answer in the form y = mx+c.
+4. On the diagram below, the line whose equation is 7y - 3x + 30 = 0 passes though the points A and B. Point A on the x-axis while point B is equidistant from x and y axes.
+
+
+
+
+
+
+
+Calculate the co-ordinates of the points A and B
+5. A line with gradient of -3 passes through the points (3. k) and (k.8). Find the value of k and hence express the equation of the line in the form a ax + ab = c, where a, b, and c are constants.
+6. Find the equation of a straight line which is equidistant from the points (2, 3) and (6, 1), expressing it in the form ax + by = c where a, b and c are constants.
+7. The equation of a line -3/5x + 3y = 6. Find the:
+(a) Gradient of the line	(1 mk)
+(b) Equation of a line passing through point (1, 2) and perpendicular to the given line b
+8. Find the equation of the perpendicular to the line x + 2y = 4 and passes through point (2,1)
+9. Find the equation of the line which passes through the points P (3,7) and Q (6,1)
+10. Find the equation of the line whose x- intercepts is -2 and y- intercepts is 5
+11. Find the gradient and y- intercept of the line whose equation is 4x - 3y - 9 = 0
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER TWENTY EIGHT
+REFLECTION AND CONGRUENCE
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) State the properties of reflection as a transformation
+b.) Use the properties of reflection in construction and identification of images and objects
+c.) Make geometrical deductions using reflection
+d.) Apply reflection in the Cartesian plane
+e.) Distinguish between direct and opposite congruence
+f.) Identify congruent triangles.
+Content
+a.) Lines and planes of symmetry
+b.) Mirror lines and construction of objects and images
+c.) Reflection as a transformation
+d.) Reflection in the Cartesian plane
+e.) Direct and opposite congruency
+f.) Congruency tests (SSS, SAS, AAS, ASA and RHS)
+
+
+
+
+
+
+
+
+
+Introduction
+The process of changing the position, direction or size of a figure to form a new figure is called transformation.
+Reflection and congruence Symmetry
+Symmetry is when one shape becomes exactly like another if you turn, slide or cut them into two
+identical parts. The lines which divides a figure into two identical parts are called lines of symmetry. If a figure is cut into two identical parts the cut part is called the plane of symmetry.
+
+How many planes of symmetry does the above figures have? There are two types of symmetry. Reflection and Rotational.
+Reflection
+A transformation of a figure in which each point is replaced by a point symmetric with respect to a line or plane e.g. mirror line.
+Properties preserved under reflection
+* Midpoints always remain the same.
+* Angle measures remain the same i.e. the line joining appoint and its image is perpendicular to the mirror line.
+* A point on the object and a corresponding point on the image are equidistant from the mirror line.
+
+
+isabokemicah@gmail.com
+mirror line is a line of symmetry between an object and its image.
+
+(a)
+Figures that have rotational symmetry
+
+
+
+
+
+
+
+
+
+
+(b) Order of rotational symmetry
+
+2
+
+3
+
+4
+
+5
+Examples
+To reflect an object you draw the same points of the object but on opposite side of the mirror. They must be equidistance from each other.
+
+
+
+
+?
+
+
+
+Exercise
+Find the mirror line or the line of symmetry.
+
+
+isabokemicah@gmail.com
+
+
+To find the mirror line, join the points on the object and image together then bisect the lines perpendicularly. The perpendicular bisector gives us the mirror line.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Congruence
+Figures with the same size and same shape are said to be congruent. If a figure fits into another directly it is said to be directly congruent.
+If a figure only fits into another after it has been turned then it's called opposite congruent or indirect congruence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A	B
+
+
+Figure A and B are directly congruent while C is oppositely or indirectly congruent because it only fits into A after it has been turned.
+End of topic
+
+
+
+
+
+
+
+
+CHAPTER TWENTY NINE
+
+
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) State properties of rotation as a transformation
+b.) Determine centre and angle of rotation
+c.) Apply properties of rotation in the Cartesian plane
+d.) Identify point of rotational symmetry
+e.) State order of rotational symmetry of plane figure
+f.) Identify axis of rotational symmetry of solids
+g.) State order of rotational symmetry of solids
+h.) Deduce congruence from rotation.
+Content
+a.) Properties of rotation
+b.) Centre and angle of rotation
+c.) Rotation in the cartesian plane
+d.) Rotational symmetry of plane figures and solids (point axis and order)
+e.) Congruence and rotation
+
+
+Introduction
+A transformation in which a plane figure turns around a fixed center point called center of rotation. A rotation in the anticlockwise direction is taken to be positive whereas a rotation in the clockwise direction is taken to be negative.
+For example a rotation of 900 clockwise is taken to be negative. - 900 while a rotation of anticlockwise 900 is taken to be +900.
+
+For a rotation to be completely defined the center and the angle of rotation must be stated.
+
+
+
+
+
+
+Illustration
+To rotate triangle A through the origin ,angle of rotation +1/4 turn.
+
+
+
+
+Draw a line from each point to the center of rotation ,in this case it's the origin.Measure 90 0 from the object using the protacter and make sure the base line of the proctacter is on the same line as the line from the point of the object to the center.The 0 mark should start from the object.
+Mark 900 and draw a straight line to the center joining the lines at the origin.The distance from the point of the object to the center should be the same distance as the line you drew.This give you the image point
+The distance between the object point and the image point under rotation should be the same as the center of rotation in this case 900
+
+Illustration.
+To find the center of rotation.
+* Draw a segment connecting point's	and	'
+* Using a compass, find the perpendicular bisector of this line.
+* Draw a segment connecting point's	and	'.Find the perpendicular bisector of this segment.
+* The point of intersection of the two perpendicular bisectors is the center of rotation. Label this point	.
+
+
+
+
+
+Justify your construction by measuring angles ?	' and ?	'. Did you obtain the same measure? The angle between is the angle of rotation. The zero mark of protector should be on the object to give you the direction of rotation.
+
+
+isabokemicah@gmail.com
+Rotational symmetry of plane figures
+The number of times the figure fits onto itself in one complete turn is called the order of rotational symmetry.
+
+
+Note;
+The order of rotational symmetry of a figure	=	360 /angle between two identical parts of the figure.
+Rotational symmetry is also called point symmetry. Rotation preserves length, angles and area, and the object and its image are directly congruent.
+End of topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER THIRTY
+
+
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Identify similar figures
+b.) Construct similar figures
+c.) State properties of enlargement as a transformation
+
+
+
+d.) Apply the properties of enlargement to construct objects and images
+e.) Apply enlargement in Cartesian planes
+f.) State the relationship between linear, area and volume scale factor
+g.) Apply the scale factors to real life situations.
+Content
+a.) Similar figures and their properties
+b.) Construction of similar figures
+c.) Properties of enlargement
+d.) Construction of objects and images under enlargement
+e.) Enlargement in the Cartesian plane
+f.) Linear, area and volume scale factors
+g.) Real life situations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction Similar Figures
+Two or more figures are said to be similar if:
+* The ratio of the corresponding sides is constant.
+   * The corresponding angle are similar Example 1
+In the figures below, given that ?ABC ~ ?PQR, find the unknowns x, y and z.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solution
+BA corresponds to QP each of them has opposite angle y and 980 .Hence y is equal to 980 BC corresponds to QR and AC corresponds to PR.
+ BA/QR=BC/QR=AC/PR AC/PR=BC/QR 3/4.5=5/Z
+Z = 7.5 cm
+
+Note:
+Two figures can have the ratio of corresponding sides equal but fail to be similar if the corresponding angles are not the same.
+Two triangles are similar if either their all their corresponding angles are equal or the ratio of their corresponding sides is constant.
+Example:
+In the figure, ?ABC is similar to ?RPQ. Find the values of the unknowns.
+
+
+
+
+Since ?ABC~ ?RPQ,
+?B= ?P ?x= 90°
+
+
+Also,
+AB/RP	= BC /PQ 39 /y =52 /48
+
+ (48 X 39)
+52
+?y = 36
+
+
+Also,
+AC/RQ=BC/PQ
+
+
+Z/60=52/48
+
+
+?z = 65 ENLARGMENT
+What's enlargement?
+Enlargement, sometimes called scaling, is a kind of transformation that changes the size of an
+
+
+
+object. The image created is similar* to the object. Despite the name enlargement, it includes making objects smaller.
+For every enlargement, a scale factor must be specified. The scale factor is how many times larger than the object the image is.
+
+
+Length of side in image = length of side in object X scale factor
+For any enlargement, there must be a point called the center of enlargement.
+
+
+Distance from center of enlargement to point on image =
+Distance from Centre of enlargement to point on object X scale factor
+
+
+The Centre of enlargement can be anywhere, but it has to exist.
+
+This process of obtaining triangle A' B 'C' from triangle A B C is called enlargement. Triangle ABC is the object and triangles A' B 'C 'Its image under enlargement scale factor 2.
+Hence OA'/OA=OB'/OB=OC'/OC= 2...
+The ratio is called scale factor of enlargement. The scale factor is called liner scale factor
+By measurement OA=1.5 cm, OB=3 cm and OC =2.9 cm. To get A', the image of A, we proceed as follows
+OA=1.5 cm
+ OA'/OA=2 (scale factor 2) OA'=1.5X2
+=3 cm
+Also OB'/OB=2
+= 3 X2
+
+
+isabokemicah@gmail.com
+=6 cm
+Note:
+Lines joining object points to their corresponding image points meet at the Centre of enlargement.
+
+
+
+CENTER OF ENLARGMENT
+To find center of enlargement join object points to their corresponding image points and extend the lines, where they meet gives you the Centre of enlargement. Or Draw straight lines from each point on the image, through its corresponding point on the object, and continuing for a little further. The point where all the lines cross is the Centre of enlargement.
+
+
+
+
+
+SCALE FACTOR
+The scale factor can be whole number, negative or fraction. Whole number scale factor means that the image is on the same side as the object and it can be larger or the same size,
+Negative scale factor means that the image is on the opposite side of the object and a fraction whole number scale factor means that the image is smaller either on the same side or opposite side.
+Linear scale factor is a ratio in the form a: b or a/b .This ratio describes an enlargement or reduction in one dimension, and can be calculated using.
+
+
+New length
+Original length
+Area scale factor	is a ratio in the form e: f or e/f. This ratio	describes how many times to enlarge. Or reduce the area of two dimensional figure. Area scale factor can be calculated using.
+New Area
+
+
+
+
+Original Area
+
+isabokemicah@gmail.com
+
+Area scale factor= (linear scale factor) 2
+Volume scale factor is the ratio that describes how many times to enlarge or reduce the volume of a three dimensional figure. Volume scale factor can be calculated using.
+New Volume
+Original Volume
+Volume scale factor = (linear scale factor) 3 CONGRUENCE TRIANGLES
+When two triangles are congruent, all their corresponding sides andcorresponding angles are equal.
+
+
+TRASLATION VECTOR
+Translation vector moves every point of an object by the same amount in the given vector direction. It can be simply be defined as the addition of a constant vector to every point.
+Translations and vectors: The translation at the left shows a vector translating the top triangle 4 units to the right and 9 units downward. The notation for such vector movement may be written as:
+
+
+or
+
+Vectors such as those used in translations are what is known as free vectors. Any two vectors of the same length and parallel to each other are considered identical. They need not have the same initial and terminal points.
+
+
+
+
+
+
+End of topic
+
+
+
+
+Past KCSE Questions on Reflection and Congruence, Rotation, Similarity and Enlargement.
+1. A translation maps a point (1, 2) onto) (-2, 2). What would be the coordinates of the object whose image is (-3, -3) under the same translation?
+2. Use binomial expression to evaluate (0.96)5 correct to 4 significant figures
+11. In the figure below triangle ABO represents a part of a school badge. The badge has as symmetry of order 4 about O. Complete the figures to show the badge.
+
+
+
+
+
+
+A
+
+
+
+
+
+C
+3. A point (-5, 4) is mapped onto (-1, -1) by a translation. Find the image of (-4, 5) under the same
+translation.
+4. A triangle is formed by the coordinates A (2, 1) B (4, 1) and C (1, 6). It is rotated clockwise through 900 about the origin. Find the coordinates of this image.
+5. The diagram on the grid provided below shows a trapezium ABCD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Novels,Updated CPA,CIFA,ICT,KASNEB,College,High School &Primary Notes  0714497530
+
+
+
+On the same grid
+(a) (i)	Draw the image A'B'C'D of ABCD under a rotation of 900 clockwise about the origin .
+(ii)	Draw the image of A"B"C"D" of A'B'C'D' under a reflection in line y = x. State coordinates of A"B"C"D".
+(b) A"B"C"D" is the image of A"B"C"D under the reflection in the line x=0. Draw the image A"B" C"D" and state its coordinates.
+(c) Describe a single transformation that maps A" B"C"D onto ABCD.
+6. A translation maps a point P(3,2) onto P'(5,4)
+(a) Determine the translation vector
+(b) A point Q' is the image of the point Q (, 5) under the same translation. Find the length of 'P' Q leaving the answer is surd form.
+7. Two points P and Q have coordinates (-2, 3) and (1, 3) respectively. A translation map point P to P' ( 10, 10)
+(a) Find the coordinates of Q' the image of Q under the translation	(1 mk)
+(b) The position vector of P and Q in (a) above are p and q respectively given that mp - nq = -12
+9	Find the value of m and n	(3mks)
+8. on the Cartesian plane below, triangle PQR has vertices P(2, 3), Q ( 1,2) and R ( 4,1) while triangles P" q " R" has vertices P" (-2, 3), Q" ( -1,2) and R" ( -4, 1)
+
+
+
+(a) Describe fully a single transformation which maps triangle PQR onto triangle P"Q"R"
+(b) On the same plane, draw triangle P'Q'R', the image of triangle PQR, under reflection in line y = -x
+
+
+
+Describe fully a single transformation which maps triangle P'Q'R' onto triangle P"Q"R
+Draw triangle P"Q"R" such that it can be mapped onto triangle PQR by a positive quarter turn about (0, 0)
+State all pairs of triangle that are oppositely congruent
+
+
+
+CHAPTER THIRTY ONE
+THE PYTHAGORA'S THEOREM
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Derive Pythagoras theorem
+b.) Solve problems using Pythagoras theorem
+c.) Apply Pythagoras theorem to solve problems in life situations
+Content
+a.) Pythagoras Theorem
+b.) Solution of problems using Pythagoras Theorem
+c.) Application to real life situations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Consider the triangle below:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pythagoras theorem states that for a right-angled triangle, the square of the hypotenuse is equal to the sum of the square of the two shorter sides.
+Example
+In a right angle triangle, the two shorter sides are 6 cm and 8 cm. Find the length of the hypotenuse.
+Solution
+Using Pythagoras theorem
+hyp2 = 62 x 82
+
+
+hyp2 = 362 x 642
+
+hyp2 =100	hyp =2 100 =10
+
+
+
+
+
+
+End of topic
+
+
+Past KCSE Questions on the topic.
+1. The angle of elevation of the top of a tree from a point P on the horizontal ground is 24.5°.From another point Q, five metres nearer to the base of the tree, the angle of elevation of the top of the tree is
+33.2°. Calculate to one decimal place, the height of the tree.
+2. A block of wood in the shape of a frustrum of a cone of slanting edge 30 cm and base radius 10cm is cut parallel to the base, one third of the way from the base along the slanting edge. Find the ratio of the volume of the cone removed to the volume of the complete cone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER THIRTY TWO
+TRIGONOMETRIC RATIOS
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Define tangent, sine and cosine ratios from a right angled triangle
+b.) Read and use tables of trigonometric ratios
+c.) Use sine, cosine and tangent in calculating lengths and angles
+d.) Establish and use the relationship of sine and cosine of complimentary angles
+e.) Relate the three trigonometric ratios
+f.) Determine the trigonometric ratios of special angles 30°, 45°, 60° and 90°without using tables
+g.) Read and use tables of logarithms of sine, cosine and tangent
+
+
+isabokemicah@gmail.com
+h.) Apply the knowledge of trigonometry to real life situations.
+Content
+a.) Tangent, sine and cosine of angles
+b.) Trigonometric tables
+c.) Angles and sides o f a right angled triangle
+d.) Sine and cosine of complimentary angles
+e.) Relationship between tangent, sine and cosine
+f.) Trigonometric ratios of special angles 30°, 45°, 60° and 90°
+g.) Logarithms of sines, cosines and tangents
+h.) Application of trigonometry to real life situations.
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Tangent of Acute Angle
+The constant ratio between the   vertical distance   is called the tangent. It's abbreviated as tan
+horizontal distance
+
+
+TanØ =opposite side
+adjacent side
+
+Sine of an Angle
+The ratio of the side of angle x to the hypotenuse side is called the sine.
+SinØ = opposite side
+hypotenuse
+Cosine of an Angle
+The ratio of the side adjacent to the angle and hypotenuse.
+CosineØ =  Adjacent 
+hypotenuse
+
+Example
+In the figure above adjacent length is 4 cm and Angle x= 360. Calculate the opposite length.
+Solution
+
+tan 360 = opposite length
+adjacent lengh
+4tan 360 = PR
+
+= PR
+4
+
+Therefore PR = 4 x 0.7265 = 2.9060 cm.
+
+
+
+
+
+
+Example
+
+
+
+
+In the above o = 5 cm a = 12 cm  calculate angle sin x and cosine x.
+Solution
+sin x = opp o = 5
+hyp h	h
+
+
+
+
+
+Therefore sin x=	5
+13
+= 0.3846
+Cos x = adj
+hyp
+=12
+13
+=0.9231
+
+But H2 = 122×52
+= 169
+=
+H = 13
+
+
+
+
+
+
+
+
+
+Sine and cosines of complementary angles
+For any two complementary angles x and y, sin x = cos y cos x = sin y e.g. sin600 = cos 300, Sin300 = cos 600, sin700 = cos 200,
+Example
+Find acute angles a and ß if
+Sin a = cos 330
+Solution
+sin a = cos 33
+Therefore a + 33 = 90
+a = 570
+
+
+Trigonometric ratios of special Angles 300 450 600.
+These trigonometric ratios can be deducted by the use of isosceles right - angled triangle and equilateral triangles as follows.
+Tangent cosine and sine of450.
+The triangle should have a base and a height of one unit each, giving hypotenuse of 2.
+
+
+
+
+
+
+
+
+
+
+Cos 450 =	sin450 =	tan450 = 1
+
+Tangent cosine and sine of 300  amd 600.
+
+
+The equilateral triangle has a sides of 2 units each
+
+
+Sin 300 =
+
+
+
+Sin 600 =
+
+
+=
+
+End of topic
+
+
+
+
+Past KCSE Questions on the topic.
+1. Given sin (90 - a) = 1/2 , find without using trigonometric tables the value of cos a	(2mks)
+
+2. If	,find without using tables or calculator, the value of
+
+
+(3 marks)
+
+3. At point A, David observed the top of a tall building at an angle of 30o. After walking for 100meters towards the foot of the building he stopped at point B where he observed it again at an angle of 60o. Find the height of the building
+
+
+4. Find the value of ?, given that 1/2 sin? = 0.35 for 0o = ? = 360o
+
+5. A man walks from point A towards the foot of a tall building 240 m away. After covering 180m, he observes that the angle of elevation of the top of the building is 45o. Determine the angle of elevation of the top of the building from A
+6. Solve for x in 2 Cos2x0 = 0.6000 00= x = 3600.
+
+7. Wangechi whose eye level is 182cm tall observed the angle of elevation to the top of her house to be 32º from her eye level at point A. she walks 20m towards the house
+on a straight line to a point B at which point she observes the angle of elevation to the top of the building to the 40º. Calculate, correct to 2 decimal places the ;
+a) distance of A from the house
+b) The height of the house
+8. Given that cos A = 5/13 and angle A is acute, find the value of:- 2 tan A + 3 sin A
+
+9. Given that tan 5° = 3 + 5,	without using tables or a calculator, determine tan 25°, leaving your answer in the form a + b c
+
+
+
+10. Given that tan x = 5, find the value of the following without using mathematical tables or calculator: 12
+(a) Cos x
+(b) Sin2(90-x)
+
+11. If tan ? =8/15, find the value of Sin? - Cos? without using a calculator or table Cos? + Sin?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER THIRTY THREE
+AREA OF A TRIANGLE
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Derive the formula; Area = 1/2ab sin C
+b.) Solve problems involving area of triangles using the formula Area = 1/2ab sin C;
+c.) Solve problems on area of a triangle using the formula area =
+Content
+a.) Area of triangle A =1/2 ab sin C
+b.) Area of a triangle A =
+c.) Application of the above formulae in solving problems involving real life situations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Area of a triangle given two sides and an included Angle
+
+The area of a triangle is given by
+
+Example
+
+1
+A =		bh 2
+
+but sometimes we use other formulas to as follows.
+
+If the length of two sides and an included angle of a triangle are given, the area of the triangle is
+
+given by	A =
+
+1 absin?
+2
+
+
+
+
+In the figure above PQ is 5 cm and PR is 7 cm angle QPR is 500.Find the area of the the triangle.
+Solution
+
+Using the formulae by	A =
+
+1 absin? a= 5 cm b =7 cm and ? = 500
+2
+
+
+
+Area =
+
+1 x 5 x 7 sin500
+2
+
+=2.5 x 7 x 0.7660
+=13.40 cm2
+Area of the triangle, given the three sides. Example
+Find the area of a triangle ABC in which AB = 5 cm, BC = 6 cm and AC =7 cm.
+Solution
+When only three sides are given us the formulae
+A =	Hero's formulae
+
+S = 1 of the perimeter of the triangle 2
+1
+=	(a + b + c) A, b, c are the lengths of the sides of the triangle.
+2
+
+= 1(6+7+5) = 9 And A = 2
+
+=
+=
+= 14.70 cm2
+
+
+End of topic
+
+
+Past KCSE Questions on the topic.
+1. The sides of a triangle are in the ratio 3:5:6. If its perimeter is 56 cm, use the Heroes formula to find its area	(4mks)
+2. The figure below is a triangle XYZ. ZY = 13.4cm, XY = 5cm and angle xyz = 57.7o
+
+
+isabokemicah@gmail.com
+
+
+
+
+
+
+Calculate
+i.)	Length XZ. (3mks)
+i.) Angle XZY. (2 mks)
+   ii.) If a perpendicular is dropped from point X to cut ZY at M, Find the ratio MY: ZM. (3 mks) Find the area of triangle XYZ. (2 mks)
+CHAPTER THIRTY FOUR
+
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Find the area of a quadrilateral
+b.) Find the area of other polygons (regular and irregular).
+Content
+a.) Area of quadrilaterals
+b.) Area of other polygons (regular and irregular).
+
+
+
+
+
+
+
+
+
+Introduction Quadrilaterals.
+They are four sided figures e.g. rectangle, square, rhombus, parallelogram, trapezium and kite.
+Area of rectangle
+A = L X W
+
+
+AB and DC area the lengths while AD and BC are the width.
+
+
+Area of parallelogram
+A figure whose opposite side are equal parallel.
+
+
+Area = base x height = 2.5 x 1.8 = 4.5 cm2
+Area of a Rhombus.
+A figure with all sides equal and the diagonals bisect each other at900. In the figure below BC =CD
+=DA=AB=4 cm while AC=10 cm and BD = 12. Find the area
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solution
+Find half of the diagonal which is 1 ×10 = 5 cm
+2
+Area of ? BCD = 1 X 12 X 5 = 30 cm2
+2
+Area of ?ABCD = 2 X area of ?BCD
+
+
+
+
+Area of Trapezium
+
+= 2 X 30cm2
+= 60 cm2
+
+A quadrilateral with only two of its opposite sides being parallel. The area = (a+b)h
+
+
+Example
+Find the area of the above figure Solution
+Area = (6+12)4
+= 9 x 4 = 36 cm2
+
+Note:
+You can use the sine rule to get the height given the hypotenuse and an angle.
+sin? =  opposite 
+hypoteneus
+
+
+Or use the acronym SOHCAHTOA
+
+
+Rhombus
+Example
+In the figure above the lines market // =7 cm while / =5 cm, find the area.
+Solution
+Join X to Y.
+Find the area of the two triangles formed
+1 x 5 x 5x sin950 = 12.45 (Triangle one)
+2
+
+
+
+1 x 7 x 7x sin600 = 21.21 (Triangle two)
+2
+Then add the area of the two triangles
+12.45 + 21.21 = 33.67 cm2
+
+
+
+Area of regular polygons
+Any regular polygon can be divided into isosceles triangle by joining the vertices to the Centre. The number of the polygon formed is equal to the number of sides of the polygon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example
+If the radius is of a pentagon 6 cm find its area.
+Solution
+Divide the pentagone into five triangles each with
+
+
+
+
+720 ie (360)
+5
+
+
+
+Area of one triangle will be = 1 x 6 x 6 xsin720
+2
+=17.11
+There are five triangles therefore AREA = 5 X 17.11
+
+
+End of topic
+
+= 85.55cm2
+
+
+
+
+
+
+
+Past KCSE Questions on the topic.
+1.) The diagram below, not drawn to scale, is a regular pentagon circumscribed in a circle of radius 10 cm at centre O
+
+
+
+Novels,Updated CPA,CIFA,ICT,KASNEB,College,High School &Primary Notes  0714497530
+
+
+
+Find
+
+(a) The side of the pentagon	(2mks)
+
+(b) The area of the shaded region	(3mks)
+
+2.) PQRS is a trapezium in which PQ is parallel to SR, PQ = 6cm, SR = 12cm,	PSR = 400 and PS = 10cm. Calculate the area of the trapezium.	(4mks)
+
+Q
+
+
+
+
+
+S
+
+
+
+3.) A regular octagon has an area of 101.8 cm2. calculate the length of one side of the octagon
+(4marks)
+4.) Find the area of a regular polygon of length 10 cm and side n, given that the sum of interior angles of n : n -1 is in the ratio 4 : 3.
+
+
+1.) Calculate the area of the quadrilateral ABCD shown:-
+
+
+
+D
+
+12cm
+
+
+A
+18cm
+
+
+14cm
+
+C
+
+6cm B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER THIRTY FIVE
+
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Find the area of a sector
+b.) Find the area of a segment
+c.) Find the area of a common region between two circles.
+Content
+a.) Area of a sector
+b.) Area of a segment
+c.) Area of common regions between circles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction Sector
+A sector is an area bounded by two radii and an arc .A minor sector has a smaller area compared
+to a major sector.
+
+
+
+The orange part is the major sector while the yellow part is the minor sector.
+The area of a sector
+The area of a sector subtending an angle ? at the Centre of the circle is given by; A=  ?
+360
+
+
+
+
+X pr2
+
+Example
+Find the area of a sector of radius 3 cm, if the angle subtended at the Centre is given as 1400 take
+
+
+p as 22
+7
+Solution
+Area A of a sector is given by;
+
+A=  ?  X pr2 360
+
+
+Area= 140 x 22
+
+x 32
+
+360	7
+= 11 cm2
+
+
+
+
+Example
+The area of the sector of a circle is 38.5 cm. Find the radius of the circle if the angle subtended at the Centre is900.
+Solution
+
+From A=  ?
+360
+
+X pr2, we get
+
+
+
+
+90
+360
+
+
+
+x 22
+7
+
+
+
+
+x r2 = 38.5
+
+
+r2 = 38.5 x 360 x 7
+90 x 22
+r2 =
+
+
+Example
+
+R = 7 cm
+
+The area of a sector of radius 63 cm is 4158 cm .Calculate the angle subtended at the Centre of the circle.
+Solution
+
+4158 =  ?
+360
+
+x 22
+7
+
+x 63 x 63
+
+
+
+? = 4158 x 360 x 7
+22 x 63 x 63
+= 1200
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Area of a segment of a circle
+A segment is a region of a circle bounded by a chord and an arc.
+
+
+
+In the figure above the shaded region is a segment of the circle with Centre O and radius r. AB=8 cm, ON = 3 cm, ANGLE AOB =106.3 0. Find the area of the shaded part.
+Solution
+Area of the segment = area of the sector OAPB - area of triangle OAB
+
+= 106.3
+360
+
+X 3.142 X 52] - [1 X 8 X 3 ]
+
+= 23.19 - 12
+= 11.19 cm2
+Area of a common region between two intersecting circles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Find the area of the intersecting circles above. If the common chord AB is 9 cm.
+
+
+
+
+
+Solution
+From ?AO M;
+
+
+
+
+=6.614 cm
+From ?AO M;
+
+
+
+
+=3.969 cm
+
+
+
+
+O M =
+
+=
+
+
+
+
+O M =
+
+=
+
+The area between the intersecting circles is the sum of the areas of segments AP B andAP B. Area of segment AP B = area of sector O AP B - area of ?O AB
+
+Using trigonometry, sin < AO M = AM
+AO
+
+= 4.5 = 0.75
+6
+
+
+
+Find the sine inverse of 0.75 to get 48.590
+
+hence < AO M =
+
+48.590
+
+
+< AO B = 2 X < AO M
+
+= 2 X 48.590 = 97.180
+
+
+Area of segment AP B =
+
+97.18 X 3.12 X 62 -
+360
+
+1 X 9 X 3.969
+2
+
+
+= 30.53 - 17.86
+= 12.67 cm2
+
+Area of segment AP B = area of sector O AP B - area of ?O AB
+
+
+Using trigonometry, sin < AO M = AM
+AO
+
+= 4.5 = 0.5625
+8
+
+
+
+Find the sine inverse of 0.5625 to get 34.230
+
+hence < AO M =
+
+34.230
+
+
+< AO B = 2 X < AO M
+
+= 2 X 34.230
+= 68.460
+
+
+Area of segment AP B =
+
+68.46 X 3.12 X 82 -
+360
+
+1 X 9 X 6.614
+2
+
+
+= 38.24 - 29.76
+= 8.48 cm2
+Therefore the area of the region between the intersecting circles is given by;
+Area of segmnet AP B + area of segment AP B
+= 12.67 + 8.48
+= 21.15cm2
+End of topic
+
+
+
+
+
+Past KCSE Questions on the topic.
+1.	The figure below shows a circle of radius 9cm and centre O. Chord AB is 7cm long. Calculate the area of the shaded region.	(4mks)
+
+
+
+
+O
+
+
+
+
+
+Novels,Updated CPA,CIFA,ICT,KAASNEB,College,HBigh School &Primary Notes  0714497530
+
+
+
+
+The figure below shows two intersecting circles with centres P and Q of radius 8cm and 10cm respectively. Length AB = 12cm
+
+
+Calculate:
+
+a)	 APB	(2mks)
+
+b)	AQB	(2mks)
+
+c)	Area of the shaded region	(6mks)
+
+3.
+
+
+
+
+
+
+
+
+
+
+
+
+The diagram above represents a circle centre o of radius 5cm. The minor arc AB subtends an angle of 1200 at the centre. Find the area of the shaded part.	(3mks)
+4. The figure below shows a regular pentagon inscribed in a circle of radius 12cm, centre O.
+
+
+
+
+Calculate the area of the shaded part.
+(3mks)
+
+5. Two circles of radii 13cm and 16cm intersect such that they share a common chord of length 20cm. Calculate the area of the shaded part. 	 (10mks)
+
+6. Find the perimeter of the figure below, given AB,BC and AC are diameters.	(4mks)
+
+
+
+
+
+The figure below shows two intersecting circles. The radius of a circle A is 12cm and that of circle B is 8 cm.
+
+
+
+
+
+
+If the angle MBN = 72o, calculate The size of the angle MAN
+b) The length of MN
+c) The area of the shaded region. 8.
+
+
+In the diagram above, two circles, centres A and C and radii 7cm and 24cm respectively intersect at B and D. AC = 25cm.
+a) Show that angel ABC = 900
+
+b) Calculate
+
+i) the size of obtuse angel BAD
+
+ii) the area of the shaded part	(10 Mks)
+
+9. The ends of the roof of a workshop are segments of a circle of radius 10m. The roof is 20m long. The angle at the centre of the circle is 120o as shown in the figure below:
+
+
+Novels,Updated CPA,CIFA,ICT,KASNEB,College,High School &Primary Notes  0714497530
+
+(a) Calculate :-
+(i) The area of one end of the roof
+(ii) The area of the curved surface of the roof
+       (b) What would be the cost to the nearest shilling of covering the two ends and the curved surface with galvanized iron sheets costing shs.310 per square metre
+
+
+10. The diagram below, not drawn to scale, is a regular pengtagon circumscribed in a circle of radius 10cm at centre O
+
+
+
+
+
+Find;
+(a) The side of the pentagon
+(b) The area of the shaded region
+
+
+11. Triangle PQR is inscribed in he circle PQ= 7.8cm, PR = 6.6cm and QR = 5.9cm. Find:
+
+
+
+(a) The radius of the circle, correct to one dRecimal place
+(b) The angles of the triangle
+(c) The area of shaded region
+
+
+
+CHAPTER THIRTY SIX
+
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Find the surface area of a prism
+b.) Find the surface area of a pyramid
+c.) Find the surface area of a cone
+d.) Find the surface area of a frustum
+e.) Find the surface area of a sphere and a hemisphere.
+Content
+Surface area of prisms, pyramids, cones, frustums and spheres.
+
+
+
+
+
+Introduction
+Surface area of a prism
+A prism is a solid with uniform cross- section. The surface area of a prism is the sum of its faces.
+Cylinder
+
+
+Area of closed cylinder = 2pr2 + 2prl
+Area of open cylinder = pr2 + 2prl ( area of the botton circle as the top is open)
+Example
+Find the area of the closed cylinder r =2.8 cm and l = 13 cm Solution
+= 2 (22 x 2.8 x 2.8) + (2 x 22 x 2.8 x 13)
+
+
+
+
+
+Note;
+
+7	7
+= 49.28 cm2 - 228.82
+= 278.08 cm2
+
+For open cylinder do not multiply by two, find the area of only one circle.
+
+
+Surface area of a pyramid
+The surface area of a pyramid is the sum of the area of the slanting faces and the area of the base. Surface area = base area + area of the four triangular faces (take the slanting height marked green below)
+
+Example
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solution
+Surface area = base area + area of the four triangular faces
+= (14 x 14) + (1 x 14 x 14)
+2
+= 196 + 252
+= 448 mm2
+
+
+Example
+The figure below is a right pyramid with a square base of 4 cm and a slanting edge of 8 cm. Find the surface area of the pyramid.
+
+
+
+
+
+
+a = 4 cm	e = 8 cm
+Surface area = base area + area of the four triangular bases
+= (l x w) + 4 ( 1bh)
+2
+Remember height is the slanting height
+
+
+Slanting height =
+=
+
+Surface area = ( 4 x 4)	1
+2
+= 77.97 cm2
+
+
+Surface area of a cone
+Total surface area of a cone= pr2 + prl
+Curved surface area of a cone =prl
+
+Example
+Find the surface area of the cone above
+= (3.14 x 4 x 4) + (3.14 x 4 x 5)
+= 50.24 +62.8
+=113.04 cm2
+Note;
+Always use slanting height, if it's not given find it using Pythagoras theorem
+
+
+Surface area of a frustum
+The bottom part of a cut pyramid or cone is called a frustum. Example of frustums are bucket,
+	 Examples a lampshade and a hopper.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Example
+Find the surface area of a fabric required to make a lampshade in the form of a frustum whose top and bottom diameters are 20 cm and 30 cm respectively and height 12 cm.
+Solution
+Complete the cone from which the frustum is made, by adding a smaller cone of height x cm.
+
+
+
+h =12, H= x cm, r =10 cm, R =15 cm From the knowledge of similar
+
+
+
+ x = 10
+
+
+
+x+12 15
+
+15x = 10x + 120
+15x - 10x = 120
+5x = 120
+x = 24
+Surface area of a frustum = area of the curved	- area of curved surface of smaller cone
+Surface of bigger cone.
+L = 24 + 12 = 36 cm
+
+Surface area = pRL - prl
+= 22 ×15 ×
+7
+
+
+362+152  - (22 ×10 ×	)
+7
+
+=1838.57 cm2 - 8 17.14 cm2
+= 1021 cm2 4 s.f
+
+
+Surface area of the sphere
+A sphere is solid that it's entirely round with every point on the surface at equal distance from the Centre. Surface area is = 4pr2
+
+
+
+Example
+Find the surface area of a sphere whose diameter is equal to 21 cm
+Solution
+Surface area = 4pr2
+= 4 x 3.14 x 10.5 x 10.5
+= 1386 cm2
+End of topic
+
+
+Past KCSE Questions on the topic.
+
+A swimming pool water surface measures 10m long and 8m wide. A path of uniform width is made all round the swimming pool. The total area of the water surface and the path is 168m2
+(a) Find the width of the path	(4 mks)
+
+(b) The path is to be covered with square concrete slabs. Each corner of the path is covered with a slab whose side is equal to the width of the path. The rest of the path is covered with slabs of side 50cm. The cost of making each corner slab is sh 600 while the cost of making each smaller slab is sh.50. Calculate
+(i) The number of the smaller slabs used	(4 mks)
+
+(ii) The total cost of the slabs used to cover the whole path(2 mks)
+
+2. The figure below shows a solid regular tetrapack of sides 4cm.
+
+(a) Draw a labelled net of the solid.	(1mk)
+
+(b) Find the surface area of the solid.	(2mks)
+
+
+3. The diagram shows a right glass prism ABCDEF with dimensions as shown.
+
+E
+
+
+
+
+
+A	C
+
+
+B
+
+Calculate:
+
+(a) the perimeter of the prism	(2 mks)
+
+(b) The total surface area of the prism	(3 mks)
+
+(c) The volume of the prism	(2 mks)
+
+(d) The angle between the planes AFED and BCEF	(3 mks)
+
+4. The base of a rectangular tank is 3.2m by 2.8m. Its height is 2.4m. It contains water to a depth of
+1.8m. Calculate the surface area inside the tank that is not in contact with water.	(2mks)
+5. Draw the net of the solid below and calculate surface area of its faces	(3mks)
+
+
+
+6. 
+
+
+
+G
+
+
+
+
+D
+
+
+5cm
+The figure above is a triangular prism of uniform cross-section in which AF = 4cm, AB = 5cm and BC = 8cm.
+(a) If angle BAF = 300, calculate the surface area of the prism.	(3 marks)
+(b) Draw a clearly labeled net of the prisms.	(1 mark)
+7. Mrs. Dawati decided to open a confectionary shop at corner Baridi. She decorated its entrance with 10 models of cone ice cream, five on each side of the door. The model has the following shape and dimensions. Using ? = 3.142 and calculations to 4 d.p.
+
+
+
+
+(a) Calculate the surface area of the conical part.	(2mks)
+
+(b) Calculate the surface area of the top surface.	(4mks)
+
+(c) Find total surface area of one model.	(2mks)
+
+(d) If painting 5cm2 cost ksh 12.65, find the total cost of painting the models (answer to 1 s.f).
+(2mks)
+
+8. A right pyramid of height 10cm stands on a square base ABCD of side 6 cm.
+a) Draw the net of the pyramid in the space provided below.	(2mks)
+b) Calculate:-
+(i) The perpendicular distance from the vertex to the side AB. (2mks)
+(ii) The total surface area of the pyramid.	(4mks)
+c) Calculated the volume of the pyramid.	(2mks)
+9. The figure below shows a solid object consisting of three parts. A conical part of radius 2 cm and slant height 3.5 cm a cylindrical part of height 4 cm. A hemispherical part of radius 3 cm . the cylinder lies at the centre of the hemisphere.	()
+
+
+
+
+Calculate to four significant figures:
+I. The surface area of the solid	(5 marks)
+II. The volume of the solid	(5 marks)
+10. A lampshade is in the form of a frustrum of a cone. Its bottom and top diameters are 12cm and 8cm respectively. Its height is 6cm.Find;
+(a) The area of the curved surface of the lampshade
+      (b) The material used for making the lampshade is sold at Kshs.800 per square metres. Find the cost of ten lampshades if a lampshade is sold at twice the cost of the material
+11. A cylindrical piece of wood of radius 4.2cm and length 150cm is cut lengthwise into two equal pieces. Calculate the surface area of one piece
+12. The base of an open rectangular tank is 3.2m by 2.8m. Its height is 2.4m. It contains water to a depth of 1.8m. Calculate the surface area inside the tank that is not in contact with water
+
+
+13. The figure below represents a model of a solid structure in the shape of frustrum of a cone with ahemisphere top. The diameter of the hemispherical part is 70cm and is equal to the diameter of thetop of the frustrum. The frustrum has a base diameter of 28cm and slant height of 60cm.
+
+
+
+
+
+
+
+Calculate:
+(a) The area of the hemispherical surface
+(b) The slant height of cone from which the frustrum was cut
+(c) The surface area of frustrum
+(d) The area of the base
+(e) The total surface area of the model
+
+
+14. A room is 6.8m long, 4.2m wide and 3.5m high. The room has two glass doors each measuring 75cm by 2.5m and a glass window measuring 400cm by 1.25m. The walls are to be painted except the window and doors.
+a) Find the total area of the four walls
+b) Find the area of the walls to be painted
+       c) Paint A costs Shs.80 per litre and paint B costs Shs.35 per litre. 0.8 litres of A covers an area of 1m2 while 0.5m2 uses 1 litre of paint B. If two coats of each paint are to be applied. Find the cost of painting the walls using:
+
+
+isabokemicah@gmail.com
+i) Paint A
+ii) Paint B
+       d) If paint A is packed in 400ml tins and paint B in 1.25litres tins, find the least number of tins of each type of paint that must be bought.
+15. The figure below shows a solid frustrum of pyramid with a square top of side 8cm and a square base of side 12cm. The slant edge of the frustrum is 9cm
+
+
+
+
+
+
+
+Calculate:
+(a) The total surface area of the frustrum
+(b) The volume of the solid frustrum
+(c) The angle between the planes BCHG and the base EFGH.
+
+
+
+
+
+
+
+CHAPTER THIRTY SEVEN
+
+
+Specific Objectives
+By the end of the topic the learner should be able to:
+a.) Find the volume of a prism
+b.) Find the volume of a pyramid
+c.) Find the volume of a cone
+d.) Find the volume of a frustum
+e.) Find the volume of a sphere and a hemisphere.
+Content
+Volumes of prisms, pyramids, cones, frustums and spheres.
+
+Introduction
+Volume is the amount of space occupied by an object. It's measured in cubic units. Generally volume of objects is base area x height
+Volume of a Prism
+A prism is a solid with uniform cross section .The volume V of a prism with cross section area A and length l is given by V = AL
+Example
+
+
+Solution
+Volume of the prism = base area x length (base is triangle)
+=1 x 6 x 3 x 10
+2
+= 90cm2
+Example
+
+
+Explanation
+A cross- sectional area of the hexagonal is made up of 6 equilateral triangles whose sides are 8 ft To find the height we take one triangle as shown above
+
+
+
+
+Using sine rule we get the height
+Solution
+
+isabokemicah@gmail.com
+
+Area of cross section = 6 x 1 x 8 x8 sin60
+2
+
+
+
+
+= 166.28
+
+Volume = 166.28 x 12
+= 1995.3 ft2
+
+
+Volume of a pyramid
+Volume of a pyramid = 1 Ah
+3
+Where A = area of the base and h = vertical height
+
+
+Example
+Find the volume of a pyramid with the vertical height of 8 cm and width 4 cm length 12 cm.
+
+
+Solution.
+
+
+
+
+Volume = 1
+3
+
+x 12 x 4 x 8
+
+= 128cm2
+
+
+
+Volume of a sphere
+4pr3
+V =
+3
+
+
+
+
+Volume of a cone
+Volume = 1 area of base x height
+3
+
+
+
+Example
+
+isabokemicah@gmail.com
+
+
+
+
+= 1p2h 3
+
+Calculate the volume of a cone whose height is 12 cm and length of the slant heigth is 13 cm
+Solution
+
+Volume
+
+1
+=		( base area X height) 3
+
+
+
+1	2
+
+
+
+But, base radius r =	=	= 5
+
+=		pr h 3
+
+
+
+Therefore volume = 1
+3
+
+x 22 x 25 x 12 cm
+7
+
+
+
+= 314.3cm2
+
+
+
+Volume of a frustrum
+Volume = volume of large cone - volume of smaller cone
+Example
+A frustum of base radius 2 cm and height 3.6 cm. if the height of the cone from which it was cut was 6 cm, calculate
+The radius of the top surface The volume of the frustum
+
+Solution
+
+
+
+Triangles PST and PQR are similar
+Therefore PQ = QR = PR
+PS	ST	PT
+Hence  6 = 2
+2.4	ST
+ST = 0.8 cm
+The radius of the top surface is 0.8 cm
+Volume of the frustum = volume of large cone - volume of smaller cone
+=1 x 3.142 x 4 x 6 - 1 x 3.142 x (0.82)x 2.4
+3	3
+= 25.14 - 1.61 = 23.53 cm2
+
+
+
+
+End of topic
+
+
+
+
+
+
+Past KCSE Questions on the topic.
+1. Metal cube of side 4.4cm was melted and the molten material used to make a sphere. Find to 3 significant figures the radius of the sphere       (3mks)
+2. Two metal spheres of diameter 2.3cm and 3.86cm are melted. The molten material is used to cast
+equal cylindrical slabs of radius 8mm and length 70mm.
+
+If 1/20 of the metal is lost during casting. Calculate the number of complete slabs casted. (4mks)
+
+3. The volume of a rectangular tank is 256cm3. The dimensions are as in the figure.
+
+
+
+
+
+Novels,Updated CPA,CIFA,ICT,KASNEB,College,High School &Primary Notes  0714497530
+
+
+
+1/4 x
+x-8
+16cm
+
+
+Find the value of x	(3 marks)
+
+
+4. 
+
+
+
+The diagram represent a solid frustum with base radius 21cm and top radius 14cm. The frustum is 22.5cm high and is made of a metal whose density is 3g/cm3	p = 22/7.
+a) Calculate
+(i) the volume of the metal in the frustrum.	(5 marks)
+(ii) the mass of the frustrum in kg.	(2 marks)
+b) The frustrum is melted down and recast into a solid cube. In the process 20% of the metal is lost.
+Calculate to 2 decimal places the length of each side of the cube.	(3 marks)
+5. The figure below shows a frustrum
+
+
+
+Find the volume of the frustrum	(4 mks)
+
+The formula for finding the volume of a sphere is given by. Given that V = 311 and
+=3.142, find r.	(3 mks)
+
+A right conical frustrum of base radius 7cm and top radius 3.5cm, and height of 6cm is stuck onto a cylinder of base radius 7cm and height 5cm which is further attached to a hemisphere to form a closed solid as shown below
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Find:(a)The volume of the solid(5mks)(b)The surface area of the solid(5mks)8. A lampshade is made by cutting off the top part of a square-based pyramid VABCD as shown in the figure below. The base and the top of the lampshade have sides of length 1.8m and 1.2m respectively. The height of the lampshade is 2m
+
+
+
+
+Calculate
+
+a) The volume of the lampshade	(4mks)
+b) The total surface area of the slant surfaces	(4mks)
+c) The angle at which the face BCGF makes with the base ABCD.	(2mks)
+9. A solid right pyramid has a rectangular base 10cm by 8cm and slanting edge 16cm. calculate:
+(a) The vertical height
+(b) The total surface area
+(c) The volume of the pyramid
+
+
+10. A solid cylinder of radius 6cm and height 12cm is melted and cast into spherical balls of radius 3cm. Find the number of balls made
+
+
+11. The sides of a rectangular water tank are in the ratio 1: 2:3. If the volume of the tank is 1024cm3. Find the dimensions of the tank. (4s.f)
+
+
+12. The figure below represents sector OAC and OBD with radius OA and OB respectively.
+Given that OB is twice OA and angle AOC = 60o. Calculate the area of the shaded region in m2, given
+that OA = 12cm	B
+
+
+
+A
+60o
+Novels,Updated CPA,CIFA,ICT,KASNEB,College,High School &Primary Notes  0714497530
+
+O
+
+C
+
+
+
+D
+
+13. The figure below shows a closed water tank comprising of a hemispherical part surmounted on top of a cylindrical part. The two parts have the same diameter of 2.8cm and the cylindrical part is 1.4m high as shown:-
+
+
+
+(a) Taking ?= 22, calculate: 7
+(i) The total surface area of the tank
+(ii) the cost of painting the tank at shs.75 per square metre
+(iii) The capacity of the tank in litres
+    (b) Starting with the full tank, a family uses water from this tank at the rate of 185litres/day for the first 2days. After that the family uses water at the rate of 200 liters per day. Assuming that no more water is added, determine how many days it takes the family to use all the water from the tank since the first day
+14. The figure below represents a frustrum of a right pyramid on a square base. The vertical height of the frustrum is 3 cm. Given that EF = FG = 6 cm and that AB = BC = 9 cm
+
+
+
+
+
+
+
+
+
+
+Calculate;
+Novels,Updated CPA,CIF	0714497530
+
+a) The vertical height of the pyramid.
+b) The surface area of the frustrum.
+c) Volume of the frustrum.
+d) The angle which line AE makes with the base ABCD.
+15. A metal hemisphere of radius 12cm is melted done and recast into the shape of a cone of base radius 6cm. Find the perpendicular height of the cone
+16. A solid consists of three discs each of 11/2 cm thick with diameter of 4 cm, 6 cm and 8 cm respectively. A central hole 2 cm in diameter is drilled out as shown below. If the density of material used is 2.8 g/cm3, calculate its mass to 1 decimal place
+
+
+
+
+
+17. A right conical frustum of base radius 7 cm and top radius 3.5 cm and height 6 cm is stuck onto a cylinder of base radius 7 cm and height 5 cm which is further attached to form a closed solid as shown below.
+
+
+
+
+
+
+
+Find;
+a) The volume of the solid.
+b) The surface area of the solid.
+
+
+18. The diagram below shows a metal solid consisting of a cone mounted on hemisphere. The height of the cone is 11/2 times its radius;
+
+
+
+Novels,Updated CPA,CIFA,ICT,KASNEB,College,High School &Primary Notes  0714497530
+r
+
+
+
+
+
+
+
+
+
+Given that the volume of the solid is 31.5p cm3, find:
+(a) The radius of the cone
+(b) The surface area of the solid
+       (c) How much water will rise if the solid is immersed totally in a cylindrical container which contains some water, given the radius of the cylinder is 4cm
+(d) The density, in kg/m3 of the solid given that the mass of the solid is 144gm
+
+19. A solid metal sphere of volume 1280 cm3 is melted down and recast into 20 equal solid cubes. Find the length of the side of each cube.	Calculate the volume of the frustum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER THIRTY EIGHT
+NoveQlsU,UApDdaRteAdTCIPCA,ECIQFUA,AICTT,IKOANSNSEAB,NCoDlleEgXe,PHiRghESScShIoOoNl &SPrimary Notes  0714497530
+
+
+
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) Expand algebraic expressions that form quadratic equations
+b.) Derive the three quadratic identities
+c.) Identify and use the three quadratic identities
+d.) Factorize quadratic expressions including the identities
+e.) Solve quadratic equations by factorization
+f.) Form and solve quadratic equations.
+Content
+a.) Expansion of algebraic expressions to form quadratic expressions of the form ax2 + bx + c,where a, b and c are constants
+b.) The three quadratic identities:
+(a+b)2 ==a2 + 2ab + b2 (a-b)2=a2 - 2ab + b2 (a+b)(a-b)= a2 - b2
+c.) Using the three quadratic identities
+d.) Factorisation of quadratic expressions
+e.) Solve quadratic equations by factorization
+f.) Form and solve quadratic equations.
+
+
+
+
+
+
+
+
+
+
+
+Introduction Expansion
+A quadratic is any expression of the form ax2 + bx + c, a ? 0. When the expression (x + 5) (3x + 2) is
+
+
+isabokemicah@gmail.com
+written in the form, 3x2 + 17x + 10,it is said to have been expanded
+
+
+Example
+Expand (m + 2n) (m-n)
+Solution
+Let (m-n) be a
+Then (m + 2n)(m-n) = (m+2n)a
+= ma + 2na
+= m (m-n) + 2n (m-n)
+= m2 - mn + 2mn - 2n2
+= m2 + mn - 2n2
+Example
+Expand ( 1 - 1)2
+4  x
+Solution
+( 1 - 1)2=	( 1 - 1 ) ( 1 - 1)
+4  x	4  x	4  x
+
+
+=1 ( 1 - 1 ) -
+
+1( 1 - 1)
+
+4	4  x	x  4  x
+
+= 1 - 1 -  1 + 1
+16  4x  4x	x2
+
+= 1 - 1 + 1
+16  2x	x2
+The quadratic identities.
+(a + b )2= (a2 + 2ab + b2)
+(a - b )2= (a2 - 2ab + b2)
+(a + b)(a -b) = (a2 - b2)
+
+
+
+
+
+Examples
+(X+2)2 (X-3)2
+
+
+x 2+4x+4 x 2-6x+9
+
+(X+ 2a)(X -2a)	x 2- 4x2
+
+Factorization
+To factorize the expression , ax2 + bx + c ,we look for two numbers such that their product is ac and their sum is b. a , b are the coefficient of x while c is the constant
+Example
+
+
+Solution
+
+8x2 + 10 x + 3
+
+Look for two number such that their product is 8 x 3 = 24. Their sum is 10 where 10 is the coefficient of x,
+The number are 4 and 6,
+Rewrite the term 10x as 4x + 6x, thus 8x2 + 4x + 6x + 3
+Use the grouping method to factorize the expression
+= 4x (2x + 1) + 3 (2x + 1)
+= (4x + 3) (2x + 1)
+Example
+Factorize
+
+
+Solution
+
+6x2 - 13x + 6
+
+Look for two number such that the product is 6 x 6 =36 and the sum is -13. The numbers are -4 and - 9
+Therefore, 6x2 - 13x + 6
+= 6x2 - 4x - 9x + 6
+=2x (3x -2)-3(3x-2)
+= (2x-3) (3x- 2)
+
+
+Quadratic Equations
+In this section we are looking at solving quadratic equation using factor method.
+Example
+Solve x2 + 3 x - 54 = 0
+Solution
+Factorize the left hand side
+
+
+Note;
+
+x2 + 3 x - 54 = x2 - 6x + 9x - 54 = 0
+
+The product of two numbers should be - 54 and the sum 3
+
+
+
+
+
+
+
+
+
+
+Hence x = -9 or x = 6
+Example
+
+=x2 - 6x + 9x - 54
+= x(x-6)(x+9) = 0
+= (x-6)(x+9) = 0
+X - 6 = 0, x +9 = 0
+
+Expand the following expression and then factorize it
+(3x + y)2 - (x - 3y)2
+Solution
+(3x + y)2 - (x - 3y)2=9x2 + 6xy + y2 - (x2 - 6xy + 9y2)
+=9x2 + 6xy + y2 - x2 + 6xy + 9y2
+= 8x2 + 12xy - 8y2
+= 4 (2x2 + 3xy - 2y2)(You can factorize this expression further, find two numbers whose product is4x2y2 and sum is 3xy)
+The numbers are 4xy and -ay
+= 4(2x2 + 4xy - xy - 2y2)
+= 4 [ 2x(x+2y) - y(x+2y)]
+= 4 (x + 2y)(2x - y)
+Formation of Quadratic Equations Given the roots
+Given that the roots of quadratic equations are x = 2 and x = -3, find the quadratic equation
+If x = 2, then x - 2 = 0 If x= -3, then x +3 =0
+Therefore, (x - 2) (x + 3) =0
+
+
+Example
+
+x2 + x - 6 = 0
+
+A rectangular room is 4 m longer than it is wide. If its area is 12 m2find its dimensions.
+Solution
+Let the width be x m .its length is then (x + 4) m. The area of the room is x (x+4)m2
+Therefore x (x + 4) = 12
+
+
+
+
+
+
+(x+6) = 0
+  
+x2 + 4 x = 12 x2 + 4x - 12 = 0 (x + 6)(x - 2) = 0
+(x-2) = 0 therefore x = -6 or 2
+
+-6 is being ignored because length cannot be negative The length of the room is x +4 = 2 +4
+
+
+End of topic
+
+= 6 m
+
+
+
+
+
+
+
+
+Past KCSE Questions on the topic.
+1. Simplify 	 (3mks)
+2. Solve the following quadratic equation giving your answer to 3 d.p.	(3mks)
+
+
+3. Simplify	(3 mks)
+
+16x2 - 4	÷	2x - 2
+4x2 + 2x - 2	x + 1
+4. Simplify as simple as possible 
+5. The sum of two numbers x and y is 40. Write down an expression, in terms of x, for the sum of the squares of the two numbers.Hence determine the minimum value of x2 + y2
+6. Mary has 21 coins whose total value is Kshs 72. There are twice as many five shillings coins as there are ten shillings coins. The rest one shilling coins. Find the number of ten shilling coins that Mary has.
+
+
+isabokemicah@gmail.com
+7. Four farmers took their goats to the market Mohamed had two more goats than Ali Koech had 3 times as many goats as Mohamed. Whereas Odupoy had 10 goats less than both Mohamed and Koech.
+I.) Write a simplified algebraic expression with one variable. Representing the total number of goats
+II.) Three butchers bought all the goats and shared them equally. If each butcher got 17 goats. How many did Odupoy sell to the butchers?
+
+CHAPTER THIRTY NINE
+LINEAR INEQUALITIES
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) Identify and use inequality symbols
+b.) Illustrate inequalities on the number line
+c.) Solve linear inequalities in one unknown
+d.) Represent the linear inequalities graphically
+e.) Solve the linear inequalities in two unknowns graphically
+f.) Form simple linear inequalities from inequality graphs.
+Contents
+a.) Inequalities on a number line
+b.) Simple and compound inequality statements e.g. x > a and x < b = > a < x < b
+c.) Linear inequality in one unknown
+d.) Graphical representation of linear inequalities
+e.) Graphical solutions of simultaneous linear inequalities
+f.) Simple linear inequalities from inequality graphs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Inequality symbols
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statements connected by these symbols are called inequalities
+Simple statements
+Simple statements represents only one condition as follows
+ X = 3 represents specific point which is number 3, while x >3 does not it represents all numbers to the right of 3 meaning all the numbers greater than 3 as illustrated above. X< 3 represents all numbers to left of 3 meaning all the numbers less than 3.The empty circle means that 3 is not included in the list of numbers to greater or less than 3.
+The expression x = 3 or x = 3 means that means that 3 is included in the list and the circle is shaded to show that 3 is included.
+
+
+
+
+
+
+Compound statement
+A compound statement is a two simple inequalities joined by "and" or "or." Here are two examples.
+3 = x and x > -3 Combined into one to form -3 < x = 3
+
+
+All real numbers that are greater than - 3 but less or equal to 3
+
+
+
+
+
+
+
+
+
+
+All real numbers that greater than - 6 but less than 3
+Solution to simple inequalities Example
+Solve the inequality
+
+x - 1 > 2
+Solution
+Adding 1 to both sides gives ; X - 1 + 1 > 2 + 1
+Therefore, x > 3
+Note;
+In any inequality you may add or subtract the same number from both sides.
+Example
+Solve the inequality. X + 3 < 8
+Solution
+Subtracting three from both sides gives X + 3 - 3 < 8-3
+X < 5
+Example
+Solve the inequality
+
+
+
+Subtracting three from both sides gives
+
+
+
+
+Divide both sides by 2 gives
+
+2x + 3 = 5
+
+
+2 x + 3 - 3 = 5 - 3
+2x = 2
+
+2x = 2
+
+2	2
+x = 1
+
+Example
+Solve the inequality
+
+Solution
+
+
+1x - 2 = 4
+3
+
+Adding 2 to both sides
+
+
+1x - 2 + 2 = 4 + 2
+3
+
+
+1x = 6
+3
+1x ×3 = 6 ×3
+3
+
+x = 18
+
+
+Multiplication and Division by a Negative Number
+Multiplying or dividing both sides of an inequality by positive number leaves the inequality sign unchanged
+Multiplying or dividing both sides of an inequality by negative number reverses the sense of the inequality sign.
+
+
+
+Example
+Solve the inequality 1 -3x < 4
+Solution
+- 3x - 1 < 4 - 1
+
+
+
+
+
+
+-3x < 3
+
+
+
+
+
+
+-3x > 3
+-3	-3
+
+
+
+Note that the sign is reversed X >-1
+Simultaneous inequalities Example
+Solve the following
+3x -1 > -4
+2x +1 = 7
+Solution
+Solving the first inequality
+3x - 1 > _ 4
+
+3x > -3
+X > -1
+Solving the second inequality
+2x + 1 = 7
+2x = 6 Therefore x = 3	The combined inequality is	-1 < x = 3
+
+
+
+
+
+
+
+
+
+Graphical Representation of Inequality
+Consider the following;
+
+
+
+
+x = 3
+
+The line x = 3 satisfy the inequality = 3 , the points on the left of the line satisfy the inequality.
+We don't need the points to the right hence we shade it
+Note:
+We shade the unwanted region
+The line is continues because it forms part of the region e.g it starts at 3.for = or = inequalities the line must be continuous
+
+
+For < or > the line is not continues its dotted.This is because the value on the line does
+Not satisfy the inequality.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Linear Inequality of Two Unknown
+Consider the inequality y = 3x + 2 the boundary line is y = 3x + 2
+
+If we pick any point above the line eg (-3 , 3 ) then substitute in the equation	y - 3x= 2 we get	12 = 2
+which is not true so the values lies in the unwanted region hence we shade that region .
+
+Intersecting Regions
+These are identities regions which satisfy more than one inequality simultaneously. Draw a region which
+satisfy the following inequalities y + x = 1  and y - 1 x = 2
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+End of topic
+
+
+Past KCSE Questions on the topic.
+1. Find the range of x if 2= 3 - x <5
+2. Find all the integral values of x which satisfy the inequalities: 2(2-x) <4x -9<x + 11
+3. Solve the inequality and show the solution 3 - 2x ? x = 2x + 5 on the number line
+3
+4. Solve the inequality x - 3 + x - 5 = 4x + 6 -1
+4	6	8
+5. Solve and write down all the integral values satisfying the inequality. X - 9 = - 4 < 3x - 4
+
+5.	Show on a number line the range of all integral values of x which satisfy the following pair of inequalities:
+3 - x = 1 - 1/2 x
+-1/2 (x-5) = 7-x
+
+Solve the inequalities 4x - 3 ? 6x - 1 ? 3x + 8; hence represent your solution on a number line
+
+
+Find all the integral values of x which satisfy the inequalities 2(2-x) < 4x -9< x + 11
+
+
+
+9. Given that x + y = 8 and x²+ y²=34 Find the value of:-	a) x²+2xy+y²
+b) 2xy
+10. Find the inequalities satisfied by the region labelled R
+
+
+11. The region R is defined by x ? 0, y ? -2, 2y + x ? 2. By drawing suitable straight line on a sketch, show and label the region R
+12. Find all the integral values of x which satisfy the inequality 3(1+ x) < 5x - 11 <x + 45
+13. The vertices of the unshaded region in the figure below are O(0, 0) , B(8, 8) and A (8, 0). Write down the inequalities which satisfy the unshaded region
+y	B(8, 8)
+
+
+
+
+
+
+
+
+
+O(0, 0)
+
+x
+A(8, 0)
+
+
+
+Write down the inequalities that satisfy the given region simultaneously.	(3mks)
+
+
+
+15. Write down the inequalities that define the unshaded region marked R in the figure below. (3mks)
+
+
+16. Write down all the inequalities represented by the regions R.	(3mks)
+
+
+
+17. a)	On the grid provided draw the graph of y = 4 + 3x - x2 for the integral values of x in the interval -2 ? X ? 5. Use a scale of 2cm to represent 1 unit on the x - axis and 1 cm to represent 1 unit on the y - axis.		(6mks)
+b) State the turning point of the graph.	(1mk)
+c) Use your graph to solve.
+(i) -x2 + 3x + 4 = 0
+(ii) 4x = x2
+
+
+
+
+CHAPTER FOURTY
+LINEAR MOTION
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) Define displacement, speed, velocity and acceleration
+a.) Distinguish between:
+* distance and displacement
+* speed and velocity
+b.) Determine velocity and acceleration
+c.) Plot and draw graphs of linear motion (distance and velocity time graphs)
+d.) Interpret graphs of linear motion
+
+
+
+e.) Define relative speed
+f.) Solve the problems involving relative speed.
+Content
+a.) Displacement, velocity, speed and acceleration
+b.) Determining velocity and acceleration
+c.) Relative speed
+d.) Distance - time graph
+e.) Velocity time graph
+f.) Interpretation of graphs of linear motion
+g.) Solving problems involving relative speed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+Distance between the two points is the length of the path joining them while displacement is the distance in a specified direction
+Speed
+Average speed = distance covered
+time taken
+Example
+A man walks for 40 minutes at 60 km/hour, then travels for two hours in a minibus at 80 km/hour. Finally, he travels by bus for one hour at 60 km/h. Find his speed for the whole journey .
+
+
+isabokemicah@gmail.com
+Solution
+Average speed = distance covered
+time taken
+
+Total distance = 40 x 60 km + (2 x 80)km + (1 x 60)km = 260 km 60
+
+
+Total time = 4
+6
+
+2
++ 2 + 1 = 3	hrs
+3
+
+
+Average speed = 260
+32
+3
+
+=260 x 3
+11
+
+
+= 70.9 km/h
+
+Velocity and acceleration
+For motion under constant acceleration;
+Average velocity = initial velocity+final velocity
+2
+
+
+Example
+A car moving in a given direction under constant acceleration. If its velocity at a certain time is 75 km /h and 10 seconds later its 90 km /hr.
+
+
+
+Solution
+
+
+Accelaration = change in velocity
+time taken
+= ( 90-75)km/h 10 s
+
+= (90-75) x 1000 m/s2 10 x 60 x 60
+
+
+=	5 m/s2
+12
+
+
+Example
+A car moving with a velocity of 50 km/h then the brakes are applied so that it stops after 20 seconds .in this case the final velocity is 0 km/h and initial velocity is 50 km/h.
+
+
+
+
+Solution
+Acceleration =
+
+
+
+
+(0-50) x 1000 m/s2 20 x 60 x 60
+
+isabokemicah@gmail.com
+
+
+
+
+= -25 m/s2
+36
+
+Negative acceleration is always referred to as deceleration or retardation
+
+
+Distance time graph.
+When distance is plotted against time, a distance time graph is obtained.
+
+
+
+Velocity-time Graph
+When velocity is plotted against time, a velocity time graph is obtained.
+
+
+
+
+
+Relative Speed
+
+isabokemicah@gmail.com
+
+Consider two bodies moving in the same direction at different speeds. Their relative speed is the difference between the individual speeds.
+Example
+A van left Nairobi for kakamega at an average speed of 80 km/h. After half an hour, a car left Nairobi for Kakamega at a speed of 100 km/h.
+a.) Find the relative speed of the two vehicles.
+b.) How far from Nairobi did the car over take the van
+Solution
+Relative speed = difference between the speeds
+= 100 - 80
+= 20 km/h
+
+
+Distance covered by the van in 30 minutes
+Distance = 30 x 80 = 40 km
+60
+Time taken for car to overtake matatu = 40
+20
+
+
+= 2 hours
+Distance from Nairobi = 2 x 100	=200 km
+Example
+A truck left Nyeri at 7.00 am for Nairobi at an average speed of 60 km/h. At 8.00 am a bus left Nairobi for Nyeri at speed of 120 km/h .How far from nyeri did the vehicles meet if Nyeri is 160 km from Nairobi?
+Solution
+Distance covered by the lorry in 1 hour = 1 x 60
+= 60 km
+Distance between the two vehicle at 8.00 am = 160 - 100
+= 100km
+Relative speed = 60 km/h + 120 km/h
+Time taken for the vehicle to meet = 100
+180
+
+=5 hours
+9
+
+
+
+
+
+Distance from Nyeri = 60 x
+
+
+5 x 60
+9
+
+isabokemicah@gmail.com
+
+= 60 + 33.3
+= 93.3 km
+
+
+End of topic
+
+
+
+
+
+
+
+
+
+
+Past KCSE Questions on the topic.
+1. A bus takes 195 minutes to travel a distance of (2x + 30) km at an average speed of
+(x -20) km/h Calculate the actual distance traveled. Give your answers in kilometers.
+2.) The table shows the height metres of an object thrown vertically upwards varies with the time t seconds. The relationship between s and t is represented by the equations s = at2 + bt + 10 where b are constants.
+
+
+t012345678910s45.1I.) Using the information in the table, determine the values of a and b ( 2 marks)
+II.) Complete the table	( 1 mark)
+
+
+(b) (i) Draw a graph to represent the relationship between s and t  ( 3 marks)
+(ii) Using the graph determine the velocity of the object when t = 5 seconds
+(2 marks)
+3.) Two Lorries A and B ferry goods between two towns which are 3120 km apart. Lorry A traveled at km/h faster than lorry B and B takes 4 hours more than lorry A to cover the distance.Calculate the speed of lorry B
+4.) A matatus left town A at 7 a.m. and travelled towards a town B at an average speed of 60 km/h. A
+
+
+isabokemicah@gmail.com
+second matatus left town B at 8 a.m. and travelled towards town A at 60 km/h. If the distance between the two towns is 400 km, find;
+I.) The time at which the two matatus met
+II.) The distance of the meeting point from town A
+
+
+
+
+
+5. The figure below is a velocity time graph for a car.
+y
+
+
+
+
+
+80
+
+
+
+
+
+0	4	20	24	x
+Time (seconds)
+(a) Find the total distance traveled by the car.	(2 marks)
+(b) Calculate the deceleration of the car.	(2 marks)
+6. A bus started from rest and accelerated to a speed of 60km/h as it passed a billboard. A car moving in the same direction at a speed of 100km/h passed the billboard 45 minutes later. How far from the billboard did the car catch up with the bus?	(3mks)
+7. Nairobi and Eldoret are each 250km from Nakuru. At 8.15am a lorry leaves Nakuru for Nairobi.	At 9.30am a car leaves Eldoret for Nairobi along the same route at 100km/h. Both vehicles arrive	at Nairobi at the same time.
+(a) Calculate their time of arrival in Nairobi	(2mks)
+(b) Find the cars speed relative to that of the lorry.	(4mks)
+(c) How far apart are the vehicles at 12.45pm.	(4mks)
+
+
+8. Two towns P and Q are 400 km apart. A bus left P for Q. It stopped at Q for one hour and then started the return journey to P. One hour after the departure of the bus from P, a trailer also heading for Q left P. The trailer met the returning bus 3/4 of the way from P to Q. They met t hours after the departure of the bus from P.
+
+
+isabokemicah@gmail.com
+(a) Express the average speed of the trailer in terms of t
+(b) Find the ration of the speed of the bus so that of the trailer.
+The athletes in an 800 metres race take 104 seconds and 108 seconds respectively to complete the race. Assuming each athlete is running at a constant speed. Calculate the distance between them when the faster athlete is at the finishing line.
+A and B are towns 360 km apart. An express bus departs form A at 8 am and maintains an average speed of 90 km/h between A and B. Another bus starts from B also at 8 am and moves towards A making four stops at four equally spaced points between B and A. Each stop is of duration 5 minutes and the average speed between any two spots is 60 km/h. Calculate distance between the two buses at 10 am.
+11. Two towns A and B are 220 km apart. A bus left town A at 11. 00 am and traveled towards B at 60 km/h. At the same time, a matatu left town B for town A and traveled at 80 km/h. The matatu stopped for a total of 45 minutes on the way before meeting the bus. Calculate the distance covered by the bus before meeting the matatu.
+12. A bus travels from Nairobi to Kakamega and back. The average speed from Nairobi to Kakamega is 80 km/hr while that from Kakamega to Nairobi is 50 km/hr, the fuel consumption is 0.35 litres per kilometer and at 80 km/h, the consumption is 0.3 litres per kilometer .Find
+i) Total fuel consumption for the round trip
+ii) Average fuel consumption per hour for the round trip.
+13. The distance between towns M and N is 280 km. A car and a lorry travel from M to N. The average speed of the lorry is 20 km/h less than that of the car. The lorry takes 1h 10 min more than the car to travel from M and N.
+(a) If the speed of the lorry is x km/h, find x	(5mks)
+(b) The lorry left town M at 8: 15 a.m. The car left town M and overtook the lorry at 12.15 p.m. Calculate the time the car left town M.
+14. A bus left Mombasa and traveled towards Nairobi at an average speed of 60 km/hr. after 21/2 hours; a car left Mombasa and traveled along the same road at an average speed of 100 km/ hr. If the distance between Mombasa and Nairobi is 500 km, Determine
+(a) (i)	The distance of the bus from Nairobi when the car took off (2mks)
+(ii)	The distance the car traveled to catch up with the bus
+(b) Immediately the car caught up with the bus
+(c) The car stopped for 25 minutes. Find the new average speed at which the car traveled in order to reach Nairobi at the same time as the bus.
+15. A rally car traveled for 2 hours 40 minutes at an average speed of 120 km/h. The car consumes an average of 1 litre of fuel for every 4 kilometers.
+A litre of the fuel costs Kshs 59
+Calculate the amount of money spent on fuel
+
+
+16. A passenger notices that she had forgotten her bag in a bus 12 minutes after the bus had left. To catch up with the bus she immediately took a taxi which traveled at 95 km/hr. The bus maintained
+
+
+isabokemicah@gmail.com
+an average speed of 75 km/ hr. determine
+(a) The distance covered by the bus in 12 minutes
+(b) The distance covered by the taxi to catch up with the bus
+
+
+The athletes in an 800 metre race take 104 seconds and 108 seconds respectively to complete the race. Assuming each athlete is running at a constant speed. Calculate the distance between them when the faster athlete is at the finishing line.
+18. Mwangi and Otieno live 40 km apart. Mwangi starts from his home at 7.30 am and cycles towards Otieno's house at 16 km/ h Otieno starts from his home at 8.00 and cycles at 8 km/h towards Mwangi at what time do they meet?
+
+
+19. A train moving at an average speed of 72 km/h takes 15 seconds to completely cross a bridge that is 80m long.
+(a) Express 72 km/h in metres per second
+(b) Find the length of the train in metres
+
+
+
+
+
+
+
+
+
+
+CHAPTER FOURTY ONE
+STATISTICS (I)
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) Define statistics
+b.) Collect and organize data
+c.) Draw a frequency distribution table
+d.) Group data into reasonable classes
+e.) Calculate measures of central tendency
+f.) Represent data in form of line graphs, bar graphs, pie-charts, pictogram,histogram and frequency polygons
+g.) Interpret data from real life situations.
+
+
+isabokemicah@gmail.com
+Content
+a.) Definition of statistics
+b.) Collection and organization of data
+c.) Frequency distribution tables (for grouped and ungrouped data)
+d.) Grouping data
+e.) Mean, mode and median for ungrouped and grouped data
+f.) Representation of data: line graph, Bar graph, Pie chart, Pictogram, Histogram, Frequency polygon interpretation of data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+This is the branch of mathematics that deals with the collection, organization, representation and interpretation of data. Data is the basic information.
+Frequency Distribution table
+A data table that lists a set of scores and their frequency
+
+
+Tally
+In tallying each stroke represent a quantity.
+Frequency
+This is the number of times an item or value occurs.
+Mean
+This is usually referred to as arithmetic mean, and is the average value for the data
+
+
+
+The mean ( ¯ x ) = 	total marks scored	 = ?fx
+
+
+
+
+
+Mode
+
+total number of students
+
+?f
+
+= 173
+30
+= 5.767
+
+This is the most frequent item or value in a distribution or data. In the above table its 7 which is the most frequent.
+Median
+To get the median arrange the items in order of size. If there are N items and N is an odd number, the item
+occupying(n+1)th.
+2
+If N is even, the average of the items occupying n
+2
+
+
+Grouped data
+Then difference between the smallest and the biggest values in a set of data is called the range. The data can be grouped into a convenient number of groups called classes. 30 - 40 are called class boundaries.
+The class with the highest frequency is called the modal class. In this case its 50 = m < 60, the class width or interval is obtained by getting the difference between the class limits. In this case, 30 - 40 = 10, to get the mid-point you divide it by 2 and add it to the lower class limit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The mean mass in the table above is ?f = 25 , ?fx = 1215
+Mean 1215 = 48.6
+25
+
+
+
+
+
+Representation of statistical data
+The main purpose of representation of statistical data is to make collected data more easily understood. Methods of representation of data include.
+Bar graph
+Consist of a number of spaced rectangles which generally have major axes vertical. Bars are uniform width. The axes must be labelled and scales indicated.
+
+
+ The students' favorite juices are as follows Red	2
+Orange 8
+Yellow 10
+Purple 6
+
+Pictograms
+In a pictogram, data is represented using pictures.
+Consider the following data.
+The data shows the number of people who love the following animals Dogs 250, Cats 350, Horses 150 , fish 150
+
+
+
+Pie chart
+A pie chart is divided into various sectors .Each sector represent a certain quantity of the item being considered .the size of the sector is proportional to the quantity being measured .consider the export of US to the following countries. Canada $ 13390, Mexico $ 8136, Japan $5824, France $ 2110 .This information can be represented in a pie chart as follows
+
+
+Canada  angle
+
+amount of export x 360 total population
+
+
+
+13390 x 360 = 163.620
+29460
+
+
+
+Mexico
+
+8136
+29460
+
+x 360 = 99.420
+
+
+
+
+Japan
+
+5824
+29460
+
+x 360 = 71.160
+
+France
+
+2110
+29460
+
+x 360 = 25.780
+
+
+
+
+
+
+
+
+
+
+
+Line graph
+Data represented using lines
+
+
+
+Histograms
+Frequency in each class is represented by a rectangular bar	whose area is proportional to the frequency
+.when the bars are of the same width the height of the rectangle is proportional to the frequency .
+Note;
+The bars are joined together.
+The class boundaries mark the boundaries of the rectangular bars in the histogram
+
+
+
+
+
+Histograms can also be drawn when the class interval is not the same
+
+
+
+The below information can be represented in a histogram as below
+
+
+
+
+
+
+Marks10- 1415- 2425 - 2930 - 44No.of students516415
+
+
+
+
+
+Note ;
+When the class is doubled the frequency is halved
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+against mid points.
+
+Frequency polygon
+It is obtained by plotting the frequency
+
+
+
+
+
+End of topic
+
+
+
+
+
+
+
+
+
+Past KCSE Questions on the topic.
+
+1. The height of 36 students in a class was recorded to the nearest centimeters as follows.
+
+148159163158166155155179158155171172156161160165157165175173172178159168160167147168172157165154170157162173(a) Make a grouped table with 145.5 as lower class limit and class width of 5.	(4mks)
+
+
+
+
+
+
+
+2. Below is a histogram, draw.
+
+
+
+
+
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5 11.
+5
+
+
+
+
+
+
+
+
+
+
+
+
+13.
+5
+
+
+
+
+
+
+
+
+
+
+
+
+17.
+Length 5
+
+
+
+
+
+
+
+
+
+
+
+
+15.
+5
+
+
+
+
+
+
+
+
+
+
+
+
+23.5
+
+
+
+Use the histogram above to complete the frequency table below:
+
+
+
+LengthFrequency11.5 = x =13.5
+
+isabokemicah@gmail.com
+
+
+
+
+
+
+3. Kambui salary as follows:
+
+spent her
+
+
+
+
+Food40%Transport10%Education20%Clothing20%Rent10%
+Draw a pie chart to represent the above information
+4. The examination marks in a mathematics test for 60 students were as follows;-
+
+
+
+605434835274612765227071476063595846393569425374922739414954255171596873908893854682588561692440883430261715809065556989ClassTallyFrequencyUpper classlimit10-2930-3940-6970-7475-8990-99
+
+
+From the table;
+
+(a) State the modal class
+(b) On the grid provided , draw a histogram to represent the above information
+The marks scored by 200 from 4 students of a school were recorded as in the table below.
+
+
+
+
+
+Marks41 - 5051 - 5556 - 6566 - 7071 - 85Frequency2162555012
+a.) On the graph paper provided, draw a histogram to represent this information.
+b.) On the same diagram, construct a frequency polygon.
+c.) Use your histogram to estimate the modal mark.
+6. The diagram below shows a histogram representing the marks obtained in a certain test:-
+
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+0
+
+
+(a) If the frequency of the first class is 20, prepare a frequency distribution table for the data
+(b) State the modal class
+(c) Estimate:	(i) The mean mark
+(ii) The median mark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER FOURTY TWO
+ANGLE PROPERTIES OF A CIRCLE
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) Identify an arc, chord and segment
+b.) Relate and compute angle subtended by an arc at the circumference;
+c.) Relate and compute angle subtended by an arc at the centre and at the circumference
+d.) State the angle in the semi-circle
+e.) State the angle properties of a cyclic quadrilateral
+f.) Find and compute angles of a cyclic quadrilateral.
+Content
+a.) Arc, chord and segment.
+
+
+isabokemicah@gmail.com
+b.) Angle subtended by the same arc at the circumference
+c.) Relationship between angle subtended at the centre and angle subtended on the circumference by the same arc
+d.) Angle in a semi-circle
+e.) Angle properties of a cyclic quadrilateral
+f.) Finding angles of a cyclic quadrilateral.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+Arc, Chord and Segment of a circle Arc
+Any part on the circumference of a circle is called an arc. We have the
+major arc and the minor Arc as shown below.
+
+
+
+
+
+
+Chord
+A line joining any two points on the circumference. Chord divides a circle into two regions called segments, the larger one is called the major segment the smaller part is called the minor segment.
+
+
+Angle at the centre and Angle on the circumference
+The angle which the chord subtends to the centre is twice that it subtends at any point on the circumference of the circle.
+
+
+
+
+Angle in the same segments
+Angles subtended on the circumference by the same arc in the same segment are equal. Also note that equal arcs subtend equal angles on the circumference
+
+
+
+Cyclic quadrilaterals
+Quadrilateral with all the vertices lying on the circumference are called cyclic quadrilateral
+
+
+
+Angle properties of cyclic quadrilateral
+* The opposite angles of cyclic quadrilateral are supplementary hence they add up to1800.
+* If a side of quadrilateral is produced the interior angle is equal to the opposite exterior angle.
+
+
+
+
+
+Example
+In the figure below < ADE = 1200 find < ABC
+
+
+
+
+Solution
+Using this rule, If a side of quadrilateral is produced the interior angle is equal to the opposite exterior angle. Find < ABC = 1200
+
+
+Angles formed by the diameter to the circumference is always 900
+
+
+
+
+
+
+
+
+
+Summary
+* Angle in semicircle = right angle
+* Angle at centre is twice than at circumference
+* Angles in same segment are equal
+* Angles in opposite segments are supplementary
+
+
+Example
+1.) In the diagram, O is the centre of the circle and AD is parallel to BC. If angle ACB =50o and angle	ACD = 20o.
+C
+
+
+
+
+Calculate; (i) ?OAB	D
+(ii) ?ADC
+
+
+Solution i) ? AOB = 2 ? ACB
+=	100o
+? OAB = 180 - 100 Base angles of Isosceles ? 2
+= 400
+(ii) ?B AD = 1800 - 700
+= 110
+
+
+
+
+
+
+
+
+
+
+End of topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Past KCSE Questions on the topic.
+
+   1. The figure below shows a circle centre O and a cyclic quadrilateral ABCD. AC = CD, angle ACD is 80o and BOD is a straight line. Giving reasons for your answer, find the size of :-
+
+
+(i) Angle ACB
+(ii) Angle AOD
+(iii) Angle CAB
+(iv) Angle ABC
+(v) Angle AXB
+1	In the figure below CP= CQ and <CQP = 1600. If ABCD is a cyclic quadrilateral, find < BAD.
+
+
+
+
+
+
+
+
+
+In the figure below AOC is a diameter of the circle centre O; AB = BC and < ACD = 250, EBF is a tangent to the circle at B.G is a point on the minor arc CD.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a)
+
+(i) < BAD
+
+(ii) The Obtuse < BOD
+
+(iii) < BGD
+
+(b)	Show the < ABE = < CBF. Give reasons
+3	In the figure below PQR is the tangent to circle at Q. TS is a diameter and TSR and QUV are straight lines. QS is parallel to TV. Angles SQR = 400 and angle TQV = 550
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Novels,Up
+
+
+
+
+
+
+Find the following angles, giving reasons for each answer
+(a) QST
+(b) QRS
+(c) QVT
+(d) UTV
+4. In the figure below, QOT is a diameter. QTR = 480, TQR = 760 and SRT = 370
+
+
+
+
+
+
+
+
+Calculate
+(a) <RST
+(b) <SUT
+(c) Obtuse <ROT
+5. In the figure below, points O and P are centers of intersecting circles ABD and BCD respectively. Line ABE is a tangent to circle BCD at B. Angle BCD = 420
+
+
+
+
+
+
+(a) Stating reasons, determine the size of
+(i) <CBD
+(ii) Reflex <BOD
+(b) Show that ? ABD is isosceles
+The diagram below shows a circle ABCDE. The line FEG is a tangent to the circle at point E. Line DE is parallel to CG,	< DEC = 280 and	< AGE = 320
+
+
+Calculate:
+(a) < AEG
+(b) < ABC
+           7. In the figure below R, T and S are points on a circle centre OPQ is a tangent to the circle at T. POR is a straight line and ? QPR = 200
+
+
+Find the size of ? RST
+
+
+
+
+
+
+
+
+
+CHAPTER FOURTY THREE
+
+
+Specific Objectives
+
+By the end of the topic the learner should be able to:
+a.) Define vector and scalar
+b.) Use vector notation
+c.) Represent vectors both single and combined geometrically
+d.) Identify equivalent vectors
+e.) Add vectors
+f.) Multiply vectors by scalars
+g.) Define position vector and column vector
+h.) Find magnitude of a vector
+i.) Find mid-point of a vector
+j.) Define translation as a transformation.
+Content
+a.) Vector and scalar quantities
+b.) Vector notation
+c.) Representation of vectors
+d.) Equivalent vectors
+e.) Addition of vectors
+f.) Multiplication of a vector by a scalar
+g.) Column vectors
+h.) Position vectors
+i.) Magnitude of a vector
+j.) Midpoint of a vector
+k.) Translation vector.
+
+
+
+
+
+
+
+Introduction
+
+A vector is a quantity with both magnitude and direction, e.g. acceleration velocity and force. A quantity with magnitude only is called scalar quantity e.g. mass temperature and time.
+Representation of vectors
+A vector can be presented by a directed line as shown below:
+
+
+The direction of the vector is shown by the arrow. Magnitude is the length of AB
+Vector AB can be written as AB or AB
+Magnitude is denoted by |AB|
+A is the initial point and B the terminal point
+Equivalent vectors
+Two or more vectors are said to be equivalent if they have:
+* Equal magnitude
+* The same direction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Addition of vectors
+A movement on a straight line from point A to B can be represented using a vector. This movement is called displacement
+
+Consider the displacement from u followed by v
+
+
+The resulting displacement is written as u + v
+
+
+Zero vector
+Consider a diplacement from A to B and back to A .The total displacement is zero denoted by O This vector is called a Zero or null vector.
+AB + BA = O
+
+
+
+If a + b = 0 , b = -a or a = - b
+
+
+
+Multiplication of a vector by a scalar
+Positive Scalar If AB= BC =CD=a
+  A	B	C	D> AD = a + a +a =3a Negative scalar
+Subtraction of one vector from another is performed by adding the corresponding negative Vector. That is, if we seek a - b we form a + (-b).
+DA = (- a) + (-a) + (-a)
+= -3a
+The zero Scalar
+When vector a is multiplied by o, its magnitude is zero times that of a. The result is  zero vector.
+a.0 = 0.a = 0
+Multiplying a Vector by a Scalar
+If k is any positive scalar and a is a vector then ka is a vector in the same direction as a but k times longer. If k is negative, ka is a vector in the opposite direction to a andk times longer.
+
+
+
+More illustrations...................................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+A vector is represented by a directed line segment, which is a segment with an arrow at one end indicating the direction of movement. Unlike a ray, a directed line segment has a specific length.
+The direction is indicated by an arrow pointing from thetail(the initial point) to the head (the terminal point). If the tail is at point A and the head is at point B, the vector from A to B is written as:
+
+notation:
+  (Vectors may also be labeled as a single bold face letter, such as vector v.)
+
+
+The length (magnitude) of a vector v is written |v|. Length is always a non-negative real number.
+As you can see in the diagram at the right, the length of a vector can be found by forming a right triangle and utilizing the Pythagorean Theorem or by using the Distance Formula.
+The vector at the right translates 6 units to the right and 4 units
+upward. The magnitude of the vector is	from the Pythagorean Theorem, or from the Distance Formula:
+|  |   
+
+
+
+
+
+
+The direction of a vector is determined by the angle it makes with a horizontal line.
+In the diagram at the right, to find the direction of the vector (in degrees) we will utilize trigonometry. The tangent of the angle formed by the vector and the horizontal line (the one drawn parallel to the x-axis) is 4/6 (opposite/adjacent).
+
+
+
+A free vector is an infinite set of parallel directed line segments and can be thought of as a translation. Notice that the vectors in this translation which connect the pre-image vertices to
+
+
+	
+the image vertices are all parallel and are all the same length.
+You may also hear the terms "displacement" vector or "translation" vector when working with translations.
+
+
+
+Position vector:
+To each free vector (or translation), there corresponds a position vector which is the image of the origin under that translation.
+Unlike a free vector, a position vector is "tied" or "fixed" to the origin. A position vector describes the spatial position of a point relative to the origin.
+TRANSLATION VECTOR
+Translation vector moves every point of an object by the same amount in the given vector direction. It can be simply be defined as the addition of a constant vector to every point.
+Translations and vectors: The translation at the left shows a vector translating the top triangle 4 units to the right and 9 units downward. The notation for such vector movement may be written as:
+
+
+or
+
+Vectors such as those used in translations are what is known as free vectors. Any two vectors of the same length and parallel to each other are considered identical. They need not have the same initial and terminal points.
+
+Example
+The points A (-4 ,4 ) , B (-2 ,3) , C (-4 , 1 ) and D ( - 5 , 3) are vrtices of a quadrilateral. If the quadrilateral is given the translation T defined by the vector	5 draw the quadrilateral ABCD
+-3
+and its image under T
+
+
+
+Solution
+
+OA1 = (-4 ) + (5 ) = (1), so A1 is ( 1 ,1)
+
+4	-3	1
+
+OB1 = (-2 ) + (5 ) = (3), so B1 is ( 3 ,0)
+3	-3	0
+
+
+	
+OC1 = (-4 ) + (5 ) = (1 ), so C1 is ( 1 , - 2)
+1	-3	-2
+
+OD1 = (-5 ) + (5 ) = (1 ), so D1 is ( 0 ,0)
+3	-3	-2
+
+
+
+
+
+
+
+
+
+
+Summary on vectors
+Components	of	a	Vector	in	2 dimensions:
+To get from A to B you would move:
+       2 units in the x direction (x- component)
+       4 units in the y direction (y- component)
+
+
+
+
+A 2-dimensional column vector is of the form
+
+
+
+The components of the vector are these moves in the form of a column vector.
+thus    or 
+Magnitude of a Vector in 2 dimensions: We write the magnitude of u as | u |
+
+
+
+
+The magnitude of a vector is the length of the directed line segment which represents it.
+
+
+Use Pythagoras' Theorem
+to calculate the length of the vector.
+
+Similarly:	or
+
+
+
+
+
+
+
+
+The magnitude of vector u is |u| (the length of PQ)
+The length of PQ is written as
+
+then
+
+
+and so
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+End of topic
+
+
+
+
+
+Past KCSE Questions on the topic.
+1. Given that and find
+a) (i) 	 (3 mks)
+(ii)	| |	(3 mks)
+(b) Show that A (1, -1), B (3, 5) and C (5, 11) are collinear (4 mks)
+
+2. Given the column vectors	and that 
+
+(c) (i) Express p as a column vector	(2mks)
+(d) (ii) Determine the magnitude of p	(1mk)
+3. Given the points P(-6, -3), Q(-2, -1) and R(6, 3) express PQ and QR as column vectors. Hence show that the points P, Q and R are collinear.	(3mks)
+
+
+
+
+
+
+4. The position vectors of points x and y are and respectively. Find x y as a column vector	(2 mks)
+5. Given that          (3mks)
+6. The position vectors of A and B are 2 and	8	respectively. Find the coordinates of M
+5	-7
+
+
+
+
+which divides AB in the ratio 1:2.	(3 marks)
+
+
+The diagram shows the graph of vectors and .
+
+Find the column vectors;
+
+(a) 	 (1mk)
+(b) ||	(2mks)
+8.	. Find 	 (2mks)
+9. Find scalars m and n such that
+m	4	+ n -3	= 5
+3	2	8
+
+
+10. Given that	p = 2i - j + k and q = i + j +2k, determine (a.) ¦p + q¦		(1 mk)
+(b) ¦ I p - 2q ¦ (2 mks)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2621 @@
+1.0.0 INTRODUCTION TO CHEMISTRY (12 LESSONS)
+
+1.1.0 Specific Objectives
+
+1.2.1 Review the following topics
+
+- properties of matter
+
+- states of matter
+
+- mixtures and their separations
+
+- conductors and non-conductors of electricity
+
+- Mention of drugs (prescription, dosage and abuse)
+
+1.2.2 Chemistry and the Society
+
+• Definition of chemistry and its role in the society
+
+1.2.3 Chemistry laboratory
+
+• heating apparatus (Bunsen burner, spirit lamp, candle, gas or kerosene stove and
+electric heater)
+
+• parts of a Bunsen burner and its flame
+
+• measuring apparatus (volume, temperature, mass, time)
+
+• other apparatus (glass ware, spatula, deflagrating spoon, crucible wire gauze etc)
+
+• laboratory safety rules.
+
+
+(A) STATES/PHASES OF MATTER
+Matter is anything that has weight/mass and occupies space/volume. Naturally, there are basically three states of matter.
+
+(i) Solid-e.g. soil, sand, copper metal ,bucket, ice.
+(ii) Liquid-e.g water, Petrol, ethanol/alcohol, Mercury(liquid metal). (iii)gas- e.g. Oxygen, Nitrogen ,Water vapour.
+
+Solids
+
+
+
+
+* Have closely packed particles
+* Have definite shape and volume
+* Have particles that vibrate about fixed positions
+
+* When heated, particles vibrate more vigorously, bonds weaken, particles space out and solid expands.
+Liquids
+
+
+
+
+Liquids:
+* Flow freely because their particles slide over each other as they have weak interparticle forces.
+* Have no definite shape
+* Have definite volume cannot be squashed
+* Can flow because interparticle forces between liquid particles are weak and so the particles can slide over/past each other.
+
+Gases
+
+
+
+
+Gases;
+* Offer least resistance
+* Occupy greater volume than same mass of solids/liquids
+* Have particles that are widely spaced apart (weak interparticle forces) and move with great speed
+
+* No fixed volume, no fixed shape
+* Are only restricted by shape and size of /container
+* Particles are far apart and can be pushed together (can be easily compressed)
+* Move around easily, quickly and randomly colliding with each other and bounce off, spacing out.
+
+Summary of properties of matter
+
+
+
+
+
+
+
+stateParticular propertiesBulk propertiesmotiondistanceshapevolumesolidsParticles vibrate about fixed
+positionsvery close togetherfixedfixedliquidsTranslation, rotation and vibration: Translation not so important as particles are very close
+togethervery close togethernot fixedfixedgasesTranslation, rotation and vibration: Particles fly about very rapidly and
+collide oftenvery far apart in molecular termsnot fixednot fixed(b) Separation of mixture
+A mixture is a combination of two or more substances that can be separated by physical means. Simple methods of separating mixtures at basic chemistry level include (i)Sorting/picking-this involve physically picking one pure substance from a mixture with another/other. e. g. sorting maize from maize beans mixture.
+
+(ii) Decantation-this involve pouring out a liquid from a solid that has settled /sinking solid in it. e. g. Decanting water form sand .
+
+
+
+(iii) Filtration-this involves sieving /passing particles of a mixture through a filter containing small holes that allow smaller particle to pass through but do not allow bigger particle to pass through.
+
+
+
+(iv) Skimming-this involve scooping floating particles. e.g. cream from milk
+
+
+(c) Metals and non-metals
+Metals are shiny, ductile(able to form wires),malleable(able to form sheet) and coil without breaking. e.g. Iron, gold, silver, copper. Mercury is the only liquid metal known.
+ Non-metals are dull, not ductile(do not form wires), not malleable(do not form sheet) and break on coiling/brittle. e.g. Charcoal, Sulphur , plastics.
+
+CONDUCTORS AND INSULATORS
+
+Conductors are made of materials that electricity can flow through easily. These materials are made up of atoms whose electrons can move away freely.
+
+	
+
+
+
+Some examples of conductors are:
+
+* All metals (molten or solid) and the non-metal carbon (graphite). This conduction involves the movement of free or delocalized electrons (e- charged particles) and does not involve any chemical change.
+* Any molten or dissolved material in which the liquid contains free moving ions is called the electrolyte. Ions are charged particles eg Na+ sodium ion, or Cl- chloride ion, and their movement or flow constitutes an electric current, because a current is moving charged particles.
+List of conductors
+
+* Copper
+* Aluminum
+* Platinum
+* Gold
+* Silver
+* Graphite
+* Salt solutions (e.g. sodium chloride)
+* Water
+* People and Animals
+* Trees
+
+Insulators are materials opposite of conductors. The atoms are not easily freed and are stable, preventing or blocking the flow of electricity.
+
+Some examples of insulators are:
+
+* Glass
+
+* Porcelain
+* Plastic
+* Rubber
+
+Electricity will always take the shortest path to the ground. Your body is 60% water and that makes you a good conductor of electricity. If a power line has fallen on a tree and you touch the tree you become the path or conductor to the ground and could get electrocuted.
+
+The rubber or plastic on an electrical cord provides an insulator for the wires. By covering the wires, the electricity cannot go through the rubber and is forced to follow the path on the aluminum or copper wires.
+
+
+
+
+The ability to conduct electricity is the major simple distinction between elements that are metals and non-metals.
+
+(e) Drugs
+
+
+A drug is a natural or synthetic/man-made substance that when taken changes/alter the body functioning. A natural or synthetic/man-made substance that when taken changes/alter the abnormal body functioning to normal is called medicine.
+Medicines are thus drugs intended to correct abnormal body functions. . Medicines should therefore be taken on prescription and dosage.
+A prescription is a medical instruction to a patient/sick on the correct type of medicine to take and period/time between one intake to the other .
+A dosage is the correct quantity of drug required to alter the abnormal body function back to normal. This is called treatment.
+It is the professional work of qualified doctors/pharmacists to administer correct prescription and dosage of drugs/medicine to the sick.
+Prescription and dosage of drugs/medicine to the sick use medical language.
+Example
+     (i) 2 x 4 ; means "2" tablets for solid drugs/spoon fulls for liquid drugs taken "4" times for a duration of one day/24 hours and then repeated and continued until all the drug given is finished.
+     (ii) 1 x 2 ; means "1" tablets for solid drugs/spoon fulls for liquid drugs taken "2" times for a duration of one day/24 hours and then repeated and continued until all the drug given is finished.
+Some drugs need minimal prescription and thus are available without pharmacist/ doctor's prescription. They are called Over The Counter(OTC) drugs. OTC drugs used to treat mild headaches, stomach upsets, common cold include:
+(i) painkillers
+(ii) anti acids
+(iii) cold/flu drugs.
+All medicines require correct intake dosage. When a prescription dosage is not followed, this is called drug misuse/abuse.
+Some drugs are used for other purposes other than that intended. This is called
+drug abuse.
+Drug abuse is when a drug is intentionally used to alter the normal functioning of the body. The intentional abnormal function of the drug is to make the victim have false feeling of well being.
+The victim lack both mental and physical coordination.
+Some drugs that induce a false feeling of well being are illegal. They include heroin, cocaine, bhang, mandrax and morphine.
+Some abused drugs which are not illegal include: miraa, alcohol, tobacco, sleeping pills.
+
+1.2.2 CHEMISTRY AND THE SOCIETY
+
+• Definition of chemistry and its role in the society
+
+Chemistry is a branch of Science. Science is basically the study of living and non- living things. The branch of science that study living things is called Biology. The branch of science that study non-living things is called Physical Science. Physical Science is made up of:
+(i)Physics- the study of matter in relation to energy (ii)Chemistry- the study of composition of matter.
+
+Chemistry is thus defined as the branch of science that deals with the structure composition, properties and behavior of matter.
+Basic Chemistry involves studying:
+The role of chemistry in society
+
+(a) Chemistry is used in the following:
+(i) Washing/cleaning with soap:
+Washing/cleaning is a chemical process that involve jnteraction of water,soap and dirt so as to remove the dirt from a garment.
+
+(ii) Understanding chemicals of life
+Living thing grow, respire and feed. The formation and growth of cells involve chemical processes in living things using carbohydrates, proteins and vitamins.
+
+(iii) Baking:
+Adding baking powder to dough and then heating in an oven involves interactions that require understanding of chemistry.
+
+(iv) Medicine:
+Discovery, test ,prescription and dosage of drugs to be used for medicinal purposes require advanced understanding of chemistry
+(v) Fractional distillation of crude oil:
+Crude oil is fractional distilled to useful portions like petrol,diesel,kerosene by applying chemistry.
+
+(vi) Manufacture of synthetic compounds/substances
+Large amounts of plastics, glass, fertilizers, insecticides, soaps, cements, are manufactured worldwide. Advanced understanding of the chemical processes involved is a requirement.
+
+(vii) Diagnosis/test for abnormal body functions.
+If the body is not functioning normally,it is said to be sick/ill.Laboaratory test are done to diagnose the illness/sickness.
+
+(b) The following career fields require Chemistry as one of subject areas of advanced/specialized study:
+(i)Chemical engineering/chemical engineer (ii)Veterinary medicine/Veterinary doctor (iii)Medicine/Medical doctor/pharmacist/nurse (iv)Beauty/Beautician
+(v)Teaching/Chemistry teacher.
+
+
+
+
+1.2.3 CHEMISTRY LABORATORY
+
+• heating apparatus (Bunsen burner, spirit lamp, candle, gas or kerosene stove and
+electric heater)
+
+• parts of a Bunsen burner and its flame
+
+• measuring apparatus (volume, temperature, mass, time)
+
+• other apparatus (glass ware, spatula, deflagrating spoon, crucible wire gauze etc)
+
+• laboratory safety rules.
+
+COMMON LABORATORY APPARATUS
+
+
+
+2. PIPPETTE: A pipette is used to measure small amounts of solution very accurately. A pipette bulb is used to draw solution into the pipette. Pipette has a mark that shows how much volume it can draw. It cannot be used for transferring any other volume unless the one specified on it.
+
+3. BEAKERS: The primary function of a beaker is to hold and work with liquids. If graduated, it can serve to make approximate measurements of liquid volume.
+
+4. GOOGLES: Eye protection is a priority in any science laboratory setting.
+
+5. STIRRER: The function of a stirrer is to agitate liquids for speeding up reactions or improving mixtures.
+
+6. MEASURING CYLINDER:
+Graduated or measuring cylinders are specifically designed to make accurate liquid volume measurements.
+Measuring cylinders are apparatus used to measure volume of liquid/ solutions. They are calibrated/ graduated to measure any volume required to the maximum. Measuring cylinders are named according to the maximum calibrated/graduated volume e.g.
+     "10ml" measuring cylinder is can hold maximum calibrated/graduated volume of "10mililitres" /"10 cubic centimetres"
+
+     "50ml" measuring cylinder is can hold maximum calibrated/graduated volume of "50mililitres" /"50 cubic centimetres"
+     "250ml" measuring cylinder is can hold maximum calibrated/graduated volume of "250mililitres" /"250 cubic centimetres"
+     "1000ml" measuring cylinder is can hold maximum calibrated/graduated volume of "1000mililitres" /"1000 cubic centimetres"
+
+
+BURETTE:
+
+Burette is a long and narrow/thin apparatus used to measure small accurate and exact volumes of a liquid solution. It must be clamped first on a stand before being used. It has a tap to run out the required amount out. They are calibrated/ graduated to run out small volume required to the maximum 50ml/50cm3.
+The maximum 50ml/50cm3 calibration/ graduation reading is at the bottom .This ensure the amount run out from a tap below can be determined directly from burette reading before and after during volumetric analysis.
+Burettes are expensive and care should be taken when using them.
+
+Pipette
+Pipette is a long and narrow/thin apparatus that widens at the middle used to measure and transfer small very accurate/exact volumes of a liquid solution. It is open on either ends.
+The maximum 25ml/25cm3 calibration/ graduation mark is a visible ring on one thin end.
+To fill a pipette to this mark, the user must suck up a liquid solution upto a level above the mark then adjust to the mark using a finger.
+This require practice.
+
+Pipette filler
+Pipette filler is used to suck in a liquid solution into a pipette instead of using the mouth. It has a suck, adjust and eject button for ensuring the exact volume is attained. This requires practice.
+
+Volumetric flasks.
+A volumetric flask is thin /narrow but widens at the base/bottom. It is used to measure very accurate/exact volumes of a liquid solution.
+The maximum calibration / graduation mark is a visible ring.
+
+Volumetric flasks are named according to the maximum calibrated/graduated volume e.g.
+     "250ml" volumetric flask has a calibrated/graduated mark at exact volume of "250mililitres" /"250centimetres"
+"1l" volumetric flask has a calibrated/graduated mark at exact volume of "one litre" /"1000 cubic centimetres"
+"2l" volumetric flask has a calibrated/graduated mark at exact volume of "two litres" /"2000 cubic centimetres"
+
+Dropper/teat pipette
+A dropper/teat pipette is a long thin/narrow glass/rubber apparatus that has a flexible rubber head.
+A dropper/teat pipette is used to measure very small amount/ drops of liquid solution by pressing the flexible rubber head. The number of drops needed are counted by pressing the rubber gently at a time
+
+
+
+(b) Apparatus for measuring mass
+
+1. Beam balance
+A beam balance has a pan where a substance of unknown mass is placed. The scales on the opposite end are adjusted to "balance" with the mass of the unknown substance. The mass from a beam balance is in grams.
+
+2. Electronic/electric balance.
+An electronic/electric balance has a pan where a substance of unknown mass is placed. The mass of the unknown substance in grams is available immediately on the screen.
+
+(c) Apparatus for measuring temperature
+A thermometer has alcohol or mercury trapped in a bulb with a thin enclosed outlet for the alcohol/mercury in the bulb.
+If temperature rises in the bulb, the alchohol /mercury expand along the thin narrow enclosed outlet.
+The higher the temperature, the more the expansion.
+Outside, a calibration /graduation correspond to this expansion and thus changes in temperature.
+
+A thermometer therefore determines the temperature when the bulb is fully dipped in to the substance being tested. To determine the temperature of solid is thus very difficult.
+
+(d) Apparatus for measuring time
+The stop watch/clock is the standard apparatus for measuring time. Time is measured using hours, minutes and second.
+Common school stop watch/clock has start, stop and reset button for determining time for a chemical reaction.This require practice.
+(e) Apparatus for scooping
+1. Spatula
+A spatula is used to scoop solids which do not require accurate measurement. Both ends of the spatula can be used at a time.
+A solid scooped to the brim is "one spatula end full" A solid scooped to half brim is "half spatula end full".
+2. Deflagrating spoon
+A deflagrating spoon is used to scoop solids which do not require accurate measurement mainly for heating. Unlike a spatula, a deflagrating spoon is longer.
+(f) Apparatus for putting liquids/solid for heating.
+1. Test tube.
+A test tube is a narrow/thin glass apparatus open on one side. The end of the opening is commonly called the "the mouth of the test tube".
+2. Boiling/ignition tube.
+A boiling/ignition tube is a wide glass apparatus than a test tube open on one side. The end of the opening is commonly called the "the mouth of the boiling/ignition tube".
+3. Beaker.
+Beaker is a wide calibrated/graduated lipped glass/plastic apparatus used for transferring liquid solution which do not normally require very accurate measurements
+Beakers are named according to the maximum calibrated/graduated volume they can hold e.g.
+"250ml" beaker has a maximum calibrated/graduated volume of "250mililitres"
+/"250 cubic centimetres"
+"1l" beaker has a maximum calibrated/graduated volume of "one litre" /"1000 cubic centimetres"
+
+"5 l" beaker has a maximum calibrated/graduated volume of "two litres" /"2000 cubic centimetres"
+4. Conical flask.
+A conical flask is a moderately narrow glass apparatus with a wide base and no calibration/graduation. Conical flasks thus carry/hold exact volumes of liquids that have been measured using other apparatus. It can also be put some solids. The narrow mouth ensures no spirage.
+Conical flasks are named according to the maximum volume they can hold e.g. "250ml" Conical flasks hold a maximum volume of "250mililitres" /"250 cubic centimetres"
+"500ml" Conical flasks hold a maximum volume of "500ml" /"1000 cubic centimetres"
+5. Round bottomed flask
+A round bottomed flask is a moderately narrow glass apparatus with a wide round base and no calibration/graduation. Round bottomed flask thus carry/hold exact volumes of liquids that have been measured using other apparatus. The narrow/thin mouth prevents spirage. The flask can also hold (weighed) solids. A round bottomed flask must be held/ clamped when in use because of its wide narrow base.
+6. Flat bottomed flask
+A flat bottomed flask is a moderately narrow glass apparatus with a wide round base with a small flat bottom. It has no calibration/graduation.
+Flat bottomed flask thus carry/hold exact volumes of liquids that have been measured using other apparatus. The narrow/thin mouth prevents spirage. They can also hold (weighed) solids. A flat bottomed flask must be held/ clamped when in use because it's flat narrow base is not stable.
+
+(g) Apparatus for holding unstable apparatus( during heating).
+
+1. Tripod stand
+A tripod stand is a three legged metallic apparatus which unstable apparatus are placed on (during heating).Beakers. conical flasks,round bottomed flask and flat bottomed flasks are placed on top of tripod stand (during heating).
+2. Wire gauze/mesh
+Wire gauze/mesh is a metallic/iron plate of wires crossings. It is placed on top of a tripod stand:
+(i) ensure even distribution of heat to prevent cracking glass apparatus
+(ii) hold smaller apparatus that cannot reach the edges of tripod stand
+
+3 Clamp stand
+A clamp stand is a metallic apparatus which tightly hold apparatus at their "neck"
+firmly.
+A clamp stand has a wide metallic base that ensures maximum stability. The height and position of clamping is variable. This requires practice.
+
+4. Test tube holder
+A test tube holder is a hand held metallic apparatus which tightly hold test/boiling/ignition tube at their "neck" firmly on the other end.
+Some test tube holders have wooden handle that prevent heat conduction to the hand during heating.
+
+5. Pair of tong.
+
+A pair of tong is a scissor-like hand held metallic apparatus which tightly hold firmly a small solid sample on the other end.
+
+6. Gas jar
+A gas jar is a long wide glass apparatus with a wide base. It is open on one end. It is used to collect/put gases.
+This requires practice.
+
+(h) Apparatus for holding/directing liquid solutions/funnels ( to avoid spirage).
+
+1. Filter funnel
+A filter funnel is a wide mouthed (mainly plastic) apparatus that narrow drastically at the bottom to a long extension.
+When the long extension is placed on top of another apparatus, a liquid solution can safely be directed through the wide mouth of the filter funnel into the apparatus without spirage.
+Filter funnel is also used to place a filter paper during filtration.
+2. Thistle funnel
+A thistle funnel is a wide mouthed glass apparatus that narrow drastically at the bottom to a very long extension.
+The long extension is usually drilled through a stopper/cork.
+A liquid solution can thus be directed into a stoppered container without spirage
+3. Dropping funnel
+
+A dropping funnel is a wide mouthed glass apparatus with a tap that narrow drastically at the bottom to a very long extension.
+The long extension is usually drilled through a stopper/cork.
+A liquid solution can thus be directed into a stoppered container without spirage at the rate determined by adjusting the tap.
+4. Separating funnel
+A separating funnel is a wide mouthed glass apparatus with a tap at the bottom narrow extension.
+A liquid solution can thus be directed into a separating funnel without spirage. It can also safely be removed from the funnel by opening the tap.
+It is used to separate two or more liquid solution mixtures that form layers/immiscibles. This requires practice.
+
+(h) Apparatus for heating/Burners
+
+1. Candle, spirit burner, kerosene stove, charcoal burner/jiko are some apparatus that can be used for heating.
+Any flammable fuel when put in a container and ignited can produce some heat.
+
+2. Bunsen burner
+The Bunsen burner is the standard apparatus for heating in a Chemistry school laboratory.
+It was discovered by the German Scientist Robert Wilhelm Bunsen in1854. (a)Diagram of a Bunsen burner
+
+
+
+A Bunsen burner uses butane/laboratory gas as the fuel. The butane/laboratory gas is highly flammable and thus usually stored safely in a secure chamber outside Chemistry school laboratory. It is tapped and distributed into the laboratory through gas pipes.
+The gas pipes end at the gas tap on a chemistry laboratory bench .If opened the gas tap releases butane/laboratory gas. Butane/laboratory gas has a characteristic odour/smell that alerts leakages/open gas tap.
+The Bunsen burner is fixed to the gas tap using a strong rubber tube.
+
+The Bunsen burner is made up of the following parts:
+(i) base plate -to ensure the burner can stand on its own
+(ii) Jet-a hole through which laboratory gas enters the burner
+(iii) Collar/sleeve-adjustable circular metal attached to the main chimney/burell with a side hole/entry. It controls the amount of air entering used during burning.
+
+(iv) Air hole- a hole/entry formed when the collar side hole is in line with chimney side hole. If the collar side hole is not in line with chimney side hole, the air hole is said to be "closed" If the collar side hole is in line with chimney side hole, the air hole is said to be "open"
+(v) Chimney- tall round metallic rod attached to the base plate.
+
+(b) Procedure for lighting/igniting a Bunsen burner
+1. Adjust the collar to ensure the air holes are closed.
+2. Connect the burner to the gas tap using a rubber tubing. Ensure the rubber tubing has no side leaks.
+3. Turn on the gas tap.
+4. Ignite the top of the chimney using a lighted match stick/gas lighter/wooden splint.
+5. Do not delay excessively procedure (iv) from (iii) to prevent highly flammable laboratory gas from escaping/leaking.
+
+(c) Bunsen burner flames
+A Bunsen burner produces two types of flames depending on the amount of air entering through the air holes.
+If the air holes are fully open, a non luminous flame is produced. If the air holes are fully closed, a luminous flame is produced. If the air air holes are partially open/ closed, a hybrid of non luminous and luminous flames is produced.
+
+Characteristic differences between luminous and non-luminous flame
+
+Luminous flameNon-luminous flame1. Produced when the air holes are fully/completely closed.1. Produced when the air holes are fully/completely open.2. when the air holes are fully/ completely closed there is incomplete burning/ combustion of the laboratory gas2.when the air holes are fully/ completely open there is complete burning/ combustion of the laboratory gas3. Incomplete burning/ combustion of the laboratory gas produces fine unburnt carbon particles which make the flame
+sooty/smoky3. Complete burning/ combustion of the laboratory gas does not produce carbon particles. This make the flame non-
+sooty /non- smoky.4. Some carbon particles become white hot and emit light. This flame is thus bright yellow in colour producing light. This makes luminous flame useful for
+lighting4. Is mainly blue in colour and is hotter than luminous flame. This makes non- luminous flame useful for heating5. Is larger, quiet and wavy/easily
+swayed by wind5.Is smaller, noisy and steady
+Luminous flame has three main regions:
+(i) the top yellow region where there is incomplete combustion/burning
+(ii) the region of unburnt gas below the yellow region where the gas does not burn
+(iii) blue region on the sides of region of unburnt gas where there is complete burningNon-luminous flame has four main regions:
+(i) the top colourless region
+(ii) blue region just below where there is complete burning.It is the hottest region
+(iii) green region surrounded by the blue region where there is complete burning
+(ii)the region of unburnt gas at the innermost surrounded by green and blue regions. No burning takes place here
+Scientific apparatus are drawn:
+(i) using a proportional two dimension(2D) cross-sections. Three dimensions (3D) are not recommended.
+(ii) straight edges of the apparatus on a scientific diagram should be drawn using ruler.
+(iii) curved edges of the apparatus on a scientific diagram should be drawn using free hand.
+(iv) The bench, tripod or clamp to support apparatus which cannot stand on their own should be shown.
+
+The School Chemistry Laboratory
+
+Chemistry is studied mainly in a science room called a school chemistry
+laboratory.
+The room is better ventilated than normal classroom. It has electricity, gas and water taps.
+A school chemistry laboratory has a qualified professional whose called Laboratory technician/assistant.
+All students user in a school chemistry laboratory must consult the Laboratory technician/assistant for all their laboratory work.
+A school chemistry laboratory has chemicals and apparatus.
+A chemical is a substance whose composition is known. All chemical are thus labeled as they are.
+This is because whereas physically a substance may appear similar, chemically they may be different.
+
+All Chemicals which are not labeled should never be use.
+Some chemicals are toxic/poisonous, explosive, corrosive, caustic, irritants, flammable, oxidizing, carcinogenic, or radioactive.
+Care should always be taken when handling any chemical which have any of the above characteristic properties.
+Common school chemistry laboratory chemicals include: (i)distilled water
+(ii) Concentrated mineral acid which are very corrosive(on contact with skin they cause painful open wounds)
+(iii) Concentrated alkali/bases which are caustic(on contact with skin they cause painful blisters)
+(iv) Very many types of salts
+
+The following safety guideline rules should be followed by chemistry laboratory users:
+     (i) Enter the laboratory with permission in an orderly manner without rushing/pushing/scrabbling.
+     (ii) Do not try unauthorized experiments. They may produce flammable, explosive or toxic substances that affect your health.
+(iii) Do not taste any chemical in the laboratory. They may be poisonous.
+     (iv) Waft gas fumes to your nose with your palm.Do not inhale/smell gases directly. They may be highly poisonous/toxic.
+     (v) Boil substances with mouth of the test tube facing away from others and yourself. Boiling liquids spurt out portions of the hot liquid. Products of heating solids may be a highly poisonous/toxic gas.
+     (vi) Wash with lots of water any skin contact with chemicals immediately.Report immediately to teacher/laboratory technician any irritation, cut, burn, bruise or feelings arising from laboratory work.
+     (vii) Read and follow safety instruction.All experiments that evolve/produce poisonous gases should be done in the open or in a fume chamber.
+     (viii) Clean your laboratory work station after use.Wash your hand before leaving the chemistry laboratory.
+     (ix) In case of fire, remain calm, switch of the source of fuel-gas tap. Leave the laboratory through the emergency door. Use fire extinguishers near the chemistry laboratory to put of medium fires. Leave strong fires wholly to professional fire fighters.
+(x) Do not carry unauthorized item from a chemistry laboratory.
+
+An apparator /apparatus are scientific tools/equipment used in performing scientific experiments. The conventional apparator used in performing a scientific
+
+experiments is called standard apparator/apparatus. If the conventional standard apparator/apparatus is not available, an improvised apparator/apparatus may be used in performing a scientific experiments. An improvised apparator/apparatus is one used in performing a scientific experiment for a standard apparator/apparatus. Most standard apparatus in a school chemistry laboratory are made of glass because:
+(i) Glass is transparent and thus reactions /interactions inside are clearly visible from outside
+(ii) Glass is comparatively cheaper which reduces cost of equipping the school chemistry laboratory
+(iii) glass is comparatively easy to clean/wash after use.
+(iv) glass is comparatively unreactive to many chemicals.
+Apparatus are designed for the purpose they are intended in a school chemistry laboratory:
+
+SEPARATION OF MIXTURES
+CLASSIFICATION OF SUBSTANCES
+Substances are either pure or impure. A pure substance is one which contains only one substance.
+An impure substance is one which contains two or more substances. A pure substance is made up of a pure solid, pure liquid or pure gas.
+A mixture is a combination of two or more pure substances which can be separated by physical means. The three states of matter in nature appear mainly as mixtures of one with the other.
+Common mixtures include:
+
+(a) Solutions/solid-liquid dissolved mixture Experiment:
+To make a solution of copper(II)sulphate(VI)/Potassium manganate(VII) /sodium chloride
+Procedure
+Put about 100 cm3 of water in three separate beakers. Separately place a half spatula end full of copper(II)sulphate(VI) ,Potassium manganate(VII) and sodium chloride crystals to each beaker. Stir for about two minutes.
+Observation
+Copper(II)sulphate(VI) crystals dissolve to form a blue solution Potassium manganate(VII) crystals dissolve to form a purple solution Sodium chloride crystals dissolve to form a colourless solution Explanation
+Some solids, liquids and gases dissolve in some other liquids.
+A substance/liquid in which another substance dissolves is called solvent. A substance /solid /gas which dissolves in a solvent is called solute.
+When a solute dissolves in a solvent it forms a uniform mixture called solution.
+A solute dissolved in water as the solvent exists in another state of matter called aqueous state.Water is refered as the universal solvent because it dissolves many solutes. A solute that dissolves in a solvent is said to be soluble. Soluble particles uniformly spread between the particles of water/solvent and cannot be seen.
+Solute+Solvent->solutionSolute+Water->Aqueous solution of solute
+The solute dissolved in water gives the name of the solution
+e. g.
+
+1. Sodium chloride solution is a solution formed after dissolving sodium chloride crystals/solid in water. Sodium chloride exists in aqueous state after dissolving.
+Sodium chloride+Water	->Sodium chloride solutionNaCl(s)+(aq)	->NaCl(aq)
+2. Ammonia solution is a solution formed after dissolving ammonia gas in water. Ammonia exists in aqueous state after dissolving.
+Ammonia gas+Water	->Aqueous ammoniaNH3(g)+(aq)	->NH3(aq)
+3. Copper (II)sulphate(VI) solution is a solution formed after dissolving Copper(II) sulphate (VI) crystals/solid in water. Copper (II)sulphate(VI) exist in aqueous state after dissolving.
+Copper (II)sulphate(VI)+	Water->	Copper (II)sulphate(VI) solutionCuSO4(s)+	(aq)->	CuSO4 (aq)
+4. Potassium manganate(VII) solution is a solution formed after dissolving Potassium manganate(VII) crystals/solid in water.
+Potassium manganate(VII)exist in aqueous state after dissolving.
+Potassium manganate(VII) + Water	-> Potassium manganate(VII) solution KMnO4(s)	+	(aq)		->	KMnO4 (aq)
+(b) Suspension/ precipitates/solid-liquid mixture which do not dissolve Experiment: To make soil,flour and Lead(II)Iodide suspension/precipitate
+Procedure
+Put about 100 cm3 of water in three separate beakers. Separately place a half spatula end full of soil ,maize and lead(II)Iodide to each beaker. Stir for about two minutes.
+Observation
+Some soil , maize and lead(II)Iodide float in the water
+A brown suspension/precipitate/particles suspended in water containing soil A white suspension/precipitate/particles suspended in water containing flour A yellow suspension/precipitate/particles suspended in water containing Lead(II)iodide.
+Some soil , maize and lead(II)Iodide settle at the bottom after some time. Explanation
+Some solid substances do not dissolve in a liquid. They are said to be insoluble in the solvent .When an insoluble solid is put in liquid:
+
+(i) some particles remain suspended/floating in the liquid to form a suspension
+/precipitate.
+  (ii) some particles sink/settle to the bottom to form sediments after being allowed to stand .
+An insoluble solid acquire the colour of the suspension/precipitate .e.g .
+1.A white suspension /precipitate has some fine white particles suspended /floating in the liquid. Not "white solution"
+2.A blue suspension /precipitate has some fine blue particles suspended /floating in the liquid.
+3. A green suspension /precipitate has some fine green particles suspended /floating in the liquid.
+4. A brown suspension /precipitate has some fine brown particles suspended
+/floating in the liquid.
+4.A yellow suspension /precipitate has some fine yellow particles suspended
+/floating in the liquid.
+
+(c) (i) Miscibles /Liquid-liquid mixtures
+To form water-ethanol and Kerosene-turpentine miscibles
+Procedure
+(i) Measure 50cm3 of ethanol into 100cm3 beaker. Measure 50cm3 of water. Place the water into the beaker containing ethanol. Swirl for about one minute. (ii)Measure 50cm3 of kerosene into 100cm3 beaker. Measure 50cm3 of turpentine oil. Place the turpentine oil into the beaker containing kerosene. Swirl for about one minute.
+Observation
+Two liquids do not form layers.
+Ethanol and water form a uniform mixture. Kerosene and turpentine oil form uniform mixture Explanation
+Ethanol is miscible in Water. Kerosene is miscible in turpentine oil. Miscible mixture form uniform mixture. They do not form layers. The particles of one liquid are smaller than the particles of the other. The smaller particles occupy the spaces between the bigger particles.
+
+(ii) Immiscibles /Liquid-liquid mixtures
+To form water-turpentine oil and Kerosene-water miscibles
+Procedure
+(i) Measure 50cm3 of water into 100cm3 beaker. Measure 50cm3 of turpentine oil. Place the oil into the beaker containing water. Swirl for about one minute.
+
+(ii) Measure 50cm3 of water into 100cm3 beaker. Measure 50cm3 of kerosene. Place the kerosene into the beaker containing water. Swirl for about one minute. Observation
+Two liquids form layers.
+Turpentine and water do not form a uniform mixture. Water and kerosene do not form uniform mixture Explanation
+Kerosene is immiscible in Water. Water is immiscible in turpentine oil. Immiscible mixtures do not form uniform mixtures. They form layers. The size of the particles of one liquid is almost equal to the particles of the other. The particles of one liquid cannot occupy the spaces between the particles of the other. The heavier particles settle at the bottom. The less dense particles settle on top.
+
+(d) Solid-solid mixtures/Alloys
+Before solidifying, some heated molten/liquid metals dissolve in another metal to form a uniform mixture of the two. On solidifying, a uniform mixture of the metals is formed. A uniform mixture of two metals on solidifying is called alloy. In the alloy, one metallic particle occupies the spaces between the metallic particles of the other.
+c) Common alloys of metal.
+Alloy nameConstituents of the alloyUses of the alloyBrassCopper and ZincMaking scews and bulb capsBronzeCopper and TinMaking clock springs,electrical contacts and copper coinsSoldierLead and TinSoldering, joining electrical contacts because of its low melting points and high thermal conductivityDuraluminAluminium, Copper and MagnesiumMaking aircraft, utensils, windows frames because of its light weight and corrosion resistant.SteelIron, Carbon
+,Manganese and other metalsRailway lines, car bodies girders and utensils.NichromeNichrome and
+ChromiumProvide resistance in electric heaters
+and ovens
+German silverCopper, Zinc and NickelMaking coins
+
+METHODS OF SEPARATING MIXTURES
+Mixtures can be separated from applying the following methods:
+(a) Decantation
+Sediments can be separated from a liquid by pouring out the liquid. This process is called decantation.
+Experiment
+Put some sand in a beaker. Add about 200cm3 of water. Allow sand to settle. Pour off water carefully into another beaker.
+
+Observation
+Sand settles at the bottom as sediments. Less clean water is poured out.
+Explanation
+Sand does not dissolve in water. Sand is denser than water and thus settles at the bottom as sediment. When poured out, the less dense water flows out.
+(b) Filtration
+Decantation leaves suspended particles in the liquid after separation. Filtration is thus improved decantation.
+Filtration is the method of separating insoluble mixtures/particles/solids from a liquid.
+Experiment : To separate soil and water using filtration
+Fold a filter paper to fit well into a filter funnel. Place the funnel in an empty 250 cm3 beaker.
+Put one spatula end full of soil into 50cm3 of water. Stir. Put the soil/water mixture into the filter funnel.
+Observations
+Clean water is collected below the filter funnel. Soil remains above the filter paper.
+Explanation
+A filter paper is porous which act like a fine sieve with very small holes. The holes allow smaller water particles to pass through but do not allow bigger soil
+
+particles. The liquid which passes through is called filtrate. The solid which do not pass through is called residue.
+Set up of apparatus
+
+
+In industries, filtration is used in engine filters to clean up air.
+
+
+(c) Evaporation
+Evaporation is a method of separating a solute/solid from its solution. This involves heating a solution (solvent and solute)to vapourize the solvent out of the solution mixture leaving pure solute/solid. If a mixture contain insoluble solid, they are filtered out.
+Experiment: : To separate a mixture of soil and salt(sodium chloride) .
+Procedure:
+Put one spatula end full of soil on a filter paper.
+Put one spatula full of common salt/sodium chloride into the same filter paper. Mix well using the spatula,.
+Place about 200cm3 of water into a beaker.
+Put the contents of the filter paper into the water. Stir thoroughly using a glass/stirring rod for about one minute.
+Fold a filter paper into a filter funnel.
+Pour half portion of the contents in the beaker into the filter funnel. Put the filtrate into an evaporating dish. Heat on a water bath.
+Observation (i)On mixing
+Colourless crystals and brown soil particles appear on the filter paper. (ii)On adding water
+Common soil dissolves in water. Soil particles do not dissolve in water. (iii)On filtration
+Colourless liquid collected as filtrate below the filter funnel/paper. Brown residue collected above the filter funnel/paper.
+(iv)On evaporation
+Colourless crystals crystals collected after evaporation Explanation
+Solid mixture of sand and common salt take the colours of the two. On adding water, common salt dissolve to form a solution .
+Soil does not because it is insoluble in water and thus forms a suspension.
+On filtration, a residue of insoluble soil does not pass through the filter paper. It is collected as residue.
+Common salt solution is collected as filtrate.
+On heating the filtrate, the solvent/water evaporate/vapourize out of the evaporating dish leaving common salt crystals.
+Vapourization/evaporation can take place even without heating.
+This is the principle/process of drying wet clothes on the hanging line. Set up of apparatus
+
+
+
+
+
+
+
+(d) Distillation
+Distillation is an improved evaporation where both the solute and the solvent in the solution are separated /collected. Distillation therefore is the process of separating a solution into constituent solid solute and the solvent. It involves heating the solution to evaporate/vapourize the solvent out. The solvent vapour is then condensed back to a liquid.
+Experiment: To obtain copper(II)sulphate (VI) crystals and water from copper (II) sulphate(VI) solution.
+Procedure:
+Put one spatula end full of copper(II)sulphate (VI) crystals into a 250cm3 beaker. Place about 200cm3 of water into the beaker.
+Stir thoroughly using a glass/stirring rod for about one minute.
+Pour half portion of the contents in the beaker into a round bottomed/flat/conical flask broken porcelain/sand/glass into the flask.
+Put a few pieces of b Stopper the flask.
+Connect the flask to a liebig condenser using delivery tube.
+Place a 200cm3 clean empty beaker/conical flask as a receiver at the end of the liebig condenser.
+Circulate water in the liebig condenser.
+Heat the flask strongly on a tripod stand with wire mesh/gauze until there is no more visible boiling bubbles in the flask.
+
+Observation
+Copper (II)sulphate (VI) crystals dissolve in water to form a blue solution. On heating, colourless liquid is collected in the receiver.
+Blue crystals are left in the flask.
+(if gently heated further, the blue crystals turn to white powder)
+
+Explanation
+On heating blue Copper (II)sulphate (VI) solution, the colourless liquid solvent evaporate/vapourize .
+The liquid vapour/gas passes through the delivery tube to the liebig condenser. The liebig condenser has a cold water inlet near the receiver and cold water out let.
+This ensures efficient cooling. If the cold water outlet/inlet is reversed, the water circulation would be less efficient.
+The water in the receiver would be warm.In the liebig condenser, the cold water,condenses the liquid vapour into liquid.
+The condensed liquid collects in the receiver as distillate.
+The solute of blue Copper (II)sulphate (VI) crystals is left in the flask as residue. During simple distillation,therefore, the solution is heated to vapourize /evaporate the solvent/one component which is condensed at a different part of the apparatus. The purpose of pieces of broken porcelain/porous pot/glass/sand/ is to:
+(i) prevent bumping of the solution during boiling.
+(ii) ensure smooth and even boiling.
+Salty sea water can be made pure through simple distillation.
+Any mixture with a large difference /40oC in boiling point can be separated using simple distillation.
+Set up of apparatus
+
+
+
+
+(e) Fractional distillation
+Fractional distillation is an improved simple distillation used specifically to separate miscible mixtures with very close /near boiling points.
+
+Fractional distillation involves:
+(i) Heating the mixture in a conical/round bottomed /flat bottomed flask. The pure substance with a lower boiling point and thus more volatile evaporates/boils/vapourizes first.
+e.g.
+Pure ethanol has a boiling point of 78oC.Pure water has a boiling point of 100 oC at sea level/one atmosphere pressure.
+When a miscible mixture of ethanol and water is heated, ethanol vapourizes /boils/ evaporates first because it is more volatile.
+(ii) The conical/round bottomed /flat bottomed flask is connected to a long glass tube called fractionating column.
+The purpose of the fractionating column is to offer areas of condensation for the less volatile pure mixture.
+The fractionating column is packed with glass beads/broken glass/ porcelain/ shelves to increase the surface area of condensation of the less volatile pure mixture.
+
+(iii) When the vapours rise they condense on the glass beads/broken glass
+/porcelain / shelves which become hot.
+When the temperature of the glass beads/broken glass/porcelain/shelves is beyond the boiling point of the less volatile pure substance, the pure substance rise and condensation take place on the glass beads/broken glass/porcelain/shelves at a higher level on the fractionating column.
+The less volatile pure substance trickles/drips back down the fractionating column or back into the conical/round bottomed /flat bottomed flask to be heated again. e.g.
+If the temperature on glass beads/broken glass/porcelain/shelves is beyond 78oC, the more volatile pure ethanol rise to condense on the glass beads/broken glass
+/porcelain/shelves higher in the fractionating column.
+Water condenses and then drip/trickle to the glass beads/broken glass /porcelain
+/shelves lower in the fractionating column because it is less volatile.
+
+(iv) The fractionating column is connected to a liebig condenser. The liebig condenser has a cold water inlet and outlet circulation.
+The more volatile mixture that reach the top of the fractionating column is condenses by the liebig condenser into a receiver. It is collected as the first fraction.
+
+(v) At the top of the fractionating column, a thermometer is placed to note/monitor the temperature of the boiling mixtures .
+Pure substances have constant/fixed boiling point. When one mixture is completely separated, the thermometer reading rises.
+
+e.g. The thermometer reading remains at78oC when ethanol is being separated. When no more ethanol is being separated, the mercury/alcohol level in the thermometer rises.
+(vi) The second /subsequent fractions are collected in the receiver after noting a rise the mercury/alcohol level in the thermometer.
+e.g.
+The thermometer reading rises to 100oC when water is being separated. It is passed through the liebig condenser with the cold water inlet and outlet circulation. It is collected different receiver as the second/subsequent fraction.
+
+(vii) Each fraction collected should be confirmed from known physical/chemical properties/characteristic.
+e.g.
+Ethanol
+
+Ethanol is a colourless liquid that has a characteristic smell .When it is put in a watch glass then ignited, it catches fire and burn with a blue flame.
+Water
+Water is a colourless liquid that has no smell/odour .When it is put in a watch glass then ignited, it does not catch fire.
+Set up of apparatus
+
+
+
+
+
+Industrial application of Fractional distillation
+On a large scale,fractional distillation is used:
+(i) In fractional distillation of crude oil in an oil refinery.
+Crude oil is a mixture of many fractions. When heated in a furnace, the different fractions separate out according to their boiling point. In Kenya,fractional distillation takes place at Changamwe in Mombasa.
+(ii) In fractional distillation of air.
+Air contain a mixture of three main useful gases which are condensed by coolin to very low temperature (-200oC) to form a liquid. The liquid is then heated. Nitrogen is the most volatile(-196 oC) and thus comes out as the first fraction. Argon (at -186 oC) is the second fraction. Oxygen ( at -183 oC) is the last fraction. The three gases are very useful industrial gases.
+
+
+
+(f) Separation of immiscibles (Using a separating funnel)
+Two or more liquids that form layers on mixing are immiscible. Immiscible mixture arrange themselves according to their densities
+i.e The denser liquid sink to the bottom. The less dense liquid floats on the denser one. Immicible mixtures can be separated from each other by using a separating funnel.
+Experiment: To separate an immiscible mixture of paraffin and water. Procedure
+Place about 100cm3 of water into a 250cm3 beaker. Add about 100cm3 of paraffin into the beaker. Stir.
+Transfer the mixture into a separating funnel. Allow to settle for about one minute. Open the tap, run out the lower layer out slowly into a clean beaker. Close the tap when the upper layer is very close to the tap.
+Run out the intermediate small amount of the mixture near the tap into a beaker. Discard it.
+Run out the remaining upper layer into a fresh beaker.
+Place a portion of upper and lower layer into a watch glass separately after separating each. Ignite.
+Observation
+Water and paraffin are both colourless liquids.
+
+Two layers are formed on mixing.
+Colourless odourless liquid collected first. It does not catch fire.
+A colourless liquid with characteristic smell collected later/second. It catches fire and burn with a yellow smoky flame.
+Explanation
+Water and paraffin are immiscible. Water is denser than paraffin. When put in a separating funnel, paraffin float on water. On opening the tap, water runs out. A mixture of water and paraffin at the junction of the two is discarded. It is not pure. Set up of apparatus
+
+
+
+
+
+
+(g) Sublimation/deposition
+Some solids on heating do not melt to a liquid but change directly to a gas. The process by which a solid changes to a gas is called sublimation. The gas cools back and changes directly to a solid. The process by which a gas changes to a solid is called deposition. Sublimation and deposition therefore are the same but opposite processes.
+
+
+Sublimation	Deposition
+
+Some common substances that undergo sublimation/ deposition include: (i)Iodine	(ii)Carbon(IV)oxide	(iii)Camphor
+(iv) ammonium chloride (v)Iron(III)chloride	(vi)Aluminium(III)chloride
+(vii) benzoic acid
+
+If a mixture has any of the above as a component, then on heating it will change to a gas and be deposited away from the source of heating.
+Procedure
+Place about one spatula full of ammonium chloride crystals into a clean dry 100cm3 beaker. Add equal amount of sodium chloride crystals into the beaker. Swirl to mix.
+Place the beaker on a tripod stand.
+Put about 100cm3 of water into another beaker. Place carefully the beaker containing water on top of the beaker containing the solid mixture. Light/ignite a burner and heat the solid.
+Set up of apparatus:
+
+
+
+
+
+Observation
+(i)With ammonium chloride/common salt mixture White fumes produced .
+White sublimate deposited Colourless residue left
+(ii)With Iodine/common salt mixture Purple fumes produced .
+Dark grey sublimate deposited Colourless residue left
+Explanation
+(i)On heating a mixture of ammonium chloride and common salt, a white fumes of ammonium chloride is produced. The white fumes solidify as white sublimate on the cooler parts. Common salt remains as residue.
+
+Chemical equation:
+Ammonium chloride solid	Ammonium chloride gas
+
+NH4Cl(s)	NH4Cl(g)
+
+(ii)On heating a mixture of Iodine and common salt, a purple fumes of Iodine vapour is produced. The purple fumes solidify as dark grey sublimate on the cooler parts. Common salt remains as residue.
+
+Chemical equation:
+Iodine solid	Iodine gas
+
+I2(s)	I2 (g)
+
+
+(h) Chromatography
+Chromatography is a method of separating components of a solution mixture by passing it through a medium where the different components move at different rates. The medium through which the solution mixture is passed is called absorbent material.
+Paper chromatography is a method of separating coloured dyes by using paper as the absorbent material.
+Since dyes are insoluble/do not dissolve in water, ethanol and propanone are used as suitable solvents for dissolving the dye.
+Practically, a simple paper chromatography involve placing a dye/material on the absorbent material, adding slowly a suitable soluble solvent on the dye/material using a dropper, the solvent spread out on the absorbent material carrying the soluble dye away from the origin.
+The spot on which the dye is initially/originally placed is called baseline. The farthest point the solvent spread is called solvent front.
+The farthest a dye can be spread by the solvent depend on:
+     (i) density of the dye-the denser the dye, the less it spread from the basely ne by the solvent.
+     (ii) Stickiness of the dye-some dyes sticks on the absorbent material more than other thus do not spread far from baseline.
+Experiment: To investigate the colours in ink
+Procedure
+Method 1
+Place a filter paper on a an empty beaker. Put a drop of black/blue ink in the centre of the filter paper. Wait for about one minute for the ink drop to spread. Using a clean teat pipette/dropper add one drop of ethanol/propanone. Wait for about one minute for the ink drop to spread further. Add about twenty other drops of ethanol waiting for about one minute before each addition. Allow the filter paper to dry.
+
+Experiment: To investigate the colours in ink
+Procedure
+Method 2
+Cut an 8 centimeter thin strip of a filter paper. At	about 3cm on the strip, place a drop of ink. Place the filter paper in a 10cm length boiling tube containing 5cm3 of ethanol. Ensure the cut strip of the filter paper just dips into the ethanol towards the ink mark. Cover the boiling tube. Wait for about twenty minutes. Remove the boiling tube and allow the filter paper to dry.
+Set up of apparatus Method 1
+
+Set up of apparatus Method 2
+
+
+
+Explanation
+When a drop of ink is placed on an absorbent material it sticks. On adding an eluting solvent, it dissolves the dye spread out with it. The denser and sticky pure dye move least. The least dense/sticky pure dye move farthest. A pure dye will produce the same chromatogram/spot if the same eluting solvent is used on the same absorbent material. Comparing the distance moved by a pure dye with a mixture ,the coloured dyes in a mixture can be deduced as below:
+Example 1
+The chromatogram of pure dyes A, B ,C and a dye mixture D is shown below Determine the pure dyes present in D. On the diagram show:
+(i)the solvent front (ii)baseline
+(iii) the most soluble pure dye
+
+
+
+
+
+(i) Solvent extraction
+Solvent extraction is a method of separating oil from nuts/seeds. Most nuts contain oil. First the nuts are crushed to reduce their size and increase the surface area. A suitable volatile solvent is added. The mixture is filtered. The filtrate solvent is then allowed to crystallize leaving the oil/fat. If a filter paper is rubbed/smeared with the oil/fat, it becomes translucent. This is the test for the presence of oil/fat.
+
+Experiment: To extract oil from Macadamia nut seeds
+Procedure
+Crush Macadamia nut seeds form the hard outer cover .Place the inner soft seed into a mortar. Crush(add a little sand to assist in crushing).
+Add a little propanone and continue crushing. Continue crushing and adding a little propanone until there is more liquid mixture than the solid. Decant/filter. Put the filtrate into an evaporating dish. Vapourize the solvent using solar energy /sunlight. Smear/rub a portion of the residue left after evaporation on a clean dry filter paper. Observation /Explanation
+Propanone dissolve fat/oil in the macadamia nuts. Propanone is more volatile(lower boiling point)than oil/fat. In sunlight/solar energy, propanone evaporate/vapourize leaving oil/fat(has a higher boiling point).Any seed like corn,
+
+wheat , rice, soya bean may be used instead of macadamia seed. When oil/fat is rubbed/ smeared on an opaque paper, it becomes translucent.
+
+(j) Crystallization
+Crystallization is the process of using solubility of a solute/solid to obtain the solute/solid crystals from a saturated solution by cooling or heating the solution.
+A crystal is the smallest regular shaped particle of a solute. Every solute has unique shape of its crystals.
+Some solutions form crystals when heated. This is because less solute dissolve at higher temperature. Some other solutions form crystals when cooled. This is because less solute dissolve at lower temperature.
+
+Experiment; To crystallize copper(II)sulphate(VI)solution
+Procedure:
+Place about one spatula full of hydrated copper sulphate(VI) crystals into 200cm3 of distilled water in a beaker. Stir. Continue adding a little more of the hydrated copper sulphate (VI) crystals and stirring until no more dissolve. Decant/filter.
+Cover the filtrate with a filter paper. Pierce and make small holes on the filter paper cover. Preserve the experiment for about seven days.
+
+Observation/Explanation
+
+Large blue crystals formed
+When hydrated copper(II)sulphate crystals are placed in water, they dissolve to form copper(II)sulphate solution. After some days water slowly evaporate leaving large crystals of copper(II)sulphate. If the mixture is heated to dryness, small crystals are formed.
+
+Physical/Temporary and Chemical changes
+A physical/temporary change is one which no new substance is formed and is
+reversible back to original.
+A chemical/permanent change is one which a new substance is formed and is
+irreversible back to original.
+
+The following experiments illustrates physical and chemical changes
+
+(a) Heating ice
+Place about 10g of pure ice in a beaker. Determine its temperature.Record it at time "0.0" in the table below. Heat the ice on a strong Bunsen flame and determine its temperature after every 60seconds/1minute to complete the table below:
+
+Time/minutes012345678Temperature
+(oC)-200408090959596
+Plot a graph of time against Temperature(y-axes) Explain the shape of your graph
+Melting/freezing/fusion/solidification and boiling /vaporization /evaporation
+are the two physical processes.
+Melting /freezing point of pure substances is fixed /constant.
+The boiling point of pure substance depend on external atmospheric pressure. Melting/fusion is the physical change of a solid to liquid.
+Freezing is the physical change of a liquid to solid. Melting/freezing/fusion/solidification are therefore two opposite but same reversible physical processes i.e
+
+A (s)	A(l)
+Boiling/vaporization/evaporation is the physical change of a liquid to gas. Condensation/ liquidification is the physical change of gas to liquid.
+Boiling/vaporization/evaporation and condensation/ liquidification are therefore two opposite but same reversible physical processes i.e
+B (l)	B(g)
+Practically
+(i) Melting/liquidification/fusion involves heating a solid to weaken the strong bonds holding the solid particles together.
+Solids are made up of very strong bonds holding the particles very close to each other (Kinetic Theory of matter).
+On heating these particles gain energy/heat from the surrounding heat source to form a liquid with weaker bonds holding the particles close together but with some degree of freedom.
+(ii) Freezing/fusion/solidification involves cooling a liquid to reform /rejoin the very strong bonds to hold the particles very close to each other as solid and thus lose their degree of freedom (Kinetic Theory of matter).
+Freezing /fusion / solidification is an exothermic (-?H)process that require particles holding the liquid together to lose energy to the surrounding. (iii)Boiling/vaporization/evaporation involves heating a liquid to completely break/free the bonds holding the liquid particles together.
+Gaseous particles have high degree of freedom (Kinetic Theory of matter). Boiling /vaporization / evaporation is an endothermic (+?H) process that require/absorb energy from the surrounding.
+
+(iv)Condensation/liquidification is reverse process of boiling /vaporization / evaporation.
+It involves gaseous particles losing energy to the surrounding to form a liquid.
+
+
+
+
+
+2.2.2 EFFECT OF HEAT ON SUBSTANCES
+EFFECT OF HEAT
+
+CHANGES OF STATE AND THE KINETIC THEORY
+
+We can use the state particle models, and the diagrams shown below, explain changes of state and the energy changes involved.
+
+
+
+
+Evaporation and Boiling (liquid to gas)
+
+* On heating particles gain kinetic energy and move faster.
+* In evaporation and boiling the highest kinetic energy molecules can 'escape' from the attractive forces of the other liquid particles.
+
+* The particles lose any order and become completely free to form a gas or vapour.
+* Energy is needed to overcome the attractive forces in the liquid and is taken in from the surroundings.
+* This means heat is taken in, so evaporation or boiling are endothermic (require heat to be added) processes.
+* If the temperature is high enough boiling takes place.
+* Boiling is rapid evaporation anywhere in the bulk liquid and at a fixed temperature called the boiling point and requires continuous addition of heat.
+* The rate of boiling is limited by the rate of heat transfer into the liquid.
+* Evaporation takes place more slowly at any temperature between the melting point and boiling point, and only from the surface, and results in the liquid becoming cooler due to loss of higher kinetic energy particles.
+
+Condensing (gas to liquid)
+
+* On cooling, gas particles lose kinetic energy and eventually become attracted together to form a liquid.
+* There is an increase in order as the particles are much closer together and can form clumps of molecules.
+* The process requires heat to be lost to the surroundings i.e. heat given out, so condensation is exothermic. This is why steam has such a scalding effect, it's not just hot, but you get extra heat transfer to your skin due to the exothermic condensation on your surface!
+
+Melting (solid to liquid)
+
+When a solid is heated the particles vibrate more strongly as they gain kinetic energy and the particle attractive forces are weakened. Eventually, at the melting point, the attractive forces are too weak to hold the particles in the structure together in an ordered way and so the solid melts. The particles become free to move around and lose their ordered arrangement. Energy is needed to overcome the attractive forces and give the particles increased kinetic energy of vibration. So heat is taken in from the surroundings and melting is an endothermic process.
+
+Freezing (liquid to solid)
+
+On cooling, liquid particles lose kinetic energy and so can become more strongly attracted to each other. Eventually at the freezing point the forces of attraction are sufficient to remove any remaining freedom
+
+and the particles come together to form the ordered solid arrangement. Since heat must be removed to the surroundings freezing is an exothermic process.
+
+Cooling and Heating Curves
+
+
+
+
+
+A to BIce warms up. Temperature rises
+from -10 to 00C. No change of stateB to CTemperature stays constant.
+Change of state occurs. Ice changes to liquid water.C to DWater warms up. Temperature
+changes from 00C to 1000CD to ETemperature remains constant. Change of state occurs. Boils to
+steam at 1000C
+
+
+Sublimation:
+
+This is when a solid, on heating, directly changes into a gas, and the gas on cooling re-forms a solid directly.
+
+Theory in terms of particles:
+
+When the solid is heated the particles vibrate with increasing force from the added thermal energy. If the particles have enough kinetic energy of vibration to partially overcome the particle-particle attractive forces you would expect the solid to melt. However, if the particles have enough energy at this point that would have led to boiling, the liquid will not form and the solid turns directly into a gas. Overall, this is an endothermic change as energy absorbed and 'taken in' to the system. On cooling, the particles move slower and have less kinetic energy. Eventually, when the particle kinetic energy is low enough, it will allow the particle-particle attractive forces to produce a liquid. But the energy may be low enough to permit direct formation of the solid, i.e. the particles do not have enough kinetic energy to maintain a liquid state! Overall this is an exothermic change, energy released and 'given out' to the surroundings.
+
+Summary
+
+
+* Anything that has mass and occupies space (has volume)
+* 	Matter is composed of particles (molecules, ions, atoms) Spaced apart and seen with scanning electron microscope
+* Are in constant motion attracting one another with inter-particle forces (or cohesive)
+* Strength of interparticle force and space between particles determines the state.
+
+
+ATOMS, MOLECULES, ELEMENTS AND COMPOUNDS THE ATOM
+
+An atom is the smallest particle of a substance which can have its own characteristic properties. Atoms are built up of even more fundamental sub-atomic particles. These are electrons, protons and neutrons.
+
+
+
+
+
+
+
+The protons and neutrons are in the nucleus (centre) of the atom and the electrons orbit round the outside in shells (energy levels or layers). So you will often see pictures of atoms that look a little like this:
+
+
+How many protons, neutrons and electrons does an atom have?
+
+You can work this out using the periodic table. Every element in the periodic table has two numbers with it: the atomic number and the mass number. For example for lithium, the numbers are:
+
+
+The atomic number is the number of protons that the atom has. It is also the number of electrons that the atom has. So lithium has 3 protons and 3 electrons.
+
+The mass number is the number of protons and neutrons added together. So, for lithium there are 7 protons and neutrons combined, and we know that 3 of them are protons so there must be 4 neutrons.
+
+The atomic number (Z) is also known as the proton number of the nucleus of a particular element. It is the proton number that determines the specific identity of a particular element and its electron structure. The mass number (A) is also known as the nucleon number,that is the sum of neutrons and protons in the nucleus of an atom.
+
+The neutron number (N) = mass number (A) - proton/atomic number (Z)
+
+
+
+Protons and neutrons are the nucleons present in the positive nucleus and the negative electrons are held by the positive nucleus in 'orbits' called energy levels or shells. In a neutral atom the number of protons equals the number of electrons.
+
+Example.
+
+How many electrons, protons and neutrons are present in an atom of sodium?
+
+(a) Sodium has mass number 23 and atomic number 11 Number of electrons = atomic number = 11
+Number of protons = atomic number = 11
+
+Number of neutrons = mass number - atomic number
+
+= 23 - 11
+
+= 12
+
+Table of mass number, atomic number and symbol of selected elements
+
+
+
+SUMMARY
+
+Atoms:
+
+* Are made up of protons, neutrons and electrons
+* Are the smallest units or building blocks of elements
+* Take part in chemical reactions
+* Of the same element are the same
+* Of different elements are different due to different numbers of protons, neutrons and electrons
+* Have equal number of electrons and protons
+
+ELEMENTS AND SYMBOLS
+
+An element is a pure substance made up of only one type of atoms. About 92 in the Periodic Table naturally occur from hydrogen H to uranium U. Note that each element has symbol which is a single capital letter like H or U or a capital letter + small letter e.g. cobalt Co, calcium Ca or sodium Na. Each element has its own unique set of properties but the Periodic Table is a means of grouping similar elements together. They may exist as atoms like the Noble Gases
+e.g. helium (He) or as molecules e.g. hydrogen (H2) or sulphur S8. All the atoms of the same element have the same atomic or proton number. This number determines how many electrons the atom has, and so ultimately its chemistry.
+
+
+
+ELEMENTSYMBOLprotonsneutronselectronsSODIUM23Na11111211calcium40Ca20202020Oxygen16O8888Iron56Fe26263026
+
+
+COMMON ELEMENTS
+
+You should know the name and symbol for the following elements. If you see the name, you should know the symbol. If you see the symbol, you should know the name. For the elements, there are other names for the element, sometimes Latin, from which the element symbol was derived or some other name that makes the element more recognizable. You do not need to know the names in parentheses.
+
+a. Table of elements whose symbol is the first letter
+
+ELEMENTSSYMBOLBoronB
+PhosphorusPIodineICarbonCFluorineFNitrogenNUraniumUOxygenO
+
+
+
+
+
+
+b. Table of elements whose symbol is first letter and another letter in the name
+
+ELEMENTSYMBOLHeliumHeBerylliumBeChlorineClBromineBrCobaltCoLithiumLiArgonArCesiumCsSiliconSiAluminumAlMagnesiumMg
+
+
+
+
+c. Elements whose symbol comes from their latin names
+
+NAMELATIN NAMESYMBOLSodiumNatriumNa
+PotassiumKaliumKCopperCuprumCuLeadPlumbumPbSilverArgentumAgTinStannumSnAntimonyStibiumSbGoldAurumAuMercuryHydrargyrumHg
+
+
+
+COMPOUNDS AND FORMULA
+
+A compound is a pure substance formed by chemically combining at least two different elements. Compounds are two or more different elements combined. Their atoms have been joined or bonded together. Compounds can be represented by a FORMULA. There must be at least two different types of atom (elements) in a compound. Compounds have a fixed composition and therefore a fixed ratio of atoms represented by a fixed formula, however the compound is made or formed. In a compound, the elements are not easily separated by physical means, and quite often not easily by chemical means either. A compound has properties quite different from the elements it is formed from. For example, soft silvery reactive sodium + reactive green gas chlorine	colourless, not very reactive crystals of sodium chloride.
+
+
+
+
+nameFormulaElements presentCombined atomssodium chlorideNaCl2 elements1 atom of sodium
+and 1 of chlorineglucoseC6H12O63 elements6 atoms of carbon, 12 of hydrogen and
+6 of oxygenmethaneCH42 elements1 carbon atom
+combined with 4
+hydrogen atoms
+
+
+
+Here is a list of some compounds.
+
+NoNameElements in that compound1Copper oxideCopper & oxygen2Copper sulphideCopper & sulphur3Copper SulphateCopper & sulphur & oxygen4Magnesium NitrideMagnesium & Nitrogen5Magnesium NitrateMagnesium & Nitrogen & Oxygen6Sodium ChlorideSodium & chlorine7Carbon MonoxideCarbon & Oxygen8Carbon DioxideCarbon & Oxygen9Potassium CarbonatePotassium & Carbon & Oxygen
+
+
+Chemical word equations
+
+For any reaction, what you start with are called the reactants, and what you form are called the products. So any chemical equation shows in some way the overall chemical change of.
+
+REACTANTS	PRODUCTS
+
+This can be written in words or symbols/formulae.
+
+The arrow	means the direction of change from reactants =to=> products
+
+No symbols or numbers are used in word equations. Always try to fit all the words neatly lined up from left to right, especially if it is a long word equation. The word equation is presented to summarise the change of reactants to products.
+
+Here are some word equations
+
+
+
+Iron + sulphur	iron sulphide
+
+Sodium hydroxide + hydrochloric acid			sodium chloride + water Magnesium + hydrochloric acid	magnesium chloride + hydrogen Magnesium hydroxide + nitric acid		magnesium nitrate + water
+
+INTRODUCTION TO ACIDS,BASES AND INDICATORS
+
+1. In a school laboratory:
+(i) An acid may be defined as a substance that turn litmus red.
+(ii) A base may be defined as a substance that turn litmus blue.
+Litmus is a lichen found mainly in West Africa. It changes its colour depending on whether the solution it is in, is basic/alkaline or acidic. It is thus able to identify/show whether another substance is an acid, base or neutral.
+
+(iii) An indicator is a substance that shows whether another substance is a base/alkaline,acid or neutral.
+2. Common naturally occurring acids include:
+
+Name of acidOccurrence1.Citric acidFound in ripe citrus fruits like passion
+fruit/oranges/lemon2.Tartaric acidFound in grapes/baking powder/health
+salts3.Lactic acidFound in sour milk4.Ethanoic acidFound in vinegar5.Methanoic acidPresent in ants, bees stings6.Carbonic acidUsed in preservation of fizzy drinks like
+coke, Lemonade, Fanta7.Butanoic acidPresent in cheese8.Tannic acidPresent in tea
+3. Most commonly used acids found in a school laboratory are not naturally occurring. They are manufactured. They are called mineral acids. Common mineral acids include:
+Name of mineral acidCommon useHydrochloric acid (HCl)Used to clean/pickling surface of metals
+Is found in the stomach of mammals/human beingsSulphuric(VI) acid (H2SO4)Used as acid in car battery, making battery, making
+fertilizersNitric(V)acid (HNO3)Used in making fertilizers and explosives
+4. Mineral acids are manufactured to very high concentration. They are corrosive (causes painful wounds on contact with the skin) and attack/reacts with garments/clothes/metals.
+In a school laboratory, they are mainly used when added a lot of water. This is called diluting. Diluting ensures the concentration of the acid is safely low.
+
+5. Bases are opposite of acids. Most bases do not dissolve in water. Bases which dissolve in water are called alkalis.
+Common alkalis include:
+Name of alkaliCommon usesSodium hydroxide (NaOH)Making soaps and detergentsPotassium hydroxide(KOH)Making soaps and detergentsAmmonia solution(NH4OH)Making fertilizers, softening hard water
+Common bases (which are not alkali) include:
+Name of baseCommon nameMagnesium oxide/hydroxideAnti acid to treat indigestionCalcium oxideMaking cement and neutralizing soil
+acidity
+6. Indicators are useful in identifying substances which look-alike.
+An acid-base indicator is a substance used to identify whether another substance is alkaline or acidic.
+An acid-base indicator works by changing to different colours in neutral, acidic and alkaline solutions/dissolved in water.
+
+Experiment:To prepare simple acid-base indicator Procedure
+(a) Place some flowers petals in a mortar. Crush them using a pestle. Add a little sand to assist in crushing.
+Add about 5cm3 of propanone/ethanol and carefully continue grinding.
+Add more 5cm3 of propanone/ethanol and continue until there is enough extract in the mortar.
+Filter the extract into a clean 100cm3 beaker.
+
+(b) Place 5cm3 of filtered wood ash, soap solution, ammonia solution, sodium hydroxide, hydrochloric acid, distilled water, sulphuric(VI)acid, sour milk, sodium chloride, toothpaste and calcium hydroxide into separate test tubes.
+
+(c) Put about three drops of the extract in (a)to each test tube in (b). Record the observations made in each case.
+
+Sample observations
+
+Solution mixtureColour on adding indicator extractNature of solutionwood ashgreenBase/alkalinesoap solutiongreenBasic/alkalineammonia solutiongreenBasic/alkalinesodium hydroxidegreenBasic/alkalinehydrochloric acidredAcidicdistilled waterorangeNeutralsulphuric(VI)acidredAcidicsour milkgreenBasic/alkalinesodium chlorideorangeNeutraltoothpastegreenBasic/alkalinecalcium hydroxidegreenBasic/alkalineLemon juiceredAcidic
+The plant extract is able to differentiate between solutions by their nature. It is changing to a similar colour for similar solutions.
+(i) Since lemon juice is a known acid, then sulphuric(VI)and hydrochloric acids are similar in nature with lemon juice because the indicator show similar colours. They are acidic in nature.
+(ii) Since sodium hydroxide is a known base/alkali, then the green colour of indicator shows an alkaline/basic solution.
+(iii) Since pure water is neutral,then the orange colour of indicator shows neutral solutions.
+7. In a school laboratory, commercial indicators are used. A commercial indicator is cheap, readily available and easy to store. Common indicators include: Litmus, phenolphthalein, methyl orange, screened methyl orange, bromothymol blue.
+
+Experiment:
+Using commercial indicators to determine acidic, basic/alkaline and neutral solutions
+Procedure
+Place 5cm3 of the solutions in the table below. Add three drops of litmus solution to each solution.
+
+Repeat with phenolphthalein indicator, methyl orange, screened methyl orange and bromothymol blue.
+
+Sample results
+Substance/ solutionIndicator usedLitmusPhenolphthaleinMethyl orangeScreened methyl orangeBromothymol bluewood ashBluePinkYellowOrangeBluesoap solutionBluePinkYellowOrangeBlueammonia solutionBluePinkYellowOrangeBluesodium hydroxideBluePinkYellowOrangeBluehydrochloric acidRedColourlessRedPurpleOrangedistilled waterColourlessColourlessRedOrangeOrangesulphuric(VI)acidRedColourlessRedPurpleOrangesour milkBluePinkYellowOrangeBluesodium chlorideColourlessColourlessRedOrangeOrangetoothpasteBluePinkYellowOrangeBluecalcium
+hydroxideBluePinkYellowOrangeBlueLemon juiceRedColourlessRedPurpleOrange
+From the table above, then the colour of indicators in different solution can be summarized.
+
+IndicatorColour of indicator inAcidBase/alkaliNeutralLitmus paper/solutionRedBlueColourlessMethyl orangeRedYellowRedScreened methyl orangePurpleOrangeOrangePhenolphthaleinColourlessPurpleColourlessBromothymol blueOrangeBlueOrange
+The universal indicator
+
+The universal indicator is a mixture of other indicator dyes. The indicator uses the pH scale.The pH scale shows the strength of bases and acids. The pH scale ranges from 1-14.These numbers are called pH values:
+
+(i) pH values 1,2,3 shows a substance is strongly acid
+(ii) pH values 4,5,6 shows a substance is a weakly acid
+(iii) pH value 7 shows a substance is a neutral
+(iv) pH values 8,9,10,11 shows a substance is a weak base/alkali.
+(v) pH values 12,13,14 shows a substance is a strong base/alkali
+The pH values are determined from a pH chart.The pH chart is a multicoloured paper with each colour corresponding to a pH value.i.e
+(i)red correspond to pH 1,2,3 showing strongly acidic solutions. (ii)Orange/ yellow correspond to pH 4,5,6 showing weakly acidic solutions.
+(iii) Green correspond to pH 7 showing neutral solutions.
+(iv) Blue correspond to pH 8,9,10,11 showing weakly alkaline solutions. (v)Purple/dark bluecorrespond to pH 12,13,14 showing strong alkalis.
+The universal indicator is available as:
+(i) universal indicator paper/pH paper
+(ii) universal indicator solution.
+When determining the pH of a unknown solution using
+(i) pH paper then the pH paper is dipped into the unknown solution.It changes/turn to a certain colour. The new colour is marched/compared to its corresponding one on the pH chart to get the pH value.
+(ii) universal indicator solution then about 3 drops of the universal indicator solution is added into about 5cm3 of the unknown solution in a test tube. It changes/turn to a certain colour. The new colour is marched/compared to its corresponding one on the pH chart to get the pH value.
+
+Experiment:To determine the pH value of some solutions
+
+(a) Place 5cm3 of filtered wood ash, soap solution, ammonia solution, sodium hydroxide, hydrochloric acid, distilled water, sulphuric(VI)acid, sour milk, sodium chloride, toothpaste and calcium hydroxide into separate test tubes.
+
+(b) Put about three drops of universal indicator solution or dip a portion of a piece of pH paper into each. Record the observations made in each case.
+(c) Compare the colour in each solution with the colours on the pH chart provided. Determine the pH value of each solution.
+
+Sample observations
+
+Solution mixtureColour on the pH paper/adding universal indicatorpH valueNature of solution
+wood ashBlue8Weakly alkalinesoap solutionBlue8Weakly alkalineammonia solutiongreen8Weakly alkalinesodium hydroxidePurple14Strongly alkalinehydrochloric acidred1Strongly acidicdistilled watergreen7Neutralsulphuric(VI)acidred1Strongly acidicsour milkblue9Weakly alkalinesodium chloridegreen7NeutraltoothpasteBlue10Weakly alkalinecalcium hydroxideBlue11Weakly alkalineLemon juiceOrange5Weakly acidic
+Note
+1. All the mineral acids Hydrochloric, sulphuric(VI)and nitric(V)acids are strong acids
+2. Two alkalis/soluble bases ,sodium hydroxide and potassium hydroxide are strong bases/alkali. Ammonia solution is a weak base/alkali.All other bases are weakly alkaline.
+3. Pure/deionized water is a neutral soulution.
+4. Common salt/sodium chloride is a neutral salt.
+5. When an acid and an alkali/base are mixed, the final product have pH 7 and is neutral.
+
+Properties of acids (a)Physical properties of acids
+1. Acids have a characteristic sour taste
+2. Most acids are colourless liquids
+3. Mineral acids are odourless. Organic acids have characteristic smell
+4. All acids have pH less than 7
+5. All acids turn blue litmus paper red,methyl orange red and phenolphthalein colourless.
+6. All acids dissolve in water to form an acidic solution.Most do not dissolve in organic solvents like propanone,kerosene,tetrachloromethane,petrol.
+
+(a) mical properties of acids.
+
+1. ction with metals
+
+All acids react with a reactive metals to form a salt and produce /evolve hydrogen gas.
+     Metal	+	Acid	->	Salt	+	Hydrogen gas Experiment : reaction of metals with mineral acids.
+(a)Place 5cm3 of dilute hydrochloric acid in a small test tube. Add 1cm length of polished magnesium ribbon. Stopper the test tube using a thump. Light a wooden splint. Place the burning splint on top of the stoppered test tube. Release the thump stopper. Record the observations made.
+(b)Repeat the procedure in (a)above using Zinc granules, iron filings, copper turnings, aluminium foil in place of Magnesium ribbon
+
+(c)Repeat the procedure in (a) then (b) using dilute sulphuric(VI) acid in place of dilute hydrochloric acid.
+
+Sample observations
+     (i)effervescence/bubbles produced/fizzing in all cases except when using copper
+(ii)colourless gas produced in all cases except when using copper (iii)gas produced extinguishes a burning wooden splint with an
+explosion/pop sound.
+
+Explanation
+Some metals react with dilute acids, while others do not. Metals which react with acids produces bubbles of hydrogen gas. Hydrogen gas is a colourless gas that extinguishes a burning splint with a pop sound. This shows acids contain hydrogen gas.
+This hydrogen is displaced/removed from the acids by some metals like Magnesium, Zinc, aluminium,iron and sodium.
+Some other metals like copper, silver, gold, platinum and mercury are not reactive enough to displace/remove the hydrogen from dilute acids.
+
+Chemical equations
+1. Magnesium + Hydrochloric acid -> Magnesium chloride + Hydrogen
+Mg(s)	+	2HCl (aq)	->	MgCl2 (aq)	+	H2(g)
+2. Zinc + Hydrochloric acid	->	Zinc chloride + Hydrogen
+Zn(s)	+	2HCl (aq)	->	ZnCl2 (aq)	+	H2(g)
+
+3. Iron + Hydrochloric acid	-> Iron(II) chloride + Hydrogen
+Fe(s)	+	2HCl (aq)	->	FeCl2 (aq)	+	H2(g)
+4. Aluminium + Hydrochloric acid -> Aluminium chloride + Hydrogen
+2Al(s)	+	3HCl (aq)	->	AlCl3 (aq)	+	3H2(g)
+5. Magnesium + Sulphuric(VI)acid -> Magnesium sulphate(VI) + Hydrogen
+Mg(s)	+	H2SO4 (aq)	->	MgSO4 (aq)	+	H2(g)
+6. Zinc + Sulphuric(VI)acid -> Zinc sulphate(VI) + Hydrogen
+Zn(s)	+	H2SO4 (aq)	->	ZnSO4 (aq)	+	H2(g)
+7. Iron + Sulphuric(VI)acid -> Iron(II) sulphate(VI) + Hydrogen
+Fe(s)	+	H2SO4 (aq)	->	FeSO4 (aq)	+	H2(g)
+8. Aluminium + Sulphuric(VI)acid -> Aluminium sulphate(VI) + Hydrogen
+2Al(s)	+	3H2SO4 (aq)	->	Al2(SO4)3 (aq)	+	3H2(g)
+2. action of metal carbonates and hydrogen carbonates with mineral acids.
+
+All acids react with carbonates and hydrogen carbonates to form a salt, water and produce /evolve carbon (IV)oxide gas.
+
+     Metal carbonate	+ Acid	->	Salt	+		Water	+ Carbon(IV)oxide gas Metal hydrogen carbonate + Acid		->		Salt		+		Water + Carbon(IV)oxide gas
+
+Experiment : reaction of metal carbonates and hydrogen carbonates with mineral acids.
+
+(a) ce 5cm3 of dilute hydrochloric acid in a small test tube. Add half spatula full of sodium carbonate. Stopper the test tube using a cork with delivery tube directed into lime water. Record the observations made. Test the gas also with burning splint.
+(b) eat the procedure in (a) above using Zinc carbonate, Calcium carbonate, copper carbonate, sodium hydrogen carbonate, Potassium hydrogen carbonate in place of Sodium carbonate.
+(c) eat the procedure in (a) then (b) using dilute sulphuric (VI) acid in place of dilute hydrochloric acid.
+
+
+
+
+Sodium carbonate
+Sample observations
+(i)effervescence/bubbles produced/fizzing in all cases. (ii)colourless gas produced in all cases.
+(iii) gas produced forms a white precipitate with lime water.
+
+Explanation
+All metal carbonate/hydrogen carbonate reacts with dilute acids to produce bubbles of carbon (IV)oxide gas.Carbon(IV)oxide gas is a colourless gas that extinguishes a burning splint. When carbon (IV) oxide gas is bubbled in lime water, a white precipitate is formed.
+
+Chemical equations
+1. Sodium carbonate +Hydrochloric acid ->
+Sodium chloride + Carbon(IV)Oxide+ Water
+Na2CO3(s)	+	2HCl (aq)	->	2NaCl (aq)	+	H2O(g) + CO2 (g)
+
+2. Calcium carbonate +Hydrochloric acid ->
+Calcium chloride + Carbon(IV)Oxide+ Water
+CaCO3(s)	+	2HCl (aq)	->	CaCl2 (aq)	+	H2O(g) + CO2 (g)
+3. Magnesium carbonate +Hydrochloric acid ->
+Magnesium chloride + Carbon(IV)Oxide+ Water
+MgCO3(s)	+	2HCl (aq)	->	MgCl2 (aq)	+	H2O(g) + CO2 (g)
+4. Copper carbonate +Hydrochloric acid ->
+Copper(II) chloride + Carbon(IV)Oxide+ Water
+CuCO3(s)	+	2HCl (aq)	->	CuCl2 (aq)	+	H2O(g) + CO2 (g)
+5. Copper carbonate +Sulphuric(VI) acid ->
+Copper(II)sulphate(VI) + Carbon(IV)Oxide+ Water
+CuCO3(s)	+	H2SO4 (aq)	->	CuSO4 (aq)	+	H2O(g) + CO2 (g)
+6. Zinc carbonate +Sulphuric(VI) acid ->
+Zinc sulphate(VI) + Carbon(IV)Oxide+ Water
+ZnCO3(s)	+	H2SO4 (aq)	->	ZnSO4 (aq)	+	H2O(g) + CO2 (g)
+7. Sodium hydrogen carbonate +Sulphuric(VI) acid ->
+
+Sodium sulphate(VI) + Carbon(IV)Oxide+ Water
+NaHCO3(s)	+	H2SO4 (aq)	->	Na2SO4 (aq)	+	H2O(g) + CO2 (g)
+
+8. Potassium hydrogen carbonate +Sulphuric(VI) acid ->
+Potassium sulphate(VI) + Carbon(IV)Oxide+ Water
+KHCO3(s)	+	H2SO4 (aq)	->	K2SO4 (aq)	+	H2O(g) + CO2 (g)
+9. Potassium hydrogen carbonate +Hydrochloric acid ->
+Potassium chloride + Carbon(IV)Oxide+ Water
+KHCO3(s)	+	HCl (aq)	->	KCl (aq)	+	H2O(g) + CO2 (g)
+10. Sodium hydrogen carbonate +Hydrochloric acid ->
+Sodium chloride + Carbon(IV)Oxide+ Water
+NaHCO3(s)	+	HCl (aq)	->	NaCl (aq)	+	H2O(g) + CO2 (g)
+
+3. alization by bases/alkalis
+
+All acids react with bases to form a salt and water only. The reaction of an acid with metal oxides/hydroxides(bases) to salt and water only is called neutralization reaction.
+Since no effervescence/bubbling/fizzing take place during neutralization:
+(i) the reaction with alkalis require a suitable indicator. The colour of the indicator changes when all the acid has reacted with the soluble solution of the alkali (metal oxides/ hydroxides).
+(ii) excess of the base is added to ensure all the acid reacts. The excess acid is then filtered off.
+
+Experiment 1 : reaction of alkali with mineral acids.
+
+(i) Place about 5cm3 of dilute hydrochloric acid in a boiling tube. Add one drop of phenolphthalein indicator. Using a dropper/teat pipette, add dilute sodium hydroxide dropwise until there is a colour change.
+(ii) Repeat the procedure with dilute sulphuric (VI)acid instead of hydrochloric acid.
+(iii) Repeat the procedure with potassium hydroxide instead of sodium hydroxide.
+Sample observation:
+Colour of phenolphthalein change from colourless to pink in all cases. Explanation
+
+Bases/alkalis neutralize acids. Acids and bases/alkalis are colourless. A suitable indicator like phenolphthalein change colour to pink,when all the acid has been neutralized by the bases/alkalis. Phenolphthalein change colour from pink,to colourless when all the bases/alkalis has been neutralized by the acid.
+Chemical equation
+Sodium oxide	+	Hydrochloric acid	 ->	Sodium chloride	+	Water Na2O(s)	+		HCl	->		NaCl(aq)	+		H2O(l)
+Potassium oxide	+	Hydrochloric acid	 ->	Potassium chloride	+	Water K2O(s)		+		HCl	->		KCl(aq)	+		H2O(l)
+
+
+Sodium hydroxide	+Hydrochloric acid->Sodium chloride+WaterNaOH(s)	+HCl->NaCl(aq)+H2O(l)Ammonia solution+Hydrochloric acid-> Ammonium chloride	+WaterNH4OH(s)+HCl->	NH4Cl(aq)	+H2O(l)
+Potassium hydroxide
++	Hydrochloric acid
+->
+Potassium chloride
++
+WaterKOH(s)+	HCl->KCl(aq)+H2O(l)Sodium hydroxide+sulphuric(VI)acid->Sodium sulphate(VI)+Water2NaOH(s)+H2SO4->Na2SO4 (aq)+2H2O(l)
+Potassium hydroxide	+ sulphuric(VI)acid ->	Potassium sulphate(VI)	 +	Water 2KOH(s)	 +	H2SO4	->		K2SO4 (aq)	+ 2H2O(l)
+Ammonia solution+sulphuric(VI)acid-> Ammonium sulphate(VI)+ Water2NH4OH(s)+H2SO4->	( NH4)2SO4 (aq)+ 2H2O(l)
+Magnesium hydroxide + sulphuric(VI)acid -> Magnesium sulphate(VI) + Water Mg(OH)2(s)	+	H2SO4	->	MgSO4 (aq)	+	2H2O(l)
+Magnesium hydroxide + Hydrochoric acid -> Magnesium chloride + Water Mg(OH)2(s)	+	HCl(aq)	->	MgCl2 (aq)	+	2H2O(l)
+
+4. R AND COMBUSTION
+
+1. The atmosphere is made up of air. Air is a mixture of colourless , odourless gases which is felt as wind(air in motion).All living things breath in air for respiration . Plants use air for respiration and photosynthesis.
+
+2. The main gases present in the atmosphere/air:
+
+GasApproximate % composition by volumeNitrogen78.0Oxygen21.0Carbon(IV)oxide0.03Noble gases1.0Water vapourVary from region
+3. The following experiments below shows the presence and composition of the gases in air/atmosphere
+
+(a) To find the composition of air supporting combustion using a candle stick
+
+Procedure
+Measure the length of and empty gas jar M1. Place a candle stick on a petri dish. Float it on water in basin/trough. Cover it with the gas jar. Mark the level of the water in the gas jar M2. Remove the gas jar. Light the candle sick. Carefully cover it with the gas jar. Observe for two minutes. Mark the new level of the water M3. Set up of apparatus
+
+
+
+
+	
+
+
+Sample observations
+
+Candle continues to burn then extinguished/goes off Level of water in the gas jar rises after igniting the candle Length of empty gas jar = M1= 14cm
+Length of gas jar without water before igniting candle = M2= 10 cm
+Length of gas jar with water before igniting candle = M1 - M2= 14- 10 = 4 cm Length of gas jar with water after igniting candle = M3 = 8 cm
+Length of gas jar without water after igniting candle = M1 - M3 = 10 -8 = 2 cm
+
+Explanation
+Candle burns in air. In a closed system(vessel),the candle continues to burn using the part of air that support burning/combustion. This is called the active part of air.The candle goes off/extinguished when all the active part of air is used up.The level of the water rises to occupy the space /volume occupied by the used active part of air.
+The experiment is better when very dilute sodium/potassium hydroxide is used instead of water . Dilute Potassium/ sodium hydroxide absorb Carbon(IV)oxide gas that come out from burning/combustion of candle stick.
+From the experiment above the % composition of the:
+(i) active part of air can be calculated:
+M2 - M3 x 100%	=>	10- 8 x 100% = 20%
+M2	10cm
+(ii) inactive part of air can be calculated:
+100% -20% = 80%	//	M3	=>	 8	x 100% = 80%
+
+M2	10cm
+
+(b) To find the composition of active part of air using heated copper turnings.
+
+Procedure
+Clamp a completely packed/filled open ended glass tube with copper turnings. Seal the ends with glass/cotton wool.
+Label two graduated syringes as "A" and "B" Push out air from syringe "A". Pull in air into syringe "B".
+Attach both syringe "A" and "B" on opposite ends of the glass tube. Determine and record the volume of air in syringe "B" V1.
+Heat the glass tube strongly for about three minutes.
+Push all the air slowly from syringe "B" to syringe "A" as heating continues. Push all the air slowly from syringe "A" back to syringe "B" and repeatedly back and forth.
+After about ten minutes, determine the new volume of air in syringe "B" V2 Set up of apparatus
+
+
+Sample observationsColour change from brown to black Volume of air in syringe "B" before heating
+V1
+=
+158.0cm3Volume of air in syringe "B" after heatingV2=127.2cm3Volume of air in syringe "B" used by copper	V1 - V2 = 30.8cm3
+
+Sample questions
+1. What is the purpose of
+(i) glass/cotton wool
+
+To prevent/stop copper turnings from being blown into the syringe/out of the glass tube
+
+(ii) passing air through the glass tube repeatedly
+To ensure all the active part of air is used up
+
+(iii) passing air through the glass tube slowly
+     To allow enough time of contact beteewn the active part of and the heated copper turnings.
+
+2. State and explain the observations made in the glass tube.
+Colour change from brown to black
+Brown copper metal reacts with the active part of air/oxygen to form black copper(II)oxide.
+Chemical equation
+Copper+Oxygen->Copper(II)oxide2Cu(s)+O2(g)->2CuO(s)
+The reaction reduces the amount/volume of oxygen in syringe "B" leaving the inactive part of air. Copper only react with oxygen when heated.
+
+3. Calculate the % of (i)active part of air
+% active part of air =	V1 - V2 x 100%	=>	30.8cm3 x 100% = 19.493%
+V1	158.0cm3
+(ii) inactive part of air
+Method 1
+% inactive part of air =	V2 x 100%	=>127.2cm3 x 100% = 80.506%
+V1	158.0cm3
+
+Method 2
+% inactive part of air = 100% -% active part of air
+=> 100 % - 19.493 % = 80.507%
+
+4. The % of active part of air is theoretically higher than the above while % of inactive part of air is theoretically lower than the above. Explain.
+Not all the active part of air reacted with copper
+
+5. State the main gases that constitute: (a)active part of air.
+
+Oxygen
+(b) inactive part of air
+Nitrogen, carbon(IV)oxide and noble gases
+
+6. If the copper turnings are replaced with magnesium shavings the % of active part of air obtained is extraordinary very high. Explain.
+Magnesium is more reactive than copper. The reaction is highly exothermic. It generates enough heat for magnesium to react with both oxygen and nitrogen in the air.
+A white solid/ash mixture of Magnesium oxide and Magnesium nitride is formed. This considerably reduces the volume of air left after the experiment.
+Chemical equation
+Magnesium
+2Mg(s)+
++Oxygen
+O2(g)->
+->magnesium (II)oxide
+2MgO(s)Magnesium+Nitrogen->magnesium (II)nitride3Mg(s)+N2(g)->Mg3N2 (s)
+(c) To find the composition of active part of air using alkaline pyrogallol.
+
+Procedure
+Measure about 2cm3 of dilute sodium hydroxide into a graduated gas jar. Record the volume of the graduated cylinder V1.
+Place about two spatula end full of pyrogallol/1,2,3-trihydroxobenzene into the gas jar. Immediately place a cover slip firmly on the mouth of the gas jar. Swirl thoroughly for about two minutes.
+Invert the gas jar in a trough/basin containing water. Measure the volume of air in the gas jar V2
+
+Sample observations
+Colour of pyrogallol/1,2,3-trihydroxobenzene change to brown. Level of water in gas jar rises when inverted in basin/trough.
+Volume of gas jar /air in gas jar V1= 800cm3
+Volume of gas jar /air in gas jar after shaking with alkaline pyrogallol/1,2,3- trihydroxobenzene V2= 640 cm3
+
+Sample questions
+1. Which gas is absorbed by alkaline pyrogallol/1,2,3-trihydroxobenzene
+Oxygen
+
+2. Calculate the
+(i) % of active part of air
+V1-V2 x 100%	=> (800cm3 - 640 cm3) x 100% 	= 20%
+V1	800cm3
+
+(ii) % of inactive part of air
+V2 x 100%	=>	 640 cm3 x 100% 	= 80%
+V1	800cm3
+
+(d) To establish the presence of carbon(IV)oxide in air using lime water
+
+Pass tap water slowly into an empty flask as in the set up below
+
+
+
+Sample observation questions
+1. What is the purpose of paper cover?
+To ensure no air enters into the lime water.
+
+2. What happens when water enters the flask?
+It forces the air from the flask into the lime water.
+
+3. What is observed when the air is bubbled in the lime water
+A white precipitate is formed. The white precipitate dissolves on prolonged bubbling of air.
+
+4. (a) Identify the compound that form: (i)lime water
+
+Calcium hydroxide / Ca(OH)2
+(ii) white precipitate
+Calcium carbonate/ CaCO3
+(iii) when the white precipitate dissolves
+Calcium hydrogen carbonate/ CaHCO3
+
+(b) Write the chemical equation for the reaction that tale place when:
+(i) white precipitate is formed
+Calcium hydroxide	 +	carbon(IV)oxide	-> Calcium carbonate	+	water Ca(OH)2(aq)	+		CO2 (g)		->	CaCO3(s)		+ H2O(l)
+
+(ii) white precipitate dissolves
+Calcium carbonate +		water+	carbon(IV)oxide -> Calcium hydrogen carbonate CaCO3(s)	+ H2O(l) +	CO2 (g) -> CaHCO3(aq)
+
+5. State the chemical test for the presence of carbon (IV)oxide gas based on 4(a) and (b)above:
+Carbon(IV)oxide forms a white precipitate with lime water that dissolves in excess of the gas.
+
+6. State the composition of carbon(IV)oxide gas by volume in the air.
+About 0.03% by volume
+
+B.OXYGEN.
+a) Occurrence.
+1. Fifty 50% of the earths crust consist of Oxygen combined with other elements e.g.oxides of metals
+2. About 70% of the earth is water made up of Hydrogen and Oxygen.
+3. About 20% by volume of the atmospheric gases is Oxygen that form the active part of air.
+
+b) School laboratory preparation.
+Oxygen was first prepared in 1772 by Karl Scheele and later in 1774 by Joseph Priestly.It was Antony Lavoisier who gave it the name "Oxygen"
+Procedure
+
+Method 1: Using Hydrogen peroxide
+Half fill a trough/basin with tap water. Place a bee hive shelf/stand into the water. Completely fill the a gas jar with water and invert in onto the bee hive shelf/stand. Clamp a round bottomed flask and set up the apparatus as below.
+
+
+
+Collect several gas jars of Oxygen covering each sample.
+
+Sample observation questions
+
+1. What is observed when the hydrogen peroxide is added into the flask
+Rapid effervescence/bubbling/fizzing
+
+2. Describe the colour and smell of the gas
+Colourless and odourless.
+
+3.(a)Name the method of gas collection used.
+-Over water
+-Upward delivery
+-Down ward displacement of water
+
+(b) What property of Oxygen make it to be collected using the method above
+-Slightly soluble in water
+
+4. What is the purpose of manganese(IV)oxide?
+Manganese(IV)oxide is catalyst.
+A catalyst is a substance that speeds up the rate of a chemical reaction but remain chemically unchanged at the end of the reaction.
+Hydrogen peroxide decomposes slowly to form water and Oxygen gas.
+A little Manganese(IV)oxide speeds up the rate of decomposition by reducing the time taken for a given volume of Oxygen to be produced.
+
+5. Write the equation for the reaction.
+Hydrogen peroxide	->	Water	+	Oxygen
+
+2H2O2 (aq)	-> 2H2O (l)	+	O2 (g)
+
+6. Lower a glowing splint slowly into a gas jar containing Oxygen gas. State what is observed.
+The glowing splint relights/rekindles
+     Oxygen relights/rekindles a glowing splint. This is the confirmatory test for the presence of Oxygen gas
+
+Method 1: Using Sodium peroxide
+Half fill a trough/basin with tap water. Add four drops of phenolphthalein indicator.
+Place a bee hive shelf/stand into the water.
+Completely fill a gas jar with water and invert in onto the bee hive shelf/stand. Clamp a round bottomed flask and set up the apparatus as below.
+
+
+Collect several gas jars of Oxygen covering each sample. Sample observation questions
+1. What is observed when water is added
+(i) into the flask containing sodium peroxide
+Rapid effervescence/bubbling/fizzing
+
+(ii) phenolphththalein
+
+Remains colourless /Phenolphthalein indicator is colourless in neutral solution
+
+2. Describe the colour and smell of the gas
+Colourless and odourless.
+
+3.(a)Name the method of gas collection used.
+-Over water.Oxygen is slightly soluble in water.
+
+4. Test the gas by lowering a glowing splint slowly into a gas jar containingthe prepared sample.
+The glowing splint relights/rekindles. This confirms the presence of Oxygen
+gas
+5. Write the equation for the reaction.
+Sodium peroxide + Water	-> Sodium hydroxide	+		Oxygen 2Na2O2 (aq)	+ 2H2O (l)	->	4NaOH(aq)		+		O2 (g)
+
+
+
+
+
+1. Test the gas by lowering a glowing splint slowly into a gas jar containing the prepared sample.
+The glowing splint relights/rekindles.
+This confirms the presence of Oxygen gas
+
+2. Write the equation for the reaction.
+
+Potassium Chlorate(V)		-> Potassium Chloride	+ Oxygen 2KClO3 (aq)	->	2KCl(aq)	+		3O2 (g)
+
+3. What is the purpose of manganese(IV)oxide?
+Manganese(IV)oxide is catalyst.
+A catalyst is a substance that speeds up the rate of a chemical reaction but remain chemically unchanged at the end of the reaction.
+Potassium Chlorate(V) decomposes slowly to form potassium chloride and Oxygen gas.
+A little Manganese(IV)oxide speeds up the rate of decomposition by reducing the time taken for a given volume of Oxygen to be produced.
+
+(c) Uses of Oxygen
+1. Oxygen is put in cylinders for use where natural supply is not sufficiently enough. This is mainly in:
+     (i) Mountain climbing/Mountaineering-at high altitudes, the concentration of air/oxygen is low. Mountain climbers must therefore carry their own supply of oxygen for breathing.
+(ii) Deep sea diving-Deep sea divers carry their own supply of Oxygen.
+     (iii) Saving life in hospitals for patients with breathing problems and during anaethesia.
+2. A mixture of oxygen and some other gases produces a flame that is very hot.
+(i) Oxy-acetyline/ethyne flame is produced when Ethyne/acetylene gas is burnt in pure oxygen. The flame has a temperature of about 3000oC.It is used for welding /cutting metals.
+(ii) Oxy-hydrogen flame is produced when Hydrogen is burn in pure oxygen. The flame has a temperature of about 2000oC.It is used also for welding /cutting metals.
+3. Oxy-hydrogen mixture is used as rocket fuel
+4. A mixture of charcoal , petrol and liquid Oxygen is an explosive.
+
+(d) Chemical properties of Oxygen /combustion.
+
+Oxygen is a very reactive non metal. Many elements react with oxygen through burning to form a group of compounds called Oxides.
+Burning/combustion is the reaction of Oxygen with an element/substances. Reaction in which a substance is added oxygen is called Oxidation reaction. Burning/combustion is an example of an oxidation reaction.
+
+Most non metals burns in Oxygen/air to form an Oxide which in solution / dissolved in water is acidic in nature. They turn blue litmus red.e.g.
+Carbon(IV)oxide/CO2 , Nitrogen(IV)oxide/ NO2 , Sulphur(IV)oxide/ SO2
+
+Some non metals burns in Oxygen/air to form an Oxide which in solution / dissolved in water is neutral in nature. They don't turn blue or red litmus. e.g. Carbon(II)oxide/CO, Water/ H2O.
+All metals burns in Oxygen/air to form an Oxide which in solution/dissolved in water is basic/alkaline in nature. They turn red litmus blue.e.g.
+Magnesium oxide/MgO, Sodium Oxide/ Na2O ,Copper(II)oxide/CuO Elements/substances burn faster in pure Oxygen than in air.
+Air contains the inactive part of air that slows the rate of burning of substances/elements.
+
+(i)Reaction of metals with Oxygen/air
+
+The following experiments show the reaction of metals with Oxygen and air.
+
+I. Burning Magnesium
+Procedure
+ (a) Cut a 2cm length piece of magnesium ribbon. Using a pair of tongs introduce it to a Bunsen flame. Remove it when it catches fire. Observe.
+Place the products in a beaker containing about 5cm3 of water. Test the solution/mixture using litmus papers
+ (b) Cut another 2cm length piece of magnesium ribbon. Using a pair of tongs introduce it to a Bunsen flame. When it catches fire, lower it slowly into a gas jar containing Oxygen.
+Place about 5cm3 of water into the gas jar. Test the solution/mixture using litmus papers. Test the solution/mixture using litmus papers
+
+Observations (a)In air
+Magnesium burns with a bright blindening flame in air forming white solid/ash
+/powder. Effervescence/bubbles/ fizzing Pungent smell of urine. Blue litmus paper remains blue. Red litmus paper turns blue
+(b) In pure Oxygen
+Magnesium burns faster with a very bright blindening flame pure oxygen forming white solid/ash /powder. No effervescence/bubbles/ fizzing. No pungent smell of urine. Blue litmus paper remains blue. Red litmus paper turns blue
+
+Explanation
+Magnesium burns in air producing enough heat energy to react with both Oxygen and Nitrogen to form Magnesium Oxide and Magnesium nitride. Both Magnesium Oxide and Magnesium nitride are white solid/ash /powder.
+
+Chemical equations
+Magnesium+Oxygen->Magnesium Oxide2Mg(s)+O2(g)->2MgO(s)Magnesium+Nitrogen->Magnesium Nitride3Mg(s)+N2(g)->Mg3N2 (s)
+Magnesium Oxide dissolves in water to form a basic/alkaline solution of Magnesium hydroxide
+Chemical equations
+Magnesium Oxide+Water->Magnesium hydroxide2Mg(s)+O2(l)->2MgO(s)
+Magnesium Nitride dissolves in water to form a basic/alkaline solution of Magnesium hydroxide and producing Ammonia gas. Ammonia is also an alkaline/basic gas that has a pungent smell of urine.
+Chemical equations
+Magnesium Nitride + Water -> Magnesium hydroxide + Ammonia gas Mg3N2 (s)    +  6H2O (l)   ->   3Mg (OH)2 (aq)  +  2NH3(g)
+
+II. Burning Sodium
+Procedure
+ (a) Carefully cut a very small piece of sodium . Using a deflagrating spoon introduce it to a Bunsen flame. Remove it when it catches fire. Observe.
+Place the products in a beaker containing about 20cm3 of water. Test the solution/mixture using litmus papers
+ (b) Carefully cut another very small piece of sodium. Using a deflagrating spoon introduce it to a Bunsen flame. When it catches fire, lower it slowly into a gas jar containing Oxygen.
+Place about 20 cm3 of water into the gas jar. Test the solution/mixture using litmus papers. Test the solution/mixture using litmus papers
+
+Observations (a)In air
+
+Sodium burns with a yellow flame in air forming a black solid. Blue litmus paper remains blue. Red litmus paper turns blue
+(b) In pure Oxygen
+Sodium burns faster with a golden yellow flame in pure oxygen forming a yellow solid. Effervescence/bubbles/ fizzing. Gas produced relights glowing splint.Blue litmus paper remains blue. Red litmus paper turns blue.
+
+Explanation
+(a)Sodium burns in air forming black Sodium Oxide
+
+Chemical equations
+Sodium+Oxygen/air->Sodium Oxide4Na(s)+O2(g)->2Na2O(s)Sodium Oxide dissolves in water to form a basic/alkaline solution of Sodium hydroxide
+Chemical equations
+Sodium Oxide+Water->Sodium hydroxideNa2O(s)+H2O (l)->2NaOH(aq)
+(b)Sodium burns in pure oxygen forming yellow Sodium peroxide
+
+Chemical equations
+Sodium		+	Oxygen	 ->	Sodium peroxide 2Na(s)	+		O2(g)	->		Na2O2 (s)
+Sodium peroxide dissolves in water to form a basic/alkaline solution of Sodium hydroxide. Oxygen is produced.
+Chemical equations
+Sodium Oxide	+Water->Sodium hydroxide +	Oxygen2Na2O2 (s)	+2H2O (l)->4NaOH(aq)	+	O2 (l)
+III. Burning Calcium
+
+Procedure
+ (a) Using a pair of tongs hold the piece of calcium on a Bunsen flame. Observe.
+Place the products in a beaker containing about 2cm3 of water. Test the solution/mixture using litmus papers
+ (b) Using a pair of tongs hold another piece of calcium on a Bunsen flame. Quickly lower it into a gas jar containing Oxygen gas .Observe.
+
+Place about 2cm3 of water. Swirl.
+Test the solution/mixture using litmus papers Observations
+(a)In air
+Calcium burns with difficulty producing a faint red flame in air forming a white
+solid. Blue litmus paper remains blue. Red litmus paper turns blue
+(b) In pure Oxygen
+Calcium burns with difficulty producing a less faint red flame Oxygen forming a white solid. Blue litmus paper remains blue. Red litmus paper turns blue Explanation
+(a)Calcium burns in air forming white calcium Oxide. Calcium Oxide coat/cover the calcium preventing further burning.
+Chemical equations
+Calcium	+Oxygen/air->calcium Oxide2Ca(s)	+O2(g)->2CaO(s)Small amount of Calcium Oxide dissolves in water to form a basic/alkaline solution of Calcium hydroxide. The common name of Calcium hydroxide is lime water.
+Chemical equations
+Calcium Oxide	+	Water->Calcium hydroxideCaO(s)	+	H2O (l)->Ca(OH) 2 (aq)
+IV. Burning Iron
+
+Procedure
+ (a) Using a pair of tongs hold the piece of Iron wool/steel wire on a Bunsen flame. Observe.
+Place the products in a beaker containing about 2cm3 of water. Test the solution/mixture using litmus papers
+ (b) Using a pair of tongs hold another piece of Iron wool/steel wire on a Bunsen flame.
+Quickly lower it into a gas jar containing Oxygen gas .Observe.
+Place about 2cm3 of water. Swirl. Test the solution/mixture using litmus papers Observations
+(a)In air
+Iron wool/steel wire burns producing a Orange flame in air forming a brown
+solid. Blue litmus paper remains blue. Red litmus paper turns faint blue
+(b) In pure Oxygen
+
+Iron wool/steel wire burns producing a golden Orange flame in Oxygen forming a Brown solid. Blue litmus paper remains blue. Red litmus paper turns faint blue Explanation
+(a)Iron burns in air forming brown Iron(III) Oxide
+Chemical equations
+Iron+Oxygen/air->	Iron(III) Oxide4Fe(s)+3O2(g)->	2Fe2O3(s)Very small amount of Iron(III)Oxide dissolves in water to form a weakly basic/alkaline brown solution of Iron(III) hydroxide.
+Chemical equations
+Calcium Oxide+Water->Iron(III) hydroxideFe2O3(s)+3H2O (l)->2Fe(OH) 3 (s)
+
+
+V. Burning Copper
+
+Procedure
+ (a) Using a pair of tongs hold the piece of copper turnings/shavings on a Bunsen flame.
+Observe.
+Place the products in a beaker containing about 2cm3 of water. Test the solution/mixture using litmus papers
+ (b) Using a pair of tongs hold another piece of Copper turnings/shavings on a Bunsen flame. Quickly lower it into a gas jar containing Oxygen gas .Observe. Place about 2cm3 of water. Swirl. Test the solution/mixture using litmus papers Observations
+(a) In air
+Copper turnings/shavings burns with difficulty producing a green flame in air forming a black solid. Blue litmus paper remains blue. Red litmus paper turns faint blue
+(b) In pure Oxygen
+Copper turnings/shavings burns less difficulty producing a green flame in Oxygen forming a Brown solid. Blue litmus paper remains blue. Red litmus paper turns faint blue
+Explanation
+(a) Copper burns in air forming black Copper(II) Oxide
+Chemical equations
+Copper	+	Oxygen/air	->	Copper(II) Oxide
+
+2 Cu(s)	+	O2(g)	->	2CuO(s)
+Very small amount of Copper(II)Oxide dissolves in water to form a weakly basic/alkaline blue solution of Copper(II) hydroxide.
+Chemical equations
+Copper(II) Oxide+Water->Copper(II) hydroxideCuO(s)+H2O (l)->Cu(OH) 2 (s)
+(i)Reaction of non metals with Oxygen/air
+The following experiments show the reaction of non metals with Oxygen and air.
+I. Burning Carbon
+ Procedure
+ (a) Using a pair of tongs hold a dry piece of charcoal on a Bunsen flame. Observe.
+Place the products in a beaker containing about 2cm3 of water. Test the solution/mixture using litmus papers
+ (b) Using a pair of tongs hold another piece of dry charcoal on a Bunsen flame. Quickly lower it into a gas jar containing Oxygen gas .Observe.
+Place about 2cm3 of water. Swirl. Test the solution/mixture using litmus papers Observations
+
+-Carbon chars then burns with a blue flame
+-Colourless and odourless gas produced
+-Solution formed turn blue litmus paper faint red.
+Red litmus paper remains red.
+
+Explanation
+Carbon burns in air and faster in Oxygen with a blue non-sooty/non-smoky flame forming Carbon (IV) oxide gas.
+Carbon burns in limited supply of air with a blue non-sooty/non-smoky flame forming Carbon (IV) oxide gas.
+Carbon (IV) oxide gas dissolve in water to form weak acidic solution of Carbonic (IV)acid.
+Chemical Equation
+Carbon		+	Oxygen	->	Carbon(IV)oxide (excess air/oxygen)
+C(s)	+	O2(g)	->	CO2(g)	(in excess air)
+
+Carbon	+	Oxygen	->	Carbon(II)oxide (limited air/oxygen)
+2C(s)	+	O2(g)	->	2CO(g)	(in limited air)
+
+Carbon(IV)oxide	+	Water	->	Carbonic(IV)acid
+CO2(g)	+	H2O (l)	->	H2CO3 (aq) (very weak acid)
+
+II. Burning Sulphur
+ Procedure
+
+ (a) Using a deflagrating spoon place sulphur powder on a Bunsen flame. Observe.
+Place the products in a beaker containing about 3cm3 of water. Test the solution/mixture using litmus papers
+ (b) Using a deflagrating spoon place sulphur powder on a Bunsen flame. Slowly lower it into a gas jar containing Oxygen gas. Observe.
+Place about 5cm3 of water. Swirl. Test the solution/mixture using litmus papers. Observations
+-Sulphur burns with a blue flame
+-Gas produced that has pungent choking smell
+-Solution formed turn blue litmus paper faint red.
+Red litmus paper remains red.
+
+Explanation
+Sulphur burns in air and faster in Oxygen with a blue non-sooty/non-smoky flame forming Sulphur (IV) oxide gas.
+Sulphur (IV) oxide gas dissolve in water to form weak acidic solution of Sulphuric (IV)acid.
+Chemical Equation
+Sulphur	 +		Oxygen			->	Sulphur(IV)oxide S(s)	+	O2(g)	->	SO2(g)		(in excess air)
+Sulphur(IV)oxide +	Water		->	Sulphuric(IV)acid SO2(g)	+	H2O (l)	->	H2SO3 (aq) (very weak acid)
+
+III. Burning Phosphorus
+ Procedure
+
+ (a) Remove a small piece of phosphorus from water and using a deflagrating spoon (with a lid cover)place it on a Bunsen flame.
+Observe.
+Carefully put the burning phosphorus to cover gas jar containing about 3cm3 of water. Test the solution/mixture using litmus papers
+ (b) Remove another small piece of phosphorus from water and using a deflagrating spoon (with a lid cover) place it on a Bunsen flame.
+Slowly lower it into a gas jar containing Oxygen gas with about 5 cm3 of water. Observe.
+Swirl. Test the solution/mixture using litmus papers. Observations
+-Phosphorus catches fire before heating on Bunsen flame
+-Dense white fumes of a gas produced that has pungent choking poisonous
+smell
+-Solution formed turn blue litmus paper faint red.
+Red litmus paper remains red.
+Explanation
+Phosphorus is stored in water.On exposure to air it instantaneously fumes then catch fire to burn in air and faster in Oxygen with a yellow flame producing dense white acidic fumes of Phosphorus(V) oxide gas.
+Phosphoric(V) oxide gas dissolve in water to form weak acidic solution of Phosphoric (V)acid.
+Chemical Equation
+Phosphorus+Oxygen->Phosphorous(V)oxide4P(s)+5O2(g)->2P2O5(s)
+Phosphorous(V)oxide + P2O5(s)	+	3H2O (l)
+Water
+->
+->
+   Phosphoric(V)acid 2H3PO4 (aq) (very weak acid)
+(e) Reactivity series/competition for combined Oxygen.
+The reactivity series is a list of elements/metals according to their affinity for oxygen.
+Some metals have higher affinity for Oxygen than others.
+A metal/element with higher affinity for oxygen is placed higher/on top of the one less affinity.
+
+The complete reactivity series of metals/elements
+
+Most reactive
+
+
+
+Least reactive
+
+Metals compete for combined Oxygen. A metal/element with higher affinity for oxygen removes Oxygen from a metal lower in the reactivity series/less affinity for Oxygen.
+When a metal/element gains/acquire Oxygen, the process is called Oxidation. When a metal/element donate/lose Oxygen, the process is called Reduction.
+An element/metal/compound that undergo Oxidation is called Reducing agent. An element/metal/compound that undergo Reduction is called Oxidizing agent.
+A reaction in which both Oxidation and Reduction take place is called a Redox
+reaction.
+     Redox reaction between Magnesium and copper(II)Oxide Procedure
+Place about 2g of copper (II)oxide in a crucible with a lid. Place another 2g of Magnesium powder into the crucible. Mix thoroughly.
+Cover the crucible with lid. Heat strongly for five minutes. Allow the mixture to cool. Open the lid. Observe.
+Observation
+Colour change from black to brown. White solid power formed. Explanation
+Magnesium is higher in the reactivity series than Copper. It has therefore higher affinity for Oxygen than copper.
+
+When a mixture of copper(II)oxide and Magnesium is heated, Magnesium reduces copper(II)oxide to brown copper metal and itself oxidized to Magnesium oxide.
+Magnesium is the reducing agent because it undergoes oxidation process. Copper(II)oxide is the oxidizing agent because it undergo redox reduction process.
+The mixture should be cooled before opening the lid to prevent hot brown copper from being reoxidized back to black copper(II)oxide.
+The reaction of Magnesium and Copper(II)oxide is a reaction Chemical equation
+
+
+Reduction process
+
+Oxidation process
+1. Copper (II)oxide	+	Magnesium		->		Magnesium oxide	 +	 Copper (black)							(white ash/solid)		(brown) CuO(s)	+			Mg(s)	->			MgO(s)	+		Cu(s)
+(Oxidizing Agent)	(Reducing Agent)
+
+2. Zinc (II)oxide	+	Magnesium	->	Magnesium oxide	+	 Zinc (yellow when hot)				(white ash/solid)		(grey)
+     ZnO(s)		+	Mg(s)	->	MgO(s)	+	Zn(s) (Oxidizing agent)	(Reducing agent)
+
+
+3. Zinc (II)oxide	+	Carbon	->	Carbon(IV) oxide gas
+(yellow when hot)	(colourless gas)+Zinc
+(grey)ZnO(s)	+	C(s)	->	CO2(g)
+(Oxidizing agent)	(Reducing agent)+Zn(s)
+The reactivity series is used during extraction of metals from their ore.An ore is a rock containing mineral element which can be extracted for commercial purposes. Most metallic ores occur naturally as:
+(i)oxides combined with Oxygen (ii)sulphides combined with Sulphur
+(iii) carbonates combined with carbon and Oxygen.
+
+Metallic ores that naturally occur as metallic sulphides are first roasted in air to form the corresponding oxide. Sulphur(IV)oxide gas is produced. e.g.
+
+Copper(I) sulphide	+	Oxygen	->	Copper(I)Oxide + Sulphur(IV)oxide
+
+Cu2S(s)+O2(g)->2Cu(s)+SO2(g)
+Zinc(II) sulphide
++
+Oxygen
+->
+Zinc(II)Oxide
++
+Sulphur(IV)oxideZnS(s)+O2(g)->Zn(s)+SO2(g)
+Lead(II) sulphide
++
+Oxygen
+->
+Lead(II)Oxide
++
+Sulphur(IV)oxidePbS(s)+O2(g)->Pb(s)+SO2(g)
+Iron(II) sulphide
++
+Oxygen
+->
+Iron(II)Oxide
++
+Sulphur(IV)oxideFeS(s)+O2(g)->Fe(s)+SO2(g)
+Metallic ores that naturally occur as metallic carbonates are first heated in air. They decompose/split to form the corresponding oxide and produce Carbon (IV) oxide gas. e.g.
+Copper (II)carbonate		->	Copper(II)oxide	+	Carbon(IV)oxide CuCO3(s)	->		CuO(s)	 +		CO2(g)
+
+Zinc (II)carbonate	 ->	Zinc(II)oxide	 +	Carbon(IV)oxide ZnCO3(s)	->		ZnO(s)	+		CO2(g)
+
+Lead (II)carbonate		->	Lead(II)oxide		+	Carbon(IV)oxide PbCO3(s)	->		PbO(s)	+		CO2(g)
+
+Iron(II)carbonate	->	Iron(II)oxide	+	Carbon(IV)oxide FeCO3(s)		->		FeO(s)		+		CO2(g)
+Metallic ores
+
+1
+
+WATER AND HYDROGEN
+A.WATER
+Pure water is a colourless, odourless, tasteless ,neutral liquid. Pure water does not exist in nature but naturally in varying degree of purity. The main sources of water include rain, springs, borehole, lakes, seas and oceans:
+Water is generally used for the following purposes:
+(i)drinking by animals and plants. (ii)washing clothes. (iii)bleaching and dyeing.
+(iv) generating hydroelectric power.
+(v) cooling industrial processes.
+Water dissolves many substances/solutes. It is therefore called universal solvent.
+It contains about 35% dissolved Oxygen which support aquatic fauna and flora. Water naturally exist in three phases/states solid ice,liquid water and gaseous water vapour.
+The three states of water are naturally interconvertible.
+The natural interconvertion of the three phases/states of water forms the water cycle.
+
+
+
+
+Precipitation
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+Liquid water in land, lakes , seas and oceans use the solar/sun energy to evaporate/vapourize to form water vapour/gas. Solar/sun energy is also used during transpiration by plants and respiration by animals.
+During evaporation, the water vapour rises up the earths surface. Temperatures decrease with height above the earth surface increase. Water vapour therefore cools as it rises up. At a height where it is cold enough to below 373Kelvin/100oC Water vapour looses enough energy to form tiny droplets of liquid.
+The process by which a gas/water vapour changes to a liquid is called
+condensation/liquidification.
+On further cooling, the liquid looses more energy to form ice/solid. The process by which a liquid/water changes to a ice/solid is called freezing/solidification.
+Minute/tiny ice/solid particles float in the atmosphere and coalesce/join together to form clouds. When the clouds become too heavy they fall to the earths surface as rain/snow as the temperature increase with the fall.
+
+Interconversion of the three phases/states water
+
+
+Evaporation	Liquidification/
+/boiling/vapourization	condensation
+
+
+
+
+
+Melting	Freezing
+liquidification	Solidification
+
+
+Pure water has :
+(i) fixed/constant/sharp freezing point/melting point of 273K/0oC
+(ii) fixed/constant/sharp boiling point of 373K/100oC at sea level/1 atmosphere pressure
+(iii) fixed density of 1gcm-3
+
+3
+
+This is the criteria of identifying pure/purity of water.
+Whether a substance is water can be determined by using the following methods:
+a) To test for presence of water using anhydrous copper(II)suphate(VI)
+
+Procedure.
+Put about 2g of anhydrous copper(II)sulphate(VI)crystals into a clean test tube. Add three drops of tap water. Repeat the procedure using distilled water.
+
+Observation.
+Colour changes from white to blue
+Explanation.
+Anhydrous copper(II)sulphate(VI)is white. On adding water ,anhydrous copper(II)sulphate(VI) gains/reacts with water to form hydrated copper(II) sulphate(VI).
+Hydrated copper(II) sulphate(VI) is blue. Hydrated copper(II) sulphate(VI) contain water of crystallization.
+The change of white anhydrous copper(II)sulphate(VI) to blue hydrated copper(II) sulphate(VI) is a confirmatory test for the presence of water Chemical equation.
+Anhydrous	Hydrated
+copper(II)sulphate(VI)	+ Water	->	copper (II)sulphate(VI) (white)				(blue)
+CuSO4(s)	+ 5H2O(l)	->	CuSO4.5H2O(s)
+b) To test for presence of water using anhydrous cobalt(II)chloride Procedure.
+Put about 5cm3 of water into a clean test tube.
+Dip a dry anhydrous cobalt(II)chloride paper into the test tube. Repeat the procedure using distilled water.
+
+Observation.
+Colour changes from blue to pink Explanation.
+Anhydrous cobalt(II)chloride is blue. On adding water, anhydrous cobalt(II)chloride gains/reacts with water to form hydrated cobalt(II) chloride.
+Hydrated cobalt(II)chloride is pink.
+Hydrated cobalt (II)chloride contain water of crystallization.
+
+4
+
+The change of blue anhydrous cobalt(II)chloride to pink hydrated cobalt(II)chloride is a confirmatory test for the presence of water Chemical equation.
+Anhydrous	Hydrated
+cobalt(II)chloride	+ Water	->	cobalt (II)chloride (Blue)				(pink)
+CoCl2 (s)	+ 5H2O(l)	->	CoCl2.5H2O(s)
+
+Burning a candle in air
+Most organic substances/fuels burn in air to produce water. Carbon(IV)oxide gas is also produced if the air is sufficient/excess.
+Procedure
+Put about 2g of anhydrous copper(II)sulphate(VI)crystals in a boiling tube. Put about 5cm3 of lime water in a boiling tube.
+Light a small candle stick. Place it below an inverted thistle/filter funnel Collect the products of the burning candle by setting the apparatus as below Set up of apparatus
+
+
+Observation
+The sunction pump pulls the products of burning into the inverted funnel. Colour of anhydrous copper(II) sulphate(VI)changes from white to blue. A white precipitate is formed in the lime water/calcium hydroxide.
+
+5
+
+
+
+Explanation
+When a candle burn it forms a water and carbon(IV)oxide.
+Water turns anhydrous copper(II) sulphate(VI)changes from white to blue . Carbon(IV)oxide gas forms white precipitate when bubbled in lime water/calcium hydroxide.
+Since:
+(i) hydrogen in the wax burn to form water
+Hydrogen	+		Oxygen	->	Water (from candle)	(from the air)
+2H2(g)	+	O2(g)	->	2H2O (g/l)
+
+(ii) carbon in the wax burn to form carbon(IV)oxide
+Hydrogen
+(from candle)+Oxygen
+(from the->
+air)WaterC(s)+O2(g)->CO2 (g)
+The candle before burning therefore contained only Carbon and Hydrogen only.
+A compound made up of hydrogen and carbon is called Hydrocarbon. A candle is a hydrocarbon.
+Other hydrocarbons include: Petrol, diesel, Kerosene, and Laboratory gas. Hydrocarbons burn in air to form water and carbon(IV)oxide gas.
+Hydrocarbons	+	Oxygen	->	Water	+	Oxygen
+
+Water pollution
+Water pollution take place when undesirable substances are added into the water. Sources of water pollution include:
+(i) Industrial chemicals being disposed into water bodies like rivers, lakes and oceans.
+(ii) Dicharging untreated /raw sewage into water bodies.
+(iii) Leaching of insecticides/herbicides form agricultural activities into water bodies.
+(iv) Discharging non-biodegradable detergents after domestic and industrial use into water bodies.
+(v) Petroleum oil spilling by ships and oil refineries (vi)Toxic/poisonous gases from industries dissolving in rain .
+(vii) Acidic gases from industries dissolving in rain to form "acid rain" (viii)Discharging hot water into water bodies.This reduces the quantity of dissolved Oxygen in the water killing the aquatic fauna and flora.
+
+6
+
+
+
+Water pollution can be reduced by:
+(i) reducing the use of agricultural fertilizers and chemicals in agricultural activities.
+(ii) use of biological control method instead of insecticides and herbicides
+(iii) using biodegradable detergents
+
+Reaction of metals with water
+Some metals react with water while others do not. The reaction of metals with water depend on the reativity series. The higher the metal in the reactivity series the more reactive the metal with water .The following experiments shows the reaction of metals with cold water and water vapour/steam.
+
+(a) Reaction of sodium/ potassium with cold water:
+Procedure
+Put about 500cm3 of water in a beaker. Add three drops of phenolphthalein indicator/litmus solution/universal indicator solution/methyl orange indicator into the water.
+Cut a very small piece of sodium .Using a pair of forceps, put the metal into the water.
+
+Observation
+Sodium melts to a silvery ball that floats and darts on the surface decreasing in size.Effervescence/fizzing/ bubbles of colourless gas produced.
+Colour of phenolphthalein turns pink
+Colour of litmus solution turns blue
+Colour of methy orange solution turns Orange
+Colour of universal indicator solution turns blue
+
+Explanation
+Sodium is less dense than water. Sodium floats on water and vigorously react to form an alkaline solution of sodium hydroxide and producing hydrogen gas.
+Sodium is thus stored in paraffin to prevent contact with water. Chemical equation
+
+
+To collect hydrogen gas , Sodium metal is forced to sink to the bottom of the trough/beaker by wrapping it in wire gauze/mesh.
+
+7
+
+
+
+
+
+
+Potassium is more reactive than Sodium. On contact with water it explodes/burst into flames. An alkaline solution of potassium hydroxide is formed and hydrogen gas
+Chemical equation
+Potassium+Water->Potassium hydroxide	+	Hydrogen gas2K(s)+2H2O(l)->2KOH(aq)	+ H2(g)
+Caution: Reaction of Potassium with water is very risky to try in a school laboratory.
+
+
+(b) Reaction of Lithium/ Calcium with cold water:
+Procedure
+Put about 200cm3 of water in a beaker. Add three drops of phenolphthalein indicator/litmus solution/universal indicator solution/methyl orange indicator into the water.
+Cut a small piece of Lithium .Using a pair of forceps, put the metal into the water. Repeat with a piece Calcium metal
+
+Observation
+Lithium sinksto the bottom of the water.Rapid effervescence/fizzing/ bubbles of colourless gas produced.
+Colour of phenolphthalein turns pink
+
+8
+
+Colour of litmus solution turns blue
+Colour of methy orange solution turns Orange
+Colour of universal indicator solution turns blue
+
+Explanation
+Lithium and calcium are denser than water. Both sink in water and vigorously react to form an alkaline solution of Lithium hydroxide / calcium hydroxide and producing hydrogen gas. Lithium is more reactive than calcium. It is also stored in paraffin like Sodium to prevent contact with water.
+
+Chemical equation
+Lithium+Water->Lithium hydroxide+Hydrogen gas2Li(s)+2H2O(l)->2LiOH(aq)+H2(g)Calcium+Water->Calcium hydroxide+Hydrogen gasCa(s)+2H2O(l)->Ca(OH)2(aq)+H2(g)
+
+
+
+(c)  Reaction of Magnesium/Zinc/ Iron with Steam/water vapour:
+
+Procedure method1
+Place some wet sand or cotton/glass wool soaked in water at the bottom of an ignition/hard glass boiling tube.
+Polish magnesium ribbon using sand paper.
+Coil it at the centre of the ignition/hard glass boiling tube. Set up the apparatus as below.
+Heat the wet sand or cotton/glass wool soaked in water gently to: (i)drive away air in the ignition/hard glass boiling tube.
+
+9
+
+(ii)generate steam
+Heat the coiled ribbon strongly using another burner.Repeat the experiment using Zinc powder and fresh Iron filings.
+
+Set up of apparatus
+
+
+
+Observations
+(i)With Magnesium ribbon:
+The Magnesium glow with a bright flame (and continues to burn even if heating is stopped)
+White solid /ash formed
+White solid /ash formed dissolve in water to form a colourless solution
+Colourless gas produced/collected that extinguish burning splint with "pop sound" (ii)With Zinc powder:
+The Zinc powder turns red hot on strong heating Yellow solid formed that turn white on cooling
+White solid formed on cooling does not dissolve in water. (iii)With Iron fillings:
+The Iron fillings turns red hot on strong heating Dark blue solid formed
+Dark blue solid formed does not dissolve in water.
+
+10
+
+Procedure method 2
+Put some water in a round bottomed flask Polish magnesium ribbon using sand paper. Coil it at the centre of a hard glass tube
+Set up the apparatus as below.
+Heat water strongly to boil so as to:
+(i)drive away air in the glass tube. (ii)generate steam
+Heat the coiled ribbon strongly using another burner. Repeat the experiment using Zinc powder and fresh Iron filings.
+
+
+
+Observations
+(i)With Magnesium ribbon:
+The Magnesium glow with a bright flame (and continues to burn even if heating is stopped)
+White solid /ash formed
+White solid /ash formed dissolve in water to form a colourless solution
+Colourless gas produced/collected that extinguish burning splint with "pop sound" (ii)With Zinc powder:
+The Zinc powder turns red hot on strong heating Yellow solid formed that turn white on cooling
+White solid formed on cooling does not dissolve in water.
+
+11
+
+(iii) With Iron fillings:
+The Iron fillings turns red hot on strong heating Dark blue solid formed
+Dark blue solid formed does not dissolve in water.
+Explanations
+(a) Hot magnesium burn vigorously in steam. The reaction is highly exothermic generating enough heat/energy to proceed without further heating.
+White Magnesium oxide solid/ash is left as residue.
+Hydrogen gas is produced .It extinguishes a burning splint with a "pop sound". Chemical Equation
+Magnesium	 + Steam	->	Magnesium oxide	+	Hydrogen Mg(s)	+ H2O(g)	->		MgO(s)		+		H2(g)
+Magnesium oxide reacts /dissolves in water to form an alkaline solution of Magnesium oxide
+Chemical Equation
+Magnesium oxide+ Water->	Magnesium hydroxideMgO(s)+ H2O(l)->	Mg(OH) 2 (aq)(b) Hot Zinc react vigorously in steam forming yellow Zinc oxide solid/ash as residue which cools to white.
+Hydrogen gas is produced .It extinguishes a burning splint with a "pop sound". Chemical Equation
+Zinc+ Steam	->Zinc oxide+HydrogenZn(s)+ H2O(g) ->ZnO(s)+H2(g)Zinc oxide does not dissolve in water.
+(c) Hot Iron react with steam forming dark blue tri iron tetra oxide solid/ash as residue.
+Hydrogen gas is produced .It extinguishes a burning splint with a "pop sound". Chemical Equation
+Iron+ Steam	->Tri iron tetra oxide +	Hydrogen2Fe(s)+ 4H2O(g) ->Fe2O4(s)	+	4H2(g)Tri iron tetra oxide does not dissolve in water.
+(d) Aluminium reacts with steam forming an insoluble coat/cover of impervious
+layer of aluminium oxide on the surface preventing further reaction.
+
+12
+
+(e) Lead, Copper, Mercury, Silver, Gold and Platinum do not react with either water or steam.
+
+HYDROGEN
+Occurrence
+Hydrogen does not occur free in nature. It occurs as Water and in Petroleum.
+
+School laboratory Preparation
+Procedure
+Put Zinc granules in a round/flat/conical flask. Add dilute sulphuric(VI)
+/Hydrochloric acid.
+Add about 3cm3 of copper(II)sulphate(VI) solution. Collect the gas produced over water as in the set up below. Discard the first gas jar. Collect several gas jar.
+
+
+Observation/Explanation
+Zinc reacts with dilute sulphuric(VI)/hydrochloric acid to form a salt and produce hydrogen gas.
+When the acid comes into contact with the metal, there is rapid effervescence/ bubbles /fizzing are produced and a colourless gas is produced that is collected:
+(i) over water because it is insoluble in water
+(ii) through downward displacement of air/upward delivery because it is less dense than air.
+The first gas jar is impure. It contains air that was present in the apparatus. Copper(II)sulphate(VI)solution act as catalyst.
+
+13
+
+Chemical equation
+(a) Zinc	 +		Hydrochloric acid		->	Zinc chloride	+	Hydrogen Zn(s)	+	2HCl(aq)	->			ZnCl2(aq)		+		H2(g)
+Ionic equation
+Zn (s)	+	2H+ (aq)	->	Zn2+ (aq)	+	H2 (g)
+
+
+Zinc+Sulphuric(VI)acid->Zinc Sulphate(VI)+HydrogenZn(s)+H2SO4(aq)->ZnSO4(aq)+H2(g)Ionic equation
+Zn (s)	+	2H+ (aq)	->	Zn2+ (aq)	+	H2 (g)
+
+(b)  Chemical equation
+Magnesium	+	Hydrochloric acid -> Magnesium chloride	+	Hydrogen
+Mg(s)
+Ionic equation+2HCl(aq)->MgCl2(aq)+H2(g)Mg (s)+2H+ (aq)->Mg2+ (aq)+	H2 (g)
+Magnesium		+ Sulphuric(VI)acid -> Magnesium Sulphate(VI) +	Hydrogen Mg(s)	+		H2SO4(aq)	->	MgSO4(aq)	+	H2(g)
+Ionic equation
+Mg (s)	+	2H+ (aq)	->	Mg2+ (aq)	+	H2 (g)
+
+(c)  Chemical equation
+Iron	+		Hydrochloric acid -> Iron(II)chloride	+	Hydrogen Fe(s)		+	2HCl(aq)	->	FeCl2(aq)		+		H2(g)
+Ionic equation
+Fe (s)	+	2H+ (aq)	->	Fe2+ (aq)	+	H2 (g)
+
+
+Iron+ Sulphuric(VI)acid-> Iron(II) Sulphate(VI) +HydrogenFe(s)+	H2SO4(aq)->	FeSO4(aq)	+H2(g)Ionic equation
+Fe (s)	+	2H+ (aq)	->	Fe2+ (aq)	+	H2 (g)
+Note
+
+1. Hydrogen cannot be prepared from reaction of:
+(i) Nitric(V)acid and a metal. Nitric(V)acid is a strong oxidizing agent. It oxidizes
+hydrogen gas to water.
+ (ii) dilute sulphuric(VI)acid with calcium/Barium/Lead because Calcium sulphate(VI),Barium sulphate(VI) and Lead(II)sulphate(VI) salts formed are insoluble. Once formed, they cover/coat the unreacted calcium/Barium/Lead
+
+14
+
+stopping further reaction and producing very small amount/volume of hydrogen gas.
+(iii) dilute acid with sodium/potassium. The reaction is explosive.
+Properties of Hydrogen gas (a)Physical properties
+1. Hydrogen is a neutral ,colourless and odourless gas. When mixed with air it has a characteristic pungent choking smell
+2. It is insoluble in water thus can be collected over water.
+3. It is the lightest known gas. It can be transferred by inverting one gas jar over another.
+(b) Chemical properties.
+(i) Burning
+I. Hydrogen does not support burning/combustion. When a burning splint is inserted into a gas jar containing Hydrogen, the flame is extinguished /put off.
+II. Pure dry hydrogen burn with a blue quiet flame to form water. When a stream of pure dry hydrogen is ignited, it catches fire and continues to burn with a blue flame.
+III. Impure (air mixed with) hydrogen burns with an explosion. Small amount/ volume of air mixed with hydrogen in a test tube produce a small explosion as a "pop" sound. This is the confirmatory test for the presence of Hydrogen gas. A gas that burns with a "pop" sound is confirmed to be Hydrogen.
+(ii) Redox in terms of Hydrogen transfer
+
+Redox can also be defined in terms of Hydrogen transfer. (i)Oxidation is removal of Hydrogen
+(ii) Reduction is addition of Hydrogen
+(iii) Redox is simultaneous addition and removal of Hydrogen
+Example
+When a stream of dry hydrogen gas is passed through black copper (II) oxide, hydrogen gas gains the oxygen from copper(II)oxide.
+Black copper (II) oxide is reduced to brown copper metal. Black copper(II)oxide os thus the Oxidizing agent.
+Hydrogen gas is oxidized to Water. Hydrogen is the Reducing agent. Set up of apparatus
+
+15
+
+
+
+(a) Chemical equation
+(i) In glass tube
+Copper(II)Oxide	+		Hydrogen	->	Copper	+	Hydrogen gas (oxidizing agent)		(reducing agent)
+(black)	(brown)
+CuO (s)	+	H2(g)	->	Cu(s)	+	H2O(l)
+
+(ii) when excess Hydrogen is burning.
+Oxygen+Hydrogen->WaterO2(g)+2H2(g)->2H2O(l)
+(b) Chemical equation
+(i) In glass tube
+Lead(II)Oxide	+	Hydrogen	->	Lead	+	Hydrogen gas (oxidizing agent)		(reducing agent)
+(brown when hot/	(grey)
+yellow when cool)
+PbO (s)	+	H2(g)	->	Pb(s)	+	H2O(l)
+
+(ii) when excess Hydrogen is burning.
+Oxygen+Hydrogen->WaterO2(g)+2H2(g)->2H2O(l)
+(c) Chemical equation
+(i) In glass tube
+Iron(III)Oxide	+	Hydrogen	->	Iron	+	Hydrogen gas (oxidizing agent)		(reducing agent)
+
+16
+
+
+(Dark grey)(grey)Fe2O3 (s)+3H2(g)->Fe(s)+3H2O(l)
+(ii) when excess Hydrogen is burning.
+Oxygen+Hydrogen->WaterO2(g)+2H2(g)->2H2O(l)
+(iii) Water as an Oxide as Hydrogen
+Burning is a reaction of an element with Oxygen. The substance formed when an element burn in air is the oxide of the element. When hydrogen burns, it reacts/ combines with Oxygen to form the oxide of Hydrogen.The oxide of Hydrogen is called water. Hydrogen is first dried because a mixture of Hydrogen and air explode. The gas is then ignited .The products condense on a cold surface/flask containing a freezing mixture. A freezing mixture is a mixture of water and ice.
+
+
+
+
+
+The condensed products are collected in a receiver as a colourless liquid.
+Tests
+(a) When about 1g of white anhydrous copper (II)sulphate(VI)is added to a sample of the liquid ,it turns to blue. This confirms the liquid formed is water.
+(b) When blue anhydrous cobalt (II)chloride paper is dipped in a sample of the liquid ,it turns to pink. This confirms the liquid formed is water.
+
+17
+
+(c) When the liquid is heated to boil, its boiling point is 100oC at sea level/one atmosphere pressure. This confirms the liquid is pure water.
+
+Uses of Hydrogen gas
+
+1. Hydrogenation/Hardening of unsaturated vegetable oils to saturated fats/margarine.
+When Hydrogen is passed through unsaturated compounds in presence of Nickel catalyst and about 150oC, they become saturated. Most vegetable oil are unsaturated liquids at room temperature. They become saturated and hard through hydrogenation.
+2. In weather forecast balloons.
+Hydrogen is the lightest known gas. Meteorological data is collected for analysis by sending hydrogen filled weather balloons to the atmosphere. The data collected is then used to forecast weather conditions.
+
+3. In the Haber process for the manufacture of Ammonia
+Hydrogen is mixed with Nitrogen in presence of Iron catalyst to form Ammonia gas. Ammonia gas is a very important raw material for manufacture of agricultural fertilizers.
+
+4. In the manufacture of Hydrochloric acid.
+Limited volume/amount of Hydrogen is burnt in excess chlorine gas to form Hydrogen chloride gas. Hydrogen chloride gas is dissolved in water to form Hydrochloric acid. Hydrochloric acid is used in pickling/washing metal surfaces.
+
+5. As rocket fuel.
+Fixed proportions of Hydrogen and Oxygen when ignited explode violently producing a lot of energy/heat.This energy is used to power/propel a rocket to space.
+
+6. In oxy-hydrogen flame for welding.
+A cylinder containing Hydrogen when ignited in pure Oxygen from a second cylinder produces a flame that is very hot. It is used to cut metals and welding.
+
+18
+
+Sample revision questions
+
+1.A colourless liquid was added anhydrous copper(II)sulphate(VI) which turned blue.
+(a) Why is it wrong to conclude the liquid was pure water?
+Anhydrous copper(II)sulphate(VI) test for presence of water. Purity of water is determined from freezing/melting/boiling point.
+
+(b) Write an equation for the reaction that take place with anhydrous copper(II)sulphate(VI)
+Anhydrous copper(II)sulphate(VI) + Water	->	hydrated copper(II)sulphate(VI) CuSO4(s)	+ 5H2O(l) ->		CuSO4.5H2O(s)
+
+(c)(i)Which other compound would achieve the same results as anhydrous copper(II)sulphate(VI)
+Anhydrous cobalt (II)chloride/CoCl2.6H2O
+(ii)Write the equation for the reaction
+Anhydrous cobalt (II)chloride + Water	->	hydrated cobalt (II)chloride CoCl2 (s)	+ 6H2O(l)		->		CoCl2.6H2O (s)
+
+(d)Complete the equation
+(i) Sulphur(VI)oxide
+(ii) Sulphur(IV)oxide
+(iii) Carbon(IV)oxide+ Water
++ Water
++ Water->
+->
+->Sulphuric(VI)acid
+Sulphuric(IV)acid Carbonic(IV)acid(iv) Nitrogen(IV)oxide+ Water->Nitric(V)acid(v) Phosphorus(V)oxide+ Water->Phosphoric(V)acid(vi) Sodium oxide+ Water->Sodium hydroxide(vi) Sodium peroxide+ Water->Sodium hydroxide
+2. Metal B reacts with steam. Metal C reacts with cold water. Metal A does not react with water.
+(a) Arrange the metals as they should appear in the reactivity series.
+B C A
+
+19
+
+(b) A product residue in D which was brown when hot but turned yellow on cooling during the reaction of metal B was formed. Gas E was also evolved.
+Identify
+(i)Metal B	Lead/Pb (ii)Residue D	Lead(II)oxide/PbO (iii)Gas E	Hydrogen/H2
+
+(c) A portion of product residue in D was added dilute nitric(V)acid. Another portion of product residue in D was added dilute sulphuric(VI)acid. State and explain the observations made.
+When added dilute nitric(V)acid, D dissolves to form a colourless solution.
+Lead(II)Oxide + dilute nitric(V)acid -> Lead(II) nitrate(V) + Water PbO (s) +	2HNO3(aq) ->	Pb(NO3)2 (aq)	+	H2O(l)
+
+When added dilute sulphuric(VI)acid, D does not dissolve. A white suspension/precipitate was formed. Lead(II)Oxide reacts with sulphuric(VI)acid to form insoluble Lead(II)sulphate(VI) that cover/coat unreacted Lead(II)Oxide, stopping further reaction.
+Lead(II)Oxide + dilute sulphuric(VI)acid -> Lead(II) sulphate(VI) + Water PbO (s)	+	H2SO4(aq)	->	PbSO4 (s)	+	H2O(l)
+
+
+
+
+3. (a) Hydrogen can reduce copper(II)Oxide but not alluminium oxide. Explain
+
+
+     (b) When water reacts with potassium metal the hydrogen produced ignites explosively on the surface of water.
+(i) What causes this ignition?
+
+
+(ii) Write an equation to show how this ignition occurs
+
+20
+
+2. In an experiment, dry hydrogen gas was passed over hot copper (II) oxide in a combustion tube as shown in the diagram below:
+
+
+
+
+     (a) Complete the diagram to show how the other product, substance R could be collected in the laboratory.
+
+     (b) Describe how copper could be obtained from the mixture containing copper (II) oxide
+
+
+3. The setup below was used to investigate the reaction between metals and
+
+21
+
+(a) Identify solid X and state its purpose
+
+
+Solid X	..............................................................................
+Purpose	.............................................................................
+(b) Write a chemical equation for the reaction that produces the flame.
+
+
+4. Gas P was passed over heated magnesium ribbon and hydrogen gas was collected as shown in the diagram below:
+
+(i) Name gas P
+...............................................................................................................
+(ii) Write an equation of the reaction that takes place in the combustion tube
+
+
+(iii) State one precaution necessary at the end of this experiment
+
+
+5. When hydrogen is burnt and the product cooled, the following results are obtained as shown in the diagram below:
+
+
+Clamp
+
+Clamp
+
+
+Burning	Ice cold water
+
+
+
+
+
+
+Dry hydrogen
+
+
+Liquid Y
+
+22
+
+(a) Write the equation for the formation of liquid Y
+
+
+(b) Give a chemical test for liquid Y
+
+23
+
+6. Jane set-up the experiment as shown below to collect a gas. The wet sand was heated before
+
+
+
+
+
+
+
+
+
+Wet sand
+
+(a) Complete the diagram for the laboratory preparation of the gas
+
+
+(b) Why was it necessary to heat wet sand before heating Zinc granules?
+
+
+
+
+
+7. 
+
+24
+
+
+
+
+
+N
+
+
+
+
+
+
+
+
+
+
+
+(a) Between N and M which part should be heated first? Explain
+
+
+(b) Write a chemical equation for the reaction occurring in the combustion
+tube.
+
+8. The set-up below was used to investigate electrolysis of a certain molten compound;-
+
+
+
+
+
+
+
+
+
+(a) Complete the circuit by drawing the cell in the gap left in the diagram
+
+25
+
+(b) Write half-cell equation to show what happens at the cathode
+
+
+(c) Using an arrow show the direction of electron flow in the diagram above
+
+
+
+9. Hydrogen can be prepared by reacting zinc with dilute hydrochloric acid.
+a) Write an equation for the reaction.
+
+
+b) Name an appropriate drying agent for hydrogen gas.
+
+
+c) Explain why copper metal cannot be used to prepare hydrogen gas.
+
+
+d) Hydrogen burns in oxygen to form an oxide.
+(i) Write an equation for the reaction.
+
+
+       (ii) State two precautions that must be taken before the combustion begins and at the end of
+the combustion.
+
+
+e) Give two uses of hydrogen gas.
+
+
+     f) When zinc is heated to redness in a current of steam, hydrogen gas is obtained. Write an
+equation for the reaction.
+
+
+g) Element Q reacts with dilute acids but not with cold water. Element R
+does not react with
+
+26
+
+       dilute acids. Elements S displaces element P from its oxide. P reacts with cold water. Arrange
+
+the four elements in order of their reactivity, starting with the most
+reactive.
+
+h) Explain how hydrogen is used in the manufacture of margarine.
+
+
+10. a) The set-up below is used to investigate the properties of hydrogen.
+
+
+
+
+
+
+
+
+
+
+i) On the diagram, indicate what should be done for the reaction to occur
+
+
+     ii) Hydrogen gas is allowed to pass through the tube for some time before it is lit. Explain
+iii) Write an equation for the reaction that occurs in the combustion tube
+
+
+    iv) When the reaction is complete, hydrogen gas is passed through the apparatus until they
+
+27
+
+cool down .	Explain
+
+
+v) What property of hydrogen is being investigated?
+
+
+vi) What observation confirms the property stated in (v) above?
+
+
+vii) Why is zinc oxide not used to investigate this property of hydrogen gas?
+
+
+11. The set up below was used to collect gas K, produced by the reaction
+
+between water and
+calcium metal.
+
+Water
+
+	Gas K
+
+o o o
+Calcium metal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) Name gas K
+.......................................................................
+(b) At the end of the experiment, the solution in the beaker was found to be a weak base. Explain
+why the solution is a weak base
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

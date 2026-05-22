@@ -1,0 +1,2081 @@
+
+
+
+
+
+FORM FOUR BIOLOGY
+* Define the term genetics
+* Differentiate between heredity and variation
+* Distinguish between continuous and discontinuous variations
+* Describe continuous and discontinuous variations
+* Observe variations in plants and animals
+* Describe the structure, nature and properties of chromosomes
+* Describe the structure, nature and properties of DNA molecule
+* Differentiate between DNA and RNA
+* Distinguish between F1 and F2 generation
+* Determine Mendel's first law of inheritance
+* Define other terms used in inheritance such as phenotype, genotype, dominant gene, recessive gene, haploid and diploid
+* Demonstrate monohybrid inheritance in plants and animals
+* Predict outcomes of various genetic crosses
+* Construct and make use of pannet squares
+* Work out genotypic and phenotypic ratios
+* Predict outcomes of various crosses
+* Determine the unknown genotypes in a cross using a test cross
+* Describe albinism as an example of monohybrid inheritance in human beings
+* Explain the inheritance of ABO blood groups in human beings
+* Explain the inheritance of rhesus factor as an example of monohybrid inheritance in human beings
+* Predict the inheritance of blood groups human beings
+* Describe incomplete dominance
+* Describe inheritance of colour in flowers of mirabilis jalapa
+* Describe Inheritance of sickle cell anemia in human beings
+* Explain how sex is determined in human beings
+* Describe sex linkages in human beings
+* Define linkage and sex-linkage
+* Describe linkage in human beings e.g.colour blindness and hemophilia
+* Describe colour blindness as an example of sex-linked trait in human beings
+* Interpret pedigree of inheritance
+* Describe the Inheritance of hemophilia as an example of sex-linked traits in human beings
+* Define mutation
+* Differentiate between mutations and mutagens
+* List down causes of mutations
+* State the types of mutations
+* List down the various chromosal mutations
+* Describe chromosal mutations
+* Explain the Effects of chromosal mutations
+
+
+
+
+
+* Describe gene mutations and their effects on organisms
+* Describe areas in which the knowledge of genetics has been applied
+* Explain the practical applications of genetics
+* Define evolution
+* Explain the current concepts of the origin of life
+* Explain the current concepts on origin of life
+* Describe the study of fossils as evidence of organic evolution theory
+* Describe comparative anatomy as evidence of organic evolution
+* Describe occurrence of vestigial structures and geographical distribution of organisms as evidence of organic evolution
+* Describe comparative embryology, cell biology and biochemistry as evidence of organic evolution
+* Describe evolution of hominids
+* Describe Lamarck's theory
+* Describe and discuss the struggle for existence and survival for the fittest
+* Describe and discuss new concepts of Darwin's theory
+* Describe natural selection in action
+* Describe natural selection in nature
+* Describe the isolation mechanism in speciation
+* Describe Artificial selection in plants and animals and how it leads to speciation
+* Explain the importance of sexual reproduction in evolution
+* Define stimulus
+* Define irritability
+* Define response
+* Define tactic and tropic responses
+* List down tactic responses in plants
+* List down tropic responses in plants
+* Differentiate between tactic and tropic responses
+* Define geotropism
+* Describe geotropism in roots and shoots of plants
+* Differentiate between Phototropism and geotropism
+* Carry out experiments demonstrating both Phototropism and geotropism in a plant seedling
+* Carry out experiments to demonstrate tactic responses to light and water
+* Carry out experiments to show chemotactic response using fruit juice
+* Define Hydrotropism and thigmotropism
+* State the importance of Tactic and tropic responses
+* Explain the production of Plant hormones and their effects on plants
+* Carry out experiment to investigate hydrotropism
+* Carry out experiment to investigate etiolation
+* Demonstrate the knee jerk in a reflex action
+* Defined Conditioned reflex actions
+* Describe Conditioned reflex action using parlous dog
+
+
+
+
+
+* Compare simple and conditioned reflex actions
+* Explain the role of endocrine system in a human being
+* Explain the effect over secretion and under secretion of thyroxin and adrenaline
+* Isolate and list the similarities and differences between the endocrine and the nervous system
+* State the effects of drug abuse on human health
+* Draw and label the mammalian eye
+* State the functions of the mammalian eye
+* Describe how the structure of the mammalian eye is adapted to its functions
+* Dissect and display parts of the mammalian eye
+* Describe how an image is formed and interpreted in the mammalian eye
+* Describe Accommodation in the mammalian eye
+* Name and explain the Common eye defects
+* Describe Common eye defects and their corrections
+* Investigate the blind spot In the eye
+* Investigate which eye is used more during vision
+* Name and describe Common eye diseases
+* Draw and label the mammalian ear
+* Describe the mammalian ear and how it is adapted to its functions
+* Describe the mechanism of hearing
+* Discuss thick ear drum, damaged cochlea, raptured eardrum, fussed ossicles, otitis media, ostosceleross and tinnitus
+* Define support and movement
+* Describe the necessity of movement in plants and animals
+* Review the tissue distribution in monocotyledonous an dicotyledonous plants
+* Describe support in woody and non-woody stems
+* Describe the role of tendrils and tender stems in support
+* Observe prepared sections of woody and herbaceous stems
+* Observe a wilting plant
+* List the types of skeletons
+* Describe the role of exoskeleton in insects
+* Describe the role and components of endoskeleton
+* Describe the role of skeleton in vertebrates
+* Draw the structure of a finned fish (tilapia)
+* Calculate the tail power
+* Explain how locomotion occurs in fish
+* Name and draw the different fins and state their functions
+* Draw the human skeleton and identify the component parts
+* Identify and draw the skull
+* Identify bones of Axial skeleton in the vertebral column
+* Identify the cervical vertebrae
+* Identify the structures of the thoracic vertebrae
+* Relate the structure of the thoracic vertebrae to their functions
+
+
+
+
+
+* Identify the structures of lumbar, sacral and candal vertebrae
+* Show how ribs articulate with thoracic vertebrae
+* Draw and label Ribs and sternum
+* Relate the structure to their functions
+* Identify components of Appendicular skeleton
+* Draw the scapula bone and relate it to its functions
+* Identify the bones of the fore limbs
+* Draw the structure of the humerus, radius and ulna
+* Draw and label bones of the hand
+* Draw the pelvic girdle
+* Name the bones of The pelvic girdle
+* Relate the structure to their functions
+* Identify, draw and label the femur, tibia and tibula bones
+* Relate their structure to their functions
+* Draw and label the bones of the foot
+* Relate the structure of bones of the foot to their functions
+* Define a joint
+* List the three types of joints
+* Describe the types of joints
+* List examples of movable joints, hinge joints and bell and socket joints
+* Define Immovable joints
+* Name Immovable joints
+* Define muscles
+* Explain the differences between the three types of muscles
+* Identifying biceps and triceps in the arm movement
+
+
+
+
+
+
+
+
+Genetics
+
+Introduction
+* Genetics is the study of inheritance.
+* The fact that the offspring of any species resemble the parents indicates that the characters in the parents are passed on to the offspring.
+* Factors that determine characters (genes) are passed on from parent to offspring through gametes or sex cells.
+
+
+
+
+
+* In fertilisation the nucleus of the male gamete fuses with the nucleus of the female gamete.
+* The offspring show the characteristics of both the male and the female.
+* Genetics is the study of how this heritable material operates in individuals and their offspring.
+Variations within Plant and Animal Species
+Variation
+* The term variation means to differ from a standard.
+* Genetics also deals with the study of differences between organisms belonging to one species.
+* Organisms belonging to higher taxonomic groups e.g. phyla or classes are clearly different.
+* Although organisms belonging to the same species are similar, they show a number of differences or variations such that no two organisms are exactly the same in every respect.
+* Even identical twins, though similar in many aspects, are seen to differ if they grow in different environments.
+* Their differences are as a result of the environment which modifies the expression of their genetic make-up or genotype.
+* The two causes of variations are the genes and the environment.
+* Genes determine the character while the environment modifies the expression of that character.
+Continuous and Discontinuous Variation Continuous Variations
+* The differences between the individual are not clear-cut.
+* There are intermediates or gradations between any two extremes.
+* Continuous variations are due to action of many genes e.g. skin complexion in humans.
+* In continuous variation, the environment has a modifying effect in that it may enhance or suppress the expressions of the genes.
+* Continuous variation can be represented in form of a histogram.
+* Example of continuous variation in humans is weight, height and skin complexion.
+* Linear measurements:
+* In humans, height shows gradation from tall, to tallest.
+* So does the length of mature leaves of a plant.
+* In most cases, continuous variation is as a result of the environment.
+Discontinuous Variations
+* These are distinct and clear cut differences within a species.
+
+
+
+
+
+Examples include:
+* Ability to roll the tongue.
+* An individual can either roll the tongue or not.
+* Ability to taste phenylthiourea (PTC); some individuals can taste this chemical others cannot.
+* Blood groups - and individual has one of the four blood groups A, B AB or O.
+* There are no intermediates.
+* Albinism - one is either an albino or not.
+* Discontinuous variations is determined by the action of a single gene present in an individual.
+Structure and Properties of Chromosomes
+* These are threadlike structures found in the nucleus.
+* They are normally very thin and coiled and are not easily visible unless the cell is dividing.
+* When a cell is about to divide, the chromosomes uncoil and thicken.
+* Their structure, number and behaviour is clearly observed during the process of cell division.
+* The number of chromosomes is the same in all the body cells of an organism.
+* In the body cells, the chromosomes are found in pairs.
+* Each pair is made up of two identical chromosomes that make up a homologous pair.
+* However sex chromosomes in human male are an exception in that the Y-
+chromosome is smaller.
+Number of Chromosomes Diploid Number (2n)
+* This is the number of chromosomes found in somatic cells.
+* For example, in human 2n = 46 or 22 pairs (44 chromosomes) are known as autosomes (body chromosomes")
+* while 1 pair is known as the sex chromosomes.
+* In Drosophila melanogaster, 2n =8.
+
+Chromosome Structure
+* All chromosomes are not of the same size or shape.
+* In human beings; each of the twenty three pairs have unique size and structure .
+* On this basis they have been numbered 1 to 23.
+* The sex chromosomes formthe 23rd pair.
+Properties of Chromosomes
+* Chromosomes are very long and thin.
+* They are greatly and loosely coiled and fit within the nucleus.
+* During cell division they shorten, become thicker and are easily observable.
+
+
+
+
+
+* Each consists of two chromatids.
+* The two chromatids are held at same position along the length, at the centromere.
+* Chromatids separate during cell division in mitosis and in the second stage of meiosis.
+* Chromosomes take most dyes and stain darker than any other part of the cell.
+* This property has earned them the name "chromatin material"
+* Each chromosome is made up of the following components:
+* Deoxyribonucleic acid (DNA) - this carries the genes.
+* It is the major component of the genetic material.
+* Protein e.g. histones.
+* Ribonucleic acid (RNA) is present in very small amounts.
+* Enzymes concerned with DNA and RNA replication - these are DNA and RNA polymerases and ligases.
+Structure of DNA
+* The structure of DNA was first explained in 1953 by Watson and Crick.
+* DNA was shown to be a double helix that coils around itself.
+* The two strands are parallel and the distance between the two is constant.
+Components of DNA
+* DNA is made up of repeating units called nucleotides.
+* Each nucleotide is composed of:
+* A five-carbon sugar (deoxyribose).
+* Phosphate molecule.
+* Nitrogenous base, four types are available i.e,
+> Adenine - (A)
+> Guanine - (G)
+> Cytosine - (C)
+> Thymine - (T)
+* The bases are represented by their initials as A, G, C and T respectively.
+* The sugar alternates with the phosphate, and the two form the backbone of the strands.
+* The bases combine in a specific manner, such that Adenine pairs with Thymine and Guanine pairs with Cytosine.
+* The bases are held together by hydrogen bonds. A gene is the basic unit of inheritance consisting of a number of bases in linear sequence on the DNA.
+* Genes exert their effect through protein synthesis.
+* The sequence of bases that make up a gene determine the arrangement of amino acids to make a particular protein.
+
+* The proteins manufactured are used to make cellular structures as well as hormones and enzymes.
+* The types of proteins an organism manufactures determines its characteristics.
+* For example, albinism is due to failure of the cells of an organism to synthesise the enzyme tyrosine required for the formation of the pigment melanin.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Law of Heredity
+* It is also known as Law of Segregation (Mendel's First Law).
+* The characters of an organism are controlled by genes occurring in pairs known as Alleles.
+* By definition, an allele is an alternative form of a gene controlling a particular characteristic.
+* Of a pair of such alleles, only one is carried in each gamete.
+* This is explained by first meiotic anaphase stage, when the homologous chromosomes are separated so that each carries one of the allelic genes.
+Monohybrid Inheritance
+* This is the study of the inheritance of one character trait that is represented by a
+pair of genes on homologous chromosomes.
+* Gregor Mendel (an Austrian monk) was the first person to show the nature of inheritance.
+* He did this through a series of experiments using the garden pea, Pisum sativum.
+* As opposed to others before him, the success in his work lay in the fact that:
+* He chose to study first a single character at a time (monohybrid inheritance).
+
+
+
+
+
+* He then proceeded to study two characters at time (dihybrid inheritance) .
+* He quantified his results by counting the number of offspring bearing each trait.
+* Each character he chose was expressed in two clearly contrasting forms.
+Examples
+* Stem length: some plants were tall while others were short.
+* Colour of unripe pods: some were green, others yellow.
+* There were no intermediates.
+Mendel's Procedure
+* For each character, Mendel chose a plant that bred true.
+* A true or pure breed continues to show a particular trait in all the offspring in several successive generations of self-fertilisation.
+* He made one plant to act as the female by removing the stamens before the ovary was mature and protecting (e.g. by wrapping with paper).
+* The female plant from contact with any stray pollen.
+* When the ovary was mature, he carefully dusted pollen from the anthers of the selected male plant and transferred it to the stigma of the female plant.
+* Observations were then made on the resulting seeds or on the plants obtained when those seeds were planted.
+
+Results
+* For each pair of contrasting characters he studied, Mendel obtained the same results.
+* For example, when he crossed pure breeding tall plants with pure breeding short plants, the first offspring, known as the first filial generation (FI) were all tall.
+* When these were selfed i.e. self-fertilisation allowed to take place, the second generation offspring also know as the second filial generation or F2 occurred in the ratio of 3 tall: 1 short.
+* The same ratio was obtained for each of the other characters studied.
+* From this it is clear that one character i.e. tall is dominant over the short character.
+* A dominant character is that which is expressed alone in the offspring even when the opposite character is represented in the genotype.
+* The unexpressed character is said to be recessive.
+* From these results and others obtained when he studied two characters at the same time, Mendel concluded that gametes carry factors that are expressed in the offspring.
+* These factors are what we know today as genes.
+* Mendel put forward the following laws of inheritance:
+* Of a pair of contrasting characters, only one can be represented in a gamete.
+
+
+
+
+
+* For two or more pairs of such contrasting characters, each factor (gene) in the gamete acts independently of the others and may combine randomly with either of the factors of another pair during fertilisation.
+* Genetic experiments carried out to date confirm Mendel's Laws of inheritance
+e.g. T.H. Morgan's work on inheritance in the fruit fly Drosophila melanogaster.
+Terms used in Genetics Genotype:
+* The genes present in an individual. The genetic constitution of an individual. It is expressed in alphabetical notation.e.g TT,Tt
+Phenotype:
+* The observed character or appearance i.e. the expression of the genes in the structure and physiology of the organism.
+* In some cases the phenotype is the product of the genotype and the environment. Phenotype is expressed in words.eg TALL,SHORT,RED WHITE .etc.
+Alleles:
+* These are alternative forms of the same gene that control a pair of contrasting characters e.g. tall and short.
+* They are found at the same position or gene-locus on each chromosome in a
+homologous pair.
+Homozygous:
+* This is a state where the alleles in an individual are similar e.g. TT (for tall)
+Heterozygous:
+* This is a state where the alleles are dissimilar i.e. each of the two genes responsible for a pair of contrasting characters are present
+* e.g. Tt. (T for tall; t for short)
+Hybrid:
+* This is the offspring resulting from crossing of two individuals with contrasting characters.
+Hybrid vigour or Heterosis:
+* The hybrid develops the best characteristics from both parents
+* i.e. it is stronger or healthier, or yields more than either parent.
+
+Use of Symbols
+* To represent genes in the chromosomes, letters are used.
+* It is customary to use a capital letter for the dominant characteristic and small letter for the recessive one.
+* The gametes are encircled.
+* For example,a cross between a tall and a short pea plant is illustrated as follows;
+> Let -T- represent gene for tallness.
+> Let -t- represent gene for shortness.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+Fertilization-using checker board or Punnet square F1 genotype Tt
+F1 Phenotypic ratio =All tall.
+
+
+
+F2 Genotype TT,2Tt,tt
+F2 Phenotypic ratio;3 Tall;1 short
+Test Cross or Back Cross
+
+
+
+
+
+* This is a eras made between the F 1 bearing the dominant trait with the homozygous recessive parent.
+* It is called a back cross because of using the first parent.
+* It is also a test cross because it tests the genotype of the individual.
+
+
+
+Complete Dominance
+* Mendel happened to choose characters that showed complete dominance,
+* 	i.e. the dominant trait completely masked the recessive one in the F1 generation.
+* In man, certain characters are inherited in the same way
+* e.g. colour of the skin; normal colour is dominant to albinism (lack of skin pigment).
+
+
+
+* The children are all normal but have the gene for albinism.
+* Such individuals are referred to as carriers.
+Other characters that show complete dominance in humans are:
+* Ability to roll the tongue.
+* Polydactyly (having more than 5 digits in one limb).
+* Brachydactyly - having short fingers.
+
+
+
+
+
+* Achondroplasia - dwarf with bow legs.
+Incomplete Dominance
+* In this kind of inheritance there is no dominant or recessive gene but the two are expressed equally in the offspring,
+* Resulting in blending of the characters.
+* The gene for red colour (R) in cattle and the gene for white colour(W) show incomplete dominance or co-dominance.
+
+* The offspring are neither red nor write but are intermediate between the two.
+* They are said to be roan.
+* In humans, the sickle cell gene and the normal gene are co-dominant.
+Inheritance of ABO blood groups in humans
+* Blood groups in human are determined by three alleles, A, B, and O.
+* An individual can have only two of these genes.
+* Genes A and Bare codominant, while gene 0 is recessive to A and B.
+* These are referred to as multiple alleles.
+
+
+ The ABO Blood Group System Rhesus Factor
+* The Rhesus factor is responsible for the presence of a protein (Antigen D) in the red blood cells.
+* If blood from a Rhesus positive (Rh+) person is transferred into a person without the Rhesus factor (Rh-);
+* The recipients' body produces antibodies against the Rhesus factor.
+
+
+
+
+
+* This causes agglutination of red blood cells which can be fatal if subsequent transfusion with Rh+ blood is done.
+
+Sex Determination in Humans
+* XY type e.g. human male
+* In males, two types of sperms are produced.
+* Half of then containing X chromosomes and half Y chromosomes.
+* During fertilisation only one sperm fuses with the egg.
+* If it is an X-carrying sperm then a female zygote is formed;
+* If it is a Y-carrying sperm then a male zygote is formed.
+* It follows then that the chances of getting a boy or girl are half or fifty-fifty.
+* Note also that it is essentially the type of sperm that fertilises the egg that determines the sex.
+
+
+Linkage
+* The term linkage describe the situation where genes or certain characters are located on the same chromosome.
+* Offspring produced by sexual reproduction show only the parental characteristics and only sometimes few new recombinants.
+* i.e. offspring with combinations of characteristics not found in either of the parents due to crossing over in first prophase of meiosis.
+* Genes are said to be linked when they are located close together on the same chromosome such that they are always inherited together.
+Sex linked genes
+* These are genes that are located on the sex chromosomes.
+* Sex-linkage - refers to carrying of the genes on the sex-chromosome.
+* Gene for a trait may be present, yet offspring does not show the trait.
+* This happens in human females (XX) where a gene for the trait is recessive.
+* The female acts as a carrier.
+
+In human, sex linked characters found on the X chromosome include:
+Haemophilia:
+* This is a disease that affects the rate of clotting of blood, leading to excessive bleeding even from a minor cut.
+* Haemophilia is more common in males than in females.
+
+
+
+
+
+* A female my have the gene for haemophilia and not show the trait because the normal gene is dominant over the gene for haemophilia.
+* Such females are referred to as carriers.
+* If the carrier female offspring will be carriers while the other half will be normal.
+* Half the males will be normal and the other heamophilic.
+Red-green colour-blindness
+* Red-green colour-blindness is caused by a recessive gene found on the X chromosome.
+* It is inherited in the same way as haemophilia.
+* More males 1:10,000, less female 1: 100 million afflicted.
+* It is the inability to distinguish between red and green colours in humans.
+Genes found on y-chromosome include:
+* Hairy pinna and hairy nose are carried on the Y - chromosome.
+* Premature balding.
+Mutations
+* Mutations are sudden changes in the genotype that are inherited.
+* Mutations are rare in nature and mutated genes are usually recessive to the normal (wild type) genes.
+* Most mutations are generally harmful and some are lethal.
+* A somatic mutation is a genetic change in somatic cells.
+* Somatic mutations are only inherited if asexual reproduction takes place e.g. as in plants and unicellular animals.
+* A gene mutation is a change in genes of reproductive cells and is always inherited.
+* The resultant individual is called a mutant.
+* The mutant has different characteristics from the rest of the population.
+Types of Mutations
+* Chromosomal mutations - are changes in number or structure of chromosomes.
+* Gene mutations - also called point mutations - are changes in the chemical nature of the gene.
+Mutagens:
+* These are agents that cause mutations.
+* The include ultra-violet light, Gamma rays., x-rays and cosmic rays.
+* Certain chemicals e.g. mustard gas and colchicines also induce mutations.
+Causes and consequences of chromosomal mutations
+* There are three main types of chromosomal mutations.
+* Changes in the diploid number of chromosomes (allopolyploidy).
+* The diploid number changes to 3n (triploid) or 4n (tetraploid) and so on.
+* This results from the doubling of the chromosome number in the gamete (2n).
+* This is due to failure of the chromosome sets to separate during meiosis.
+* The phenomenon is known as polyploidy.
+
+
+
+
+
+* 	It is common in plant's and has been employed artificially to produce varieties of crops with hybrid vigour e.g. bread wheat is hexaploid (6n). This is allopolyploidy).
+* Change in the total number of chromosomes involving the addition or loss of individual chromosomes (autopolyploidy).
+* This is due to failure of individual chromosomes to separate during meiosis.
+* One  gamete  gains  an  extra  chromosome  while  the  other  loses  a
+chromosome.
+* The term non-disjunction is used to describe the failure of chromosomes to separate.
+Non-disjunction results in several disorders in humans:
+Down's syndrome
+* The	individual	has	47	chromosomes	due	to	non-disjunction	of chromosome 21.
+* It is also known as trisomy 21.
+* The individual has slanted eyes with flat and rounded face, mental retardation and large tongue and weak muscles.
+Turner's Syndrome
+* This brings about to a sterile and abnormally short female.
+* It is due to loss of one of the sex chromosomes
+* i.e. the individual has one X chromosome (44 + X) instead of two (44 + XX).
+Klinefelter's Syndrome
+* This results in a sterile male who may be mentally retarded.
+* It is due to an additional X chromosome
+* i.e. the individual i.e. 47 chromosomes (44 + XXY) instead of 46 (44 + XY).
+Changes in the structure of a chromosome during meiosis.
+* A portion of a chromosome may break off and fail to unite again or it may be joined in the wrong way or to the wrong chromosome.
+
+These mutations are described as follows:
+Deletion:
+* This is the loss of a portion of a chromosome,
+* Deletion results in individuals born with missing body parts .
+* e.g. limbs in the extreme of cases.
+Inversion:
+* A portion may break from a chromosome and then rejoin to it after turning though an angle-of 1800 .
+Translocation:
+* This is when a portion is joined to a non-homologous chromosome.
+Duplication:
+* A certain section of an intact chromosome replicates such that the genes are repeated.
+
+
+
+
+
+
+Gene Mutations
+* A gene mutation is a change in the structure of a gene.
+* It may involve only a change in one base, e.g. adenine in place of thyamine yet the effect on the individual is profound e.g. sickle cell anemia .
+* There are two main type of gene mutations:
+> Due to insertion or deletion of one or more (base) pairs.
+> Substitution of base pairs e.g. purine for pyrimidine.
+Genetically inherited disorders in humans
+* Albinism is a mutation that alters the gene responsible for synthesis of skin pigment (melanin).
+* The gene for albinism is recessive.
+* Sickle cell anemia is a common condition in Kenya.
+* Individuals with the sickle-cell gene produce abnormal haemoglobin.
+* It is due to gene mutation caused by substitution of the base adenine for thymine.
+* The result is the inclusion of the amino acid valine (in place of glutamic
+acid) in the haemoglobin synthesised.
+* As a result the red blood cells become sickle shaped when oxygen concentration becomes low i.e. inside tissues.
+* This leads to blockage of capillaries.
+* Tissues do not get sufficient oxygen.
+* Homozygous individuals are seriously anaemic and die in early childhood.
+* Heterozygous individuals have a mixed population of normal and sickled red blood cells.
+* They are not seriously anaemic and can lead fairly normal lives.
+
+* Haemophila (bleeder's diseases) is due to lack of gene for production of proteins responsible for blood clotting.
+Practical Applications of Genetics
+* Study of genetics has been put into a wide variety of uses en-compasing plants and animals and in particular humans.
+Blood transfusion
+* Blood groups are genetically determined.
+* As discussed earlier a person of blood group A can only get blood from another one of A or O.
+* In case of emergencies and unavailability of blood, a patient may be given blood group A + when he/she is A-.
+* First transfusion is fine since, by the time enough antibodies are produced most of the red blood cells of donor have completed their lifespan but a subsequent transfusion of A+ blood is fatal.
+Plant and Animal breeding
+
+
+
+
+
+* Genetics is applied mostly in plant and animal breeding in order to produce varieties that are most suitable to man's needs.
+* This is done through artificial selection.
+* Varieties are developed that are resistant to pests, diseases or harsh climatic conditions.
+Genetic counselling
+* Genetic counselling involves advising about hereditary diseases and disorders so that they can make informed decisions.
+This is done through:
+* Taking family history.
+* Screening for genotypes e.g. through amniocentesis.
+* In amniocentesis, cells are obtained from amniotic fluid during pregnancy.
+* Conditions such as Down's syndrome can be detected using microscopy.
+Genetic Engineering
+* This is a technology that involves the manipulation of the genotype of an organism to get the desired trait.
+* It also involves the transfer of gene coding for the desired trait from one organism to another.
+Application of Genetic Engineering
+Pharmaceutical industries:
+* Making of hormones e.g. Human insulin and human growth hormone.
+* Enzymes e.g. Alph-Anti-Trypsin (AAT) used to treat emphysema. (c) Proteins.
+* Drugs and vaccines.
+Agricultural industries:
+* Transgenic animals and plants are produced which are also called Genetically Modified Organisms (GMO's).
+* A variety of tomato with improved paste and a longer shell life.
+* Sheep for producing desired proteins in milk.
+* Plants resistant to pests and diseases.
+Cloning
+* This is the making of identical copies of genes, DNA and whole organisms.
+* Cloning is used in plants - that is tissue culture e.g. in development of various varieties of bananas and Eucalyptus trees.
+* The first mammal to be cloned successfully was Dolly - the sheep.
+* A nucleus from the cell obtained from the udder of the sheep was inserted in an unfertilised egg without a nucleus.
+* This zygote was introduced into the uterus of a sheep and developed to full term.
+Gene therapy
+* Involves injecting genes into patients of certain diseases
+* e.g. Parkinson's diseases.
+* The injected gene alters metabolism to bring about the cure of the disease.
+
+
+
+
+
+
+
+
+
+Practical Activities
+To demonstrate Continuous variations
+Height of students
+* Students should work in pairs, use chalk and metre rule to mark level of top of head onto the wall
+* Or door as one student stands straight without shoes, next to the wall or door.
+* The height for each student is recorded on chalk board.
+* The frequency distribution of height is recording as the height is grouped into various classes.
+* A histogram to represent frequency against height is drawn.
+* The normal bell shaped curve is observed.
+Discontinuous variations - ability to roll tongue
+* The number of students who can roll their tongue is recorded as well as the number of non-tongue rollers.
+* The ratio of tongue-rollers to non tonguerollers is worked out.
+* Gene for the ability to roll the tongue is dominant, therefore is expected more tongue rollers.
+
+Demonstration of Mitosis and Meisosis Mitosis
+* Plasticene is used to represent number and shapes of various chromosomes
+e.g. 8 in Drosophila melanogaster.
+* Each stage of mitosis illustrated e.g. interphase,
+* Each is rolled to appear long is and coiled, prophase is each made into a ball and then shaped to the appropriate length; and split into two to represent chromatids.
+* Centromeres for different chromosomes can be illustrated in different positions.
+* Each stage of mitosis is illustrated and telophase can be illustrated by surrounding the "chromosomes" with a long many drawn plasticene to represent cell membrane.
+* It is manipulated to show how telophase takes place.
+Meiosis
+* The same procedure is followed.
+* Plasticine with contrasting colours is used to show clearly gene mixing in crossing over.
+* Each pair of homologous chromosomes is represented by plasticene with two different colours e.g. red (paternal) blue for maternal chromosome.
+
+
+
+
+
+* All the steps in the two stages of meiosis are illustrated up to the production of four haploid gametes.
+
+Human Finger Prints
+* The finger prints for each student's thumb, forefinger and middle fingers of the left hand is imprinted on a white paper.
+* A rubber stamp with ink is used to and each finger -tip phalange is rolled onto the inkpad.
+* For best results students work in pairs.
+* Observations are made at all forefingers, thumb prints and differences noted.
+* The main patterns are noted. It is also noted that no two, fingerprints are exactly similar.
+end
+
+
+
+
+
+EVOLUTION
+
+Meaning of Evolution and Current Concepts
+* Evolution is the development of organisms from pre-existing simple organisms over a long period of time.
+* It is based on the similarities in structure and function that is observed in all organisms.
+* All are made up of cells, and similar chemical compounds are present.
+* This indicates that all organism may have had a common origin.
+* Evolution seeks to explain the diversity of life and also to answer the question as to the origin of life, as well as its present state.
+The Origin of Life
+* Human beings have tried to explain how life began.
+Currently held views are listed below:
+* Special creation -life was created by a supernatural being within a particular time.
+* Spontaneous generation life originated from non-living matter all at once. e.g. maggots arise from decaying meat.
+* Steady state - life has no origin.
+* Cosmozoan - life on earth originate from elsewhere, outer space.
+* Bio-chemical evolution-life originated according to chemical and physical laws.
+* Only special creation and chemical evolution will be discussed.
+Special Creation
+* The earliest idea is that of special creation which is recorded in the old testament (Genesis 1: 1-26).
+* It states that God created the world and all living things in six days.
+* Some hold the six days literally, while others say it may represent thousands of years.
+* According to his theory, the earth and all organisms were created mature.
+* Similarities in structure and function denote the stamp of a "common Designer"
+* Evidence for this view arises from observations of life itself.
+* Faith explains it all.
+* By faith we understand that the universe was created by the command of God.
+* Several scientists hold this view and their research confirms accounts in the old testament of a universal flood explains the disappearance of dinosaurs as vegetation decreased.
+
+Chemical Evolution
+
+
+
+
+
+* The following is the line of thought held in this view to explain origin of life:
+* The composition of atmospheric gases was different from what it is today:
+* There was less oxygen, more carbon (IV) oxide, hence no ozone layers to filter the ultra-violet light.
+* The high solar energy reached the earth and brought together hydrogen, carbon (IV) oxide and nitrogen to make organic compounds.
+* These were: hydrocarbons, amino acids, nucleic acids, sugars, amino acids and proteins.
+* The proteins coalesced and formed colloids.
+* Proteins and lipids formed a "cell membrane" that enclosed the organic compounds, to form a primitive cell.
+* The cell was surrounded by organic molecules that it fed on heterotrophically.
+* This took place in water.
+* From this cell progressively autotrophs evolved.
+* That were similar to blue-green algae.
+* They produced oxygen and as more oxygen was evolved ozone layer formed an blocked ultra violet radiation.
+* This allowed formation of present day photo-autotrophs.
+Evidence for Organic Evolution
+* Most of the evidence for evolution is indirect .
+* i.e. it is based on studies carried out on present-day animals and plants.
+* Direct evidence is obtained from studying the remains of animals and plants of the past.
+Fossil Records
+* The study of fossils is called paleontology.
+* Fossils are remains of organisms that lived in ancient times.
+* Most fossils are remains of hard parts of the body such as bones, teeth, shells and exoskeletons.
+* Some fossils are just impressions of the body parts, e.g. footprints, leaf- vennation patterns, etc.
+* Fossils are usually found in sedimentary rocks which have been formed by deposition of sediments over millions of years.
+* The deeper the layer of sediments, the older the fossils found in that layer.
+* Modem man, Homo sapiens, evolved from ape-like creatures 25 million years ago.
+* These evolved to upright, tool using creature called Australopithecus afarensis
+which had a cranial capacity of 400-500 cc.
+
+
+
+
+
+* This evolved through several intermediates; Homo habilis and Homo erectus to modem day human.
+* Homo sapiens has a cranial capacity of 1350 - 1450 cc.
+* Homo sapiens is more intelligent.
+* Main features in human evolution include bipedal posture, is an omnivore and has an opposable thumb.
+
+Limitations of the Fossil Evidence
+* Only partial preservation was usually possible because softer parts decayed. The fossil records are therefore incomplete.
+* Distortion - parts of organisms might have become flattened during sedimentation.
+* Subsequent geological activities e.g. erosion, earthquakes, faulting and uplifting may have destroyed some fossils.
+
+Geographical Distribution
+* Until about 250 million years ago, all the land masses on earth formed a single land mass (Pangaea).
+* This is thought to have undergone continental drift, splitting into different continents.
+* Consequently, organisms in certain regions became geographically isolated and did not have a chance to interbreed with other organisms in other regions.
+* Such organisms underwent evolution in isolation and have become characteristically different from organisms in other regions.
+* For example, pouched mammals (e.g. kangaroo, wallaby, koala bear) are found almost exclusively in Australia.
+* The opossum is the only surviving representative of the pouched mammals in North America.
+
+Comparative Embryology
+* During the early stages of development, the embryos of different vertebrates are almost indistinguishable.
+* 	Fish, amphibian, bird and mammalian embryos have similar, features, indicating that they arose from a common ancestor.
+* Similarities include:
+* Visceral clefts, segmental muscle blocks (myotomes) and a single circulation.
+Comparative Anatomy
+
+* Comparative anatomy is the study of organs in different species with the aim of establishing whether the organism are related.
+
+
+
+
+
+* Organisms which have the same basic features are thought to have arisen from a common ancestor.
+* The vertebrate pentadactyl limb evolved in different ways as an adaptation to different modes of life.
+* e.g. as a flipper in whales, as a wing in bats and as a digging hand in moles.
+* Such organs are said to be homologous, i.e. they have arisen from a common ancestor but they have assumed different functions.
+* This is an example of divergent evolution .
+* The wing of a butterfly and that of a bird are said to be analogous.
+* 	i.e. they have originated from different ancestors but they perform the same function.
+* This is an example of convergent evolution.
+
+Cell Biology
+
+* All eucaryotic cells have organelles such as mitochondria, membrane-bound nuclei, ribosomes, golgi bodies.
+* Thus indicating that different organisms have a common ancestor.
+* The presence of chloroplasts and cellulose cell walls indicates that green plants have a common ancestor.
+* Blood pigments are conjugated proteins with a metal group.
+* Similar pigments are found in different animal groups .
+* e.g. haemoglobin is found in all vertebrates and in annelida (earthworm).
+* This shows that all animals have a common origin.
+
+Mechanism of Evolution
+* The mechanism of evolution can be described as a process of natural selection acting on the heritable variations that occur among the members of a population.
+* A population consists of a group of individuals of the same species.
+* Each individual has a set of hereditary factors(genes).
+* All the genes in a population constitute a gene pool.
+* When reproduction takes place, genes pair with one another randomly.
+* Genes which occur in great numbers in the gene pool, will occur in greater numbers in the next generation.
+* Several theories have been proposed over the years to explain how evolution took place.
+Lamark's theory
+* Lamark had observed that if a part of the body of an organism was used extensively, it became enlarged and more efficient;
+
+
+
+
+
+* If a part of the body was not fully used, it would degenerate.
+* By use and disuse of various body parts, the organism would change and acquire certain characteristics.
+* He suggested that these characteristics would them be passed on to the offspring(next generation).
+* In 1809, lamark published his book ''Theory Of Evolution''.
+* He proposed that new life forms arise from use and disuse of parts of existing organisms and through the inheritance of acquired characteristics.
+* Lamark's theory has been disapproped in that although use and disuse of parts does lead to acquired characteristics, such characteristics are not inheritable since they are effects produced by the environment and not by genes.
+Evolution by natural selection
+* In 1859, charles Darwin published his theory of evolution' in a book called origin of species by means of natural selection'.
+* Darwin's theory was based on the following evidence;the population of a given species remains constant over a long period of time.
+* The number of young ones is more than the number of adults.
+* More offsprings are produced than can possibly survive.
+* Variation occurs withing a given population,i.e all members of the same species are not alike.
+* On the basis of these observations.
+
+Darwin made the following conclusions;
+* There is a struggle for existence among individuals in a given population.
+* Individuals who are not suitably adapted (e.i. who have unfavourable variations)are less able to pass their characteristics to the next generation.
+* Natural selection operates on the population, selecting those individuals with favourable variations;
+* i.e. environment favours individuals that are more adapted.
+* They win competition e.g. for food and survive.i.e. ''survival of the fittest''.
+* They attain sexual maturity and pass on the characteristics to their offsprings.
+
+Natural selection
+* Peppered moth (Industrial melanism)
+* The peppered moth, Biston betularia, exists in two distinct forms;
+* A speckled white form(the normal form) and the melanic, dark form.
+* The moths normally rest on the tree trunks and branches wherre they are camouflaged against predators.
+* The first melanic moths were observed in 1848 around Manchester in Britain.
+* Since that time, their numbers has increased tremendously, out-numbering the speckled white form.
+
+
+
+
+
+* The increase in the population of the melanic form is correlated with environmental changes brought about by industrialization and pollution.
+* Smoke and soot from factories have darkened the tree trunks over the years.
+* This has resulted in the preservation of the mutation in Biston betularia
+leading to the evolution of the melanic form.
+* This form is almost invisible against the dark background of the tree trunks and is less subject to predation than the speckled form.
+* The peppered form is more abundant in areas away from the soot and smoke of factories.
+* This is because it is well camouflaged by the lichen-covered tree trunks against which it rests and is therefore not easily detected by predators.
+* The existence of two or more distinct forms within a species (as exemplified by Biston betularia) is called polymorphism.
+
+Resistance to Drugs
+* Certain strains of organisms have developed resistance to drugs and antibiotics.
+* 	Following continued use of such drugs and antibiotics, some of the individuals in a population of bacteria or other microorganisms survive and are able to pass their characteristics to the next generation.
+* When a patient fails to take full dosage of the antibiotics prescribed the pathogen develops resistance to the drugs hence become difficult to control.
+* Some mosquitoes have developed resistance to certain pesticides.
+Practical Activities
+Comparison of Vertebrate Limbs
+* Limbs of various vertebrates are provided:
+* e.g. fish- Tilapia, amphibian-frog reptiles, lizard; bird - domestic fowl (chicken), mammal- rabbit.
+* Their anatomy can be studied.
+* The following can be noted:
+* That all limbs have five sets of bones;
+* A single upper bone- the femur in hind limb and the humerus in fore limb
+* Two lower limb bones -i.e. the tibia & fibula in the hind limb & ulna & radius in the forelimb.
+* Small bones - i.e. ankle (tarsals) and wrist bones (carpals)
+* The bones making the foot and hand are metatarsals and metacarpals respectively.
+* The bones of toes and of fingers i.e. phalanges
+* Observe the various modifications of these bones in the various animals.
+
+
+
+
+
+* Limbs of different mammals e.g. rabbit, cow, donkey reveal that the anatomy is adapted to mode or type of movement .
+* e.g. the horse has a single digit.
+* An outdoor activity to observe various sty les of movement in different mammals can be studied.
+* It is noted that some move on tips of toes (donkey) others on the whole leg (rabbit).
+
+Comparision of Wings of bird-and insect
+* Wings of birds and insects (grasshopper, butterfly or moth) are obtained.
+* A hand lens or a dissecting microscope is used to observe the specimens.
+* The differences in their anatomy is noted.
+* Insect wings are membranous while those of birds are made up of feathers that interlock.
+Education tour to Archeological site/local Museum
+* Visits to the local museum yield important information that greatly supplement study of evolution.
+* The National museum in Nairobi has many fossils.
+* Visit to the various archeological sites that exist in Kenya is recommended.
+end
+
+
+
+
+RECEPTION, RESPONSE AND CO-ORDINATION IN PLANTS AND ANIMALS
+Introduction
+* The structures involved in detecting the changes may be located far away from the ones that respond.
+* There is need for a communication system within the body.
+* The nervous system and the endocrine system perform this function,
+* i.e. linking the parts of the body that detect changes to those that respond to them.
+
+
+
+
+
+Irritability
+* Living organisms are capable of detecting changes in their internal and external environments and responding to these changes in appropriate ways.
+* This characteristic is called irritability, and is of great survival value to the organism.
+Stimuli
+* A stimulus is a change in the internal or external environment to which an organism responds.
+* Examples of stimuli include light, heat, sound, chemicals, pH, water, food, oxygen and other organisms.
+Response
+* A response is any change shown by an organism in reaction to a stimulus.
+* The response involves movements of the whole or part of the body either towards the stimulus or away from it.
+* It also results in secretion of substances e.g. hormones or enzymes by glands.
+
+Co-ordination
+* Co-ordination is the working together of all the parts of the body to bring about appropriate responses to change in the environment.
+Reception
+* Reception is the detection of changes in the environment through receptors.
+
+
+Irritability in Plants
+* Response in plants is not as pronounced as in animals.
+* This does not in anyway diminish the importance of irritability in plants.
+* It is as important to their survival as it is in animals.
+* Plants respond to a variety of stimuli in their environment.
+* These stimuli include light, moisture, gravity and chemicals.
+* Some plants also show response to touch.
+Tropisms
+* Plants often respond by growing in a particular direction.
+* Such growth movements are called tropisms.
+* They are the result of unequal growth in the part of the plant that responds.
+
+
+
+
+
+* The stimulus cause unequal distribution of growth hormones (auxins) produced in the plant.
+* One side grows more than the other resulting in a bend either towards the stimulus (positive tropism) or away from the stimulus (negative tropism).
+
+
+Phototropism
+* If seedlings are exposed to light from one direction, their shoots grow towards the light.
+* This response is called phototropism.
+* Shoots are said to be positively phototropic because they grow towards the light.
+* The tip of the shoot receives the light stimulus from one direction (unilateral stimulus) but the response occurs below the tip.
+* The response of the shoot is due to a hormone called auxin produced at the tip.
+* It diffuses down the shoot to this zone of cell elongation where it causes the cells to elongate.
+* Light causes auxin to migrate to the darker side.
+* The auxin is more concentrated in the dark side than on the light side.
+* The cells on the dark side grow faster than the ones on the light side.
+* A growth curvature is therefore produced.
+Survival value:
+* Positive phototropism by shoots ensure that sufficient light is absorbed by leaves for photosynthesis.
+Geotropism
+* Geotropism is a growth response to gravity.
+* Roots are positively geotropic because they grow down towards the direction of the force of gravity;
+* shoots are negatively geotropic because they grow away from direction of force of gravity.
+* If a seedling is kept in the dark with its plumule and radicle in a horizontal position, the plumule will eventually grow vertically upwards while the radicle will grow vertically downwards.
+* The effect of gravity on roots and shoots can be explained as follows:
+* When the seedling is placed in a horizontal position, more auxin settles on the lower side of the root and shoot due to the effect of gravity.
+* Shoots respond to a higher concentration of auxin than roots.
+
+
+
+
+
+* The lower side of the shoot grows faster than the upper side.
+* Resulting in a growth curvature that makes the shoot grow vertically upwards.
+* Root growth is inhibited by high concentrations of auxin.
+* Therefore, the lower side of the root grows at a slower rate than the upper side where there is less auxin concentration.
+* This results in a growth curvature that makes the root grow vertically downwards.
+Survival Value:
+* Roots in response to gravity grow downwards where they absorb water and get anchored in the soil.
+* This results in absorption of nutrients needed for growth.
+Hydrotropism
+* Hydrotropism is the growth of roots towards water (moisture) .
+Survival Value
+
+* It ensures that plant roots grow towards moisture to obtain water needed for photosynthesis and transport of mineral salts.
+Chemotropism
+* Chemotropism is the response of parts of a plant towards chemical substances,
+* e.g. the growth of the pollen tube towards the ovule in flowering plants is a chemotropic response.
+Survival Value
+* This ensures that fertilisation take place and the perpetuation of the species continues.
+Thigmotropism
+* Thigmotropism is a growth response to touch.
+* e.g. tendrils of climbing plant bend around objects that they come in contact with.
+Survival Value
+* This provides support and the leaves stay in a position suitable for absorption of light and gaseous exchange for photosynthesis.
+Tactic Movements in Plants and other Organisms
+
+
+
+
+
+* A tactic movement is one made by a whole organism or a motile part of an organisms (e.g. a gamete) in response to a stimulus.
+* Tactic movements are named according to the nature of the stimulus that brings about the response.
+* Phototaxis is movement in response to direction and intensity of light.
+* Free-swimming algae such as Chlamydomonas usually tend to concentrate where light intensity is optimum and will respond to light by swimming towards it. This is an example of phototactic response.
+* Osmotaxis is movement in response to changes in osmotic conditions e.g. freshwater amoeba.
+Survival Value
+* Ensures favourable conditions for existence.
+* Chemotaxis is movement in response to concentration of chemical substances.
+
+Survival Value
+* In bryophytes, antherozoids move towards archegonia to effect fertilisation
+Survival Value of taxis:
+* These ensure conditions favourable for life bring maximum benefit to the organism.
+Nastic Movements
+* A nastic movement is one made by part of a plant in response to stimulus which is not coming from any particular direction.
+* Nastic movements are also named according to the nature of the stimulus.
+* Seismonasty/haptonasty - response to shock.
+* The 'sensitive plant' Mimosa pudica responds to touch by folding up its leaves.
+* This is an example of a seismonastic response.
+Production of auxins and their effects on plant growth
+* Auxins are produced by plant apices, i.e. root apex and shoot apex.
+* They bring about cell elongation resulting in growth.
+* They are diffusible substances which effect growth when in very small amounts.
+* Roots require lower concentrations than shoots.
+* The effect of auxins on the growth of roots and shoots has already been discussed.
+
+
+
+
+
+* Auxins also exert other effects on plant growth and development.
+* There are various other chemical substances which have been shown to influence plant growth and development.
+Effects of Auxin on Plant Growth Apical Dominance
+* Auxins inhibit the growth of side branches.
+* This is referred to as apical dominance.
+* If the terminal bud is removed, side branches develop from the lateral buds.
+* This knowledge is applied in pruning.
+* As long as the main stem is allowed to remain intact, the development of side branches is suppressed.
+* Pruning the terminal bud removes the main sources of auxin, thus allowing side branches to sprout.
+
+
+
+
+Growth of adventitious roots
+* Adventitious roots develop from the stem.
+* Auxins stimulate the growth of such roots.
+Parthenocarpy
+* This refers to the formation of fruits without fertilisation.
+* This can be induced by treating unpollinated flowers with auxin.
+* This phenomenon is applied in the development of seedless fruit varieties.
+* Auxins, together with other plant hormones, are involved in secondary growth, falling of leaves and ripening of fruits.
+Reception, Responses and Coordination in Animals
+* The nervous and endocrine systems (together known as the neuro-endocrine system) act as a co-ordinating system.
+* They linking the receptors to the effectors and regulating their activities.
+
+Receptors
+* Receptors are cells that detect or receive stimuli.
+* They may be scattered more uniformly all over the body surface
+* e.g. receptors for pain, touch, temperature; or they may be located in a special sense organ e.g. receptors for light, sound, taste and smell.
+
+
+
+
+
+* Motor nerves link the Central Nervous System (CNS) to the effectors.
+* Its cell body is located at one end of the axon.
+* It transmits nerve impulses from the CNS to the effectors.
+Effectors
+* These are the cells, organs, or organelles which enable the organism to respond.
+* They include muscles, glands, cilia and flagella.
+The Nervous System
+Components of the nervous system in humans
+* Every organ is the human body is connected to nerves.
+* The nervous system is made up of nerve cells (neurons) which transmit impulses from one part of the body to another.
+It consists of the following:
+* The Central Nervous System (CNS) is a concentrated mass of interconnected nerve cells which make up the brain and the spinal cord.
+* The peripheral nervous system is made up of nerves which link the CNS to the receptors and the effectors.
+* Sensory nerves link the sensory cells (receptors) to the central nervous system and transmit nerve impulses from a sense organ to the CNS.
+
+Structure and Functions of Neurons
+* A nerve cell consists of a cell body (centron) where the nucleus is located, and projections called dendrites arise.
+* One of the projections is drawn out into an axon i.e. the longest process.
+* Each axon contains axoplasm which is continuous with the cytoplasm in the cell body.
+* The axon is enclosed in a fatty myelin sheath which is secreted by Schwarm cell.
+* The myelin sheath is interrupted at approximately 1 mm intervals by constrictions known as nodes of Ranvier.
+* The myelin sheath is enclosed by a thin membrane called the neurilemma,
+which is part of the Schwann cell in contact with axon.
+* The myelin sheath and nodes of Ranvier enhance transmission of the impulse.
+
+
+
+
+
+There are three types of neurons:
+Sensory neurone
+* Also known as afferent neurone.
+* Transmits impulses from sensory cells to the CNS.
+* The cell body of a sensory nerve cell is located at some distance along the length of the axon outside the CNS.
+
+
+
+
+
+Motor neurone
+* Known as efferent or effector neurone
+* Transmit impulses from the CNS to the effectors(muscles and glands)
+* Its cell body is located inside the CNS.
+
+Intermediate or connector neurone
+* Also called relay neurone
+* Found inside the CNS.
+* The connect sensory and motor neurons with each other and with other nerve cells in the CNS.
+
+	
+
+
+
+Functions of the neurone
+* The nerve impulse is electrical in nature.
+* Its transmission depends on differences in electrical potential between the inside and the outside of the axion.
+* The outside is positive while the inside is negative.
+* The stimulus triggers a change that affects the permeability of neurone membrane.
+* The result is a change in the composition of ions on either side of the membrane.
+* The outside becomes negative as the inside becomes positive due to sodium ions rushing in.
+* The above constitutes a nervous impulse which is transmitted along the sensory neurone to the CNS.
+* The speed of transmission is very high.
+* Certain mammalian axions transmit impulses at the rate of 100m/s.
+* The dendrites of neurons do not connect directly to each other, but they leave a small gap called synapse.
+* The transmission of an impulse from one cell to the next takes place through synapse.
+* Synaptic knobs are structures found at the ends of dendrites.
+* Thus the dendrites of one nerve cell make contact with the dendrites of the adjacent nerve cell through the synapses.
+* Impulses are transmitted in the form of a chemical transmitter substance which crosses the gap between one dendrite and the next.
+* The transmitter substance is found within synaptic vesicles.
+* The chemical substance is either acetylcholine or noradrnaline.
+* The synaptic vesicles burst and release the transmitter substance when an impulse arrives at the synaptic knob.
+* Impulses in motor neurone s are trans mitted to effectors.
+
+
+
+
+
+* The space between motor end dendrite and muscle is known as neuro- muscular Junction.
+* Synaptic vesicles in the ends of the dendrites release the transmitter substance across the neural muscular junction.
+
+
+
+Functions of Major Parts of the Human Brain
+* The Central Nervous System (CNS) consists of the brain and the spinal cord.
+* The CNS co-ordinates body activities by receiving impulses from sensory cells from different parts of the body.
+* It then sends the impulses to the appropriate effectors.
+* The brain is enclosed within the cranium or braincase.
+* It is covered and protected by membranes known as meninges.
+* When meninges are infected by bacterial or fungi they cause meningitis.
+The brain consist of the following parts:
+Cerebrum.
+* This is the largest part of the brain.
+* It consists of two cerebral hemispheres.
+* It is highly folded in order to increase the surface area.
+* The cerebrum controls learning, intelligence, thought, imagination and reasoning.
+The medulla oblongata (brain stem).
+* The medulla oblongata has centres which control breathing (ventilation) rate,
+* heart beat rate (cardiac frequency),
+* swallowing, salivation, blood pressure
+* temperature regulation, hearing, taste and touch.
+The cerebellum
+
+
+
+
+
+* Is located in front of the medulla and is a folded dorsal expansion of the hindbrain.
+* It controls posture movement and balance.
+
+The hypothalamus
+* Controls functions such as body temperature and osmoregulation.
+The pituitary gland
+* Is an endocrine organ that secretes a number of hormones which control osmoregulation, growth, metabolism and sexual development.
+Optic lobes -control the sense of sight. Olfactory lobes -control the sense of smell. Spinal Cord
+* The spinal cord is located within the vertebral column and consist of the
+following:
+* The grey matter forms the central part of the spinal cord.
+* It consists of nervecell bodies and intermediate nerve fibres.
+* The white matter of the spinal cord carries sensory nerve fibers while the ventral root carries motor nerve fibers.
+
+Simple And Conditioned Reflex Actions
+
+Simple Reflex Action
+
+* A simple reflex action is an automatic response to a stimulus.
+* The route that is followed by impulses during a reflex action is called a reflex arc.
+
+	
+
+
+
+
+
+
+
+
+
+
+A reflex action follows the following sequence:
+
+* A receptor is stimulated and an impulse is transmitted along a sensory nerve fibre to the spinal cord.
+* The impulse is picked up by an intermediate neurone within the CNS.
+* The intermediate nerve fibre transmit the impulse to a motor nerve fibre which is connected to an effector.
+* The effector responds.
+Examples of reflex action include:
+> Pulling the hand away from a hot object.
+> The knee jerk.
+> Sneezing.
+Conditioned Reflexes
+* These are learned responses.
+* When two or more stimuli are presented to an animal at the same time and repeatedly, the animal eventually responds to either stimulus.
+* For example, if a hungry animal is presented with food, it will respond by salivating.
+* 	If a bell is rung at the same time as the food is presented to the animal, the animal will learn to associate the sound of the bell with food.
+* Eventually, the animal can be made to salivate at the sound of the bell alone.
+* This response is called conditioned reflex and is one of the ways by which animals learn.
+The Role of Endocrine System in Human Beings
+
+
+
+
+
+* Endocrine system consists of glands that secrete hormones.
+* The glands have no ducts and are known as endocrine glands.
+* Other glands are known as exocrine glands because they have ducts.
+* The pancreas has an outer exocrine portion and an inner endocrine portion.
+* Hormones are chemical substances, protein in nature which are secreted at one part of the body and have effects on other parts not necessarily near the point of secretion.
+* They are secreted directly into blood and transported by blood.
+* Each hormone either has a generalised co-ordinating effect on the body or brings about a specific response in a particular target organ.
+Hormones produced in humans and the in effects on the body.
+Endocrine glandHormone(s) producedRole of hormoneEffect of
+deficiencyEffect of excess1. PituitaryTrophic Hormones
+(i) Somatotropin (Growth Hormone)Controls growthDwarfismGigantism(ii) Thyrotrophic HormoneControls production
+of thyroxin by thyroid glandSame as for
+deficiency of thyroxinSame as for excess of tyroxine(iii) Adrenocorticotrophic Hormone (ACTHStimulates the
+activity of adrenal cortex(iv) Follicle stimulating Hormone (FSH)Development of
+Graafian follicles in the ovary(v) Luteinising Hormone (L.H)2. ThyroidThyroxineRegulates theRetardation ofHigh metabolic rate,metabolic rate;physical and mental development (cretinism)rapid heartbeat, general wasting of the body: protrusion of eyeballs
+(exopthalrnic goitre)3.1slets of(i) InsulinRegulates bloodHyperglycaemiaHypoglycaemiaLangerhans in pancreassugar by causing conversion of glucose to glycogen(high blood sugar); diabetes mellitus(low blood sugar)(ii) GlucagonRegulates bloodHypoglycaemiaHyperglycemiasugar by causing(low blood sugar)(high blood sugar)conversion of gylcogen intoglucose4. GonadsAndrogens andDevelopment ofSecondary sexualIn females leads toTestis and ovariessecondary sexual characteristics.characteristics fail to developdevelopment of male.? In males leads to development of
+female characteristics.
+
+
+
+
+
+
+(i) OvariesOestrogenRepair of uterine
+wallProgestroneCauses thickeningMiscarriage whenof wall of uterus;level falls duringinhibits ovulationpregnancyduring pregnancy;
+prevents contraction of uterus(ii)TestisTestosteronePromoteMale sterility(interstitial cells)spermatogenesis;and male secondarysexualcharacteristics.5.Adrenal glands'(i) AdrenalineChanges in
+response to fear, stress or shock; increased heartbeat, conversion of glycogen to
+glucose; dilation of pupils; increased blood flow to skeletal muscles(ii) HydrocortisoneMetabolism of
+carbohydrates, lipids and proteinsLess glycogen
+stored in the liver and muscles(iii) AldosteronePromotes retentionKidneys excreteof sodium chloride
+and bicarbonatetoo much
+sodium, chlorideionsand bicarbonate ions
+
+Adrenaline
+* Enhance activity of sympathetic nervous system.
+Over secretion
+* Increased heartbeat
+* High blood pressure
+* Thin toneless muscles.
+
+Under secretion
+* Low blood pressure
+* Inability to withstand stress
+* Muscular weakness
+Thyroxine
+Over secretion is termed hyperthyroidism this causes:
+* Increased Basal Metabolic Rate (BMR) hence increased temperature.
+
+
+
+
+
+* Person becomes very angry, nervous and hands may shake.
+* Increased heartbeat which lead to cardiac failure.
+Under secretion is termed hypothyroidism:
+* Poor growth and mental retardation (cretinism).
+* Reduced metabolic rate hence decreased temperature.
+* Person becomes inactive and slothful.
+* Eyes and face become puffy as fluid gets stored under skin.
+* In extreme cases the tongue is swollen and skin becomes rough.
+* Enlarged thyroid gland.
+Comparison between endocrine and nervous system
+Nervous communicationEndocrine communicationSpeed of
+
+TransmissionUsually rapidUsually slowerResponseUsually specific in a given
+
+EffectorUsually widespread; in some cases
+
+in particular target organ.Nature of impulseElectrochemical along
+
+Axion; chemical across synapsesChemical; in the form of a hormone that travels in bloodDuration of
+
+responseUsually short livedUsually long-lasting.e.g.
+
+growth
+
+Similarities
+* Both endocrine and nervous system are involved in the coordination of body functions.
+* Both have target organs.
+* Both are controlled via a negative feedback mechanism, i.e too high production results in a reduced production.
+Effects of drugs abuse on the human health.
+* Drug abuse can be defined as misuse of drugs.
+* Drugs are chemical compounds that affect the working of body or kill disease causing microorganisms.
+Prescription drugs
+* Are drugs prescribed by a doctor.
+* Prescribed drugs can be abused through taking overdose which may cause death.
+Over the counter drugs(OCD)
+
+
+
+
+
+* Are self prescribed drugs.
+* These have harmful effects and may lead to tolerance such that higher doses are needed.
+Below is a list of effects of hard drugs on human health
+* Lung cancer caused by nicotine.
+* Emphysema.
+* Liver cirrhosis -caused by alcohol.
+* Interferes with vision - alcohol.
+* Sterility - khat (rniraa).
+* Sleeplessness - insomnia - khat (miraa).
+* Hallucinations - Canabis sativa (Bang i).
+* Digestive system is upset, nausea.
+* Diarrhoea and vomiting.
+* Headache and double vision.
+* Skin tone changes - e.g. too dark.
+* Appetite is extreme - very poor or very great.
+* Weight loss.
+* Personality changes e.g. irritable and confused.
+* Convulsions, lethargy and depressions due to inhalation of solvents e.g. glue.
+
+
+
+
+
+
+
+
+
+Structure and Function of Parts of the Human Eye Structure
+
+	
+
+
+
+
+
+
+
+
+
+
+* The human eye is spherical in shape and situated within a socket or orbit in the skull.
+* It is attached to the skull by three pairs of muscle, which also control its movement.
+* It is made up of three main layers; sclerotic layer, choroid and the light sensitive retina.
+Sclerotic layer
+* Outermost white part situated at the sides and back of the eye.
+* Made up of collagen fibres.
+* It protects the eye and gives its shape.
+Cornea
+* This is the transparent front part of the sclera that allows light to pass through.
+* It is curved, bulging at the front. It thus reflects light rays hence helps to focus light rays onto the retina.
+Choroid
+* The second or middle layer.
+* It has many blood vessels that supply nutrients to the eye and remove metabolic wastes from the eye.
+* It has dark pigments to absorb stray light and prevent its reflection inside the eye.
+Ciliary body
+* Is glandular and secretes aqueous humour.
+
+
+
+
+
+* It has blood vessels for supplying of nutrients excretion and gaseous exchange.
+* It has ciliary muscles - which contract and relax to change the shape of lens during accommodation.
+Suspensory ligaments
+* Are inelastic and attach the lens onto the cilliary body holding it in position.
+
+
+Lens
+* Biconvex in shape, to refract light.
+* Crystalline and transparent to allow light to pass through and focus it on to the retina.
+Aqueous humour
+* Found between lens and the cornea.
+* Transparent to allow light to pass through it.
+* It is watery thus helping in focusing.
+* Helps maintain shape of eye ball.
+* To convey nutrients and oxygen to cornea, and remove waste products.
+Iris
+* The coloured part of the eye has an opening - the pupil at the centre.
+* Iris has circular and radial muscles which controls size of the pupil, hence the amount of light entering the eye through the pupil.
+Vitreous humour
+* It is a fluid.
+* Found between lens and retina.
+* Is viscous and gives eye the shape.
+* It is transparent and refracts light.
+Retina
+* Retina contains light sensitive cells and is situated at the back of the eye.
+* There are two types of light sensitive cells in the retina:
+* Rods - are sensitive to low-intensity light and detect black and white. Nocturnal mammals have more rods.
+* Cones - are sensitive to high intensity of light;
+* They detect bright colour.
+* Diurnal mammals have more cones.
+Fovea centralis
+
+
+
+
+
+* Fovea centralis (yellow spot) is the most sensitive part of the retina.
+* Consists mainly of cones for accurate vision (visual acuity).
+Optic nerve
+* Optic nerve, has neurons for transmission of impulse to the brain for interpretation.
+Blind spot
+* Blind spot is located at the point where the optic nerve leaves the eye on its way to the brain.
+* It is not sensitive to light it has no rods or cones.
+Eye lid
+* Eye lid is a loose skin that covers the eye. It closes by reflex action.
+* Protects it from mechanical damage and from too much light.
+Eyelashes
+* Prevent dust and other particles from entering eye.
+Conjuctiva
+* It is transparent and thin and allows light to pass through.
+* It is a tough layer that is continuous with the epithelium of the eye lids.
+* It protects the cornea.
+
+Accommodation
+* Accommodation refers to the change in the shape of the lens in order to focus images.
+* Rays from a distant object would be focused at a point behind the retina if the lens were not adjusted appropriately.
+* When the eye is focusing at a distant object, the cilliary muscles are relaxed and the suspensory ligament are stretched tight.
+* The lens is pulled thin, thus allowing light rays from a distant object to be properly focused on to the retina.
+* When the eye is looking at near object, the ciliary muscles contract and the suspensory ligament become slack.
+* The lens becomes more convex.
+* This allows light rays from near object to be focused onto the retina.
+Control of light intensity entering the eye
+* In bright light (high intensity) the circular muscles of the iris contract.
+* The diameter of the pupil decreases and less light enters.
+* This protects retina from damage by too much light.
+
+
+
+
+
+* In dim light circular muscles of iris relax (radial ones contract).
+* Pupil's size (diameter) increases, more light enters the eye.
+Image formation and Interpretation
+* Light rays from an object enter the cornea and are directed onto the lens through the pupil.
+* They are refracted by the cornea and the lens.
+* The latter brings the rays into fine focus.
+* 	It makes the light rays converge so that an image is focused at a point on the retina.
+* The image on the retina is inverted.
+* This stimulate, the rods and cones on the retina and impulses generated are transmitted through the optic nerve to the brain.
+   * The brain interprets the image as upright. Common Eye Defects and their Correction Short-sightedness (Myopia)
+* A shortsighted person cannot focus distant objects properly.
+* Light rays from a distant object fall at a point in front of the retina.
+* This may be due to the eyeball being too long.
+* This defect can be corrected using spectacles with concave lenses.
+* The lenses make the light rays diverge before they reach the eye.
+Long-sightedness (Hypermetropia)
+* A long-sighted person cannot focus near objects properly.
+* Light rays from the object are not focused on the retina.
+* This may be due to the eyeball being too short.
+* This defect may be corrected by using spectacles with convex lenses which make light rays converge before they reach the eye.
+Astigmatism
+* Astigmatism refers to a condition in which the cornea or the lens is uneven, so that images are not focused properly on the retina.
+* This defect can be corrected by wearing spectacles with special cylindrical lenses.
+* Presbyopia is a condition in which light rays from a near object are not focused on the retina.
+* This is caused by hardening or loss of elasticity of lense due to old age.
+* This defect is corrected by wearing convex (converging) lenses.
+Structure and Functions of Parts of Human Ear
+
+
+
+
+
+The Mammalian Ear
+* The mammalian ear performs two major functions:
+* hearing and detecting changes in the positions of the body to bring about balance and posture.
+The ear is divided into three sections.
+The Outer Ear
+This consists of:
+* An outer flap, the pinna which is made up of cartilage.
+* The function of the pinna is to catch and direct sounds.
+* The external auditory canal is a tube through which sound travel.
+* The lining of the tube secretes wax, which traps dust particles and microorganisms.
+* The tympanum is a membrane stretching across the inner end of the external auditory canal.
+* The tympanum vibrates when it is hit by sound waves.
+The Middle Ear
+* This is a chamber containing three small bones called the ear ossic1es, the malleus, incus and stapes.
+* The three ossic1es articulate with one another to amplify vibrations.
+* The vibrations are transmitted from the tympanum to the oval window.
+* At the end of the chamber is a membrane called the oval window.
+* When the tympanum vibrates, it causes the ear ossic1es to move forwards and backwards.
+* This causes the oval window to vibrate.
+* The Eustachian tube connects the middle ear to the pharynx.
+* 	It allows air to get in and out of the middle ear, thus equalising the pressure between the inside and the outside of the tympanum.
+The Inner Ear
+* This consists of a series of chambers filled with fluid.
+* It comprises the cochlea and semicircular canals.
+* Cochlea is a coiled tube that occupies a small space and accommodates a large number of sensory cells.
+* The cells are connected to the brain through the auditory nerve.
+* They detect vibrations which lead to hearing.
+Hearing
+
+
+
+
+
+* The sound waves set the tympanum vibrating and are transformed into vibrations.
+* The vibrations are transmitted to the oval window by the three ossicles.
+* Vibrations of the oval window cause the fluids inside the cochlea tube to vibrate.
+* The membranes inside the cochlea have sensory cells which change the sound vibrations to nerve impulses.
+* These are transmitted to the brain through the auditory nerve.
+* Hearing is perceived in the brain.
+
+
+
+Balance and posture
+* The semi-circular canals
+* There are three semi-circular canals in each ear.
+* They are situated at right angles to each other and each one is sensitive to movement in a different plane.
+* They are filled with fluid and each has a swelling called the ampulla at one end.
+* Inside the ampulla are sensory cells.
+* Balance and posture are detected by these cells.
+* Movement of the head in a given direction causes the fluid to move the hairs on sensory cells.
+* This transmit impulses to the brain through the auditory nerve so that the movement is registered.
+Defects of the ear Acute labyrinthitis
+* This is an inflammation of the middle ear and cochlea.
+* It may lead to deafness.
+* 	It can be treated by using certain drugs but sometimes an operation may be necessary.
+Tinnitis:
+* This is a sensation of noises in the ear.
+* 	It is caused among others by accumulation of wax in the ear or use of certain drugs e.g. quinine.
+* Treatment is by removal of wax, stopping use of the causative drug.
+Vertigo - Giddiness
+
+
+
+
+
+* This is disorientation of body in space - one of the causes is dilation of endolymph.
+* Corrections: Use of appropriate drugs.
+Deafness.
+* This is inability to hear.
+* It is presented in various degrees in various individuals, some have partial hearing, others are completely deaf.
+This may be as a result of:
+* Chronic infection of cochlea.
+* Lack of sensory cells.
+* Excess wax in external auditory canal.
+* Fusion of ear ossicles.
+Otitis Media
+* This is the inflammation of middle ear due to build-up of fluid.
+* It is marked by the swelling of tissues surrounding the Eustachian tube due to infection or severe congestion.
+* A strong negative pressure creates a vacuum in the middle ear.
+* Treatment - use of antibiotics or surgery.
+
+Practical Activities
+* To investigate tactic response
+* Tactic response in fly maggots are investigated using choice chambers(s).
+* Responses to various stimuli are observed e.g. to chemical substances - chemotaxis.
+* On one side of choice chambers is placed beef/fish that has been dried in the sun.
+* On the opposite chambers is placed rotting meat/fish.
+* Ten maggots are placed at the center and choice chamber is covered.
+* After 10 minutes the number of maggots at each end is counted.
+* Most of the maggots have moved to the chamber with rotting meat.
+Tropisms
+* Maize or been seeds are soaked and germinated, to the stage when radical and coleoptile/plumule just appear .
+* (about 5 days for beans and seven days for maize).
+* Seedlings with straight radic1es and plumules are used ..
+Geotropism
+* The seedlings are placed horizontally on the medium (Soil or vermiculite or saw dust or sand).
+
+
+
+
+
+* Observations are done after three days and results recorded.
+Phototropism
+* A potted plant or a young seedling planted in a beaker is kept next to a window which is the only source of light in the laboratory.
+* Alternatively, a dark box may be used.
+* Observations are made after 3-5 days and results recorded.
+* The shoots grow bending towards the same light.
+Etiolation
+Young seedlings are placed in a dark box. It is kept moist but not exposed to light.
+After two weeks the seedlings are removed and observations made to note the following:
+Colour of leaves is yellow. Size of leaves is small Length of internodes is long
+Length of stem elongated long and thin.
+Other seedlings that were grown in light are observed (as control) and similar measurements taken.
+They are green in colour with larger leaves, shorter internodes and the stem is shorter and thicker.
+Those in the dark have smaller yellow leaves, long thing stems with long internodes. (etiolated).
+Experiment to Determine Distance of the Blind Spot
+* Students should work in pairs so that one takes measurements while the other observes.
+* A cross and a dot are marked on a white paper .
+* The two points are 6-9 cm apart.
+* The paper is held 50 cm away from the face.
+* Closing the left eye, the paper is slowly moved towards the face as the right eye is fixed on the cross.
+* At 50 cm distance the cross and the dot are seen clearly.
+* As-the paper is moved closer to the face, the dot disappears.
+* The distance at which the dot disappears is measured.
+* This is the distance of the blind spot.
+* When the light rays from the dot are focused on the blind spot it disappears hence the dot is not seen.
+The Knee Jerk Experiment
+
+
+
+
+
+* Students work in pairs, one student sits on the table, high stool or bench with one leg crossed over the other.
+* The other student chops the crossed knee just below the knee cap with the edge of palm or wooden ruler.
+* It is observed that the crossed knee jerks.
+* This is a spinal reflex. END
+
+
+
+
+
+
+
+
+
+
+
+
+Support and Movement in Plants and Animals
+Necessity for support and movement
+* Movement is a characteristic of all living organisms.
+* It enables animals and plants to adjust to their environment.
+* Most animals move from place to place but some are sessile (i.e. fixed to the substratum).
+* Majority of plants move only certain parts.
+* However, though not easily observed all living protoplasm shows movement of one type or another.
+
+Necessity for support and movement in plants
+* They enable plants to be held upright to trap maximum light for photosynthesis and gaseous exchange.
+* To hold flowers and fruits in appropriate position for pollination and dispersal respectively.
+* To enable plants to grow to great heights and withstand forces of environment e.g. strong winds.
+* Movement of male gametes to effect fertilisation and ensure perpetuation of a species.
+
+
+
+
+
+* Plant parts move in response to certain stimuli in the environment of tropisms.
+Tissue distribution in Monocotyledonous and Dicotyledonous plants
+* Vascular bundles are the main support tissues in plants.
+* In monocotyledonous stem they are scattered all over the stem.
+* while in dicotyledonous stem they are found in a ring or rings.
+* In monocots the xylem and phloem alternate around with pith in the centre.
+* In dicots of the xylem forms a star in the centre - there is no pith.
+* Phloem is found in between the arms of xylem.
+* Dicotyledonous plants have cambium which brings about secondary growth resulting in thickening of the stem and root hence providing support.
+* Secondary xylem becomes wood, providing more support to the plant.
+
+Role of support tissues in young and old plant
+Plants are held upright by strengthening tissues ;
+* parenchyma,
+* collenchyma,
+* sclerenchyma
+* xylem tissue.
+* Parenchyma and collenchyma are the main support tissues in young plants.
+Parenchyma -
+* They are found below the epidermis.
+* They form the bulk of packing tissue within the plant between other tissues .
+* They are tightly packed and turgid they provide support.
+Collenchyma -
+* Their cell walls have additional cellulose deposited in the corners.
+* This provides them with extra mechanical strength.
+Sclerenchyma -
+* Their cells are dead due to large deposits of lignin on the primary cell wall.
+* The lignified wall is thick and inner lumen is small, hence provide support.
+* Sclerenchyma fibres are arranged in elongated and in longitudinal sheets giving extra support.
+* They are found in mature plants.
+Xylem -
+* Has two types of specialised cells.
+* Vessels and tracheids.
+* Vessels are thick-walled tubes with lignin deposited in them.
+* They give support and strength to the plant.
+
+
+
+
+
+* Tracheids are spindle-shaped cells arranged with ends overlapping.
+* Their walls are lignified.
+* They help to support and strengthen the plant.
+
+Plants with weak stems obtain their support in the following ways.
+* Some use thorn or spines to adhere to other plants or objects.
+* Some have twinning stems which grow around objects which they come into contact with.
+* Others use tendrils for support.
+* Tendrils are parts of a stem or leaf that have become modified for twinning around objects when they gain support.
+* 	In passion fruit and pumpkin, parts of lateral branches are modified to form tendrils.
+* In the morning glory, the leaf is modified into a tendril.
+Support and Movement in Animals
+Necessity for support and movement in animals.
+Animals move from place to place:
+* In search of food.
+* To escape from predators.
+* To escape from hostile environment.
+* To look for mates and breeding grounds.
+* The skeleton, which is a support structure helps to maintain the shape of the body.
+* Movement is effected by action of muscles that are attached to the skeleton.
+
+Types and Functions of Skeletons
+* Two main types will be considered.
+* These are exoskeleton and endoskeleton.
+Exoskeleton
+* Exoskeleton is hard outer covering of arthropods made up of mainly chitin.
+* Which is secreted by epidermal cells and hardens on secretion.
+* It is strengthened by addition of other substances e.g. tannins and proteins to become hard and rigid.
+* On the joints such as those in the legs the exoskeleton is thin and flexible to allow for movement.
+Functions of Exoskeleton
+* Provide support.
+* Attachment of muscles for movement.
+* Protection of delicate organs and tissues.
+* Prevention of water loss.
+
+
+
+
+
+Endoskeleton:
+* It forms an internal body framework.
+* This is a type of skeleton characteristic of all vertebrates.
+* The endoskeleton is made of cartilage, bone or both.
+* It is made up of living tissues and grows steadily as animal grows.
+* Muscles are attached on the skeleton.
+* The muscles are connected to bones by ligaments.
+Functions
+* The functions of endoskeleton include support, protection and movement.
+* Locomotion in a finned fish e.g. tilapia.
+* Most of the fishes are streamlined and have backward directed fins to reduce resistance due to water.
+
+External features-of Tilapia
+* Scales tapers towards the back and overlap forwards to provide a smooth surface for a streamlined body.
+* The head is not flexible.
+* This helps the fish to maintain forward thrust.
+* Slimy mucous enables the fish to escape predators and protects the scales from getting wet.
+* The pectoral and pelvic fins are used mainly for steering, ensuring that the fish is balanced.
+* They assist the fish to change direction.
+* The dorsal and anal fins keep the fish upright preventing it from rolling sideways.
+* The caudal or tail fin has a large surface area, and displaces a lot of water when moved sideways creating forward movement of the fish.
+* In order to change position in water the fish uses the swim bladder.
+* When filled with air the relative density of the body is lowered and the fish moves up in the water.
+* When air is expelled, the relative density rises and the fish sinks to a lower level.
+* Swimming action in fish is brought about by contraction of muscle blocks (myotomes).
+* These muscles are antagonistic when those on the left contract, those on the right relax.
+* The muscles are attached to the transverse processes on the vertebra.
+* The vertebra are flexible to allow sideways movement.
+
+Mammalian skeleton
+The mammalian skeleton is divided into two:
+* Axial and appendicular.
+
+
+
+
+
+* Axial skeleton is made up of the skull and the vertebral column.
+* Appendicular skeleton is made up of the pelvic and pectoral girdles and limbs (hind limb and forelimbs).
+
+The Axial Skeleton
+This consists of the ;
+* skull,
+* the sternum,
+* ribs,
+   * the vertebral column. The Skull
+* The skull is made up of cranium and facial bones.
+* The cranium; encloses and protects the brain.
+* It is made up of many bones joined together by immovable joints.
+* The facial bones consists of the upper and lower jaws.
+* At the posterior end of the cranium are two smooth rounded protuberances, the occipital condyles.
+* These condyles articulate with the atlas vertebra to form a hinge joint, which permits the nodding of the head.
+
+Sternum and ribs -
+* They form the rib-cage.
+* The rib-cage encloses the thoracic cavity protecting delicate organs such as the heart and lungs.
+* The ribs articulate with the vertebral column at the back and the sternum at the front.
+
+The Vertebral Column
+* The vertebral column is made up of bones called vertebrae placed end to end.
+* The vertebrae articulate with one another at the articulating facets.
+* In between one vertebra and another is the cartilaginous material called intervertebal disc.
+* The discs act as shock absorbers and allow for slight movement.
+* Each vertebra consists of a centrum and a neural arch which projects into a neural spine.
+* The neural canal is the cavity enclosed by the centrum and the neural arch.
+* The spinal cord is located inside the canal.
+* The neural spine and other projections e.g. transverse processes serve as points of attachment of muscles.
+
+Type and number of vertebrae in human and rabbit
+
+	
+
+
+
+
+
+Cervical Vertebrae
+
+* These are found in the neck region of a mammal.
+* The distinguishing feature is a pair of verte-braterial canals in the neural arch, through which the blood vessels of the neck pass.
+* Another feature is the structure of the transverse processes.
+* They are flattened out and are known as cervical ribs.
+* The fIrst cervical vertebra is known as the Atlas.
+* It has a large neural canal and no centrum.
+* The second cervical vertebra, is called axis.
+* The other five cervical vertebrae have no specific names.
+* They have the same structure.
+* The cervical vertebrae possess numerous processes for muscle attachment.
+
+Thoracic Vertebrae
+
+* Each thoracic vertebra has a large centrum ,a large neural canal, neural arch and a long neural spine that projects upwards and backward.
+* There is a pair of prezygapophyses and postzygapophyses for articulation with other vertebra .
+* They have a pair of short transverse process.
+* The thoracic vertebra also articulates with pair of ribs at tubercular and capitular facets.
+
+Lumbar Vertebrae
+* Each lumbar vertebra has a large, thick centrum for support of the body.
+* It has a neural spine that projects upwards and forwards.
+* There is a pair of large transverse process that are directed forwards.
+* Above the prezygapophyses lies a pair of processes called metapophyses,
+* Below postzygapophyses lies the anapophyses.
+* Metapophyses and anapophysis serve for attachment pf muscles of the abdomen.
+
+
+
+
+
+* In some mammals, there may be another process on lower side of centrum called hypapophysis also for muscle attachment.
+
+
+
+
+Sacral Vertebrae
+
+* The sacral vertebrae are fused together to form a rigid bony structure, the sacrum.
+* The centrum of each vertebra is large, but the neural canal is narrow.
+* The neural spine is reduced to a small notch.
+* The transverse processes of the first sacral vertebra are large and wing-like
+* They are firmly attached to the upper part of the pelvic girdle.
+Caudal Vertebrae
+* Human beings have only four of these vertebrae which are fused together to form coccyx.
+* Animals with long tails have many caudal vertebrae.
+* A typical caudal vertebra appears as a solid rectangular mass of bone.
+* The entire bone consists of the centrum only.
+Appendicular Skeleton
+* The appendicular skeleton consist of the limbs and their girdles.
+
+Bones of Fore-limbs Pectoral girdle
+* Pectoral girdle is made of scapula, coracoid and clavicle.
+* A cavity known as glenoid cavity occurs at the apex of the scapula.
+* The humerus of the fore limb fits into this cavity.
+* The clavice is a curved bone connecting the scapular to the sternum.
+
+Humerus
+* Humerus is found in the upper arm.
+* It articulates with the scapula at the glenoid cavity of the pectoral girdle and forms a ball and socket joint.
+
+Ulna and radius
+* These are two bones found in the forearm.
+* The ulna has a projection called olecranon process and a sigmoid notch which articulates with the humerus.
+
+Bones of hind limb
+
+
+
+
+
+Pelvic Girdle
+
+* The pelvic girdle consists of two halves fused at the pubic symphysis.
+* Each half is made up of three fused bones:
+> the ilium,
+> ischium
+> pubis.
+* Each half has cup-shaped cavity for the acetabulum for articulation with the head of the femur.
+* Between the ischium and pubis is an opening obturator foramen where spinal nerves, blood vessels and a tough inflexible connective tissues pass.
+* The ilium, ischium and pubis are fused to form the innominate bone.
+
+The Femur
+* The femur is the long bone joining the pelvic girdle and the knee.
+* The head of the femur articulates with acetabulum forming the ball and socket joint at the hip.
+* The femur has a long shaft.
+* At the distal end it has condyles that articulate with the tibia to form a hinge joint at the knee.
+* The patella covers the knee joint and prevents the upward movement of the lower leg.
+
+Tibia and Fibula
+
+* The tibia is a large bone, and the fibula a smaller bone is fused to it on the distal part.
+* In humans the tibia and fibula are clearly distinguishable.
+Joints and Movement
+* Ajoint is a connection between two or more bones.
+* Joints provide articulation between bones making movement possible.
+* However some joints do not allow any movement e.g. the joints, between bones of the skull.
+* Movable joints are of three main types:
+Gliding joint
+* e.g., joints which occur between the vertebrae wrists and ankles.
+* The ends of the bones that make the joint are covered with cartilage.
+* The bones are held together by tough ligaments.
+Synovial joint
+* The joint is enclosed by fibrous capsule lined by synovial membrane which secretes synovial fluid into the synovial cavity.
+* The synovial fluid lubricates the joint.
+
+
+
+
+
+* They are called synovial joints.
+* They include hinge joint and ball and socket joint.
+Hinge joint
+* e.g. knee joint.
+* The joint allows movement in one plane.
+Ball and socket joint.
+* e.g., hip joint.
+* The joint allows rotation in all directions.
+
+Types, Locations and Function of Muscles
+* There are three types of muscles, located at various parts of the body.
+* In order to function all use energy in form of ATP.
+* These include smooth, skeletal and cardiac muscles.
+Smooth Muscle (Involuntary Muscles)
+* These are spindle-shaped and contain filaments with myofibrils.
+* Each muscle is bound by plasma membrane.
+* They are found lining internal organs such as alimentary canal, bladder, and blood vessels.
+* They are controlled by involuntary part of the nervous system.
+* They are concerned with movement of materials along the organs and tubes.
+* They contract slowly and fatigue slowly .
+Skeletal Muscle (striated or voluntary muscle)
+* Skeletal muscles are striated and have several nuclei.
+* They are long fibres each containing myofibrils and many mitochondria.
+* They have cross-striations or stripes.
+* They are also called voluntary muscles because the contraction is controlled by voluntary nervous system.
+* They are surrounded by connective tissue and are attached to bones by tendons.
+* Their contraction brings about movement of bone, resulting in locomotion.
+* They contract quickly and fatigue quickly.
+
+Cardiac Muscle
+* Consist of a network of striated muscle fibres connected by bridges.
+* Are short cells with numerous mitochondria and uninucleate.
+* They are found exclusively in the heart.
+* Contractions of cardiac muscles are generated from within the muscles and are rhythmic and continuous hence they are myogenic.
+* They do not tire or fatigue.
+* The rate can be modified by involuntary nervous system.
+
+
+
+
+
+* Their contractions result in the heart pumping blood.
+Role of muscles in movement of the human arm
+* Muscles that bring about movement are antagonistic, i.e. when one set contracts the other relaxes.
+
+Antagonistic muscles of human forelimb
+* The biceps muscles of the forelimb act as flexors while the triceps muscles act as extensors.
+* The biceps has its point of origin on the scapula and the point of insertion on the radius.
+* The triceps has its points of origin on the scapula and humerus and is inserted on the ulna.
+* When the muscles contract, the limb acts as a lever with the pivot at the joint.
+* Contraction of biceps muscles bends (flexes) the arm while contractions of triceps extends the arm.
+
+
+Practical Activities
+To observe prepared slides of transverse section of stems of herbaceous and woody plants.
+* Permanent slides of transverse sections of:
+* Herbaceous plant and Woody plant are obtained.
+* The permanent slide of a herbaceous plant is placed onto the stage of the microscope.
+* Observations under the low power and medium power objective is made.
+* A plan diagram is drawn and labelled.
+* The permanent slide of a woody plant is placed on the stage of the microscope.
+* Observations under the low power and medium power objectives are made.
+* A plan diagram is drawn and labelled.
+* In	both	cases,	support	tissues	such	as	parenchyma,	collenchyma, sc1erenchyma and xylem are observed.
+To observe wilting in young herbaceous plants.
+* A herbaceous potted plant e.g. bean plant is obtained.
+* The plant is placed on the bench near a window and left for 3 days without watering on the third and subsequent day.
+* The shoot droops due to fall in turgor pressure; caused by water loss.
+To examine the exoskeleton in an arthropod.
+* Obtain a beetle and observe the external structure.
+
+
+
+
+
+* The exoskeleton is on the outer surface with muscles attached on inner side.
+* The exoskeleton is hardened by chitin.
+* Movement is due to joints on the limbs.
+* Also examine various shed cocoons of insects e.g., butterfly.
+To observe the external features of a finned fish.
+* Fresh Tilapia is obtained and placed on a tray.
+* Observations are made on the external features of the fish.
+* A labelled drawing is made.
+* Features like scales, fins a streamlined body and an operculum are seen.
+* Opened operculum reveals the gills.
+To examine bones of the axial skeleton of a rabbit.
+* Bones of the vertebra column are obtained.
+* These are cervical, thoracic, lumbar and sacral.
+* For each of the bones the distinguishing features are listed down.
+* Labelled drawings of the anterior and lateral views is made.
+
+To observe bones of appendicular skeleton.
+* Bones of pectoral girdle and fore limb are obtained i.e., scapula, humerus, ulna and radius.
+* Labelled drawing of each bone is made.
+* Observations on how the bones articulate with one another is made.
+* Bones of pelvic girdle and hind limbs are obtained i.e., pelvic girdle, femur, tibia and fibula.
+* Labelled drawings of each, bone is made.
+* The distinguishing features of each bone is noted.
+* Observations on how the bones articulate with one another is made.
+    END BEST WISHES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For free KCSE Notes, Exams, and Past Papers Visit https://Teacher.co.ke/

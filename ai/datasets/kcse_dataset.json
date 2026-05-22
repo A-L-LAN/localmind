@@ -94,5 +94,185 @@
     "instruction": "Explain photosynthesis",
     "input": "Beginner level",
     "output": "Photosynthesis is how plants make food using sunlight..."
+  },
+  
+  {
+    "instruction": "Teach fractions to a Grade 6 student.",
+    "input": "",
+    "output": "Fractions represent parts of a whole. For example, 1/2 means one part out of two equal parts. If you cut a pizza into 4 equal pieces and eat 1 piece, you ate 1/4 of the pizza."
+  },
+
+  {
+    "instruction": "Explain osmosis to a Form 2 Biology student.",
+    "input": "",
+    "output": "Osmosis is the movement of water molecules from a region of high water concentration to a region of low water concentration through a semi-permeable membrane."
+  },
+
+  {
+    "instruction": "Teach acids and bases to a Form 2 Chemistry student.",
+    "input": "",
+    "output": "An acid is a substance that produces hydrogen ions in water. Example: hydrochloric acid. A base reacts with acids and may produce hydroxide ions. Example: sodium hydroxide."
+  },
+
+  {
+    "instruction": "Generate 5 KCSE Mathematics questions on trigonometry.",
+    "input": "",
+    "output": "1. Find sin 30°. Answer: 0.5\n2. Find cos 60°. Answer: 0.5\n3. Find tan 45°. Answer: 1\n4. Solve a right triangle with opposite side 4cm and hypotenuse 5cm.\n5. State Pythagoras theorem."
+  },
+
+  {
+    "instruction": "Explain electricity to a beginner Physics student.",
+    "input": "",
+    "output": "Electricity is the movement of electric charges. It powers devices like phones, bulbs, and televisions."
+  },
+
+  {
+    "instruction": "Mark this Mathematics answer using KCSE standards.",
+    "input": "Student Answer: x² + 4x + 4 = (x + 2)",
+    "output": "Score: 2/5. Feedback: The student partially understands factorization but missed the square. Correct answer: (x + 2)²."
+  },
+
+  {
+    "instruction": "Translate this Mathematics explanation into Swahili.",
+    "input": "Addition means combining numbers together.",
+    "output": "Kujumlisha ni kitendo cha kuunganisha nambari pamoja."
+  },
+
+  {
+    "instruction": "Encourage a student struggling in Chemistry.",
+    "input": "Student score: 28%",
+    "output": "Do not lose hope. Chemistry takes time to understand. Start by mastering basic concepts step by step. Practice more questions and review corrections."
+  },
+
+  {
+    "instruction": "Explain mitosis to a Form 3 student.",
+    "input": "",
+    "output": "Mitosis is the process where one cell divides into two identical daughter cells. It helps organisms grow and repair tissues."
+  },
+
+  {
+    "instruction": "Generate 3 English grammar questions for Form 1 students.",
+    "input": "",
+    "output": "1. Identify the noun in the sentence: 'The boy ran fast.' Answer: boy.\n2. Write the plural of child. Answer: children.\n3. Identify the verb in 'Mary sings beautifully.' Answer: sings."
+  },
+
+  {
+    "instruction": "Explain photosynthesis using Swahili and English.",
+    "input": "",
+    "output": "Photosynthesis (usanisinuru) is the process where plants make food using sunlight (mwanga wa jua), water (maji), and carbon dioxide."
+  },
+
+  {
+    "instruction": "Create a study plan for a weak Form 2 Mathematics student.",
+    "input": "Performance: 40%",
+    "output": "Monday: Algebra revision. Tuesday: Fractions practice. Wednesday: Geometry exercises. Thursday: Solve KCSE-style questions. Friday: Revision test."
+  },
+
+  {
+    "instruction": "Explain pressure in Physics.",
+    "input": "Form 2 level",
+    "output": "Pressure is the force applied per unit area. Example: A sharp knife cuts easily because force is concentrated in a small area."
+  },
+
+  {
+    "instruction": "Teach the water cycle to a beginner student.",
+    "input": "",
+    "output": "The water cycle is the movement of water around Earth through evaporation, condensation, and rainfall."
+  },
+
+  {
+    "instruction": "Generate KCSE Biology revision questions on digestion.",
+    "input": "",
+    "output": "1. Define digestion.\n2. Name enzymes involved in digestion.\n3. State the role of the stomach.\n4. Explain absorption in the small intestine."
+  },
+
+  {
+    "instruction": "Explain computer hardware to a beginner.",
+    "input": "",
+    "output": "Computer hardware refers to the physical parts of a computer such as the monitor, keyboard, mouse, and processor."
+  },
+
+  {
+    "instruction": "Teach simple interest in Mathematics.",
+    "input": "",
+    "output": "Simple interest is calculated using the formula: Interest = Principal × Rate × Time / 100."
+  },
+
+  {
+    "instruction": "Mark this English composition.",
+    "input": "The boy go to school every day.",
+    "output": "Score: 3/5. Feedback: Grammar mistake detected. Correct sentence: 'The boy goes to school every day.'"
+  },
+
+  {
+    "instruction": "Explain democracy to a History student.",
+    "input": "",
+    "output": "Democracy is a system of government where leaders are chosen by citizens through voting."
+  },
+
+  {
+    "instruction": "Generate 3 Geography questions about climate.",
+    "input": "",
+    "output": "1. Define climate.\n2. State factors affecting climate.\n3. Explain how altitude affects temperature."
+  },
+
+  {
+    "instruction": "Teach balancing chemical equations.",
+    "input": "",
+    "output": "Balancing chemical equations means ensuring the number of atoms on both sides is equal. Example: H₂ + O₂ → H₂O becomes 2H₂ + O₂ → 2H₂O."
+  },
+
+  {
+    "instruction": "Explain percentages for Grade 7 students.",
+    "input": "",
+    "output": "Percentages represent parts out of 100. Example: 50% means 50 out of 100 or half."
+  },
+
+  {
+    "instruction": "Encourage a student who failed Biology.",
+    "input": "Score: 32%",
+    "output": "You are improving even if it feels difficult. Let's review weak topics together and practice more questions."
+  },
+
+  {
+    "instruction": "Generate a KCSE Chemistry practical question.",
+    "input": "",
+    "output": "Question: Describe how you would test for the presence of carbon dioxide gas."
+  },
+
+  {
+    "instruction": "Teach keyboard shortcuts to a computer studies beginner.",
+    "input": "",
+    "output": "Ctrl + C copies text. Ctrl + V pastes text. Ctrl + S saves work."
+  },
+
+  {
+    "instruction": "Explain respiration in Biology.",
+    "input": "",
+    "output": "Respiration is the process where cells release energy from food."
+  },
+
+  {
+    "instruction": "Teach linear equations to Form 1 students.",
+    "input": "",
+    "output": "A linear equation is an equation where the highest power is 1. Example: 2x + 3 = 7."
+  },
+
+  {
+    "instruction": "Explain friction in Physics.",
+    "input": "",
+    "output": "Friction is the force that opposes motion between surfaces in contact."
+  },
+
+  {
+    "instruction": "Translate this educational sentence into Swahili.",
+    "input": "Mathematics becomes easier through practice.",
+    "output": "Hisabati huwa rahisi kupitia mazoezi."
+  },
+
+  {
+    "instruction": "Create revision advice for KCSE students.",
+    "input": "",
+    "output": "Revise consistently, attempt past papers, identify weak topics, and practice under timed conditions."
   }
 ]
