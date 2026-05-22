@@ -391,29 +391,29 @@ Impact areas:
 
 LocalMind contributes to:
 
-SDG 4 — Quality Education
+**SDG 4 — Quality Education**
 
 Personalized, accessible learning.
 
-SDG 10 — Reduced Inequalities
+**SDG 10 — Reduced Inequalities**
 
 Educational AI for underserved communities.
 
-SDG 9 — Innovation & Infrastructure
+**SDG 9 — Innovation & Infrastructure**
 
 Offline frontier AI for schools.
 
-SDG 8 — Economic Growth
+**SDG 8 — Economic Growth**
 
 Better education → stronger workforce.
 
-🌟 Vision
+**🌟 Vision**
 
-A future where intelligent education does not depend on internet access, geography, or income.
+A future where intelligent education does **not depend on internet access, geography, or income.**
 
 LocalMind proves something bigger:
 
-Gemma 4 is not just powerful.
+**Gemma 4 is not just powerful.**
 
 It is:
 
@@ -425,4 +425,4 @@ It is:
 
 And capable of transforming learning globally.
 
-❤️ Powered by Gemma 4 — bringing frontier education everywhere, online or offline.
+**❤️ Powered by Gemma 4 — bringing frontier education everywhere, online or offline.**
