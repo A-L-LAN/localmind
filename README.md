@@ -1,15 +1,15 @@
 🧠 **LocalMind — Offline AI Education Powered by Gemma 4**
 
-What if every student had a personal AI tutor — even without internet?
+_What if every student had a personal AI tutor — even without internet?_
 <img width="1774" height="887" alt="Offline AI Learning Ecosystem Powered by Gemma 4 " src="https://github.com/user-attachments/assets/a9a0ee0b-3b50-4452-a321-60ee5df8830c" />
 
 
 
-Offline AI Learning Ecosystem Powered by Gemma 4
+**Offline AI Learning Ecosystem Powered by Gemma 4**
 
-LocalMind is an offline-first, multi-agent educational intelligence ecosystem powered entirely by Gemma 4, designed to bring personalized, intelligent education to schools with limited connectivity and constrained resources.
+**LocalMind** is an **offline-first, multi-agent educational intelligence ecosystem powered entirely by Gemma 4**, designed to bring **personalized, intelligent education** to schools with limited connectivity and constrained resources.
 
-Built for Kenya first, but designed to scale globally.
+Built **for Kenya first**, but designed to scale globally.
 
 LocalMind enables:
 
@@ -19,9 +19,9 @@ LocalMind enables:
 ✅ Low-connectivity regions
 ✅ Resource-constrained hardware
 
-to access frontier educational intelligence — fully offline.
+to **access frontier educational intelligence — fully offline.**
 
-🌍 The Problem
+**🌍 The Problem**
 
 Millions of students still face:
 
@@ -42,27 +42,27 @@ But many schools — especially in underserved regions — simply do not have th
 
 So we asked:
 
-Can frontier AI education work fully offline?
+**Can frontier AI education work fully offline?**
 
-With Gemma 4, the answer is yes.
+With **Gemma 4**, the answer is **yes**.
 
-🚀 Why Gemma 4?
+**🚀 Why Gemma 4?**
 
-LocalMind is built entirely around the Gemma 4 ecosystem because it enables something traditional AI struggles to achieve:
+LocalMind is built entirely around the **Gemma 4** ecosystem because it enables something traditional AI struggles to achieve:
 
-Frontier educational intelligence that runs locally.
+**Frontier educational intelligence that runs locally.**
 
-Instead of relying on expensive cloud APIs, LocalMind runs Gemma 4 directly on local devices through Ollama, enabling schools to deploy advanced AI tutoring systems even in environments with unreliable internet.
+Instead of relying on expensive cloud APIs, LocalMind runs **Gemma 4 directly on local devices through Ollama,** enabling schools to deploy advanced AI tutoring systems even in environments with unreliable internet.
 
 LocalMind uses:
 
-gemma4:e4b-it
+**gemma4:e4b-it**
 
 (Instruction-Tuned Educational Reasoning)
 
 and
 
-gemma4:latest
+**gemma4:latest**
 
 (Latest optimized Gemma 4 release for advanced reasoning and multimodal learning)
 
