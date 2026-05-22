@@ -66,11 +66,11 @@ and
 
 (Latest optimized Gemma 4 release for advanced reasoning and multimodal learning)
 
-Together, these models power a fully offline educational ecosystem capable of teaching, reasoning, assessing, and adapting to learners in real time.
+Together, these models power a fully offline educational ecosystem capable of **teaching, reasoning, assessing, and adapting to learners in real time.**
 
-🧠 Why gemma4:e4b-it?
+**🧠 Why gemma4:e4b-it?**
 
-We intentionally selected gemma4:e4b-it because LocalMind is fundamentally an instruction-following educational system.
+We intentionally selected **gemma4:e4b-it** because LocalMind is fundamentally **an instruction-following educational system.**
 
 Students naturally ask questions like:
 
@@ -82,13 +82,13 @@ Students naturally ask questions like:
 
 This requires a model optimized for:
 
-✅ Instruction following — understanding educational prompts naturally
-✅ Step-by-step reasoning — breaking difficult concepts into understandable explanations
-✅ Interactive tutoring — adapting to different student learning levels
-✅ Educational dialogue — acting like a patient teacher instead of a generic chatbot
-✅ Multilingual support — enabling English + Swahili learning contexts
+**✅ Instruction following** — understanding educational prompts naturally
+**✅ Step-by-step reasoning** — breaking difficult concepts into understandable explanations
+**✅ Interactive tutoring** — adapting to different student learning levels
+**✅ Educational dialogue** — acting like a patient teacher instead of a generic chatbot
+**✅ Multilingual support** — enabling English + Swahili learning contexts
 
-The instruction-tuned (it) capabilities make Gemma 4 especially effective for:
+The **instruction-tuned (it)** capabilities make Gemma 4 especially effective for:
 
 Personalized tutoring
 Homework support
@@ -96,13 +96,13 @@ Exam preparation
 Concept remediation
 Adaptive learning conversations
 
-LocalMind does not simply use AI to give answers.
+LocalMind does not simply use AI to **give answers.**
 
-It uses Gemma 4 to teach.
+It uses Gemma 4 to **teach.**
 
-⚡ Why gemma4:latest?
+**⚡ Why gemma4:latest?**
 
-LocalMind also leverages gemma4:latest to access the newest improvements in:
+LocalMind also leverages **gemma4:latest** to access the newest improvements in:
 
 ✅ Educational reasoning
 ✅ STEM problem solving
@@ -120,8 +120,8 @@ This becomes especially powerful for:
 
 For example:
 
-A student uploads a handwritten chemistry problem.
-
+A student uploads a **handwritten chemistry problem.
+**
 Gemma 4 can:
 
 → Understand the image
@@ -132,9 +132,9 @@ Gemma 4 can:
 
 This transforms learning from:
 
-Static content → Interactive intelligence
+**Static content → Interactive intelligence**
 
-🏫 Why Gemma 4 Fits LocalMind Better Than Cloud AI
+**🏫 Why Gemma 4 Fits LocalMind Better Than Cloud AI**
 
 Traditional educational AI assumes:
 
@@ -149,15 +149,15 @@ Gemma 4 changes that.
 
 Because it runs locally, LocalMind enables:
 
-✅ Offline tutoring
+**✅ Offline tutoring
 ✅ Private student data
 ✅ Low-cost deployment
 ✅ Fast response times
 ✅ No recurring API costs
-✅ KCSE curriculum fine-tuning
+✅ KCSE curriculum fine-tuning**
 
-Traditional AI vs LocalMind + Gemma 4
-Capability
+**Traditional AI vs LocalMind + Gemma 4**
+**Capability**
 Cloud AI
 Works Offline	❌
 Local Inference	❌
