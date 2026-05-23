@@ -1,8 +1,11 @@
 // backend/routes/tutorRoutes.js
 
 const express = require("express");
-
 const router = express.Router();
+
+// ======================================================
+// Agents & Services
+// ======================================================
 
 const studentTutorAgent =
     require("../agents/studentTutorAgent");
@@ -14,6 +17,10 @@ const {
     streamGenerate
 } = require("../services/gemmaService");
 
+const {
+    routeTask
+} = require("../agents/modelRouter");
+
 
 // ======================================================
 // Health Check
@@ -22,13 +29,67 @@ const {
 router.get("/", async (req, res) => {
 
     return res.status(200).json({
-
         success: true,
-
         service: "Tutor Routes",
-
         status: "active"
     });
+});
+
+
+// ======================================================
+// Intelligent AI Router (NEW)
+// POST /api/tutor/ask
+// ======================================================
+
+router.post("/ask", async (req, res) => {
+
+    try {
+
+        const {
+            question,
+            level,
+            classroomData
+        } = req.body;
+
+        if (!question?.trim()) {
+
+            return res.status(400).json({
+                success: false,
+                message: "Question is required."
+            });
+        }
+
+        const result =
+            await routeTask({
+
+                prompt: question,
+
+                studentLevel:
+                    level || "Form 1",
+
+                classroomData:
+                    classroomData || {}
+            });
+
+        return res.status(200).json({
+            success: true,
+            result
+        });
+
+    } catch (error) {
+
+        console.error(
+            "❌ /ask Error:",
+            error
+        );
+
+        return res.status(500).json({
+            success: false,
+            error:
+                error.message ||
+                "AI routing failed"
+        });
+    }
 });
 
 
@@ -41,56 +102,35 @@ router.post("/explain", async (req, res) => {
     try {
 
         const {
-
             question,
-
             topic,
-
             subject,
-
             language,
-
             studentProfile
-
         } = req.body;
 
-        // --------------------------------------------
-        // Validation
-        // --------------------------------------------
-
-        if (!question) {
+        if (!question?.trim()) {
 
             return res.status(400).json({
-
                 success: false,
-
                 message:
                     "Question is required."
             });
         }
 
-        // --------------------------------------------
-        // AI Tutor Response
-        // --------------------------------------------
-
         const response =
-            await studentTutorAgent.explainTopic({
+            await studentTutorAgent
+                .explainTopic({
 
-                question,
-
-                topic,
-
-                subject,
-
-                language,
-
-                studentProfile
-            });
+                    question,
+                    topic,
+                    subject,
+                    language,
+                    studentProfile
+                });
 
         return res.status(200).json({
-
             success: true,
-
             data: response
         });
 
@@ -102,10 +142,10 @@ router.post("/explain", async (req, res) => {
         );
 
         return res.status(500).json({
-
             success: false,
-
-            error: error.message
+            error:
+                error.message ||
+                "Failed to explain topic"
         });
     }
 });
@@ -115,252 +155,239 @@ router.post("/explain", async (req, res) => {
 // Adaptive Learning Session
 // ======================================================
 
-router.post("/adaptive-session", async (req, res) => {
+router.post(
+    "/adaptive-session",
+    async (req, res) => {
 
-    try {
+        try {
 
-        const {
+            const {
+                question,
+                studentAnswer,
+                studentProfile,
+                topic,
+                subject
+            } = req.body;
 
-            question,
+            if (!question?.trim()) {
 
-            studentAnswer,
+                return res.status(400)
+                    .json({
+                        success: false,
+                        message:
+                            "Question is required."
+                    });
+            }
 
-            studentProfile,
+            const session =
+                await studentTutorAgent
+                    .adaptiveLearningSession({
 
-            topic,
+                        question,
+                        studentAnswer,
+                        studentProfile,
+                        topic,
+                        subject
+                    });
 
-            subject
-
-        } = req.body;
-
-        if (!question) {
-
-            return res.status(400).json({
-
-                success: false,
-
-                message:
-                    "Question is required."
-            });
-        }
-
-        const session =
-            await studentTutorAgent
-                .adaptiveLearningSession({
-
-                    question,
-
-                    studentAnswer,
-
-                    studentProfile,
-
-                    topic,
-
-                    subject
+            return res.status(200)
+                .json({
+                    success: true,
+                    session
                 });
 
-        return res.status(200).json({
+        } catch (error) {
 
-            success: true,
+            console.error(
+                "❌ /adaptive-session Error:",
+                error
+            );
 
-            session
-        });
-
-    } catch (error) {
-
-        console.error(
-            "❌ /adaptive-session Error:",
-            error
-        );
-
-        return res.status(500).json({
-
-            success: false,
-
-            error: error.message
-        });
+            return res.status(500)
+                .json({
+                    success: false,
+                    error:
+                        error.message ||
+                        "Adaptive learning failed"
+                });
+        }
     }
-});
+);
 
 
 // ======================================================
 // Homework Assistance
 // ======================================================
 
-router.post("/homework-help", async (req, res) => {
+router.post(
+    "/homework-help",
+    async (req, res) => {
 
-    try {
+        try {
 
-        const {
+            const {
+                homeworkQuestion,
+                studentProfile,
+                subject
+            } = req.body;
 
-            homeworkQuestion,
+            if (
+                !homeworkQuestion?.trim()
+            ) {
 
-            studentProfile,
+                return res.status(400)
+                    .json({
+                        success: false,
+                        message:
+                            "Homework question is required."
+                    });
+            }
 
-            subject
+            const assistance =
+                await studentTutorAgent
+                    .assistHomework({
 
-        } = req.body;
+                        homeworkQuestion,
+                        studentProfile,
+                        subject
+                    });
 
-        if (!homeworkQuestion) {
-
-            return res.status(400).json({
-
-                success: false,
-
-                message:
-                    "Homework question is required."
-            });
-        }
-
-        const assistance =
-            await studentTutorAgent
-                .assistHomework({
-
-                    homeworkQuestion,
-
-                    studentProfile,
-
-                    subject
+            return res.status(200)
+                .json({
+                    success: true,
+                    assistance
                 });
 
-        return res.status(200).json({
+        } catch (error) {
 
-            success: true,
+            console.error(
+                "❌ /homework-help Error:",
+                error
+            );
 
-            assistance
-        });
-
-    } catch (error) {
-
-        console.error(
-            "❌ /homework-help Error:",
-            error
-        );
-
-        return res.status(500).json({
-
-            success: false,
-
-            error: error.message
-        });
+            return res.status(500)
+                .json({
+                    success: false,
+                    error:
+                        error.message ||
+                        "Homework assistance failed"
+                });
+        }
     }
-});
+);
 
 
 // ======================================================
 // Detect Student Struggles
 // ======================================================
 
-router.post("/detect-struggles", async (req, res) => {
+router.post(
+    "/detect-struggles",
+    async (req, res) => {
 
-    try {
+        try {
 
-        const {
+            const {
+                studentMessages,
+                studentProfile
+            } = req.body;
 
-            studentMessages,
+            if (
+                !studentMessages ||
+                !Array.isArray(
+                    studentMessages
+                )
+            ) {
 
-            studentProfile
+                return res.status(400)
+                    .json({
+                        success: false,
+                        message:
+                            "studentMessages array is required."
+                    });
+            }
 
-        } = req.body;
+            const analysis =
+                await studentTutorAgent
+                    .detectStudentStruggles({
 
-        if (
-            !studentMessages ||
-            !Array.isArray(studentMessages)
-        ) {
+                        studentMessages,
+                        studentProfile
+                    });
 
-            return res.status(400).json({
-
-                success: false,
-
-                message:
-                    "studentMessages array is required."
-            });
-        }
-
-        const analysis =
-            await studentTutorAgent
-                .detectStudentStruggles({
-
-                    studentMessages,
-
-                    studentProfile
+            return res.status(200)
+                .json({
+                    success: true,
+                    analysis
                 });
 
-        return res.status(200).json({
+        } catch (error) {
 
-            success: true,
+            console.error(
+                "❌ /detect-struggles Error:",
+                error
+            );
 
-            analysis
-        });
-
-    } catch (error) {
-
-        console.error(
-            "❌ /detect-struggles Error:",
-            error
-        );
-
-        return res.status(500).json({
-
-            success: false,
-
-            error: error.message
-        });
+            return res.status(500)
+                .json({
+                    success: false,
+                    error:
+                        error.message ||
+                        "Struggle detection failed"
+                });
+        }
     }
-});
+);
 
 
 // ======================================================
 // Generate Personalized Study Plan
 // ======================================================
 
-router.post("/study-plan", async (req, res) => {
+router.post(
+    "/study-plan",
+    async (req, res) => {
 
-    try {
+        try {
 
-        const {
+            const {
+                studentProfile,
+                weakTopics,
+                subject
+            } = req.body;
 
-            studentProfile,
+            const plan =
+                await studentTutorAgent
+                    .generateStudyPlan({
 
-            weakTopics,
+                        studentProfile,
+                        weakTopics,
+                        subject
+                    });
 
-            subject
-
-        } = req.body;
-
-        const plan =
-            await studentTutorAgent
-                .generateStudyPlan({
-
-                    studentProfile,
-
-                    weakTopics,
-
-                    subject
+            return res.status(200)
+                .json({
+                    success: true,
+                    plan
                 });
 
-        return res.status(200).json({
+        } catch (error) {
 
-            success: true,
+            console.error(
+                "❌ /study-plan Error:",
+                error
+            );
 
-            plan
-        });
-
-    } catch (error) {
-
-        console.error(
-            "❌ /study-plan Error:",
-            error
-        );
-
-        return res.status(500).json({
-
-            success: false,
-
-            error: error.message
-        });
+            return res.status(500)
+                .json({
+                    success: false,
+                    error:
+                        error.message ||
+                        "Study plan generation failed"
+                });
+        }
     }
-});
+);
 
 
 // ======================================================
@@ -372,28 +399,23 @@ router.post("/memory", async (req, res) => {
     try {
 
         const {
-
             studentId,
-
             topic,
-
             notes
-
         } = req.body;
 
         if (
             !studentId ||
-            !topic ||
-            !notes
+            !topic?.trim() ||
+            !notes?.trim()
         ) {
 
-            return res.status(400).json({
-
-                success: false,
-
-                message:
-                    "studentId, topic and notes are required."
-            });
+            return res.status(400)
+                .json({
+                    success: false,
+                    message:
+                        "studentId, topic and notes are required."
+                });
         }
 
         const memory =
@@ -401,18 +423,15 @@ router.post("/memory", async (req, res) => {
                 .createLearningMemory({
 
                     studentId,
-
                     topic,
-
                     notes
                 });
 
-        return res.status(200).json({
-
-            success: true,
-
-            memory
-        });
+        return res.status(200)
+            .json({
+                success: true,
+                memory
+            });
 
     } catch (error) {
 
@@ -421,12 +440,13 @@ router.post("/memory", async (req, res) => {
             error
         );
 
-        return res.status(500).json({
-
-            success: false,
-
-            error: error.message
-        });
+        return res.status(500)
+            .json({
+                success: false,
+                error:
+                    error.message ||
+                    "Memory creation failed"
+            });
     }
 });
 
@@ -440,22 +460,18 @@ router.post("/retrieve", async (req, res) => {
     try {
 
         const {
-
             topic,
-
             subject
-
         } = req.body;
 
-        if (!topic) {
+        if (!topic?.trim()) {
 
-            return res.status(400).json({
-
-                success: false,
-
-                message:
-                    "Topic is required."
-            });
+            return res.status(400)
+                .json({
+                    success: false,
+                    message:
+                        "Topic is required."
+                });
         }
 
         const retrieval =
@@ -463,16 +479,14 @@ router.post("/retrieve", async (req, res) => {
                 .retrieveEducationalContext({
 
                     topic,
-
                     subject
                 });
 
-        return res.status(200).json({
-
-            success: true,
-
-            retrieval
-        });
+        return res.status(200)
+            .json({
+                success: true,
+                retrieval
+            });
 
     } catch (error) {
 
@@ -481,12 +495,13 @@ router.post("/retrieve", async (req, res) => {
             error
         );
 
-        return res.status(500).json({
-
-            success: false,
-
-            error: error.message
-        });
+        return res.status(500)
+            .json({
+                success: false,
+                error:
+                    error.message ||
+                    "Retrieval failed"
+            });
     }
 });
 
@@ -499,36 +514,29 @@ router.post("/summarize", async (req, res) => {
 
     try {
 
-        const {
+        const { topic } = req.body;
 
-            topic
+        if (!topic?.trim()) {
 
-        } = req.body;
-
-        if (!topic) {
-
-            return res.status(400).json({
-
-                success: false,
-
-                message:
-                    "Topic is required."
-            });
+            return res.status(400)
+                .json({
+                    success: false,
+                    message:
+                        "Topic is required."
+                });
         }
 
         const summary =
             await retrievalAgent
                 .summarizeKnowledge({
-
                     topic
                 });
 
-        return res.status(200).json({
-
-            success: true,
-
-            summary
-        });
+        return res.status(200)
+            .json({
+                success: true,
+                summary
+            });
 
     } catch (error) {
 
@@ -537,12 +545,13 @@ router.post("/summarize", async (req, res) => {
             error
         );
 
-        return res.status(500).json({
-
-            success: false,
-
-            error: error.message
-        });
+        return res.status(500)
+            .json({
+                success: false,
+                error:
+                    error.message ||
+                    "Summary generation failed"
+            });
     }
 });
 
@@ -556,22 +565,18 @@ router.post("/stream", async (req, res) => {
     try {
 
         const {
-
             prompt,
-
             systemPrompt
-
         } = req.body;
 
-        if (!prompt) {
+        if (!prompt?.trim()) {
 
-            return res.status(400).json({
-
-                success: false,
-
-                message:
-                    "Prompt is required."
-            });
+            return res.status(400)
+                .json({
+                    success: false,
+                    message:
+                        "Prompt is required."
+                });
         }
 
         res.setHeader(
@@ -585,11 +590,8 @@ router.post("/stream", async (req, res) => {
         );
 
         await streamGenerate({
-
             prompt,
-
             res,
-
             systemPrompt
         });
 
@@ -600,12 +602,13 @@ router.post("/stream", async (req, res) => {
             error
         );
 
-        return res.status(500).json({
-
-            success: false,
-
-            error: error.message
-        });
+        return res.status(500)
+            .json({
+                success: false,
+                error:
+                    error.message ||
+                    "Streaming failed"
+            });
     }
 });
 
@@ -614,148 +617,148 @@ router.post("/stream", async (req, res) => {
 // Generate Encouragement
 // ======================================================
 
-router.post("/encouragement", async (req, res) => {
+router.post(
+    "/encouragement",
+    async (req, res) => {
 
-    try {
+        try {
 
-        const {
+            const {
+                score,
+                improvement
+            } = req.body;
 
-            score,
+            const encouragement =
+                studentTutorAgent
+                    .generateEncouragement({
 
-            improvement
+                        score,
+                        improvement
+                    });
 
-        } = req.body;
-
-        const encouragement =
-            studentTutorAgent
-                .generateEncouragement({
-
-                    score,
-
-                    improvement
+            return res.status(200)
+                .json({
+                    success: true,
+                    encouragement
                 });
 
-        return res.status(200).json({
+        } catch (error) {
 
-            success: true,
+            console.error(
+                "❌ /encouragement Error:",
+                error
+            );
 
-            encouragement
-        });
-
-    } catch (error) {
-
-        console.error(
-            "❌ /encouragement Error:",
-            error
-        );
-
-        return res.status(500).json({
-
-            success: false,
-
-            error: error.message
-        });
+            return res.status(500)
+                .json({
+                    success: false,
+                    error:
+                        error.message ||
+                        "Encouragement generation failed"
+                });
+        }
     }
-});
+);
 
 
 // ======================================================
 // Save Knowledge File
 // ======================================================
 
-router.post("/knowledge/save", async (req, res) => {
+router.post(
+    "/knowledge/save",
+    async (req, res) => {
 
-    try {
+        try {
 
-        const {
+            const {
+                filename,
+                content
+            } = req.body;
 
-            filename,
+            if (
+                !filename?.trim() ||
+                !content?.trim()
+            ) {
 
-            content
+                return res.status(400)
+                    .json({
+                        success: false,
+                        message:
+                            "filename and content are required."
+                    });
+            }
 
-        } = req.body;
+            const saved =
+                await retrievalAgent
+                    .saveKnowledgeDocument({
 
-        if (
-            !filename ||
-            !content
-        ) {
+                        filename,
+                        content
+                    });
 
-            return res.status(400).json({
-
-                success: false,
-
-                message:
-                    "filename and content are required."
-            });
-        }
-
-        const saved =
-            await retrievalAgent
-                .saveKnowledgeDocument({
-
-                    filename,
-
-                    content
+            return res.status(200)
+                .json({
+                    success: true,
+                    saved
                 });
 
-        return res.status(200).json({
+        } catch (error) {
 
-            success: true,
+            console.error(
+                "❌ /knowledge/save Error:",
+                error
+            );
 
-            saved
-        });
-
-    } catch (error) {
-
-        console.error(
-            "❌ /knowledge/save Error:",
-            error
-        );
-
-        return res.status(500).json({
-
-            success: false,
-
-            error: error.message
-        });
+            return res.status(500)
+                .json({
+                    success: false,
+                    error:
+                        error.message ||
+                        "Knowledge save failed"
+                });
+        }
     }
-});
+);
 
 
 // ======================================================
 // Build Vector Cache
 // ======================================================
 
-router.post("/vector-cache/build", async (req, res) => {
+router.post(
+    "/vector-cache/build",
+    async (req, res) => {
 
-    try {
+        try {
 
-        const cache =
-            await retrievalAgent
-                .buildVectorCache();
+            const cache =
+                await retrievalAgent
+                    .buildVectorCache();
 
-        return res.status(200).json({
+            return res.status(200)
+                .json({
+                    success: true,
+                    cache
+                });
 
-            success: true,
+        } catch (error) {
 
-            cache
-        });
+            console.error(
+                "❌ /vector-cache/build Error:",
+                error
+            );
 
-    } catch (error) {
-
-        console.error(
-            "❌ /vector-cache/build Error:",
-            error
-        );
-
-        return res.status(500).json({
-
-            success: false,
-
-            error: error.message
-        });
+            return res.status(500)
+                .json({
+                    success: false,
+                    error:
+                        error.message ||
+                        "Vector cache build failed"
+                });
+        }
     }
-});
+);
 
 
 // ======================================================
