@@ -227,5 +227,893 @@
     "instruction": "Create revision advice for KCSE students.",
     "input": "",
     "output": "Revise consistently, attempt past papers, identify weak topics, and practice under timed conditions."
-  }
+  },
+
+  {
+    "instruction": "Explain fractions to a Grade 7 student.",
+    "input": "",
+    "output": "Fractions show parts of a whole. For example, 3/4 means 3 parts out of 4 equal parts. If a cake is cut into 4 pieces and you take 3, you have 3/4."
+  },
+  {
+    "instruction": "Solve: 3x + 5 = 20",
+    "input": "",
+    "output": "Step 1: Subtract 5 from both sides → 3x = 15. Step 2: Divide both sides by 3 → x = 5."
+  },
+  {
+    "instruction": "Write a short English paragraph about your school.",
+    "input": "",
+    "output": "My school is a place where I learn new things every day. I enjoy my teachers and friends. The environment is peaceful and helps me concentrate on my studies."
+  },
+  {
+    "instruction": "Correct this sentence: 'She go to market yesterday.'",
+    "input": "",
+    "output": "Correct sentence: She went to the market yesterday."
+  },
+  {
+    "instruction": "Translate to Kiswahili: 'Education is the key to success.'",
+    "input": "",
+    "output": "Elimu ni ufunguo wa mafanikio."
+  },
+  {
+    "instruction": "Explain noun types in English.",
+    "input": "",
+    "output": "There are different types of nouns such as common nouns, proper nouns, collective nouns, and abstract nouns. Common nouns are general names like 'boy', while proper nouns name specific places or people like 'Nairobi'."
+  },
+  {
+    "instruction": "Balance the equation: H2 + Cl2 → HCl",
+    "input": "",
+    "output": "Balanced equation: H2 + Cl2 → 2HCl"
+  },
+  {
+    "instruction": "Define an atom in Chemistry.",
+    "input": "",
+    "output": "An atom is the smallest unit of an element that can take part in a chemical reaction."
+  },
+  {
+    "instruction": "Explain the water cycle.",
+    "input": "",
+    "output": "The water cycle is the continuous movement of water on, above, and below the Earth's surface through processes like evaporation, condensation, and precipitation."
+  },
+  {
+    "instruction": "What is the function of roots in plants?",
+    "input": "",
+    "output": "Roots anchor the plant in the soil and absorb water and minerals needed for growth."
+  },
+  {
+    "instruction": "Convert to Kiswahili: 'I am going to school.'",
+    "input": "",
+    "output": "Ninaenda shuleni."
+  },
+  {
+    "instruction": "Write a dialogue between two students greeting each other in English.",
+    "input": "",
+    "output": "A: Hello, how are you?\nB: I am fine, thank you. How about you?\nA: I am good too. Let's go to class."
+  },
+  {
+    "instruction": "Solve: 5x - 10 = 0",
+    "input": "",
+    "output": "Step 1: Add 10 to both sides → 5x = 10. Step 2: Divide by 5 → x = 2."
+  },
+  {
+    "instruction": "Explain acids in Chemistry.",
+    "input": "",
+    "output": "Acids are substances that release hydrogen ions in water. They have a sour taste and can turn blue litmus paper red."
+  },
+  {
+    "instruction": "State three characteristics of living things.",
+    "input": "",
+    "output": "Living things grow, reproduce, and respire."
+  },
+  {
+    "instruction": "Translate to English: 'Watoto wanapenda kucheza.'",
+    "input": "",
+    "output": "Children like to play."
+  },
+  {
+    "instruction": "Define verb in English grammar.",
+    "input": "",
+    "output": "A verb is a word that shows action or state of being, such as run, eat, or is."
+  },
+  {
+    "instruction": "Explain photosynthesis in simple terms.",
+    "input": "",
+    "output": "Photosynthesis is the process where plants use sunlight, water, and carbon dioxide to make their own food."
+  },
+  {
+    "instruction": "Name the parts of a flower.",
+    "input": "",
+    "output": "The main parts of a flower are petals, sepals, stamen, and pistil."
+  },
+  {
+    "instruction": "Solve: 12 ÷ 3 + 4",
+    "input": "",
+    "output": "Step 1: 12 ÷ 3 = 4. Step 2: 4 + 4 = 8."
+  },
+
+  {
+    "instruction": "Explain ratios to a Grade 7 student.",
+    "input": "",
+    "output": "A ratio compares two quantities. For example, if there are 2 boys and 3 girls, the ratio of boys to girls is 2:3."
+  },
+  {
+    "instruction": "Solve: 2x + 7 = 19",
+    "input": "",
+    "output": "Step 1: Subtract 7 from both sides → 2x = 12. Step 2: Divide by 2 → x = 6."
+  },
+  {
+    "instruction": "Find the average of 10, 15, 20, and 25.",
+    "input": "",
+    "output": "Step 1: Add the numbers → 10 + 15 + 20 + 25 = 70. Step 2: Divide by 4 → 70 ÷ 4 = 17.5."
+  },
+  {
+    "instruction": "Explain speed, distance, and time relationship.",
+    "input": "",
+    "output": "Speed = Distance ÷ Time. It shows how fast an object moves over a certain distance."
+  },
+  {
+    "instruction": "Write a sentence using the past continuous tense.",
+    "input": "",
+    "output": "I was reading a book when the phone rang."
+  },
+  {
+    "instruction": "Correct this sentence: 'He do not like football.'",
+    "input": "",
+    "output": "Correct sentence: He does not like football."
+  },
+  {
+    "instruction": "Give synonyms for the word 'happy'.",
+    "input": "",
+    "output": "Synonyms for happy include joyful, cheerful, and glad."
+  },
+  {
+    "instruction": "Convert into reported speech: 'I am tired,' she said.",
+    "input": "",
+    "output": "She said that she was tired."
+  },
+  {
+    "instruction": "Explain separation of mixtures using filtration.",
+    "input": "",
+    "output": "Filtration is a method used to separate insoluble solids from liquids using a filter paper."
+  },
+  {
+    "instruction": "Differentiate between an element and a compound.",
+    "input": "",
+    "output": "An element is a pure substance made of one type of atom, while a compound is made of two or more elements chemically combined."
+  },
+  {
+    "instruction": "Name three states of matter and give examples.",
+    "input": "",
+    "output": "Solid (stone), liquid (water), and gas (oxygen)."
+  },
+  {
+    "instruction": "Describe the structure of a plant cell.",
+    "input": "",
+    "output": "A plant cell has a cell wall, cell membrane, cytoplasm, nucleus, chloroplasts, and a large vacuole."
+  },
+  {
+    "instruction": "State the function of white blood cells.",
+    "input": "",
+    "output": "White blood cells help protect the body against diseases and infections."
+  },
+  {
+    "instruction": "Explain nutrition in humans.",
+    "input": "",
+    "output": "Nutrition is the process by which organisms take in food and use it for growth, energy, and repair."
+  },
+  {
+    "instruction": "Translate to Kiswahili: 'We are learning science today.'",
+    "input": "",
+    "output": "Tunajifunza sayansi leo."
+  },
+  {
+    "instruction": "Explain the use of commas in a sentence.",
+    "input": "",
+    "output": "Commas are used to separate items in a list, show pauses, and separate clauses."
+  },
+  {
+    "instruction": "Give an example of a simple present tense sentence.",
+    "input": "",
+    "output": "She goes to school every day."
+  },
+  {
+    "instruction": "Solve: 5x = 45",
+    "input": "",
+    "output": "Step 1: Divide both sides by 5 → x = 9."
+  },
+  {
+    "instruction": "Explain percentages in daily life.",
+    "input": "",
+    "output": "Percentages are used to show parts of a whole, such as discounts in shops or exam scores."
+  },
+  {
+    "instruction": "State three methods of heat transfer.",
+    "input": "",
+    "output": "Conduction, convection, and radiation."
+  },
+  {
+    "instruction": "Define a solution in Chemistry.",
+    "input": "",
+    "output": "A solution is a mixture where a solute is dissolved in a solvent."
+  },
+  {
+    "instruction": "Explain classification of living organisms.",
+    "input": "",
+    "output": "Classification is the grouping of living organisms based on similarities and differences."
+  },
+  {
+    "instruction": "Write a Kiswahili sentence using a proverb (methali).",
+    "input": "",
+    "output": "Haraka haraka haina baraka."
+  },
+  {
+    "instruction": "Explain the function of the heart.",
+    "input": "",
+    "output": "The heart pumps blood throughout the body to supply oxygen and nutrients."
+  },
+  {
+    "instruction": "Solve: x² - 9 = 0",
+    "input": "",
+    "output": "Step 1: Factorize → (x - 3)(x + 3) = 0. Step 2: x = 3 or x = -3."
+  },
+  {
+    "instruction": "Explain the structure of the human digestive system.",
+    "input": "",
+    "output": "The digestive system includes the mouth, oesophagus, stomach, small intestine, large intestine, liver, and pancreas. It breaks down food into nutrients."
+  },
+  {
+    "instruction": "Define covalent bonding in Chemistry.",
+    "input": "",
+    "output": "Covalent bonding is the sharing of electrons between two non-metal atoms to achieve stability."
+  },
+  {
+    "instruction": "Write a composition opening paragraph about a school trip.",
+    "input": "",
+    "output": "Last term, our class went on an exciting school trip to a national park. We saw many wild animals and learned about conservation. It was a memorable experience."
+  },
+  {
+    "instruction": "Translate to Kiswahili: 'Science helps us understand the world.'",
+    "input": "",
+    "output": "Sayansi hutusaidia kuelewa ulimwengu."
+  },
+
+  {
+    "instruction": "State the functions of chloroplasts.",
+    "input": "",
+    "output": "Chloroplasts contain chlorophyll and are responsible for photosynthesis in plant cells."
+  },
+  {
+    "instruction": "Solve: 4(x - 2) = 20",
+    "input": "",
+    "output": "Step 1: Expand → 4x - 8 = 20. Step 2: Add 8 → 4x = 28. Step 3: x = 7."
+  },
+
+  {
+    "instruction": "Define ecosystem.",
+    "input": "",
+    "output": "An ecosystem is a community of living organisms interacting with non-living components in their environment."
+  },
+  {
+    "instruction": "Explain photosynthesis equation.",
+    "input": "",
+    "output": "6CO2 + 6H2O → C6H12O6 + 6O2. This shows carbon dioxide and water forming glucose and oxygen using sunlight."
+  },
+
+  {
+    "instruction": "Translate to English: 'Elimu ni silaha ya maisha.'",
+    "input": "",
+    "output": "Education is the weapon of life."
+  },
+
+  {
+    "instruction": "Solve: 3y + 4 = 2y + 9",
+    "input": "",
+    "output": "Step 1: Subtract 2y → y + 4 = 9. Step 2: Subtract 4 → y = 5."
+  },
+
+  {
+    "instruction": "State functions of the kidney.",
+    "input": "",
+    "output": "The kidney removes waste products from blood and regulates water and salt balance."
+  },
+  {
+    "instruction": "Write a short speech introducing yourself in English.",
+    "input": "",
+    "output": "Good morning. My name is a student from Kenya. I am hardworking and passionate about science and technology. I aim to achieve excellence in my studies."
+  },
+  {
+    "instruction": "Explain the role of the nervous system.",
+    "input": "",
+    "output": "The nervous system controls body activities by transmitting signals between the brain and different parts of the body."
+  },
+
+  {
+    "instruction": "Solve: 6x - 9 = 21",
+    "input": "",
+    "output": "Step 1: Add 9 to both sides → 6x = 30. Step 2: Divide by 6 → x = 5."
+  },
+  {
+    "instruction": "Explain the function of the mitochondrion in a cell.",
+    "input": "",
+    "output": "The mitochondrion is the powerhouse of the cell. It produces energy in the form of ATP through respiration."
+  },
+
+  {
+    "instruction": "Write a formal letter to the headteacher requesting permission to miss school.",
+    "input": "",
+    "output": "Dear Sir/Madam,\nI kindly request permission to be absent from school due to personal reasons. I will ensure I catch up on all missed work. Yours faithfully."
+  },
+  {
+    "instruction": "Translate to Kiswahili: 'Hard work leads to success.'",
+    "input": "",
+    "output": "Bidii huleta mafanikio."
+  },
+  {
+    "instruction": "Explain the difference between metals and non-metals.",
+    "input": "",
+    "output": "Metals are good conductors of heat and electricity and are malleable. Non-metals are poor conductors and are usually brittle."
+  },
+
+  {
+    "instruction": "Solve: (x/2) + 4 = 10",
+    "input": "",
+    "output": "Step 1: Subtract 4 → x/2 = 6. Step 2: Multiply by 2 → x = 12."
+  },
+  {
+    "instruction": "Explain the role of tenses in English grammar.",
+    "input": "",
+    "output": "Tenses show the time of an action: past, present, and future. They help communicate when events happen."
+  },
+  {
+    "instruction": "Define osmosis in Biology.",
+    "input": "",
+    "output": "Osmosis is the movement of water molecules from a dilute solution to a concentrated solution through a semi-permeable membrane."
+  },
+  {
+    "instruction": "Write a Kiswahili sentence using a simile (mfano).",
+    "input": "",
+    "output": "Alikimbia kama upepo."
+  },
+
+  {
+    "instruction": "Solve: 2x² - 8 = 0",
+    "input": "",
+    "output": "Step 1: Divide by 2 → x² - 4 = 0. Step 2: Factorize → (x - 2)(x + 2) = 0. Step 3: x = 2 or x = -2."
+  },
+  {
+    "instruction": "Explain the importance of agriculture in Kenya.",
+    "input": "",
+    "output": "Agriculture provides food, employment, raw materials, and contributes to Kenya’s economy."
+  },
+  {
+    "instruction": "Identify parts of speech in English.",
+    "input": "",
+    "output": "Parts of speech include noun, verb, adjective, adverb, pronoun, preposition, conjunction, and interjection."
+  },
+  {
+    "instruction": "Translate to English: 'Maji ni muhimu kwa maisha.'",
+    "input": "",
+    "output": "Water is important for life."
+  },
+  {
+    "instruction": "State functions of red blood cells.",
+    "input": "",
+    "output": "Red blood cells transport oxygen from the lungs to body tissues."
+  },
+  {
+    "instruction": "Explain ionic bonding.",
+    "input": "",
+    "output": "Ionic bonding is the transfer of electrons from a metal to a non-metal, forming positively and negatively charged ions."
+  },
+  {
+    "instruction": "Solve: 7x + 2 = 3x + 18",
+    "input": "",
+    "output": "Step 1: Subtract 3x → 4x + 2 = 18. Step 2: Subtract 2 → 4x = 16. Step 3: x = 4."
+  },
+  {
+    "instruction": "Write a short Kiswahili essay on importance of education.",
+    "input": "",
+    "output": "Elimu ni muhimu katika maisha ya binadamu. Inasaidia kupata maarifa, kazi nzuri, na kuleta maendeleo katika jamii."
+  },
+
+  {
+    "instruction": "Explain the concept of simultaneous equations to a Form 3 student.",
+    "input": "",
+    "output": "Simultaneous equations are two or more equations with the same variables solved at the same time. The solution satisfies all equations. Example: x + y = 5 and x - y = 1."
+  },
+  {
+    "instruction": "Solve: 2x + y = 10 and x + y = 7",
+    "input": "",
+    "output": "Step 1: Subtract second equation from first: (2x + y) - (x + y) = 10 - 7 → x = 3. Step 2: Substitute x = 3 into x + y = 7 → y = 4."
+  },
+  {
+    "instruction": "Teach the concept of cellular respiration to a Form 2 Biology student.",
+    "input": "",
+    "output": "Cellular respiration is the process where cells break down glucose to release energy. It occurs in mitochondria and produces ATP, carbon dioxide, and water."
+  },
+  {
+    "instruction": "Explain the difference between active and passive voice in English.",
+    "input": "",
+    "output": "In active voice, the subject performs the action (The teacher marked the exam). In passive voice, the subject receives the action (The exam was marked by the teacher)."
+  },
+  {
+    "instruction": "Translate to Kiswahili: 'The student completed the assignment on time.'",
+    "input": "",
+    "output": "Mwanafunzi alikamilisha kazi ya darasani kwa wakati."
+  },
+  {
+    "instruction": "Define electrolysis in Chemistry.",
+    "input": "",
+    "output": "Electrolysis is the process of using electricity to break down a compound into simpler substances."
+  },
+  {
+    "instruction": "Explain the causes of soil erosion.",
+    "input": "",
+    "output": "Soil erosion is caused by heavy rainfall, wind, deforestation, overgrazing, and poor farming practices."
+  },
+  {
+    "instruction": "Solve: x² + 7x + 12 = 0",
+    "input": "",
+    "output": "Step 1: Factorize → (x + 3)(x + 4) = 0. Step 2: x = -3 or x = -4."
+  },
+  {
+    "instruction": "Write a short paragraph describing your best friend.",
+    "input": "",
+    "output": "My best friend is kind, supportive, and hardworking. We study together and help each other in schoolwork. I value our friendship greatly."
+  },
+  {
+    "instruction": "Explain the structure of the human respiratory system.",
+    "input": "",
+    "output": "The respiratory system includes the nose, trachea, bronchi, and lungs. It helps in breathing and gas exchange."
+  },
+  {
+    "instruction": "State the uses of acids in daily life.",
+    "input": "",
+    "output": "Acids are used in batteries, food preservation, cleaning, and manufacturing fertilizers."
+  },
+  {
+    "instruction": "Solve: 3(x - 4) = 18",
+    "input": "",
+    "output": "Step 1: Expand → 3x - 12 = 18. Step 2: Add 12 → 3x = 30. Step 3: x = 10."
+  },
+  {
+    "instruction": "Explain the concept of synonyms and antonyms.",
+    "input": "",
+    "output": "Synonyms are words with similar meanings, like happy and joyful. Antonyms are words with opposite meanings, like hot and cold."
+  },
+  {
+    "instruction": "Translate to English: 'Watoto wanapaswa kusoma kwa bidii.'",
+    "input": "",
+    "output": "Children should study hard."
+  },
+  {
+    "instruction": "Define the term habitat in Biology.",
+    "input": "",
+    "output": "A habitat is the natural environment where an organism lives and obtains food, shelter, and water."
+  },
+
+  {
+    "instruction": "Solve: 5x² = 125",
+    "input": "",
+    "output": "Step 1: Divide by 5 → x² = 25. Step 2: x = 5 or x = -5."
+  },
+  {
+    "instruction": "Write a formal letter to a teacher thanking them for guidance.",
+    "input": "",
+    "output": "Dear Teacher,\nI would like to sincerely thank you for your guidance and support in my studies. Your teaching has greatly improved my understanding.\nYours faithfully."
+  },
+  {
+    "instruction": "Explain the importance of chlorophyll in plants.",
+    "input": "",
+    "output": "Chlorophyll traps sunlight energy used in photosynthesis to make food for plants."
+  },
+  {
+    "instruction": "State the differences between solids, liquids, and gases.",
+    "input": "",
+    "output": "Solids have fixed shape and volume, liquids have fixed volume but no fixed shape, gases have neither fixed shape nor volume."
+  },
+  {
+    "instruction": "Translate to Kiswahili: 'Hard work leads to success in exams.'",
+    "input": "",
+    "output": "Bidii huleta mafanikio katika mitihani."
+  },
+  {
+    "instruction": "Explain the role of punctuation marks in writing.",
+    "input": "",
+    "output": "Punctuation marks help clarify meaning, show pauses, and structure sentences correctly."
+  },
+  {
+    "instruction": "Solve: 4x - 3 = 2x + 9",
+    "input": "",
+    "output": "Step 1: Subtract 2x → 2x - 3 = 9. Step 2: Add 3 → 2x = 12. Step 3: x = 6."
+  },
+  {
+    "instruction": "Define osmosis and give one example.",
+    "input": "",
+    "output": "Osmosis is the movement of water through a semi-permeable membrane from a dilute to a concentrated solution. Example: water uptake by root hairs."
+  },
+  {
+    "instruction": "Explain the importance of revision before exams.",
+    "input": "",
+    "output": "Revision helps students remember content, understand concepts better, and improve exam performance."
+  },
+  {
+    "instruction": "Write a Kiswahili sentence using a metaphor (tashbihi ya kisasa).",
+    "input": "",
+    "output": "Moyo wake ni jiwe."
+  },
+  {
+    "instruction": "Solve: 2x + 3y = 12 and x + y = 5",
+    "input": "",
+    "output": "Step 1: From x + y = 5, x = 5 - y. Step 2: Substitute → 2(5 - y) + 3y = 12 → 10 - 2y + 3y = 12 → y = 2. Step 3: x = 3."
+  },
+  {
+    "instruction": "Explain the role of enzymes in digestion.",
+    "input": "",
+    "output": "Enzymes speed up chemical reactions during digestion by breaking down food into smaller absorbable molecules."
+  },
+  {
+    "instruction": "Define adverbs and give examples.",
+    "input": "",
+    "output": "Adverbs describe verbs, adjectives, or other adverbs. Examples include quickly, slowly, and beautifully."
+  },
+  {
+    "instruction": "Explain the structure of an atom.",
+    "input": "",
+    "output": "An atom consists of protons, neutrons in the nucleus, and electrons orbiting around the nucleus."
+  },
+  {
+    "instruction": "Solve: 9 - 3x = 0",
+    "input": "",
+    "output": "Step 1: 3x = 9. Step 2: x = 3."
+  },
+  {
+    "instruction": "Explain the importance of agriculture in Kenya.",
+    "input": "",
+    "output": "Agriculture provides food, employment, raw materials, and supports Kenya's economy."
+  },
+  {
+    "instruction": "Translate to English: 'Elimu ni msingi wa maisha bora.'",
+    "input": "",
+    "output": "Education is the foundation of a better life."
+  },
+  {
+    "instruction": "Explain the role of vaccines in health.",
+    "input": "",
+    "output": "Vaccines protect the body from diseases by stimulating immunity against specific pathogens."
+  },
+  {
+    "instruction": "Write a dialogue between a teacher and a student discussing exams.",
+    "input": "",
+    "output": "Teacher: How are your preparations? Student: I am revising daily. Teacher: Good, keep practicing past papers."
+  },
+  {
+    "instruction": "Define speed and give its formula.",
+    "input": "",
+    "output": "Speed is the distance covered per unit time. Formula: Speed = Distance ÷ Time."
+  },
+  {
+    "instruction": "Teach the concept of factorisation to a Form 2 student.",
+    "input": "",
+    "output": "Factorisation is the process of expressing an algebraic expression as a product of its factors. For example, x² + 5x + 6 can be written as (x + 2)(x + 3)."
+  },
+  {
+    "instruction": "Solve: x² - 16 = 0",
+    "input": "",
+    "output": "Step 1: Recognize difference of squares → (x - 4)(x + 4) = 0. Step 2: x = 4 or x = -4."
+  },
+  {
+    "instruction": "Explain the structure of a leaf in Biology.",
+    "input": "",
+    "output": "A leaf has the cuticle, upper epidermis, palisade layer, spongy mesophyll, vascular bundles, and lower epidermis with stomata for gas exchange."
+  },
+  {
+    "instruction": "Define transpiration in plants.",
+    "input": "",
+    "output": "Transpiration is the loss of water vapor from plant leaves through stomata."
+  },
+  {
+    "instruction": "Translate to Kiswahili: 'Students should revise regularly for exams.'",
+    "input": "",
+    "output": "Wanafunzi wanapaswa kufanya marudio mara kwa mara kwa mitihani."
+  },
+  {
+    "instruction": "Explain the difference between scalar and vector quantities.",
+    "input": "",
+    "output": "Scalar quantities have magnitude only, like mass and time. Vector quantities have both magnitude and direction, like force and velocity."
+  },
+  {
+    "instruction": "Solve: 3x + 7 = 22",
+    "input": "",
+    "output": "Step 1: Subtract 7 → 3x = 15. Step 2: Divide by 3 → x = 5."
+  },
+  {
+    "instruction": "Teach parts of speech in English grammar.",
+    "input": "",
+    "output": "Parts of speech include nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, and interjections."
+  },
+  {
+    "instruction": "Write a short composition about 'My Future Career'.",
+    "input": "",
+    "output": "My future career is to become a software engineer. I want to use technology to solve problems in society and improve lives through innovation."
+  },
+  {
+    "instruction": "Explain photosynthesis equation.",
+    "input": "",
+    "output": "6CO2 + 6H2O → C6H12O6 + 6O2. Plants use sunlight to convert carbon dioxide and water into glucose and oxygen."
+  },
+  {
+    "instruction": "Define acids and give two examples.",
+    "input": "",
+    "output": "Acids are substances that produce hydrogen ions in water. Examples include hydrochloric acid and sulfuric acid."
+  },
+  {
+    "instruction": "Solve: 2x + 5 = x + 9",
+    "input": "",
+    "output": "Step 1: Subtract x → x + 5 = 9. Step 2: Subtract 5 → x = 4."
+  },
+  {
+    "instruction": "Explain the water cycle.",
+    "input": "",
+    "output": "The water cycle involves evaporation, condensation, and precipitation, where water moves continuously on, above, and below Earth’s surface."
+  },
+  {
+    "instruction": "Translate to English: 'Elimu ni ufunguo wa maisha.'",
+    "input": "",
+    "output": "Education is the key to life."
+  },
+  {
+    "instruction": "Define velocity in Physics.",
+    "input": "",
+    "output": "Velocity is speed in a given direction."
+  },
+  {
+    "instruction": "Solve: 5x - 15 = 0",
+    "input": "",
+    "output": "Step 1: Add 15 → 5x = 15. Step 2: Divide by 5 → x = 3."
+  },
+  {
+    "instruction": "Explain the function of the nucleus in a cell.",
+    "input": "",
+    "output": "The nucleus controls all cell activities and contains genetic material (DNA)."
+  },
+  {
+    "instruction": "Write a dialogue in English between two students discussing homework.",
+    "input": "",
+    "output": "A: Have you finished your homework?\nB: Yes, I completed it yesterday.\nA: Can you help me with Mathematics?\nB: Sure, let's study together."
+  },
+  {
+    "instruction": "Define evaporation.",
+    "input": "",
+    "output": "Evaporation is the process where liquid changes into gas at the surface."
+  },
+  {
+    "instruction": "Explain the importance of agriculture in Kenya.",
+    "input": "",
+    "output": "Agriculture provides food, employment, raw materials, and contributes to Kenya’s economy."
+  },
+  {
+    "instruction": "Solve: x² + 6x + 9 = 0",
+    "input": "",
+    "output": "Step 1: Factorize → (x + 3)(x + 3) = 0. Step 2: x = -3."
+  },
+  {
+    "instruction": "Translate to Kiswahili: 'Hard work leads to success.'",
+    "input": "",
+    "output": "Bidii huleta mafanikio."
+  },
+  {
+    "instruction": "Explain the role of enzymes.",
+    "input": "",
+    "output": "Enzymes speed up chemical reactions in living organisms."
+  },
+  {
+    "instruction": "Define noun and give examples.",
+    "input": "",
+    "output": "A noun is a name of a person, place, or thing. Examples: Nairobi, teacher, book."
+  },
+  {
+    "instruction": "Solve: 4x + 8 = 24",
+    "input": "",
+    "output": "Step 1: Subtract 8 → 4x = 16. Step 2: Divide by 4 → x = 4."
+  },
+  {
+    "instruction": "Explain respiration in Biology.",
+    "input": "",
+    "output": "Respiration is the process where cells break down glucose to release energy."
+  },
+  {
+    "instruction": "Write a short paragraph about your school.",
+    "input": "",
+    "output": "My school is a place where I learn and grow. Teachers guide us well and we work hard to achieve success."
+  },
+  {
+    "instruction": "Define osmosis.",
+    "input": "",
+    "output": "Osmosis is the movement of water molecules through a semi-permeable membrane from a dilute solution to a concentrated one."
+  },
+  {
+    "instruction": "Solve: 2x² = 18",
+    "input": "",
+    "output": "Step 1: Divide by 2 → x² = 9. Step 2: x = 3 or x = -3."
+  },
+  {
+    "instruction": "Translate to English: 'Watoto wanapaswa kusoma kwa bidii.'",
+    "input": "",
+    "output": "Children should study hard."
+  },
+  {
+    "instruction": "Explain metals and non-metals.",
+    "input": "",
+    "output": "Metals conduct heat and electricity well, while non-metals do not."
+  },
+  {
+    "instruction": "Define ecosystem.",
+    "input": "",
+    "output": "An ecosystem is a community of organisms interacting with their environment."
+  },
+  {
+    "instruction": "Solve: 3x - 6 = 12",
+    "input": "",
+    "output": "Step 1: Add 6 → 3x = 18. Step 2: Divide by 3 → x = 6."
+  },
+  {
+    "instruction": "Explain synonyms and antonyms.",
+    "input": "",
+    "output": "Synonyms are words with similar meanings, while antonyms are words with opposite meanings."
+  },
+  {
+    "instruction": "Define ion in Chemistry.",
+    "input": "",
+    "output": "An ion is an atom or group of atoms with a positive or negative charge."
+  },
+  {
+    "instruction": "Write a Kiswahili sentence using a proverb.",
+    "input": "",
+    "output": "Mvumilivu hula mbivu."
+  },
+  {
+    "instruction": "Explain the function of the heart.",
+    "input": "",
+    "output": "The heart pumps blood throughout the body."
+  },
+  {
+    "instruction": "Solve: 6x = 42",
+    "input": "",
+    "output": "Step 1: Divide by 6 → x = 7."
+  },
+  {
+    "instruction": "Explain the structure of DNA.",
+    "input": "",
+    "output": "DNA is a double helix structure that carries genetic information in cells."
+  },
+  {
+    "instruction": "Define speed.",
+    "input": "",
+    "output": "Speed is distance divided by time."
+  }, 
+  {
+    "instruction": "Explain the concept of linear inequalities to a Form 2 student.",
+    "input": "",
+    "output": "A linear inequality is a mathematical statement that compares two expressions using symbols like <, >, ≤, or ≥. For example, 2x + 3 > 7 means x can take values that make the expression greater than 7."
+  },
+  {
+    "instruction": "Solve: 5x - 7 = 18",
+    "input": "",
+    "output": "Step 1: Add 7 to both sides → 5x = 25. Step 2: Divide by 5 → x = 5."
+  },
+  {
+    "instruction": "Explain the role of a thesis statement in an English essay.",
+    "input": "",
+    "output": "A thesis statement is the main idea of an essay. It appears in the introduction and guides the reader on what the essay will discuss."
+  },
+  {
+    "instruction": "Correct the sentence: 'They was playing football.'",
+    "input": "",
+    "output": "Correct sentence: They were playing football."
+  },
+  {
+    "instruction": "Translate to Kiswahili: 'The farmer is harvesting maize.'",
+    "input": "",
+    "output": "Mkulima anavuna mahindi."
+  },
+  {
+    "instruction": "Explain the use of 'imekuwa' in Kiswahili grammar.",
+    "input": "",
+    "output": "'Imeekuwa' is used to show completed actions in recent past. For example, 'Maji yamekuwa baridi' means the water has become cold."
+  },
+  {
+    "instruction": "Define mole concept in Chemistry.",
+    "input": "",
+    "output": "The mole concept is a way of measuring the amount of substance. One mole contains 6.02 × 10^23 particles."
+  },
+  {
+    "instruction": "State two differences between acids and bases.",
+    "input": "",
+    "output": "Acids produce hydrogen ions while bases produce hydroxide ions. Acids turn blue litmus red while bases turn red litmus blue."
+  },
+  {
+    "instruction": "Explain the process of transpiration in plants.",
+    "input": "",
+    "output": "Transpiration is the loss of water vapor from leaves through stomata. It helps in cooling the plant and transporting water."
+  },
+  {
+    "instruction": "Name three types of blood vessels.",
+    "input": "",
+    "output": "Arteries, veins, and capillaries."
+  },
+  {
+    "instruction": "Write a composition about 'A Memorable Day at School'.",
+    "input": "",
+    "output": "One of my most memorable days at school was during sports day. I participated in a relay race and my team won. It was exciting and joyful."
+  },
+  {
+    "instruction": "Explain subject-verb agreement in English.",
+    "input": "",
+    "output": "Subject-verb agreement means the verb must agree with the subject. For example, 'She plays football' is correct, not 'She play football'."
+  },
+  {
+    "instruction": "Translate to English: 'Wanafunzi wanapaswa kuheshimu walimu.'",
+    "input": "",
+    "output": "Students should respect teachers."
+  },
+  {
+    "instruction": "Solve: 2x + 9 = 25",
+    "input": "",
+    "output": "Step 1: Subtract 9 → 2x = 16. Step 2: Divide by 2 → x = 8."
+  },
+  {
+    "instruction": "Explain the difference between mixture and compound.",
+    "input": "",
+    "output": "A mixture is physically combined substances that can be separated easily, while a compound is chemically combined and cannot be separated physically."
+  },
+  {
+    "instruction": "State the functions of the liver.",
+    "input": "",
+    "output": "The liver detoxifies harmful substances, produces bile, and stores nutrients."
+  },
+  {
+    "instruction": "Define quadratic expression.",
+    "input": "",
+    "output": "A quadratic expression is an algebraic expression where the highest power of the variable is 2, such as x² + 3x + 2."
+  },
+  {
+    "instruction": "Explain the role of adjectives in English.",
+    "input": "",
+    "output": "Adjectives describe nouns by giving more information such as size, color, or quality. Example: a beautiful flower."
+  },
+  {
+    "instruction": "Translate to Kiswahili: 'She is reading a book.'",
+    "input": "",
+    "output": "Anasoma kitabu."
+  },
+  {
+    "instruction": "Explain the structure of a flower.",
+    "input": "",
+    "output": "A flower consists of petals, sepals, stamens (male part), and pistil (female part)."
+  },
+  {
+    "instruction": "Solve: x² - 25 = 0",
+    "input": "",
+    "output": "Step 1: Factorize → (x - 5)(x + 5) = 0. Step 2: x = 5 or x = -5."
+  },
+  {
+    "instruction": "Explain the importance of teamwork in school.",
+    "input": "",
+    "output": "Teamwork helps students share ideas, solve problems together, and achieve better results."
+  },
+  {
+    "instruction": "Define ionic compounds.",
+    "input": "",
+    "output": "Ionic compounds are substances formed when electrons are transferred between metals and non-metals."
+  },
+  {
+    "instruction": "Write a Kiswahili sentence using the word 'maendeleo'.",
+    "input": "",
+    "output": "Elimu ni msingi wa maendeleo ya nchi."
+  },
+  {
+    "instruction": "Explain the function of chlorophyll.",
+    "input": "",
+    "output": "Chlorophyll absorbs sunlight needed for photosynthesis in plants."
+  } 
 ]
