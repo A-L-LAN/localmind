@@ -121,12 +121,6 @@
   },
 
   {
-    "instruction": "Explain electricity to a beginner Physics student.",
-    "input": "",
-    "output": "Electricity is the movement of electric charges. It powers devices like phones, bulbs, and televisions."
-  },
-
-  {
     "instruction": "Mark this Mathematics answer using KCSE standards.",
     "input": "Student Answer: x² + 4x + 4 = (x + 2)",
     "output": "Score: 2/5. Feedback: The student partially understands factorization but missed the square. Correct answer: (x + 2)²."
@@ -169,28 +163,11 @@
   },
 
   {
-    "instruction": "Explain pressure in Physics.",
-    "input": "Form 2 level",
-    "output": "Pressure is the force applied per unit area. Example: A sharp knife cuts easily because force is concentrated in a small area."
-  },
-
-  {
-    "instruction": "Teach the water cycle to a beginner student.",
-    "input": "",
-    "output": "The water cycle is the movement of water around Earth through evaporation, condensation, and rainfall."
-  },
-
-  {
     "instruction": "Generate KCSE Biology revision questions on digestion.",
     "input": "",
     "output": "1. Define digestion.\n2. Name enzymes involved in digestion.\n3. State the role of the stomach.\n4. Explain absorption in the small intestine."
   },
 
-  {
-    "instruction": "Explain computer hardware to a beginner.",
-    "input": "",
-    "output": "Computer hardware refers to the physical parts of a computer such as the monitor, keyboard, mouse, and processor."
-  },
 
   {
     "instruction": "Teach simple interest in Mathematics.",
@@ -202,18 +179,6 @@
     "instruction": "Mark this English composition.",
     "input": "The boy go to school every day.",
     "output": "Score: 3/5. Feedback: Grammar mistake detected. Correct sentence: 'The boy goes to school every day.'"
-  },
-
-  {
-    "instruction": "Explain democracy to a History student.",
-    "input": "",
-    "output": "Democracy is a system of government where leaders are chosen by citizens through voting."
-  },
-
-  {
-    "instruction": "Generate 3 Geography questions about climate.",
-    "input": "",
-    "output": "1. Define climate.\n2. State factors affecting climate.\n3. Explain how altitude affects temperature."
   },
 
   {
@@ -241,12 +206,6 @@
   },
 
   {
-    "instruction": "Teach keyboard shortcuts to a computer studies beginner.",
-    "input": "",
-    "output": "Ctrl + C copies text. Ctrl + V pastes text. Ctrl + S saves work."
-  },
-
-  {
     "instruction": "Explain respiration in Biology.",
     "input": "",
     "output": "Respiration is the process where cells release energy from food."
@@ -256,12 +215,6 @@
     "instruction": "Teach linear equations to Form 1 students.",
     "input": "",
     "output": "A linear equation is an equation where the highest power is 1. Example: 2x + 3 = 7."
-  },
-
-  {
-    "instruction": "Explain friction in Physics.",
-    "input": "",
-    "output": "Friction is the force that opposes motion between surfaces in contact."
   },
 
   {
