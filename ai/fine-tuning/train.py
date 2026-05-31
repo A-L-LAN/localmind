@@ -10,7 +10,7 @@ import torch
 
 MAX_SEQ_LENGTH = 2048
 
-MODEL_NAME = "google/gemma-4-e4b-it"
+MODEL_NAME = "unsloth/gemma-3-4b-it"
 # Switch to Gemma 3 if Unsloth does not support Gemma 4:
 # MODEL_NAME = "google/gemma-4-e4b-it"
 
