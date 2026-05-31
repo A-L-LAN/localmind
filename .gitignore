@@ -39,3 +39,26 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# AI models (VERY IMPORTANT)
+ai/models/
+*.safetensors
+*.gguf
+*.bin
+
+# Unsloth / ML caches
+unsloth_compiled_cache/
+
+# Node (extra safety if backend is separate)
+backend/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
