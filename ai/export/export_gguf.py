@@ -1,24 +1,31 @@
 import os
+import sys
 import subprocess
 
 # ======================================================
 # Paths
 # ======================================================
 
-BASE_DIR = os.path.dirname(
-    os.path.abspath(__file__)
-)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 MODEL_PATH = os.path.abspath(
-    "../models/eduweave-gemma"
+    os.path.join(BASE_DIR, "../models/gemma4")
 )
 
+if not os.path.exists(os.path.join(MODEL_PATH, "config.json")):
+    print("❌ config.json missing — wrong model folder")
+    exit()
+
+if not os.path.exists(os.path.join(MODEL_PATH, "model.safetensors")):
+    print("❌ model.safetensors missing — incomplete model")
+    exit()
+
 OUTPUT_PATH = os.path.abspath(
-    "../gguf_models/eduweave-gemma.gguf"
+    os.path.join(BASE_DIR, "../gguf_models/eduweave-gemma-f16.gguf")
 )
 
 LLAMA_CPP_PATH = os.path.abspath(
-    "../llama.cpp"
+    os.path.join(BASE_DIR, "../llama.cpp")
 )
 
 CONVERT_SCRIPT = os.path.join(
@@ -32,43 +39,73 @@ CONVERT_SCRIPT = os.path.join(
 
 def export_to_gguf():
 
-    print("🚀 Exporting model to GGUF...")
-    print(f"Model: {MODEL_PATH}")
+    print("=" * 60)
+    print("🚀 Exporting model to GGUF")
+    print("=" * 60)
+
+    print(f"Python      : {sys.executable}")
+    print(f"Model Path  : {MODEL_PATH}")
+    print(f"Output Path : {OUTPUT_PATH}")
+    print(f"Converter   : {CONVERT_SCRIPT}")
+    print()
+
+    # Verify paths exist
+    if not os.path.exists(MODEL_PATH):
+        print(f"❌ Model folder not found:\n{MODEL_PATH}")
+        return
+
+    if not os.path.exists(CONVERT_SCRIPT):
+        print(f"❌ convert_hf_to_gguf.py not found:\n{CONVERT_SCRIPT}")
+        return
+
+    # Create output directory if needed
+    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
 
     command = [
-        "python",
+        sys.executable,
         CONVERT_SCRIPT,
-
         MODEL_PATH,
-
         "--outfile",
         OUTPUT_PATH,
-
         "--outtype",
-        "q4_k_m"
+        "f16"
     ]
 
-    result = subprocess.run(
-        command,
-        capture_output=True,
-        text=True
-    )
+    print("Running command:")
+    print(" ".join(command))
+    print()
 
-    if result.returncode == 0:
-
-        print("✅ GGUF export complete!")
-        print(
-            f"Saved to:\n{OUTPUT_PATH}"
+    try:
+        result = subprocess.run(
+            command,
+            capture_output=True,
+            text=True,
+            cwd=LLAMA_CPP_PATH
         )
 
-    else:
+        if result.stdout:
+            print("STDOUT:")
+            print(result.stdout)
 
-        print("❌ Export failed")
-        print(result.stderr)
+        if result.returncode == 0:
+            print()
+            print("✅ GGUF export completed successfully!")
+            print(f"Saved to:\n{OUTPUT_PATH}")
+
+        else:
+            print()
+            print("❌ Export failed")
+            print("STDERR:")
+            print(result.stderr)
+
+    except Exception as e:
+        print()
+        print("❌ Unexpected error")
+        print(str(e))
 
 
 # ======================================================
-# Run
+# Main
 # ======================================================
 
 if __name__ == "__main__":
