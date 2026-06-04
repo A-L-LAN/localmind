@@ -14,7 +14,7 @@ const OLLAMA_BASE_URL =
 
 const DEFAULT_MODEL =
     process.env.GEMMA_MODEL ||
-    "gemma4:e4b-it";
+    "gemma4:latest";
 
 const REQUEST_TIMEOUT =
     1000 * 60 * 5; // 5 minutes
