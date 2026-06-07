@@ -19,7 +19,7 @@ model = AutoModelForCausalLM.from_pretrained(
     torch_dtype="auto"
 )
 
-save_path = "./ai/models/gemma4"
+save_path = "./ai/models/gemma4WithNoAssist"
 
 print("Saving locally...")
 
